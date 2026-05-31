@@ -1,0 +1,26 @@
+bookmarks = {
+	bookmark = {
+		name = TBR_bookmark_name
+		desc = TBR_bookmark_desc
+		date = 1936.1.1
+		picture = GFX_bookmark_gfx
+		default_country = ANI
+		default = yes
+		effect = {
+			randomize_weather = 12345
+		}
+		"ANI" = {
+			history = TBR_ANI_HISTORY_DESC
+			ideology = democracy
+			ideas = {
+				# Add
+			}
+			focuses = {
+				# Add
+			}
+		}
+		"---" = {
+			history = TBR_OTHER_HISTORY_DESC
+		}
+	}
+}

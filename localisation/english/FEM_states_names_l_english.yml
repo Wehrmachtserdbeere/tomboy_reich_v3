@@ -1,0 +1,123 @@
+﻿l_english:
+
+  # Belgium
+  FEM_STATE_6: "Flandern" # Vlaanderen
+  FEM_STATE_977: "Antorf" # Antwerpen
+  FEM_STATE_34: "Wallon'" # Wallonie
+  FEM_STATE_980: "Ardenn'" # Ardennes
+
+  # Luxembourg
+  FEM_STATE_8: "Luxmbuag" # Luxembourg
+
+  # Netherlands
+  FEM_STATE_35: "Noad-Braband" # Brabant
+  FEM_STATE_7: "Holland" # Holland
+  FEM_STATE_36: "Frisland" # Friesland
+  
+  # France
+  FEM_STATE_29: "Noadkaln" # Nord-Pas-De-Calais
+  FEM_STATE_785: "Picardie" # Picardy
+  FEM_STATE_18: "Champagne-Ardenn'" # Champagne
+  FEM_STATE_28: "Elsaß-Lothringa" # Alsace-Lorraine
+  FEM_STATE_17: "Buagund" # Franche-Comte
+  FEM_STATE_27: "Weschd-Buagund" # Bourgogne
+  FEM_STATE_24: "Zendrum-Loiretal" # Centre
+  FEM_STATE_16: "Agglomeration Paris" # Île De France
+  FEM_STATE_15: "Normandie" # Normandy
+  FEM_STATE_30: "Lorelei" # Loire
+  FEM_STATE_14: "Kleinbriten" # Brittany
+  FEM_STATE_735: "Sawoin" # Savoy
+  FEM_STATE_851: "Var" # Var
+  FEM_STATE_21: "Rhonemünd" # Bouches-du-Rhône
+  FEM_STATE_32: "Drom" # Alpes
+  FEM_STATE_20: "Rhonland" # Rhone
+  FEM_STATE_26: "Allier" # Auvergne
+  FEM_STATE_22: "Plieraland" # Languedoc
+  FEM_STATE_33: "Raouler Indre" # Centre-Sud
+  FEM_STATE_25: "Lemosin" # Limousin
+  FEM_STATE_31: "Ozitanien" # Midi Pyrenees
+  FEM_STATE_23: "Piktavien" # Poitou
+  FEM_STATE_19: "Aquitanien" # Aquitaine
+  FEM_STATE_806: "Atlantsche Pyrenän" # Pyrénées-Atlantiques
+
+  # Germany
+  FEM_STATE_42: "Pfalz" # Moselland
+  FEM_STATE_51: "Rheinland" # Rhineland
+  FEM_STATE_55: "Hessn" # Hessen
+  FEM_STATE_57: "Weschdfalen" # Westfalen
+  FEM_STATE_56: "Weser-Ems" # Weser-Ems
+  
+  # English States
+  FEM_STATE_127: "Siadsachsa" # Sussex
+  FEM_STATE_126: "Großlunda" # Greater London Area
+  FEM_STATE_125: "Oschdangeln" # East Anglia
+  FEM_STATE_129: "Oschdland" # East Midlands
+  FEM_STATE_130: "Aibasland" # Yorkshire
+  FEM_STATE_123: "Kärntwall" # South-West England
+  FEM_STATE_338: "Karolai" # Gloucestershire
+  FEM_STATE_128: "Weschdlande" # West Midlands
+  FEM_STATE_132: "Lankan" # Lancashire
+  FEM_STATE_931: "Kumberland" # Cumbria
+  FEM_STATE_131: "Noadhumman" # Northumberland
+  FEM_STATE_122: "Walln" # Wales
+  FEM_STATE_121: "Lotien" # Lothian
+  FEM_STATE_133: "Lananarchsland" # Lanark
+  FEM_STATE_136: "Abbasland" # Aberdeenshire
+  FEM_STATE_120: "Schottnhochland" # Scottish Highlands
+  FEM_STATE_933: "Schettland" # Shetland Islands
+  FEM_STATE_932: "Mennainsel" # Isle of Man
+  FEM_STATE_119: "Ulschter" # Northern Ireland
+  FEM_STATE_134: "Konnach" # Connaught
+  FEM_STATE_113: "Lainsbuag" # Leinester
+  FEM_STATE_135: "Irisch Münschder" # Munster
+
+
+
+
+  # Various other States
+
+  # USA
+  FEM_STATE_367: "Älabäma" # Alabama
+  FEM_STATE_463: "Schneewittchen-Land" # Alaska
+  FEM_STATE_377: "Wüschdnland" # Arizona
+  FEM_STATE_372: "Akänsis" # Arkansas
+  FEM_STATE_378: "Kalli" # California
+  FEM_STATE_382: "Kolorado" # Colorado
+  FEM_STATE_366: "Neu-Bayern" # Florida
+  FEM_STATE_365: "Misato-Lendle" # Georgia
+  FEM_STATE_629: "Hawaii" # Hawaii
+  FEM_STATE_387: "Iddenland" # Idaho
+  FEM_STATE_395: "Eller-Neu" # Illinois
+  FEM_STATE_396: "Indien" # Indiana
+  FEM_STATE_392: "Jauer" # Iowa
+  FEM_STATE_383: "Känso" # Kansas
+  FEM_STATE_369: "Goggl-Land" # Kentucky
+  FEM_STATE_371: "Luis-Land" # Louisiana
+  FEM_STATE_361: "Heilige-Maria-Land" # Maryland
+  FEM_STATE_393: "Michi-Land" # Michigan
+  FEM_STATE_391: "Mini Soda" # Minnessota
+  FEM_STATE_370: "Sippi" # Mississippi
+  FEM_STATE_373: "Misserei" # Missouri
+  FEM_STATE_388: "Montagsland" # Montana
+  FEM_STATE_384: "Neu-Baschka" # Nebraska
+  FEM_STATE_379: "Neu-Baden" # Nevada
+  FEM_STATE_357: "Neu-Wüttembeag" # New England
+  FEM_STATE_359: "Neu-Mincha" # New Jersey
+  FEM_STATE_376: "Kleinmexiko" # New Mexico
+  FEM_STATE_358: "Neu-Augschbuag" # New York
+  FEM_STATE_363: "Nord Karolinenland" # North Carolina
+  FEM_STATE_389: "Nord Dachausland" # North Dakota
+  FEM_STATE_261: "Ohaio" # Ohio
+  FEM_STATE_374: "Onkel-Oma Land" # Oklahoma
+  FEM_STATE_385: "Orgeln" # Oregon
+  FEM_STATE_360: "Pensilwanien" # Pennsylvania 
+  FEM_STATE_364: "Siad Karolinenland" # South Carolina 
+  FEM_STATE_390: "Siad Dachausland" # South Dakota
+  FEM_STATE_368: "Tannensee" # Tennessee
+  FEM_STATE_375: "Neu-Preußn" # Texas
+  FEM_STATE_380: "Utah" # Utah
+  FEM_STATE_362: "Jungfrausland" # Virginia
+  FEM_STATE_386: "Ludwig" # Washington
+  FEM_STATE_816: "Weschd-Jungfrausland" # West Virginia
+  FEM_STATE_394: "Wiser Cousin" # Wisconsin
+  FEM_STATE_381: "Weier Ming" # Wyoming

@@ -1,0 +1,4 @@
+ANI = "countries/Anime_Empire.txt"
+TOM = "countries/Tomboy.txt"
+FEM = "countries/Femboy.txt"
+NAT = "countries/New_Jersey.txt"

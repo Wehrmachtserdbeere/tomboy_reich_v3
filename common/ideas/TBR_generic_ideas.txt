@@ -1,0 +1,73 @@
+ideas = {
+
+	# General ideas are put here.
+	country = {
+
+		TBR_IDEA_COUNTRY_anime_people = {
+			name = TBR_IDEA_COUNTRY_anime_people
+
+			allowed = {
+				always = no
+				NOT = {
+					has_idea = TBR_IDEA_COUNTRY_human_people
+				}
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				anti_anime_reactionism_drift = -1
+			}
+
+		}
+
+		TBR_IDEA_COUNTRY_human_people = {
+			name = TBR_IDEA_COUNTRY_human_people
+
+			allowed = {
+				always = no
+				NOT = {
+					has_idea = TBR_IDEA_COUNTRY_anime_people
+				}
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+
+			modifier = {
+				pro_anime_reactionism_drift = -1
+			}
+		}
+
+		TBR_IDEA_COUNTRY_mixed_people = {
+			name = TBR_IDEA_COUNTRY_mixed_people
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			
+
+			modifier = {
+				stability_factor = -0.25
+			}
+		}
+
+	}
+	
+}

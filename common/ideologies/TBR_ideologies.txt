@@ -1,0 +1,343 @@
+ideologies = {
+
+	democratic = {
+
+		types = {
+
+			# Free Conservatism
+			# Think: Modern American Conservatism.
+			free_conservatism = {}
+
+			# Traditionalism
+			# Think: "Grand 'ol Conservatism" according to Americans
+			traditionalism = {}
+
+			# Liberalism
+			# Think: Modern Germany
+			liberalism = {}
+
+			# Democratic Socialism
+			# Think: Modern Germany under the Greens
+			democratic_socialism = {}
+
+		}
+
+		dynamic_faction_names = {
+			"TBR_FACTION_NAME_GENERIC_DEMOCRATIC_1"
+			"TBR_FACTION_NAME_GENERIC_DEMOCRATIC_2"
+			"TBR_FACTION_NAME_GENERIC_DEMOCRATIC_3"
+			"TBR_FACTION_NAME_GENERIC_DEMOCRATIC_4"
+			"TBR_FACTION_NAME_GENERIC_DEMOCRATIC_5"
+		}
+
+		color = { 0 0 255 }
+
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+			can_boost_own_ideology = yes
+			can_boost_other_ideologies = yes
+		}
+
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.1
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.75
+			lend_lease_tension = 0.25
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50
+		}
+
+		ai_democratic = yes
+		ai_ideology_wanted_units_factor = 1.10 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
+
+		ai_give_core_state_control_threshold = 0
+
+	}
+
+	communism = {
+
+		types = {
+			
+			# Third Worldism
+			# Basically soft-Duginism.
+			third_worldism = {}
+
+			# Marxism
+			# Think: What people thought Marx wanted
+			marxism = {}
+
+			# Minaism
+			# Refer to "characters/ANI.txt" and search for "ANI_LEADER_KAGANE_MINA"
+			minaism = {
+				can_be_randomly_selected = no
+			}
+
+			# Anarcho-Communism
+			# Think: Reddit
+			anarcho_communism = {
+				can_be_randomly_selected = no
+			}
+
+		}
+
+		dynamic_faction_names = {
+			"TBR_FACTION_NAME_GENERIC_COMMUNIST_1"
+			"TBR_FACTION_NAME_GENERIC_COMMUNIST_2"
+			"TBR_FACTION_NAME_GENERIC_COMMUNIST_3"
+			"TBR_FACTION_NAME_GENERIC_COMMUNIST_4"
+			"TBR_FACTION_NAME_GENERIC_COMMUNIST_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_boost_own_ideology = yes
+			can_use_kamikaze_pilots = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+			lend_lease_tension = 0.50
+		}
+
+		faction_modifiers = {
+
+		}
+
+		ai_give_core_state_control_threshold = 10
+
+	}
+
+	pro_anime_reactionism = {
+
+		types = {
+
+			# Nazism
+			# Think: National Socialist Germany
+			pa_nazism = {}
+
+			# Fascism
+			# Think: Fascist Italy
+			pa_fascism = {}
+
+			# Ultranationalism
+			# Think: Modern Ultranationalism
+			pa_ultranationalism = {}
+
+			pa_anime_supremacy = {}
+
+			# Accelerationism
+			# Think: Atomwaffen Division, O9A, etc.
+			pa_accelerationism = {
+				can_be_randomly_selected = no
+			}
+
+		}
+
+		dynamic_faction_names = {
+			"TBR_FACTION_NAME_GENERIC_PA_REACTIONISM_1"
+			"TBR_FACTION_NAME_GENERIC_PA_REACTIONISM_2"
+			"TBR_FACTION_NAME_GENERIC_PA_REACTIONISM_3"
+			"TBR_FACTION_NAME_GENERIC_PA_REACTIONISM_4"
+			"TBR_FACTION_NAME_GENERIC_PA_REACTIONISM_5"
+		}
+
+		color = { 0 150 0 }
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		ai_fascist = yes
+		ai_ideology_wanted_units_factor = 1.65
+
+		ai_give_core_state_control_threshold = 10000
+
+	}
+
+	anti_anime_reactionism = {
+
+		types = {
+			
+			aa_nazism = {}
+
+			aa_fascism = {}
+
+			aa_ultranationalism = {}
+
+			aa_human_supremacy = {}
+
+			aa_accelerationism = {
+				can_be_randomly_selected = no
+			}
+
+		}
+
+		dynamic_faction_names = {
+			"TBR_FACTION_NAME_GENERIC_AA_REACTIONISM_1"
+			"TBR_FACTION_NAME_GENERIC_AA_REACTIONISM_2"
+			"TBR_FACTION_NAME_GENERIC_AA_REACTIONISM_3"
+			"TBR_FACTION_NAME_GENERIC_AA_REACTIONISM_4"
+			"TBR_FACTION_NAME_GENERIC_AA_REACTIONISM_5"
+		}
+
+		color = { 150 150 0 }
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		ai_fascist = yes
+		ai_ideology_wanted_units_factor = 1.65
+
+		ai_give_core_state_control_threshold = 10000
+
+	}
+
+	neutrality = {
+
+		types = {
+
+			despotism = {}
+
+			oligarchism = {}
+
+			isolationism = {}
+
+			centrism = {}
+
+			monarchism = {}
+
+			# Anime Empire Imperialism
+			ani_imperialism = {
+				can_be_randomly_selected = no
+			}
+
+			# Failed State
+			# Think: Any Sub-Saharan African nation, basically.
+			failed_state = {
+				can_be_randomly_selected = no
+			}
+
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 124 124 124 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+
+		modifiers = {
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+
+	}
+
+}

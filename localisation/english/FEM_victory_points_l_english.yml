@@ -1,0 +1,121 @@
+﻿l_english:
+  # Belgian Cities
+  FEM_VICTORY_POINTS_3576: "Koatrig" # Kortrijk
+  FEM_VICTORY_POINTS_6560: "Gend" # Gent (Standard)
+  FEM_VICTORY_POINTS_516: "Brissl" # Brussels
+  FEM_VICTORY_POINTS_6598: "Andoaf" # Antwerpen
+  FEM_VICTORY_POINTS_13068: "Löwa" # Leuven
+  FEM_VICTORY_POINTS_9536: "Kanoi" # Charleroi
+  FEM_VICTORY_POINTS_3516: "Namia" # Namur
+  FEM_VICTORY_POINTS_9418: "Arel" # Arlon
+
+  # Luxembourg
+  FEM_VICTORY_POINTS_6583: "Luxmbuag" # Luxembourg
+
+  # Dutch Cities
+  FEM_VICTORY_POINTS_3262: "Braida" # Breda
+  FEM_VICTORY_POINTS_6496: "Endhofn" # Eindhoven
+  FEM_VICTORY_POINTS_11562: "Maaschdadt" # Maastricht
+  FEM_VICTORY_POINTS_9498: "Roddadamm" # Rotterdam
+  FEM_VICTORY_POINTS_3211: "'S Grafn Hag" # The Hague
+  FEM_VICTORY_POINTS_391: "Amsldamm" # Amsterdam
+  FEM_VICTORY_POINTS_6241: "Oafrecht" # Utrecht
+  FEM_VICTORY_POINTS_9363: "Anhoam" # Arnhem
+  FEM_VICTORY_POINTS_6336: "Leuwadn" # Leeuwarden
+  FEM_VICTORY_POINTS_9335: "Greninga" # Groningen
+
+  # German Cities (Unchanged)
+  FEM_VICTORY_POINTS_241: "Wilhelmshova" # Wilhelmshaven
+  FEM_VICTORY_POINTS_11388: "Minschder" # Münster
+  FEM_VICTORY_POINTS_495: "Doadmund" # Dortmund
+  FEM_VICTORY_POINTS_564: "Kassl" # Kassel
+  FEM_VICTORY_POINTS_6488: "Frankfuad" # Frankfurt
+  FEM_VICTORY_POINTS_6444: "Wisbadn" # Wiesbaden
+  FEM_VICTORY_POINTS_11560: "Mains" # Mainz
+  FEM_VICTORY_POINTS_6469: "Essn" # Essen
+  FEM_VICTORY_POINTS_587: "Keln" # Köln
+  FEM_VICTORY_POINTS_9575: "Tria" # Trier
+  FEM_VICTORY_POINTS_11531: "Saarbrigga" # Saarbrücken
+
+  # French Cities
+  FEM_VICTORY_POINTS_9559: "Meds" # Metz
+  FEM_VICTORY_POINTS_9503: "Straßbuag" # Strasbourg
+  FEM_VICTORY_POINTS_678: "Mialhausa" # Mulhouse
+  FEM_VICTORY_POINTS_11516: "Nanzig" # Nancy
+  FEM_VICTORY_POINTS_9642: "Bisands" # Besancon
+  FEM_VICTORY_POINTS_3560: "Sednsi" # Sedan
+  FEM_VICTORY_POINTS_13011: "Reims" # Reims
+  FEM_VICTORY_POINTS_9490: "Trikassenschdadt" # Troyes
+  FEM_VICTORY_POINTS_3652: "Dianz" # Dijon
+  FEM_VICTORY_POINTS_11483: "Roisl" # Lille
+  FEM_VICTORY_POINTS_575: "Dinkiacha" # Dunkerque
+  FEM_VICTORY_POINTS_11548: "Kala" # Calais
+  FEM_VICTORY_POINTS_11420: "Ambia" # Amiens
+  FEM_VICTORY_POINTS_11506: "Lutezi'n" # Paris
+  FEM_VICTORY_POINTS_512: "Zenabum" # Orleans
+  FEM_VICTORY_POINTS_3671: "Turo" # Tours
+  FEM_VICTORY_POINTS_485: "Diaf" # Dieppe
+  FEM_VICTORY_POINTS_11563: "Rudabuag" # Rouen
+  FEM_VICTORY_POINTS_9434: "Weschdhofnschdodt" # Le Havre
+  FEM_VICTORY_POINTS_6449: "Kiachadoaf" # Cherbourg
+  FEM_VICTORY_POINTS_11465: "Naund" # Nantes
+  FEM_VICTORY_POINTS_9495: "Kondaddn" # Rennes
+  FEM_VICTORY_POINTS_6536: "Da Oriend" # Lorient
+  FEM_VICTORY_POINTS_3552: "Breschd" # Brest
+  FEM_VICTORY_POINTS_9909: "Nizza" # Nice
+  FEM_VICTORY_POINTS_778: "Annedschi" # Annecy
+  FEM_VICTORY_POINTS_911: "Tolo" # Toulon
+  FEM_VICTORY_POINTS_11834: "Masilln" # Marseille
+  FEM_VICTORY_POINTS_3768: "Groswoald" # Grenoble
+  FEM_VICTORY_POINTS_6613: "Welsch-Leida" # Lyon
+  FEM_VICTORY_POINTS_3594: "Widschi" # Vichy
+  FEM_VICTORY_POINTS_9898: "Pliabeag" # Montpellier
+  FEM_VICTORY_POINTS_651: "Raoulschloss" # Châteauroux
+  FEM_VICTORY_POINTS_620: "Limogs" # Limoges
+  FEM_VICTORY_POINTS_6766: "Tholosn" # Toulouse
+  FEM_VICTORY_POINTS_6657: "Roschelln" # La Rochelle
+  FEM_VICTORY_POINTS_9737: "Boadau" # Bordeaux
+  FEM_VICTORY_POINTS_9710: "Gudhoafa" # Bayonne
+
+  # English Cities
+  FEM_VICTORY_POINTS_3501: "Dowershoafa" # Dover
+  FEM_VICTORY_POINTS_9458: "Hofnsmünd" # Portsmouth
+  FEM_VICTORY_POINTS_6103: "Lunda" # London
+  FEM_VICTORY_POINTS_271: "Gippswich" # Ipswich
+  FEM_VICTORY_POINTS_322: "Noadwaich" # Norwich
+  FEM_VICTORY_POINTS_11279: "Ledakeschda" # Leicester
+  FEM_VICTORY_POINTS_6237: "Schnodshoam" # Nottingham
+  FEM_VICTORY_POINTS_9315: "Scheffsfeld" # Sheffield
+  FEM_VICTORY_POINTS_9379: "Lattshoam" # Leeds
+  FEM_VICTORY_POINTS_11297: "Hulln" # Hull
+  FEM_VICTORY_POINTS_6526: "Treuo" # Truro
+  FEM_VICTORY_POINTS_540: "Blaimind" # Plymouth
+  FEM_VICTORY_POINTS_3369: "Brischden" # Bristol
+  FEM_VICTORY_POINTS_9297: "Beomingsland" # Birmingham
+  FEM_VICTORY_POINTS_6318: "Mamutien" # Manchester
+  FEM_VICTORY_POINTS_6384: "Leierpoln" # Liverpool
+  FEM_VICTORY_POINTS_11332: "Karlsinsl" # Carlisle
+  FEM_VICTORY_POINTS_351: "Neubuag am Tain" # Newcastle
+  FEM_VICTORY_POINTS_377: "Kadiff" # Cardiff
+  FEM_VICTORY_POINTS_407: "Schwonsee" # Swansea
+  FEM_VICTORY_POINTS_311: "Wechsamm" # Wrexham
+  FEM_VICTORY_POINTS_11218: "Drumfrid" # Dumfries
+  FEM_VICTORY_POINTS_3273: "Glasgau" # Glasgow
+  FEM_VICTORY_POINTS_9392: "Ednsbuag" # Edinburgh
+  FEM_VICTORY_POINTS_6300: "Rosidd" # Rosyth
+  FEM_VICTORY_POINTS_3150: "Dundln" # Dundee
+  FEM_VICTORY_POINTS_200: "Abban" # Aberdeen
+  FEM_VICTORY_POINTS_3373: "Obbn" # Oban
+  FEM_VICTORY_POINTS_9075: "Inwan" # Inverness
+  FEM_VICTORY_POINTS_11064: "Schkappnlau" # Scapa Flow
+  FEM_VICTORY_POINTS_6062: "Schdoanaweg" # Stornoway
+  FEM_VICTORY_POINTS_3311: "Duggln" # Douglas
+  FEM_VICTORY_POINTS_3379: "Bellabuag" # Belfast
+  FEM_VICTORY_POINTS_385: "Derra Kaldeich" # Londonderry
+  FEM_VICTORY_POINTS_11371: "Schliaga" # Sligo
+  FEM_VICTORY_POINTS_9303: "Galla" # Galway
+  FEM_VICTORY_POINTS_11293: "Dublin" # Dublin
+  FEM_VICTORY_POINTS_303: "Tulln" # Tullamore
+  FEM_VICTORY_POINTS_285: "Weggslsfoad" # Wexford
+  FEM_VICTORY_POINTS_6313: "Limmarigg" # Limerick
+  FEM_VICTORY_POINTS_7394: "Koag" # Cork

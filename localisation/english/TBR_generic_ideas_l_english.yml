@@ -1,0 +1,12 @@
+﻿l_english:
+  TBR_IDEA_COUNTRY_anime_people: "Anime Population"
+  TBR_IDEA_COUNTRY_anime_people_desc: "§CHomo Nihonensis§!\n[THIS.GetNameDefCap] has a majority Anime population."
+  TBR_IDEA_COUNTRY_human_people: "Human Population"
+  TBR_IDEA_COUNTRY_human_people_desc: "§CHomo Sapiens§!\n[THIS.GetNameDefCap] has a majority Human population."
+  TBR_IDEA_COUNTRY_mixed_people: "Mixed Anime-Human Population"
+  TBR_IDEA_COUNTRY_mixed_people_desc: "§CHomo Sapiens§ and §CHomo Nihonensis§ share their country with each other, mostly peacefully."
+
+  TBR_IDEA_ECONOMY_armed_isolationism: "Armed Isolationism"
+  TBR_IDEA_ECONOMY_armed_isolationism_desc: "Rejecting the idea of globalization, or simply arming for full self-sufficiency, [THIS.GetNameDefCap] has a strong military presence and is largely isolated from other nations."
+  TBR_IDEA_ECONOMY_isolationism: "Isolationism"
+  TBR_IDEA_ECONOMY_isolationism_desc: "Aiming for self-sufficiency, [THIS.GetNameDefCap] has taken steps to reduce its reliance on foreign goods and services, effectively isolating itself from the global economy."

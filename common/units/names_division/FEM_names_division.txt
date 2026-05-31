@@ -1,0 +1,169 @@
+#
+# Beware, all ye who enter here.
+#
+
+FEM_INF_01 = {
+	name = "Bua Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Bua-Trupp"
+
+	ordered = {
+		1 = { "1. Bua-Trupp \"Zipfl\"" }
+		2 = { "%d. Bua-Trupp \"Röckle\"" }
+	}
+}
+
+FEM_JGR_01 = {
+	name = "Ranger Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Jega-Trupp"
+
+	ordered = {
+		1 = { "%d. Jega-Trupp \"Bobbesjega\"" }
+		2 = { "%d. Jega-Trupp \"Zwünchjega\"" }
+		3 = { "%d. Jega-Trupp \"Zipfljega\"" }
+		4 = { "%d. Jega-Trupp \"Buajega\"" }
+		5 = { "%d. Jega-Trupp \"Boy-Jega\" (amerik. Nr. 1)" }
+		6 = { "%d. Jega-Trupp \"Medlbuajega\"" }
+	}
+}
+
+FEM_MOT_01 = {
+	name = "Motorized Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Modoa-Trupp"
+
+	link_numbering_with = { FEM_Inf_01 }
+
+	ordered = {
+		3 = { "%d. Modoa-Trupp \"Schwaubazwinch\"" }
+		6 = { "%d. Modoa-Trupp \"Gscheadmedla\"" }
+		9 = { "%d. Modoa-Trupp \"Boarazwinch\"" }
+		12 = { "%d. Modoa-Trupp \"Loli Medla\"" }
+		15 = { "%d. Modoa-Trupp \"Schpottgera\"" }
+	}
+}
+
+FEM_MEC_01 = {
+	name = "Panzergrenadier Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Feldhelda"
+
+	link_numbering_with = { FEM_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Feldhelda \"Schduggad\"" }
+		5 = { "%d. Feldhelda \"Ulm\"" }
+		7 = { "%d. Feldhelda \"Voalbeag\"" }
+		8 = { "%d. Feldhelda \"Elsaß\"" }
+	}
+}
+
+FEM_ARM_01 = {
+	name = "Panzer Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Panza-Trupp"
+
+	ordered = {
+		1 = { "%d. Panza-Trupp \"Eindringa\"" }
+		2 = { "%d. Panza-Trupp \"Proschta-Schlega\"" }
+		3 = { "%d. Panza-Trupp \"Buschi\"" }
+		4 = { "%d. Panza-Trupp \"Schwuchdl\"" }
+		5 = { "%d. Panza-Trupp \"Boilaschnüffla\"" } # I'm sorry.
+		6 = { "%d. Panza-Trupp \"Buaschanga\"" }
+		50 = { "%d. Middldaidscha Panza-Trupp" }
+		51 = { "%d. Middldaidscha Panza-Trupp" }
+		52 = { "%d. Middldaidscha Panza-Trupp" }
+		60 = { "%d. Dschechsche Panza-Trupp" }
+		61 = { "%d. Dschechsche Panza-Trupp" }
+		62 = { "%d. Dschechsche Panza-Trupp" }
+		70 = { "%d. Freiwilliga Panza-Trupp" }
+		71 = { "%d. Freiwilliga Panza-Trupp" }
+		72 = { "%d. Freiwilliga Panza-Trupp" }
+		80 = { "%d. Polagga Panza-Trupp" }
+		81 = { "%d. Polagga Panza-Trupp" }
+		82 = { "%d. Polagga Panza-Trupp" }
+		90 = { "%d. Franzosa Panza-Trupp" }
+		91 = { "%d. Franzosa Panza-Trupp" }
+		92 = { "%d. Franzosa Panza-Trupp" }
+		100 = { "%d. Russa Panza-Trupp" }
+		101 = { "%d. Russa Panza-Trupp" }
+		102 = { "%d. Russa Panza-Trupp" }
+		110 = { "%d. Slawa Panza-Trupp" }
+		111 = { "%d. Slawa Panza-Trupp" }
+		112 = { "%d. Slawa Panza-Trupp" }
+	}
+}
+
+FEM_MIL_01 = {
+	name = "Trap Divisions"
+
+	for_countries = { FEM }
+
+	can_use = { always = yes }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Falla-Trupp"
+
+	ordered = {
+		1 = { "%d Falla-Trupp \"Astolfo\"" }
+		2 = { "%d Falla-Trupp" }
+		3 = { "%d Falla-Trupp" }
+		4 = { "%d Falla-Trupp" }
+	}
+}
+
+# Leibstandarten
+FEM_LG_01 = {
+	name = "Laibgada Troops"
+
+	for_countries = { FEM }
+
+	can_use = {
+		has_completed_focus = FEM_focus_form_the_laibgada
+	}
+
+	division_types = { "infantry" "motorized" "medium_armor" "mechanized" }
+
+	fallback_name = "%d. Era-Laibgade"
+
+	ordered = {
+		1 = { "%d. Laibgade \"Urushibara\"" }
+		2 = { "%d. Laibgade \"Astolfo\"" }
+		3 = { "%d. Laibgade \"Schrödinger\"" }
+		4 = { "%d. Laibgade \"Tet\"" }
+		5 = { "%d. Laibgade \"Felix\"" }
+		6 = { "%d. Laibgade \"Lee Hoon\"" }
+	}
+}

@@ -1,0 +1,208 @@
+characters = {
+	
+	# ===========================================
+	# Country Leaders
+	# ===========================================
+	# Pre-Takeover
+	# ===========================================
+
+	# Harold G. Hoffman (Historical)
+	NAT_LEADER_HAROLD_G_HOFFMAN = {
+		name = NAT_LEADER_HAROLD_G_HOFFMAN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				TBR_TRAIT_loves_america
+			}
+			desc = NAT_LEADER_HAROLD_G_HOFFMAN_DESC
+		}
+	}
+
+	# William Thackara Read, former NJ state treasurer, banker, Republican power broker,
+	# delegate to the 1936 Republican National Convention, and a documented freemason (Historical)
+	NAT_LEADER_WILLIAM_THACKARA_READ = {
+		name = NAT_LEADER_WILLIAM_THACKARA_READ_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAIT_freemason
+			}
+			desc = NAT_LEADER_WILLIAM_THACKARA_READ_DESC
+		}
+	}
+
+	# Central Processing Unit.
+	NAT_LEADER_CENTRAL_PROCESSING_UNIT_PA = {
+		name = NAT_LEADER_CENTRAL_PROCESSING_UNIT_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC
+		}
+	}
+
+	# Theodor Eisenberg (Fictional)
+	NAT_LEADER_THEODOR_EISENBERG = {
+		name = NAT_LEADER_THEODOR_EISENBERG_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_accelerationism
+			traits = {
+				
+			}
+			desc = NAT_LEADER_THEODOR_EISENBERG_DESC
+		}
+	}
+
+	NAT_LEADER_CENTRAL_PROCESSING_UNIT_NEUTRAL = {
+		name = NAT_LEADER_CENTRAL_PROCESSING_UNIT_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = isolationism
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC
+		}
+	}
+
+	# ===========================================
+	# Post-Takeover
+	# ===========================================
+
+	NAT_LEADER_NAITSUKI_DEMOCRATIC = {
+		name = NAT_LEADER_NAITSUKI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_NAITSUKI_DESC
+		}
+	}
+	
+	NAT_LEADER_NAITSUKI_COMMUNISM = {
+		name = NAT_LEADER_NAITSUKI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = minaism
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_NAITSUKI_DESC
+		}
+	}
+	
+	NAT_LEADER_NAITSUKI_PA = {
+		name = NAT_LEADER_NAITSUKI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_nazism
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_NAITSUKI_DESC
+		}
+	}
+
+	NAT_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+	
+	NAT_LEADER_NAITSUKI_NEUTRAL = {
+		name = NAT_LEADER_NAITSUKI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = isolationism
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_NAITSUKI_DESC
+		}
+	}
+
+}

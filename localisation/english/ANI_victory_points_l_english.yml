@@ -1,0 +1,122 @@
+﻿l_english:
+  # Belgian Cities
+  ANI_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
+  ANI_VICTORY_POINTS_6560: "Gent" # Gent (Standard)
+  ANI_VICTORY_POINTS_516: "Brüssel" # Brussels
+  ANI_VICTORY_POINTS_6598: "Antorf" # Antwerpen
+  ANI_VICTORY_POINTS_13068: "Löwen" # Leuven
+  ANI_VICTORY_POINTS_9536: "Karnoit" # Charleroi
+  ANI_VICTORY_POINTS_3516: "Namür" # Namur
+  ANI_VICTORY_POINTS_9418: "Arel" # Arlon
+
+  # Luxembourg
+  ANI_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
+
+  # Dutch Cities
+  ANI_VICTORY_POINTS_3262: "Breita" # Breda
+  ANI_VICTORY_POINTS_6496: "Endhofen" # Eindhoven
+  ANI_VICTORY_POINTS_11562: "Maasstadt" # Maastricht
+  ANI_VICTORY_POINTS_9498: "Rotterdamm" # Rotterdam
+  ANI_VICTORY_POINTS_3211: "Des Grafen Hag" # The Hague
+  ANI_VICTORY_POINTS_391: "Amseldamm" # Amsterdam
+  ANI_VICTORY_POINTS_6241: "Aufrecht" # Utrecht
+  ANI_VICTORY_POINTS_9363: "Arnheim" # Arnhem
+  ANI_VICTORY_POINTS_6336: "Leuwarden" # Leeuwarden
+  ANI_VICTORY_POINTS_9335: "Gröningen" # Groningen
+
+  # German Cities (Unchanged)
+  ANI_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelmshaven
+  ANI_VICTORY_POINTS_11388: "Münster" # Münster
+  ANI_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  ANI_VICTORY_POINTS_564: "Kassel" # Kassel
+  ANI_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  ANI_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  ANI_VICTORY_POINTS_11560: "Mainz" # Mainz
+  ANI_VICTORY_POINTS_6469: "Essen" # Essen
+  ANI_VICTORY_POINTS_587: "Köln" # Köln
+  ANI_VICTORY_POINTS_9575: "Trier" # Trier
+  ANI_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+
+  # French Cities
+  ANI_VICTORY_POINTS_9559: "Metz" # Metz
+  ANI_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
+  ANI_VICTORY_POINTS_678: "Mühlhausen" # Mulhouse
+  ANI_VICTORY_POINTS_11516: "Nanzig" # Nancy
+  ANI_VICTORY_POINTS_9642: "Bisanz" # Besancon
+  ANI_VICTORY_POINTS_3560: "Sedensi" # Sedan
+  ANI_VICTORY_POINTS_13011: "Rheims" # Reims
+  ANI_VICTORY_POINTS_9490: "Tricassenstadt" # Troyes
+  ANI_VICTORY_POINTS_3652: "Dianz" # Dijon
+  ANI_VICTORY_POINTS_11483: "Reisel" # Lille
+  ANI_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
+  ANI_VICTORY_POINTS_11548: "Kalen" # Calais
+  ANI_VICTORY_POINTS_11420: "Ambien" # Amiens
+  ANI_VICTORY_POINTS_11506: "Lutezia" # Paris
+  ANI_VICTORY_POINTS_512: "Zenabum" # Orleans
+  ANI_VICTORY_POINTS_3671: "Turon" # Tours
+  ANI_VICTORY_POINTS_485: "Tief" # Dieppe
+  ANI_VICTORY_POINTS_11563: "Rudaburg" # Rouen
+  ANI_VICTORY_POINTS_9434: "Westhafenstadt" # Le Havre
+  ANI_VICTORY_POINTS_6449: "Kirchendorf" # Cherbourg
+  ANI_VICTORY_POINTS_11465: "Naunt" # Nantes
+  ANI_VICTORY_POINTS_9495: "Kondatten" # Rennes
+  ANI_VICTORY_POINTS_6536: "Der Orient" # Lorient
+  ANI_VICTORY_POINTS_3552: "Breschd" # Brest
+  # Non-Core Tomboy French Cities
+  ANI_VICTORY_POINTS_9909: "Nizza" # Nice
+  ANI_VICTORY_POINTS_778: "Annetschi" # Annecy
+  ANI_VICTORY_POINTS_911: "Tolon" # Toulon
+  ANI_VICTORY_POINTS_11834: "Massilien" # Marseille
+  ANI_VICTORY_POINTS_3768: "Graswalde" # Grenoble
+  ANI_VICTORY_POINTS_6613: "Welsch-Leiden" # Lyon
+  ANI_VICTORY_POINTS_3594: "Widschi" # Vichy
+  ANI_VICTORY_POINTS_9898: "Plierberg" # Montpellier
+  ANI_VICTORY_POINTS_651: "Raoulschloss" # Châteauroux
+  ANI_VICTORY_POINTS_620: "Limoges" # Limoges
+  ANI_VICTORY_POINTS_6766: "Tholosen" # Toulouse
+  ANI_VICTORY_POINTS_6657: "Roschellen" # La Rochelle
+  ANI_VICTORY_POINTS_9737: "Bordau" # Bordeaux
+  ANI_VICTORY_POINTS_9710: "Guthafen" # Bayonne
+
+  # English Cities
+  ANI_VICTORY_POINTS_3501: "Dowershafen" # Dover
+  ANI_VICTORY_POINTS_9458: "Hafensmund" # Portsmouth
+  ANI_VICTORY_POINTS_6103: "Lunden" # London
+  ANI_VICTORY_POINTS_271: "Gippeswich" # Ipswich
+  ANI_VICTORY_POINTS_322: "Nordweich" # Norwich
+  ANI_VICTORY_POINTS_11279: "Ledekester" # Leicester
+  ANI_VICTORY_POINTS_6237: "Snotsheim" # Nottingham
+  ANI_VICTORY_POINTS_9315: "Scheffsfeld" # Sheffield
+  ANI_VICTORY_POINTS_9379: "Lattsheim" # Leeds
+  ANI_VICTORY_POINTS_11297: "Hullen" # Hull
+  ANI_VICTORY_POINTS_6526: "Treuo" # Truro
+  ANI_VICTORY_POINTS_540: "Bleimünd" # Plymouth
+  ANI_VICTORY_POINTS_3369: "Bristen" # Bristol
+  ANI_VICTORY_POINTS_9297: "Beomingsland" # Birmingham
+  ANI_VICTORY_POINTS_6318: "Mamutien" # Manchester
+  ANI_VICTORY_POINTS_6384: "Leierpolen" # Liverpool
+  ANI_VICTORY_POINTS_11332: "Karlsinsel" # Carlisle
+  ANI_VICTORY_POINTS_351: "Neuburg am Tein" # Newcastle
+  ANI_VICTORY_POINTS_377: "Kardiff" # Cardiff
+  ANI_VICTORY_POINTS_407: "Schwansee" # Swansea
+  ANI_VICTORY_POINTS_311: "Wechshamm" # Wrexham
+  ANI_VICTORY_POINTS_11218: "Drumfried" # Dumfries
+  ANI_VICTORY_POINTS_3273: "Glasgau" # Glasgow
+  ANI_VICTORY_POINTS_9392: "Edensburg" # Edinburgh
+  ANI_VICTORY_POINTS_6300: "Rositt" # Rosyth
+  ANI_VICTORY_POINTS_3150: "Dundeln" # Dundee
+  ANI_VICTORY_POINTS_200: "Abbern" # Aberdeen
+  ANI_VICTORY_POINTS_3373: "Obben" # Oban
+  ANI_VICTORY_POINTS_9075: "Inwern" # Inverness
+  ANI_VICTORY_POINTS_11064: "Skappenlau" # Scapa Flow
+  ANI_VICTORY_POINTS_6062: "Stornenweg" # Stornoway
+  ANI_VICTORY_POINTS_3311: "Dugeln" # Douglas
+  ANI_VICTORY_POINTS_3379: "Bellenburg" # Belfast
+  ANI_VICTORY_POINTS_385: "Derrer Kahldeich" # Londonderry
+  ANI_VICTORY_POINTS_11371: "Schliegen" # Sligo
+  ANI_VICTORY_POINTS_9303: "Gallen" # Galway
+  ANI_VICTORY_POINTS_11293: "Dublin" # Dublin
+  ANI_VICTORY_POINTS_303: "Tullen" # Tullamore
+  ANI_VICTORY_POINTS_285: "Wechselsfort" # Wexford
+  ANI_VICTORY_POINTS_6313: "Limmerick" # Limerick
+  ANI_VICTORY_POINTS_7394: "Kork" # Cork

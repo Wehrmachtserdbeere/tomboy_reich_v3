@@ -1,0 +1,104 @@
+characters = {
+
+	# ===========================================
+	# Country Leaders
+	# ===========================================
+
+	ANI_LEADER_KIRISAME_MIDOKA = {
+		name = ANI_LEADER_KIRISAME_MIDOKA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				TBR_TRAIT_free_conservative
+			}
+			desc = ANI_LEADER_KIRISAME_MIDOKA_DESC
+		}
+	}
+
+	ANI_LEADER_ESDEATH = {
+		name = ANI_LEADER_ESDEATH_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+
+			}
+			desc = ANI_LEADER_ESDEATH_DESC
+		}
+
+	}
+
+	ANI_LEADER_LALATINA_DUSTINESS_FORD = {
+		name = ANI_LEADER_LALATINA_DUSTINESS_FORD_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = ani_imperialism
+			traits = {
+
+			}
+			desc = ANI_LEADER_LALATINA_DUSTINESS_FORD_DESC
+		}
+	}
+
+	ANI_LEADER_KAGANE_MINA = {
+		name = ANI_LEADER_KAGANE_MINA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = minaism
+			traits = {
+
+			}
+			desc = ANI_LEADER_KAGANE_MINA_DESC
+		}
+	}
+
+	# Used exclusively for anti-Anime Reactionism
+	ANI_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+
+}

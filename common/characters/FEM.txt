@@ -1,0 +1,99 @@
+characters = {
+
+	FEM_LEADER_LUKA_URUSHIBARA = {
+		name = FEM_LEADER_LUKA_URUSHIBARA_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				TBR_TRAIT_free_conservative
+			}
+			desc = FEM_LEADER_LUKA_URUSHIBARA_DESC
+		}
+	}
+	
+	FEM_LEADER_ASTOLFO = {
+		name = FEM_LEADER_ASTOLFO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				FEM_the_astolfo_personality_cult
+			}
+			desc = FEM_LEADER_ASTOLFO_DESC
+		}
+	}
+
+	FEM_LEADER_SCHROEDINGER = {
+		name = FEM_LEADER_SCHROEDINGER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_nazism
+			traits = {
+				FEM_undying
+			}
+			desc = FEM_LEADER_SCHROEDINGER_DESC
+		}
+	}
+
+	# Tet from No Game No Life
+	FEM_LEADER_TET = {
+		name = FEM_LEADER_TET_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = minaism
+			traits = {
+				FEM_god_of_play
+			}
+			desc = FEM_LEADER_TET_DESC
+		}
+	}
+
+	FEM_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+	
+}

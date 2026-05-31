@@ -1,0 +1,311 @@
+# TODO: Post-focus uncommenting.
+
+NAT_INF_01 = {
+	name = "Walker Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		always = yes
+	}
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Walker Division"
+
+	ordered = {
+		1 = { "First Walker Division \"Central Protection Unit\"" }
+		2 = { "Second Walker Division \"Amiga\"" }
+	}
+}
+
+NAT_INF_02 = {
+	name = "U.S. Infantry Division"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# NOT = { has_completed_focus = NAT_FOCUS_AI_takeover }
+		always = yes
+	}
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. U.S. Infantry Division"
+}
+
+NAT_RNG_01 = {
+	name = "Ranger Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		always = yes
+	}
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Recon Division"
+
+	ordered = {
+		1 = { "%d. Recon Division \"Appalachia\"" }
+		2 = { "%d. Recon Division \"NJ-NORAD\"" }
+		3 = { "%d. Recon Division \"Kitten\"" }
+		4 = { "%d. Recon Division \"Cupcake\"" }
+	}
+}
+
+NAT_RNG_02 = {
+	name = "U.S. Ranger Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# NOT = { has_completed_focus = NAT_FOCUS_AI_takeover }
+		always = yes
+	}
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. U.S. Recon Division"
+
+	ordered = {
+		1 = { "%d. U.S. Recon Division \"America\"" }
+		2 = { "%d. U.S. Recon Division \"Union\"" }
+	}
+}
+
+NAT_MOT_01 = {
+	name = "Mobile Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		always = yes
+	}
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Mobile Division"
+
+	link_numbering_with = { NAT_Inf_01 }
+
+	ordered = {
+		3 = { "%d. Mobile Division \"Sweets\"" }
+		6 = { "%d. Mobile Division \"Doki-Doki\"" }
+		9 = { "%d. Mobile Division \"Manga\"" }
+		12 = { "%d. Mobile Division \"Literature\"" }
+		15 = { "%d. Mobile Division \"Friends\"" }
+	}
+}
+
+NAT_MOT_02 = {
+	name = "U.S. Mobile Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# NOT = { has_completed_focus = NAT_FOCUS_AI_takeover }
+		always = yes
+	}
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. U.S. Mobile Division"
+
+	link_numbering_with = { NAT_Inf_02 }
+
+	ordered = {
+		3 = { "%d. Mobile Division \"Washington\"" }
+	}
+}
+
+NAT_MEC_01 = {
+	name = "Combined Arms Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		always = yes
+	}
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Combined Arms Division"
+
+	link_numbering_with = { NAT_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Combined Arms Division \"Her Majesty\"" }
+		5 = { "%d. Combined Arms Division \"Her Grace\"" }
+		7 = { "%d. Combined Arms Division \"Her Compassion\"" }
+		8 = { "%d. Combined Arms Division \"Her Tenderness\"" }
+	}
+}
+
+NAT_MEC_02 = {
+	name = "U.S. Combined Arms Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# NOT = { has_completed_focus = NAT_FOCUS_AI_takeover }
+		always = yes
+	}
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. U.S. Com. Arms Division"
+
+	link_numbering_with = { NAT_Inf_02 }
+
+	ordered = {
+		4 = { "%d. U.S. Com. Arms Division \"Franklin\"" }
+		5 = { "%d. U.S. Com. Arms Division \"Adams\"" }
+	}
+}
+
+NAT_ARM_01 = {
+	name = "Revenge Units"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# TODO: Only allow this if the AI has realized Natsuki is gone.
+		# Name in works.
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		has_completed_focus = NAT_FOCUS_AI_She_is_gone
+	}
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Revenge Unit"
+
+	ordered = {
+		1 = { "%d. Revenge Unit \"Brutalism\"" }
+		2 = { "%d. Revenge Unit \"Snake Bite\"" }
+		3 = { "%d. Penal Revenge Unit \"Chaos\"" }
+		4 = { "%d. Revenge Unit \"Solipsism\"" }
+		5 = { "%d. Revenge Unit \"Might\"" }
+		6 = { "%d. Revenge Unit \"Wrath\"" }
+		50 = { "%d. North-Eastern Revenge Unit" }
+		51 = { "%d. North-Eastern Revenge Unit" }
+		52 = { "%d. North-Eastern Revenge Unit" }
+		60 = { "%d. Mid-Western Revenge Unit" }
+		61 = { "%d. Mid-Western Revenge Unit" }
+		62 = { "%d. Mid-Western Revenge Unit" }
+		70 = { "%d. Southern Revenge Unit" }
+		71 = { "%d. Southern Revenge Unit" }
+		72 = { "%d. Southern Revenge Unit" }
+		80 = { "%d. South-Western Revenge Unit" }
+		81 = { "%d. South-Western Revenge Unit" }
+		82 = { "%d. South-Western Revenge Unit" }
+		90 = { "%d. Cascadian Revenge Unit" }
+		91 = { "%d. Cascadian Revenge Unit" }
+		92 = { "%d. Cascadian Revenge Unit" }
+		100 = { "%d. Canadian Revenge Unit" }
+		101 = { "%d. Canadian Revenge Unit" }
+		102 = { "%d. Canadian Revenge Unit" }
+		110 = { "%d. Far-Southern Revenge Unit" }
+		111 = { "%d. Far-Southern Revenge Unit" }
+		112 = { "%d. Far-Southern Revenge Unit" }
+	}
+}
+
+NAT_ARM_02 = {
+	name = "Armored Units"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# TODO: Only allow this if the AI has not realized she is gone yet.
+		# Name in works.
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		NOT = { has_completed_focus = NAT_REA_She_is_gone }
+	}
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Armored Unit"
+
+	ordered = {
+		1 = { "%d. Armored Unit \"Safety\"" }
+		2 = { "%d. Armored Unit \"Protection\"" }
+		3 = { "%d. Penal Armored Unit \"Backbone\"" }
+		
+		5 = { "%d. Armored Unit \"Guard\"" }
+		6 = { "%d. Armored Unit \"Home\"" }
+		50 = { "%d. North-Eastern Armored Unit" }
+		51 = { "%d. North-Eastern Armored Unit" }
+		52 = { "%d. North-Eastern Armored Unit" }
+		60 = { "%d. Mid-Western Armored Unit" }
+		61 = { "%d. Mid-Western Armored Unit" }
+		62 = { "%d. Mid-Western Armored Unit" }
+		70 = { "%d. Southern Armored Unit" }
+		71 = { "%d. Southern Armored Unit" }
+		72 = { "%d. Southern Armored Unit" }
+		80 = { "%d. South-Western Armored Unit" }
+		81 = { "%d. South-Western Armored Unit" }
+		82 = { "%d. South-Western Armored Unit" }
+		90 = { "%d. Cascadian Armored Unit" }
+		91 = { "%d. Cascadian Armored Unit" }
+		92 = { "%d. Cascadian Armored Unit" }
+		100 = { "%d. Canadian Armored Unit" }
+		101 = { "%d. Canadian Armored Unit" }
+		102 = { "%d. Canadian Armored Unit" }
+		110 = { "%d. Far-Southern Armored Unit" }
+		111 = { "%d. Far-Southern Armored Unit" }
+		112 = { "%d. Far-Southern Armored Unit" }
+	}
+}
+
+NAT_MIL_01 = {
+	name = "Civil Divisions"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# has_completed_focus = NAT_FOCUS_ai_takeover
+		always = yes
+	}
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Civil Division"
+
+	ordered = {
+		1 = { "%d Civil Division \"Cleaners\"" }
+		2 = { "%d Civil Division \"Bureaucrats\"" }
+		3 = { "%d Civil Division \"Owners\"" }
+		4 = { "%d Civil Division \"Farmers\"" }
+	}
+}
+
+# Enforcers
+NAT_ENF_01 = {
+	name = "Enforcers"
+
+	for_countries = { NAT }
+
+	can_use = {
+		# Only after passing the requirement for all to follow Natsuki's example.
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+		has_completed_focus = NAT_FOCUS_AI_follow_Her_example
+	}
+
+	division_types = { "infantry" "motorized" "medium_armor" "mechanized" }
+
+	fallback_name = "Enforcer Unit %d"
+
+	ordered = {
+		1 = { "Enforcer Unit %d \"Excitement\"" }
+		2 = { "Enforcer Unit %d \"Joy\"" }
+		3 = { "Enforcer Unit %d \"Passion\"" }
+		4 = { "Enforcer Unit %d \"Love\"" }
+		5 = { "Enforcer Unit %d \"Tsun\"" }
+	}
+}

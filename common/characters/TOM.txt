@@ -1,0 +1,96 @@
+characters = {
+	
+	# ===========================================
+	# Country Leaders
+	# ===========================================
+
+	TOM_LEADER_KAY = {
+		name = TOM_LEADER_KAY_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				TBR_TRAIT_loves_america
+			}
+			desc = TOM_LEADER_KAY_DESC
+		}
+	}
+
+	TOM_LEADER_MIKASA_ACKERMAN = {
+		name = TOM_LEADER_MIKASA_ACKERMAN_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_nazism
+			traits = { }
+			desc = TOM_LEADER_MIKASA_ACKERMAN_DESC
+		}
+	}
+
+	TOM_LEADER_ARTORIA_PENDRAGON = {
+		name = TOM_LEADER_ARTORIA_PENDRAGON_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = { }
+			desc = TOM_LEADER_ARTORIA_PENDRAGON_DESC
+		}
+	}
+
+	TOM_LEADER_SULETTA_MERCURY = {
+		name = TOM_LEADER_SULETTA_MERCURY_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = minaism
+			traits = { }
+			desc = TOM_LEADER_SULETTA_MERCURY_DESC
+		}
+	}
+
+	TOM_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+
+}

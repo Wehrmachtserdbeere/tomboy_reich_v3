@@ -1,0 +1,49 @@
+peace_ai_desires = {
+
+	ANI_retake_core_lands = {
+		peace_action_type = take_states
+		enable = {
+			FROM = {
+				tag = ROOT
+			}
+			FROM.FROM.FROM = {
+				OR = {
+					# TODO - Enter all core states here
+					state = 7
+					state = 6
+					state = 35
+					state = 977
+					state = 34
+					state = 980
+					state = 8
+					state = 18
+					state = 785
+					state = 29
+				}
+			}
+			ROOT = {
+				original_tag = ANI
+			}
+		}
+		ai_desire = 200
+	}
+
+	# Once puppets are set up, add ai_desire = 5000 things
+	# to give them their cores. Check basegame's GER file.
+
+	ANI_puppet_everyone = {
+		peace_action_type = puppet
+		enable = {
+			FROM.FROM.FROM = {
+				NOT = {
+					is_core_of = ROOT
+				}
+				ROOT = {
+					tag = ANI
+				}
+			}
+		}
+		ai_desire = 75
+	}
+
+}

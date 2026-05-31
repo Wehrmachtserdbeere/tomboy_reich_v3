@@ -1,0 +1,190 @@
+ANI_INF_01 = {
+	name = "Infantry Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Infanterie-Division"
+
+	ordered = {
+		1 = { "1. Infanterie-Division \"Moe\"" }
+		2 = { "%d. Infanterie-Division \"Animanga\"" }
+	}
+}
+
+ANI_JGR_01 = {
+	name = "Ranger Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Jäger-Division"
+
+	ordered = {
+		1 = { "%d. Jäger-Division \"Alpen\"" }
+		2 = { "%d. Jäger-Division \"Karpathen\"" }
+		3 = { "%d. Jäger-Division \"Dinaren-Alpen\"" }
+		4 = { "%d. Jäger-Division \"Balkan\"" }
+		5 = { "%d. Jäger-Division \"Pyrenäen\"" }
+		6 = { "%d. Jäger-Division \"Fjell\"" }
+		7 = { "%d. Jäger-Division \"Iberien\"" }
+		8 = { "%d. Jäger-Division \"Apennin\"" }
+		9 = { "%d. Jäger-Division \"Kaukasus\"" }
+		10 = { "%d. Jäger-Division \"Ural\"" }
+	}
+}
+
+ANI_MOT_01 = {
+	name = "Motorized Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Motorisierte Infanterie-Division"
+
+	link_numbering_with = { ANI_Inf_01 }
+
+	ordered = {
+		3 = { "%d. Motorisierte Infanterie-Division \"Herzland\"" }
+		6 = { "%d. Motorisierte Infanterie-Division \"Großtomboy\"" }
+		9 = { "%d. Motorisierte Infanterie-Division \"Großfemboy\"" }
+		12 = { "%d. Motorisierte Infanterie-Division \"Großloli\"" }
+		15 = { "%d. Motorisierte Infanterie-Division \"Großmesugaki\"" }
+	}
+}
+
+ANI_MEC_01 = {
+	name = "Panzergrenadier Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Panzergrenadier-Division"
+
+	link_numbering_with = { ANI_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Panzergrenadier-Division \"von Seeckt\"" }
+		5 = { "%d. Panzergrenadier-Division \"Lutz\"" }
+		7 = { "%d. Panzergrenadier-Division \"Volckheim\"" }
+		8 = { "%d. Panzergrenadier-Division \"Vollmer\"" }
+	}
+}
+
+ANI_ARM_01 = {
+	name = "Panzer Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Panzer-Division"
+
+	ordered = {
+		1 = { "%d. Panzer-Division \"Guderian\"" }
+		2 = { "%d. Panzer-Division \"von Hindenburg\"" }
+		3 = { "%d. Panzer-Division \"Ludendorff\"" }
+		4 = { "%d. Panzer-Division \"Hoffmann\"" }
+		5 = { "%d. Panzer-Division \"Rupprecht\"" }
+		6 = { "%d. Panzer-Division \"Groener\"" }
+		50 = { "%d. Mitteldeutsche Panzer-Division" }
+		51 = { "%d. Mitteldeutsche Panzer-Division" }
+		52 = { "%d. Mitteldeutsche Panzer-Division" }
+		60 = { "%d. Tschechische Panzer-Division" }
+		61 = { "%d. Tschechische Panzer-Division" }
+		62 = { "%d. Tschechische Panzer-Division" }
+		70 = { "%d. Slowakische Panzer-Division" }
+		71 = { "%d. Slowakische Panzer-Division" }
+		72 = { "%d. Slowakische Panzer-Division" }
+		80 = { "%d. Polnische Panzer-Division" }
+		81 = { "%d. Polnische Panzer-Division" }
+		82 = { "%d. Polnische Panzer-Division" }
+		90 = { "%d. Französische Panzer-Division" }
+		91 = { "%d. Französische Panzer-Division" }
+		92 = { "%d. Französische Panzer-Division" }
+		100 = { "%d. Ukrainische Panzer-Division" }
+		101 = { "%d. Ukrainische Panzer-Division" }
+		102 = { "%d. Ukrainische Panzer-Division" }
+		110 = { "%d. Weißrussische Panzer-Division" }
+		111 = { "%d. Weißrussische Panzer-Division" }
+		112 = { "%d. Weißrussische Panzer-Division" }
+	}
+}
+
+ANI_MIL_01 = {
+	name = "Schutztruppe Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { always = yes }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Schutztruppe"
+
+	ordered = {
+		1 = { "%d Schutztruppe-Division" }
+		2 = { "%d Schutztruppe-Division" }
+		3 = { "%d Schutztruppe-Division" }
+		4 = { "%d Schutztruppe-Division" }
+	}
+}
+
+ANI_MIL_02 = {
+	name = "Sturmabteilung Divisions"
+
+	for_countries = { ANI }
+
+	can_use = { has_completed_focus = ANI_focus_invite_the_doomed_sa }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Sturmabteilung-Division"
+
+	ordered = {
+		1 = { "%d Sturmabteilung-Division \"Röhm\"" }
+		2 = { "%d Sturmabteilung-Division \"Ernst\"" }
+		3 = { "%d Sturmabteilung-Division \"Heines\"" }
+		4 = { "%d Sturmabteilung-Division \"Brückner\"" }
+	}
+}
+
+# Sicherheits Korps
+ANI_SK_01 = {
+	name = "Sicherheits Korps Divisions"
+
+	for_countries = { ANI }
+
+	can_use = {
+		always = yes
+	}
+
+	division_types = { "infantry" "motorized" "medium_armor" "mechanized" }
+
+	fallback_name = "%d. SK-Division"
+
+	ordered = {
+		1 = { "%d. SK-Division \"Heimwacht\"" }
+		2 = { "%d. SK-Division \"Strandwacht\"" }
+		3 = { "%d. SK-Division \"Megumin\"" }
+		4 = { "%d. SK-Division \"Aqua\"" }
+		5 = { "%d. SK-Division \"Kazuma\"" }
+		6 = { "%d. SK-Division \"Frankreich\" (franz. Nr. 1)" }
+		7 = { "%d. SK-Division \"Germania\" (germ. Nr. 1" }
+		8 = { "%d. SK-Division \"Romanum\" (ital. Nr. 1" }
+	}
+}

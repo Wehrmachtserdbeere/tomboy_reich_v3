@@ -1,0 +1,206 @@
+﻿l_english:
+  # Belgian Cities
+  TOM_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
+  TOM_VICTORY_POINTS_6560: "Gent" # Gent (Standard)
+  TOM_VICTORY_POINTS_516: "Brüssel" # Brussels
+  TOM_VICTORY_POINTS_6598: "Antorf" # Antwerpen
+  TOM_VICTORY_POINTS_13068: "Löwen" # Leuven
+  TOM_VICTORY_POINTS_9536: "Karnoit" # Charleroi
+  TOM_VICTORY_POINTS_3516: "Namür" # Namur
+  TOM_VICTORY_POINTS_9418: "Arel" # Arlon
+
+  # Luxembourg
+  TOM_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
+
+  # Dutch Cities
+  TOM_VICTORY_POINTS_3262: "Breita" # Breda
+  TOM_VICTORY_POINTS_6496: "Endhofen" # Eindhoven
+  TOM_VICTORY_POINTS_11562: "Maasstadt" # Maastricht
+  TOM_VICTORY_POINTS_9498: "Rotterdamm" # Rotterdam
+  TOM_VICTORY_POINTS_3211: "Des Grafen Hag" # The Hague
+  TOM_VICTORY_POINTS_391: "Amseldamm" # Amsterdam
+  TOM_VICTORY_POINTS_6241: "Aufrecht" # Utrecht
+  TOM_VICTORY_POINTS_9363: "Arnheim" # Arnhem
+  TOM_VICTORY_POINTS_6336: "Leuwarden" # Leeuwarden
+  TOM_VICTORY_POINTS_9335: "Gröningen" # Groningen
+
+  # German Cities (Unchanged)
+  TOM_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelmshaven
+  TOM_VICTORY_POINTS_11388: "Münster" # Münster
+  TOM_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  TOM_VICTORY_POINTS_564: "Kassel" # Kassel
+  TOM_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  TOM_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  TOM_VICTORY_POINTS_11560: "Mainz" # Mainz
+  TOM_VICTORY_POINTS_6469: "Essen" # Essen
+  TOM_VICTORY_POINTS_587: "Köln" # Köln
+  TOM_VICTORY_POINTS_9575: "Trier" # Trier
+  TOM_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+
+  # French Cities
+  TOM_VICTORY_POINTS_9559: "Metz" # Metz
+  TOM_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
+  TOM_VICTORY_POINTS_678: "Mühlhausen" # Mulhouse
+  TOM_VICTORY_POINTS_11516: "Nanzig" # Nancy
+  TOM_VICTORY_POINTS_9642: "Bisanz" # Besancon
+  TOM_VICTORY_POINTS_3560: "Sedensi" # Sedan
+  TOM_VICTORY_POINTS_13011: "Rheims" # Reims
+  TOM_VICTORY_POINTS_9490: "Tricassenstadt" # Troyes
+  TOM_VICTORY_POINTS_3652: "Dianz" # Dijon
+  TOM_VICTORY_POINTS_11483: "Reisel" # Lille
+  TOM_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
+  TOM_VICTORY_POINTS_11548: "Kalen" # Calais
+  TOM_VICTORY_POINTS_11420: "Ambien" # Amiens
+  TOM_VICTORY_POINTS_11506: "Lutezia" # Paris
+  TOM_VICTORY_POINTS_512: "Zenabum" # Orleans
+  TOM_VICTORY_POINTS_3671: "Turon" # Tours
+  TOM_VICTORY_POINTS_485: "Tief" # Dieppe
+  TOM_VICTORY_POINTS_11563: "Rudaburg" # Rouen
+  TOM_VICTORY_POINTS_9434: "Westhafenstadt" # Le Havre
+  TOM_VICTORY_POINTS_6449: "Kirchendorf" # Cherbourg
+  TOM_VICTORY_POINTS_11465: "Naunt" # Nantes
+  TOM_VICTORY_POINTS_9495: "Kondatten" # Rennes
+  TOM_VICTORY_POINTS_6536: "Der Orient" # Lorient
+  TOM_VICTORY_POINTS_3552: "Breschd" # Brest
+  # Non-Core Tomboy French Cities
+  TOM_VICTORY_POINTS_9909: "Nizza" # Nice
+  TOM_VICTORY_POINTS_778: "Annetschi" # Annecy
+  TOM_VICTORY_POINTS_911: "Tolon" # Toulon
+  TOM_VICTORY_POINTS_11834: "Massilien" # Marseille
+  TOM_VICTORY_POINTS_3768: "Graswalde" # Grenoble
+  TOM_VICTORY_POINTS_6613: "Welsch-Leiden" # Lyon
+  TOM_VICTORY_POINTS_3594: "Widschi" # Vichy
+  TOM_VICTORY_POINTS_9898: "Plierberg" # Montpellier
+  TOM_VICTORY_POINTS_651: "Raoulschloss" # Châteauroux
+  TOM_VICTORY_POINTS_620: "Limoges" # Limoges
+  TOM_VICTORY_POINTS_6766: "Tholosen" # Toulouse
+  TOM_VICTORY_POINTS_6657: "Roschellen" # La Rochelle
+  TOM_VICTORY_POINTS_9737: "Bordau" # Bordeaux
+  TOM_VICTORY_POINTS_9710: "Guthafen" # Bayonne
+
+  # English Cities
+  TOM_VICTORY_POINTS_3501: "Dowershafen" # Dover
+  TOM_VICTORY_POINTS_9458: "Hafensmund" # Portsmouth
+  TOM_VICTORY_POINTS_6103: "Lunden" # London
+  TOM_VICTORY_POINTS_271: "Gippeswich" # Ipswich
+  TOM_VICTORY_POINTS_322: "Nordweich" # Norwich
+  TOM_VICTORY_POINTS_11279: "Ledekester" # Leicester
+  TOM_VICTORY_POINTS_6237: "Snotsheim" # Nottingham
+  TOM_VICTORY_POINTS_9315: "Scheffsfeld" # Sheffield
+  TOM_VICTORY_POINTS_9379: "Lattsheim" # Leeds
+  TOM_VICTORY_POINTS_11297: "Hullen" # Hull
+  TOM_VICTORY_POINTS_6526: "Treuo" # Truro
+  TOM_VICTORY_POINTS_540: "Bleimünd" # Plymouth
+  TOM_VICTORY_POINTS_3369: "Bristen" # Bristol
+  TOM_VICTORY_POINTS_9297: "Beomingsland" # Birmingham
+  TOM_VICTORY_POINTS_6318: "Mamutien" # Manchester
+  TOM_VICTORY_POINTS_6384: "Leierpolen" # Liverpool
+  TOM_VICTORY_POINTS_11332: "Karlsinsel" # Carlisle
+  TOM_VICTORY_POINTS_351: "Neuburg am Tein" # Newcastle
+  TOM_VICTORY_POINTS_377: "Kardiff" # Cardiff
+  TOM_VICTORY_POINTS_407: "Schwansee" # Swansea
+  TOM_VICTORY_POINTS_311: "Wechshamm" # Wrexham
+  TOM_VICTORY_POINTS_11218: "Drumfried" # Dumfries
+  TOM_VICTORY_POINTS_3273: "Glasgau" # Glasgow
+  TOM_VICTORY_POINTS_9392: "Edensburg" # Edinburgh
+  TOM_VICTORY_POINTS_6300: "Rositt" # Rosyth
+  TOM_VICTORY_POINTS_3150: "Dundeln" # Dundee
+  TOM_VICTORY_POINTS_200: "Abbern" # Aberdeen
+  TOM_VICTORY_POINTS_3373: "Obben" # Oban
+  TOM_VICTORY_POINTS_9075: "Inwern" # Inverness
+  TOM_VICTORY_POINTS_11064: "Skappenlau" # Scapa Flow
+  TOM_VICTORY_POINTS_6062: "Stornenweg" # Stornoway
+  TOM_VICTORY_POINTS_3311: "Dugeln" # Douglas
+  TOM_VICTORY_POINTS_3379: "Bellenburg" # Belfast
+  TOM_VICTORY_POINTS_385: "Derrer Kahldeich" # Londonderry
+  TOM_VICTORY_POINTS_11371: "Schliegen" # Sligo
+  TOM_VICTORY_POINTS_9303: "Gallen" # Galway
+  TOM_VICTORY_POINTS_11293: "Dublin" # Dublin
+  TOM_VICTORY_POINTS_303: "Tullen" # Tullamore
+  TOM_VICTORY_POINTS_285: "Wechselsfort" # Wexford
+  TOM_VICTORY_POINTS_6313: "Limmerick" # Limerick
+  TOM_VICTORY_POINTS_7394: "Kork" # Cork
+
+  # Ostdeutschland and Poland
+  TOM_VICTORY_POINTS_6282: "Stettin"
+  TOM_VICTORY_POINTS_11372: "Köslin"
+  TOM_VICTORY_POINTS_3473: "Küstrin"
+  TOM_VICTORY_POINTS_552: "Liegnitz"
+  TOM_VICTORY_POINTS_9570: "Breslau"
+  TOM_VICTORY_POINTS_9511: "Oppeln"
+  TOM_VICTORY_POINTS_11476: "Gleiwitz"
+  TOM_VICTORY_POINTS_6464: "Kattowitz"
+  TOM_VICTORY_POINTS_6558: "Posen"
+
+  TOM_VICTORY_POINTS_692: "München"
+  TOM_VICTORY_POINTS_11544: "Nürnberg"
+  TOM_VICTORY_POINTS_9427: "Krakau"
+  TOM_VICTORY_POINTS_3320: "Wilna"
+  TOM_VICTORY_POINTS_9508: "Litzmannstadt"
+  TOM_VICTORY_POINTS_11479: "Lemberg"
+  TOM_VICTORY_POINTS_11666: "Wien"
+  TOM_VICTORY_POINTS_11542: "Prag"
+  TOM_VICTORY_POINTS_3569: "Brünn"
+  TOM_VICTORY_POINTS_6418: "Pilsen"
+  TOM_VICTORY_POINTS_6573: "Kaschau"
+  TOM_VICTORY_POINTS_9692: "Preßburg"
+  TOM_VICTORY_POINTS_11610: "Fünfkirchen"
+  TOM_VICTORY_POINTS_11659: "Debrezin"
+  TOM_VICTORY_POINTS_11519: "Lüttich"
+  TOM_VICTORY_POINTS_9627: "Laibach"
+  TOM_VICTORY_POINTS_11581: "Agram"
+  TOM_VICTORY_POINTS_690: "Kronstadt"
+  TOM_VICTORY_POINTS_6711: "Klausenburg"
+  TOM_VICTORY_POINTS_3780: "Mailand"
+  TOM_VICTORY_POINTS_6626: "Triest"
+  TOM_VICTORY_POINTS_11584: "Venedig"
+  TOM_VICTORY_POINTS_9340: "Riga"
+  TOM_VICTORY_POINTS_3529: "Wolgograd"
+  TOM_VICTORY_POINTS_3151: "Saint Petersburg"
+  TOM_VICTORY_POINTS_10000: "Tsingtao"
+  TOM_VICTORY_POINTS_7251: "Simpsonhafen"
+  TOM_VICTORY_POINTS_3230: "Schröttersburg"
+  TOM_VICTORY_POINTS_11301: "Bialystok"
+  TOM_VICTORY_POINTS_11411: "Stanislau"
+  TOM_VICTORY_POINTS_442: "Tarnow"
+  TOM_VICTORY_POINTS_3295: "Thorn"
+  TOM_VICTORY_POINTS_9263: "Gotenhafen"
+  TOM_VICTORY_POINTS_279: "Bromberg"
+  TOM_VICTORY_POINTS_577: "Czernowitz"
+  TOM_VICTORY_POINTS_3548: "Munkatsch"
+  TOM_VICTORY_POINTS_11539: "Sillein"
+  TOM_VICTORY_POINTS_3583: "Ostrau"
+  TOM_VICTORY_POINTS_6562: "Olmütz"
+  TOM_VICTORY_POINTS_9569: "Tabor"
+  TOM_VICTORY_POINTS_3585: "Karlsbad"
+  TOM_VICTORY_POINTS_11401: "Reichenberg"
+  TOM_VICTORY_POINTS_9606: "Temeschwar"
+  TOM_VICTORY_POINTS_619: "Neusatz"
+  TOM_VICTORY_POINTS_3581: "Eperies"
+  TOM_VICTORY_POINTS_6727: "Weißenburg"
+  TOM_VICTORY_POINTS_11598: "Bozen"
+  TOM_VICTORY_POINTS_3614: "Pantschowa"
+  TOM_VICTORY_POINTS_11523: "Kosakenstadt"
+  TOM_VICTORY_POINTS_9432: "Baronsk"
+  TOM_VICTORY_POINTS_9598: "Trient"
+  TOM_VICTORY_POINTS_3604: "Padua"
+  TOM_VICTORY_POINTS_665: "Marburg"
+  TOM_VICTORY_POINTS_6889: "Ragusa"
+  TOM_VICTORY_POINTS_13258: "Sonderburg"
+  TOM_VICTORY_POINTS_11691: "Ungwar"
+  TOM_VICTORY_POINTS_6571: "Jassinja"
+  TOM_VICTORY_POINTS_541: "Neutra"
+  TOM_VICTORY_POINTS_557: "Znaim"
+  TOM_VICTORY_POINTS_6670: "Frankenstadt"
+  TOM_VICTORY_POINTS_11646: "Tschongrad"
+  TOM_VICTORY_POINTS_6700: "Segedin"
+  TOM_VICTORY_POINTS_6720: "Raab"
+  TOM_VICTORY_POINTS_12154: "Friedrich - Wilhelmshafen"
+  TOM_VICTORY_POINTS_686: "Ödenburg"
+  TOM_VICTORY_POINTS_9672: "Neumarkt am Mieresch"
+  TOM_VICTORY_POINTS_3414: "Troppau"
+  TOM_VICTORY_POINTS_3609: "Schabatz"
+  TOM_VICTORY_POINTS_6672: "Olsnitz"
+  TOM_VICTORY_POINTS_3696: "Großwardein"
+  TOM_VICTORY_POINTS_6470: "Falkenau"
+  TOM_VICTORY_POINTS_11525: "Frain Dam"

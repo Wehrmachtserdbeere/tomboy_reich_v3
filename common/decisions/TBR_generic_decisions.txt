@@ -1,0 +1,161 @@
+TBR_DECISION_CATEGORIES_economy_decisions = {
+
+	# Enter Armed Isolationism
+	TBR_DECISION_ECONOMY_enter_armed_isolationism = {
+
+		icon = generic_industry
+
+		priority = 10
+
+		available = {
+			has_idea = TBR_IDEA_ECONOMY_isolationism
+			has_war = no
+			OR = {
+				is_in_faction = no
+				AND = {
+					# Is in faction,
+					# is the leader,
+					# and only puppets
+					# or subjects are
+					# in faction.
+					is_faction_leader = yes
+					NOT = {
+						any_country = {
+							is_in_faction_with = ROOT
+							NOT = {
+								is_puppet_of = ROOT
+								is_subject_of = ROOT
+							}
+						}
+					}
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = TBR_TOOLTIP_GENERIC_can_go_into_isolationism
+				NOT = {
+					has_country_flag = TBR_COUNTRY_FLAG_cannot_enter_isolationism
+				}
+			}
+		}
+
+		cost = 150
+
+		complete_effect = {
+			swap_ideas = {
+				remove_idea = TBR_IDEA_ECONOMY_isolationism
+				add_idea = TBR_IDEA_ECONOMY_armed_isolationism
+			}
+		}
+	}
+
+	# Enter Isolationism
+	TBR_DECISION_ECONOMY_enter_isolationism = {
+	
+		icon = generic_industry
+
+		priority = 9
+
+		available = {
+			has_war = no
+			OR = {
+				is_in_faction = no
+				AND = {
+					# Is in faction,
+					# is the leader,
+					# and only puppets
+					# or subjects are
+					# in faction.
+					is_faction_leader = yes
+					NOT = {
+						any_country = {
+							is_in_faction_with = ROOT
+							NOT = {
+								is_puppet_of = ROOT
+								is_subject_of = ROOT
+							}
+						}
+					}
+				}
+			}
+			OR = {
+				has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+				has_idea = TBR_IDEA_ECONOMY_civilian_economy
+				has_idea = TBR_IDEA_ECONOMY_young_economy
+			}
+			custom_trigger_tooltip = {
+				tooltip = TBR_TOOLTIP_GENERIC_can_go_into_isolationism
+				NOT = {
+					has_country_flag = TBR_COUNTRY_FLAG_cannot_enter_isolationism
+				}
+			}
+		}
+
+		cost = 200
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+				}
+				swap_ideas = {
+					remove_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					add_idea = TBR_IDEA_ECONOMY_isolationism
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+				}
+				swap_ideas = {
+					remove_idea = TBR_IDEA_ECONOMY_young_economy
+					add_idea = TBR_IDEA_ECONOMY_isolationism
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+				}
+				swap_ideas = {
+					remove_idea = TBR_IDEA_ECONOMY_civilian_economy
+					add_idea = TBR_IDEA_ECONOMY_isolationism
+				}
+			}
+		}
+
+	}
+
+	# Exit Isolationism
+	TBR_DECISION_ECONOMY_exit_isolationism = {
+
+		allowed = {
+			OR = {
+				has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+				has_idea = TBR_IDEA_ECONOMY_isolationism
+			}
+		}
+
+		cost = 250
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+				}
+				swap_ideas = {
+					remove_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					add_idea = TBR_IDEA_ECONOMY_civilian_economy
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+				}
+				swap_ideas = {
+					remove_idea = TBR_IDEA_ECONOMY_isolationism
+					add_idea = TBR_IDEA_ECONOMY_civilian_economy
+				}
+			}
+		}
+	}
+
+}

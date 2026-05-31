@@ -1,0 +1,124 @@
+﻿l_english:
+
+  # Belgium
+  ANI_STATE_6: "Flandern" # Vlaanderen
+  ANI_STATE_977: "Antorf" # Antwerpen
+  ANI_STATE_34: "Wallonen" # Wallonie
+  ANI_STATE_980: "Ardennen" # Ardennes
+
+  # Luxembourg
+  ANI_STATE_8: "Luxemburg" # Luxembourg
+
+  # Netherlands
+  ANI_STATE_35: "Nord-Brabant" # Brabant
+  ANI_STATE_7: "Holland" # Holland
+  ANI_STATE_36: "Friesland" # Friesland
+  
+  # France
+  ANI_STATE_29: "Nordkalen" # Nord-Pas-De-Calais
+  ANI_STATE_785: "Picardie" # Picardy
+  ANI_STATE_18: "Champagne-Ardennen" # Champagne
+  ANI_STATE_28: "Elsaß-Lothringen" # Alsace-Lorraine
+  ANI_STATE_17: "Burgund" # Franche-Comte
+  ANI_STATE_27: "West-Burgund" # Bourgogne
+  ANI_STATE_24: "Zentrum-Loiretal" # Centre
+  ANI_STATE_16: "Agglomeration Paris" # Île De France
+  ANI_STATE_15: "Normandie" # Normandy
+  ANI_STATE_30: "Lorelei" # Loire
+  ANI_STATE_14: "Kleinbritannien" # Brittany
+  # Non-Core Tomboy France
+  ANI_STATE_735: "Savoyen" # Savoy
+  ANI_STATE_851: "Var" # Var
+  ANI_STATE_21: "Rhonemünd" # Bouches-du-Rhône
+  ANI_STATE_32: "Drom" # Alpes
+  ANI_STATE_20: "Rhonland" # Rhone
+  ANI_STATE_26: "Allier" # Auvergne
+  ANI_STATE_22: "Pliererland" # Languedoc
+  ANI_STATE_33: "Raouler Indre" # Centre-Sud
+  ANI_STATE_25: "Lemosin" # Limousin
+  ANI_STATE_31: "Okzitanien" # Midi Pyrenees
+  ANI_STATE_23: "Piktavien" # Poitou
+  ANI_STATE_19: "Aquitanien" # Aquitaine
+  ANI_STATE_806: "Atlantische Pyrenäen" # Pyrénées-Atlantiques
+
+  # Germany
+  ANI_STATE_42: "Pfalz" # Moselland
+  ANI_STATE_51: "Rheinland" # Rhineland
+  ANI_STATE_55: "Hessen" # Hessen
+  ANI_STATE_57: "Westfalen" # Westfalen
+  ANI_STATE_56: "Weser-Ems" # Weser-Ems
+  
+  # English States
+  ANI_STATE_127: "Südsachsen" # Sussex
+  ANI_STATE_126: "Großlunden" # Greater London Area
+  ANI_STATE_125: "Ostangeln" # East Anglia
+  ANI_STATE_129: "Ostlande" # East Midlands
+  ANI_STATE_130: "Eibensland" # Yorkshire
+  ANI_STATE_123: "Kärntwall" # South-West England
+  ANI_STATE_338: "Karolei" # Gloucestershire
+  ANI_STATE_128: "Westlande" # West Midlands
+  ANI_STATE_132: "Lankern" # Lancashire
+  ANI_STATE_931: "Cumberland" # Cumbria
+  ANI_STATE_131: "Nordhumbern" # Northumberland
+  ANI_STATE_122: "Wallen" # Wales
+  ANI_STATE_121: "Lotien" # Lothian
+  ANI_STATE_133: "Lanenarchsland" # Lanark
+  ANI_STATE_136: "Abbersland" # Aberdeenshire
+  ANI_STATE_120: "Schottenhochland" # Scottish Highlands
+  ANI_STATE_933: "Schettland" # Shetland Islands
+  ANI_STATE_932: "Männerinsel" # Isle of Man
+  ANI_STATE_119: "Ulster" # Northern Ireland
+  ANI_STATE_134: "Konnach" # Connaught
+  ANI_STATE_113: "Leinsburg" # Leinester
+  ANI_STATE_135: "Irisch Münster" # Munster
+
+
+
+
+  # Various other States
+
+  # USA
+  ANI_STATE_367: "Clan-Clan" # Alabama - Aisha Clanclan
+  ANI_STATE_463: "Balalaika" # Alaska - Balalaika
+  ANI_STATE_377: "Revy" # Arizona - Revy
+  ANI_STATE_372: "Matoi" # Arkansas - Ryuko Matoi (It's pronounced Are-Can-Sis)
+  ANI_STATE_378: "Kusanagi" # California - Motoko Kusanagi
+  ANI_STATE_382: "Tenoh" # Colorado - Haruka Tenoh
+  ANI_STATE_366: "Malandro" # Florida - Michiko Malandro
+  ANI_STATE_365: "Misato" # Georgia - Misato Katsuragi (Not a tomboy, but an easter egg :P)
+  ANI_STATE_629: "Nessa" # Hawaii - Nessa
+  ANI_STATE_387: "Sinon" # Idaho - Shino Asada (Sinon)
+  ANI_STATE_395: "Mado" # Illinois - Akira Mado
+  ANI_STATE_396: "Sakura" # Indiana - Kyoko Sakura
+  ANI_STATE_392: "May" # Iowa - May
+  ANI_STATE_383: "Android" # Kansas - Android 18 (It's pronounced Can-Saw)
+  ANI_STATE_369: "Leonhart" # Kentucky - Annie Leonhart
+  ANI_STATE_371: "Shihouin" # Louisiana - Yoruichi Shihouin
+  ANI_STATE_361: "Haruhara" # Maryland - Haruko Haruhara
+  ANI_STATE_393: "Kiryuuin" # Michigan - Satsuki Kiryuuin
+  ANI_STATE_391: "Yukino" # Minnessota - Yukino Yukinoshita
+  ANI_STATE_370: "Balsa" # Mississippi - Balsa
+  ANI_STATE_373: "Ayuzawa" # Missouri - Misaki Ayuzawa
+  ANI_STATE_388: "Jakuzure" # Montana - Nonon Jakuzure
+  ANI_STATE_384: "Rockbell" # Nebraska - Winry Rockbell
+  ANI_STATE_379: "Valentine" # Nevada - Faye Valentine
+  ANI_STATE_357: "Victoria" # New England - Seras Victoria
+  ANI_STATE_359: "Kagura" # New Jersey - Kagura
+  ANI_STATE_376: "Nadie" # New Mexico - Nadie
+  ANI_STATE_358: "Ackerman" # New York - Mikasa Ackerman
+  ANI_STATE_363: "Yoko" # North Carolina - Yoko Littner
+  ANI_STATE_389: "Erikasland" # North Dakota - Erica Hartmann
+  ANI_STATE_261: "Utena" # Ohio - Utena Tenjou
+  ANI_STATE_374: "Meryland" # Oklahoma - Meryl Stryfe (Yes, I did not assign this to Maryland, because it's funnier this way)
+  ANI_STATE_385: "Celty" # Oregon - Celty Sturluson
+  ANI_STATE_360: "Konno" # Pennsylvania - Yuuki Konno
+  ANI_STATE_364: "Kunihiro" # South Carolina - Ritsuko Kunihiro
+  ANI_STATE_390: "Wilckenland" # South Dakota - Minna-Dietlinde Wilcke
+  ANI_STATE_368: "Rin" # Tennessee - Rin Shibuya
+  ANI_STATE_375: "Mirko" # Texas - Rumi 'Mirko' Usagiyama
+  ANI_STATE_380: "Artoria" # Utah -  Artoria Pendragon
+  ANI_STATE_362: "Aikawa" # Virginia - Maki Aikawa
+  ANI_STATE_386: "Kino" # Washington - Kino
+  ANI_STATE_816: "Aliza" # West Virginia - Aliza
+  ANI_STATE_394: "Yukari" # Wisconsin - Yukari Takeba
+  ANI_STATE_381: "Kirishima" # Wyoming - Touka Kirishima

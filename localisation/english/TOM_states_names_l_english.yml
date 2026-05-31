@@ -1,0 +1,117 @@
+﻿l_english:
+
+  # Belgium
+  TOM_STATE_6: "Flandern" # Vlaanderen
+  TOM_STATE_977: "Antorf" # Antwerpen
+  TOM_STATE_34: "Wallonen" # Wallonie
+  TOM_STATE_980: "Ardennen" # Ardennes
+
+  # Luxembourg
+  TOM_STATE_8: "Luxemburg" # Luxembourg
+
+  # Netherlands
+  TOM_STATE_35: "Nord-Brabant" # Brabant
+  TOM_STATE_7: "Holland" # Holland
+  TOM_STATE_36: "Friesland" # Friesland
+  
+  # France
+  TOM_STATE_29: "Nordkalen" # Nord-Pas-De-Calais
+  TOM_STATE_785: "Picardie" # Picardy
+  TOM_STATE_18: "Champagne-Ardennen" # Champagne
+  TOM_STATE_28: "Elsaß-Lothringen" # Alsace-Lorraine
+  TOM_STATE_17: "Burgund" # Franche-Comte
+  TOM_STATE_27: "West-Burgund" # Bourgogne
+  TOM_STATE_24: "Zentrum-Loiretal" # Centre
+  TOM_STATE_16: "Agglomeration Paris" # Île De France
+  TOM_STATE_15: "Normandie" # Normandy
+  TOM_STATE_30: "Lorelei" # Loire
+  TOM_STATE_14: "Kleinbritannien" # Brittany
+  TOM_STATE_735: "Savoyen" # Savoy
+  TOM_STATE_851: "Var" # Var
+  TOM_STATE_21: "Rhonemünd" # Bouches-du-Rhône
+  TOM_STATE_32: "Drom" # Alpes
+  TOM_STATE_20: "Rhonland" # Rhone
+  TOM_STATE_26: "Allier" # Auvergne
+  TOM_STATE_22: "Pliererland" # Languedoc
+  TOM_STATE_33: "Raouler Indre" # Centre-Sud
+  TOM_STATE_25: "Lemosin" # Limousin
+  TOM_STATE_31: "Okzitanien" # Midi Pyrenees
+  TOM_STATE_23: "Piktavien" # Poitou
+  TOM_STATE_19: "Aquitanien" # Aquitaine
+  TOM_STATE_806: "Atlantische Pyrenäen" # Pyrénées-Atlantiques
+  
+  # English States
+  TOM_STATE_127: "Südsachsen" # Sussex
+  TOM_STATE_126: "Großlunden" # Greater London Area
+  TOM_STATE_125: "Ostangeln" # East Anglia
+  TOM_STATE_129: "Ostlande" # East Midlands
+  TOM_STATE_130: "Eibensland" # Yorkshire
+  TOM_STATE_123: "Kärntwall" # South-West England
+  TOM_STATE_338: "Karolei" # Gloucestershire
+  TOM_STATE_128: "Westlande" # West Midlands
+  TOM_STATE_132: "Lankern" # Lancashire
+  TOM_STATE_931: "Cumberland" # Cumbria
+  TOM_STATE_131: "Nordhumbern" # Northumberland
+  TOM_STATE_122: "Wallen" # Wales
+  TOM_STATE_121: "Lotien" # Lothian
+  TOM_STATE_133: "Lanenarchsland" # Lanark
+  TOM_STATE_136: "Abbersland" # Aberdeenshire
+  TOM_STATE_120: "Schottenhochland" # Scottish Highlands
+  TOM_STATE_933: "Schettland" # Shetland Islands
+  TOM_STATE_932: "Männerinsel" # Isle of Man
+  TOM_STATE_119: "Ulster" # Northern Ireland
+  TOM_STATE_134: "Konnach" # Connaught
+  TOM_STATE_113: "Leinsburg" # Leinester
+  TOM_STATE_135: "Irisch Münster" # Munster
+
+  TOM_STATE_57: "Westfalen"
+  TOM_STATE_56: "Weser-Ems"
+  TOM_STATE_51: "Rheinland"
+  TOM_STATE_42: "Pfalz"
+  TOM_STATE_55: "Hessen"
+
+  TOM_STATE_912: "Nord-Schleswig"
+  TOM_STATE_66: "Niederschlesien"
+  TOM_STATE_67: "Oberschlesien"
+  TOM_STATE_762: "Kattowitz"
+  TOM_STATE_153: "Tirol"
+  TOM_STATE_152: "Ober-Österreich"
+  TOM_STATE_4: "Nieder-Österreich"
+  TOM_STATE_976: "Steiermark-Kärnten"
+  TOM_STATE_102: "Crain"
+  TOM_STATE_853: "Laibach"
+  TOM_STATE_39: "Südtirol"
+  TOM_STATE_850: "Trent"
+  TOM_STATE_160: "Venetien"
+  TOM_STATE_736: "Österreichisches Küstenland"
+  TOM_STATE_852: "Istrien"
+  TOM_STATE_69: "Nord-Sudetenland"
+  TOM_STATE_972: "Süd-Sudetenland"
+  TOM_STATE_9: "Böhmen"
+  TOM_STATE_74: "Sudeten-Schlesien"
+  TOM_STATE_75: "Morawei"
+  TOM_STATE_72: "Teschener Schlesien"
+  TOM_STATE_70: "West-Slowakei"
+  TOM_STATE_71: "Ost-Slowakei"
+  TOM_STATE_73: "Karpaten-Ukraine"
+  TOM_STATE_88: "Krakau"
+  TOM_STATE_90: "Keltz"
+  TOM_STATE_87: "Litzmannstaat"
+  TOM_STATE_86: "Posen"
+  TOM_STATE_807: "Gotenstaat"
+  TOM_STATE_85: "Danzig"
+  TOM_STATE_5: "Ermland-Masuren"
+  TOM_STATE_763: "Ostpreußen"
+  TOM_STATE_188: "Memel"
+  TOM_STATE_98: "Plock"
+  TOM_STATE_10: "Warschau"
+  TOM_STATE_92: "Lublin"
+  TOM_STATE_89: "Stanislau"
+  TOM_STATE_91: "Lemburg"
+  TOM_STATE_93: "Wolin"
+  TOM_STATE_94: "Polesien"
+  TOM_STATE_97: "Podlachien"
+  TOM_STATE_784: "Wilnus"
+  TOM_STATE_96: "Willen"
+  TOM_STATE_95: "Nowgorod"
+  TOM_STATE_80: "Buchenland"

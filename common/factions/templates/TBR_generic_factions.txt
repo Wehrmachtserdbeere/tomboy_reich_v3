@@ -1,0 +1,18 @@
+FACTION_TEMPLATE_EMPIRE = {
+	name = FACTION_EMPIRE_NAME
+	manifest = FACTION_MANIFEST_EMPIRE
+	icon = TBD
+	can_leader_join_other_factions = yes
+
+	visible = {
+		always = no
+	}
+
+	goals = {
+		FACTION_GOAL_STAY_UNITED
+	}
+
+	default_rules = {
+		joining_rule_puppets_only
+	}
+}
