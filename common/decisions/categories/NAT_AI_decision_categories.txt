@@ -18,8 +18,24 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 		original_tag = NAT
 	}
 
+	visible_when_empty = no
+
+	priority = 100
+
 	visible = {
 		# has_completed_focus = NAT_FOCUS_AI_takeover
+		NAT = {
+			any_owned_state = {
+				NOT = {
+					has_state_flag = NAT_was_renamed
+				}
+				# Attempt:
+				# AND -> Is in this state array, so this doesn't show if they own a never-renamed state.
+				is_in_array = {
+					array = PREV.NAT_RENAME_STATES_ARRAY
+					value = THIS
+				}
+			}
+		}
 	}
-
 }

@@ -12,12 +12,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 		available = {
 			any_owned_state = {
 				NOT = {
-					has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+					has_state_flag = NAT_was_renamed
 				}
 				# Attempt:
 				# AND -> Is in this state array, so this doesn't show if they own a never-renamed state.
 				is_in_array = {
-					array = var:NAT_RENAME_STATES_ARRAY
+					array = PREV.NAT_RENAME_STATES_ARRAY
 					value = THIS
 				}
 			}
@@ -37,11 +37,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					367 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				367 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_367
 				}
 				# Mobile
@@ -61,11 +62,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					463 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				463 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_463
 				}
 				# Unalaska
@@ -85,11 +87,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					377 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				377 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_377
 				}
 				# Phoenix
@@ -104,11 +107,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					372 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				372 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_372
 				}
 				# Little Rock
@@ -123,11 +127,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					378 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				378 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_378
 				}
 				# Los Angeles
@@ -157,11 +162,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					382 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				382 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_382
 				}
 				# Denver
@@ -176,11 +182,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					366 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				366 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_366
 				}
 				# Miami
@@ -195,11 +202,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					365 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				365 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_365
 				}
 				# Atlanta
@@ -214,11 +222,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					629 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				629 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_629
 				}
 				# Honolulu
@@ -233,11 +242,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					387 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				387 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_387
 				}
 				# Boise
@@ -252,11 +262,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					395 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				395 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_395
 				}
 				# Chicago
@@ -271,11 +282,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					396 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				396 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_396
 				}
 				# Indianapolis
@@ -290,11 +302,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					392 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				392 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_392
 				}
 				# Des Moines
@@ -309,11 +322,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					383 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				383 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_383
 				}
 				# Wichita
@@ -333,11 +347,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					369 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				369 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_369
 				}
 				# Louisville
@@ -352,11 +367,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					371 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				371 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_371
 				}
 				# New Orleans
@@ -371,11 +387,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					361 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				361 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_361
 				}
 				# Washington
@@ -395,11 +412,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					393 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				393 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_393
 				}
 				# Detroit
@@ -414,11 +432,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					391 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				391 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_391
 				}
 				# Minneapolis
@@ -433,11 +452,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					370 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				370 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_370
 				}
 				# Biloxi
@@ -452,11 +472,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					373 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				373 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_373
 				}
 				# Saint Louis
@@ -481,11 +502,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					388 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				388 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_388
 				}
 				# Great Falls
@@ -500,11 +522,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					384 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				384 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_384
 				}
 				# Omaha
@@ -519,11 +542,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					379 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				379 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_379
 				}
 				# Las Vegas
@@ -538,11 +562,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					357 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				357 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_357
 				}
 				# Boston
@@ -567,11 +592,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					359 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				359 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_359
 				}
 				# Newark
@@ -586,11 +612,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					376 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				376 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_376
 				}
 				# Alberquerque
@@ -605,11 +632,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					358 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				358 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_358
 				}
 				# New York
@@ -629,11 +657,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					363 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				363 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_363
 				}
 				# Charlotte
@@ -648,11 +677,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					389 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				389 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_389
 				}
 				# Bismarck
@@ -667,11 +697,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					261 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				261 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_261
 				}
 				# Columbus
@@ -691,11 +722,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					374 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				374 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_374
 				}
 				# Tulsa
@@ -710,11 +742,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					385 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				385 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_385
 				}
 				# Portland
@@ -729,11 +762,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					360 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				360 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_360
 				}
 				# Philadelphia
@@ -753,11 +787,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					364 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				364 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_364
 				}
 				# Charleston
@@ -772,11 +807,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					390 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				390 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_390
 				}
 				# Rapid City
@@ -791,11 +827,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					368 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				368 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_368
 				}
 				# Nashville
@@ -810,11 +847,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					375 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				375 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_375
 				}
 				# Houston
@@ -839,11 +877,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					380 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				380 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_380
 				}
 				# Salt Lake City
@@ -858,11 +897,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					362 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				362 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_362
 				}
 				# Salamanka
@@ -882,11 +922,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					386 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				386 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_386
 				}
 				# Spokane
@@ -906,11 +947,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					816 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				816 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_816
 				}
 				# Charleston
@@ -925,11 +967,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					394 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				394 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_394
 				}
 				# Milwaukee
@@ -944,11 +987,12 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 					381 = {
 						is_owned_and_controlled_by = NAT
 						NOT = {
-							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+							has_state_flag = NAT_was_renamed
 						}
 					}
 				}
 				381 = {
+					set_state_flag = NAT_was_renamed
 					set_state_name = NAT_AI_STATE_381
 				}
 				# Somehow, Wyoming has no victory points.
