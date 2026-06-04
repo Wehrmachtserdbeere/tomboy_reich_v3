@@ -4,7 +4,7 @@
   TBR_IDEA_COUNTRY_human_people: "Human Population"
   TBR_IDEA_COUNTRY_human_people_desc: "§CHomo Sapiens§!\n[THIS.GetNameDefCap] has a majority Human population."
   TBR_IDEA_COUNTRY_mixed_people: "Mixed Anime-Human Population"
-  TBR_IDEA_COUNTRY_mixed_people_desc: "§CHomo Sapiens§ and §CHomo Nihonensis§ share their country with each other, mostly peacefully."
+  TBR_IDEA_COUNTRY_mixed_people_desc: "§CHomo Sapiens§! and §CHomo Nihonensis§! share their country with each other, mostly peacefully."
 
   TBR_IDEA_ECONOMY_armed_isolationism: "Armed Isolationism"
   TBR_IDEA_ECONOMY_armed_isolationism_desc: "Rejecting the idea of globalization, or simply arming for full self-sufficiency, [THIS.GetNameDefCap] has a strong military presence and is largely isolated from other nations."

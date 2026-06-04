@@ -1,3 +1,3 @@
-NAT_NJS = {
-	color = { 128 0 128 }
+NAT_AI = {
+	color = rgb { 128 0 128 }
 }

@@ -1,0 +1,206 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			
+			#####################################################################
+			# NAT - Add their renameable states and victory points to an array. #
+			#####################################################################
+			NAT = {
+				
+				#
+				# States
+				#
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 261 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 357 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 358 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 359 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 360 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 361 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 362 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 363 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 364 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 365 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 366 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 367 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 368 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 369 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 370 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 371 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 372 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 373 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 374 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 375 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 376 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 377 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 378 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 379 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 380 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 381 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 382 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 383 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 384 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 385 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 386 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 387 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 388 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 389 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 390 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 391 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 392 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 393 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 394 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 395 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 396 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 463 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 629 }
+				add_to_array = { NAT_RENAME_STATES_ARRAY = 816 }
+
+				#
+				# Victory Points
+				#
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6882 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3957 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3878 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 9450 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 9814 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10337 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 788 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 853 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4799 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1562 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1595 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1690 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1747 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1770 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1806 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1827 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1836 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1843 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1866 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3960 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4569 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4860 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4865 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6696 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6710 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6732 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6845 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6855 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 6890 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7138 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7202 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7315 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7480 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7552 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 9671 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 9713 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10370 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10717 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 11654 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 11800 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3513 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12357 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12384 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12459 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12489 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12501 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12586 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12735 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12782 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13090 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13091 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3778 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3775 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1408 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3010 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4345 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4872 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7361 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12149 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1965 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4956 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12810 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12835 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13089 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10886 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12823 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12865 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12738 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13087 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7630 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7622 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7590 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4641 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7660 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4598 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12885 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10747 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 2023 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12790 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 8113 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1944 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12798 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12997 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 2210 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5230 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 2152 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10980 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5107 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5168 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10447 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10513 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10946 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12853 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10362 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12364 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7500 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7621 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 8216 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12942 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 650 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10400 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1468 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4696 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12589 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 8245 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 8248 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10966 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 10929 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 191 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5117 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5139 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 8193 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 5210 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 2050 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7959 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4948 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12766 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12806 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 1269 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 3995 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4180 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4226 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4268 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4329 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 2489 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 4357 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7251 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7290 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 7302 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12021 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12120 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12140 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12148 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 12237 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13021 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13025 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13028 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13038 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13041 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13046 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13047 }
+				add_to_array = { NAT_RENAME_VICTORY_POINTS_ARRAY = 13052 }
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+TBR_DYN_MOD_renamed_by_NAT = {
+	enable = {
+		is_controlled_by = NAT
+	}
+
+	# This is an informative modifier that also functions to hide NAT "rename" decisions
+}

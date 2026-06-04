@@ -1,6 +1,10 @@
-capital = 359
+#
+# Tags:
+#   NAT - Base New Jersey without AI stuff.
+#   NAT_AI - NAITSUKI New Jersey.
+#
 
-set_cosmetic_tag = NAT_NJS
+capital = 359
 
 set_research_slots = 3
 

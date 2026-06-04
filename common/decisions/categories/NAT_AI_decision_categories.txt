@@ -1,0 +1,25 @@
+NAT_DECISION_CATEGORIES_common_decisions = {
+	icon = generic_political_actions
+
+	allowed = {
+		original_tag = NAT
+	}
+
+	visible = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+	}
+
+}
+
+NAT_DECISION_CATEGORIES_rename_locations_decisions = {
+	icon = generic_political_actions
+
+	allowed = {
+		original_tag = NAT
+	}
+
+	visible = {
+		# has_completed_focus = NAT_FOCUS_AI_takeover
+	}
+
+}

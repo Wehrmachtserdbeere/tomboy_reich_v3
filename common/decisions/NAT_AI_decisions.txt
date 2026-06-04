@@ -1,0 +1,959 @@
+NAT_DECISION_CATEGORIES_rename_locations_decisions = {
+	
+	NAT_DECISION_RENAME_state_and_victory_points = {
+		icon = generic_political_actions
+
+		priority = 10
+
+		allowed = {
+			original_tag = NAT
+		}
+
+		available = {
+			any_owned_state = {
+				NOT = {
+					has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+				}
+				# Attempt:
+				# AND -> Is in this state array, so this doesn't show if they own a never-renamed state.
+				is_in_array = {
+					array = var:NAT_RENAME_STATES_ARRAY
+					value = THIS
+				}
+			}
+		}
+
+		cost = 0
+
+		complete_effect = {
+			
+			#
+			# States
+			#
+
+			# Alabama
+			if = {
+				limit = {
+					367 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				367 = {
+					set_state_name = NAT_AI_STATE_367
+				}
+				# Mobile
+				set_province_name = {
+					id = 7480
+					name = NAT_AI_VICTORY_POINTS_7480
+				}
+				# Birmingham (Alabama?!)
+				set_province_name = {
+					id = 12735
+					name = NAT_AI_VICTORY_POINTS_12735
+				}
+			}
+			# Alaska
+			if = {
+				limit = {
+					463 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				463 = {
+					set_state_name = NAT_AI_STATE_463
+				}
+				# Unalaska
+				set_province_name = {
+					id = 13090
+					name = NAT_AI_VICTORY_POINTS_13090
+				}
+				# Anchorage
+				set_province_name = {
+					id = 13091
+					name = NAT_AI_VICTORY_POINTS_13091
+				}
+			}
+			# Arizona
+			if = {
+				limit = {
+					377 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				377 = {
+					set_state_name = NAT_AI_STATE_377
+				}
+				# Phoenix
+				set_province_name = {
+					id = 853
+					name = NAT_AI_VICTORY_POINTS_853
+				}
+			}
+			# Arkansas
+			if = {
+				limit = {
+					372 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				372 = {
+					set_state_name = NAT_AI_STATE_372
+				}
+				# Little Rock
+				set_province_name = {
+					id = 12489
+					name = NAT_AI_VICTORY_POINTS_12489
+				}
+			}
+			# California
+			if = {
+				limit = {
+					378 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				378 = {
+					set_state_name = NAT_AI_STATE_378
+				}
+				# Los Angeles
+				set_province_name = {
+					id = 9814
+					name = NAT_AI_VICTORY_POINTS_9814
+				}
+				# San Diego
+				set_province_name = {
+					id = 1562
+					name = NAT_AI_VICTORY_POINTS_1562
+				}
+				# San Francisco
+				set_province_name = {
+					id = 9671
+					name = NAT_AI_VICTORY_POINTS_9671
+				}
+				# Sacramento
+				set_province_name = {
+					id = 9713
+					name = NAT_AI_VICTORY_POINTS_9713
+				}
+			}
+			# Colorado
+			if = {
+				limit = {
+					382 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				382 = {
+					set_state_name = NAT_AI_STATE_382
+				}
+				# Denver
+				set_province_name = {
+					id = 1827
+					name = NAT_AI_VICTORY_POINTS_1827
+				}
+			}
+			# Florida
+			if = {
+				limit = {
+					366 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				366 = {
+					set_state_name = NAT_AI_STATE_366
+				}
+				# Miami
+				set_province_name = {
+					id = 1843
+					name = NAT_AI_VICTORY_POINTS_1843
+				}
+			}
+			# Georgia
+			if = {
+				limit = {
+					365 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				365 = {
+					set_state_name = NAT_AI_STATE_365
+				}
+				# Atlanta
+				set_province_name = {
+					id = 12384
+					name = NAT_AI_VICTORY_POINTS_12384
+				}
+			}
+			# Hawaii
+			if = {
+				limit = {
+					629 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				629 = {
+					set_state_name = NAT_AI_STATE_629
+				}
+				# Honolulu
+				set_province_name = {
+					id = 4180
+					name = NAT_AI_VICTORY_POINTS_4180
+				}
+			}
+			# Idaho
+			if = {
+				limit = {
+					387 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				387 = {
+					set_state_name = NAT_AI_STATE_387
+				}
+				# Boise
+				set_province_name = {
+					id = 9616
+					name = NAT_AI_VICTORY_POINTS_9616
+				}
+			}
+			# Illinois
+			if = {
+				limit = {
+					395 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				395 = {
+					set_state_name = NAT_AI_STATE_395
+				}
+				# Chicago
+				set_province_name = {
+					id = 9450
+					name = NAT_AI_VICTORY_POINTS_9450
+				}
+			}
+			# Indiana
+			if = {
+				limit = {
+					396 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				396 = {
+					set_state_name = NAT_AI_STATE_396
+				}
+				# Indianapolis
+				set_province_name = {
+					id = 1595
+					name = NAT_AI_VICTORY_POINTS_1595
+				}
+			}
+			# Iowa
+			if = {
+				limit = {
+					392 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				392 = {
+					set_state_name = NAT_AI_STATE_392
+				}
+				# Des Moines
+				set_province_name = {
+					id = 1770
+					name = NAT_AI_VICTORY_POINTS_1770
+				}
+			}
+			# Kansas
+			if = {
+				limit = {
+					383 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				383 = {
+					set_state_name = NAT_AI_STATE_383
+				}
+				# Wichita
+				set_province_name = {
+					id = 4740
+					name = NAT_AI_VICTORY_POINTS_4740
+				}
+				# Topeka
+				set_province_name = {
+					id = 7834
+					name = NAT_AI_VICTORY_POINTS_7834
+				}
+			}
+			# Kentucky
+			if = {
+				limit = {
+					369 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				369 = {
+					set_state_name = NAT_AI_STATE_369
+				}
+				# Louisville
+				set_province_name = {
+					id = 6696
+					name = NAT_AI_VICTORY_POINTS_6696
+				}
+			}
+			# Louisiana
+			if = {
+				limit = {
+					371 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				371 = {
+					set_state_name = NAT_AI_STATE_371
+				}
+				# New Orleans
+				set_province_name = {
+					id = 7552
+					name = NAT_AI_VICTORY_POINTS_7552
+				}
+			}
+			# Maryland
+			if = {
+				limit = {
+					361 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				361 = {
+					set_state_name = NAT_AI_STATE_361
+				}
+				# Washington
+				set_province_name = {
+					id = 3957
+					name = NAT_AI_VICTORY_POINTS_3957
+				}
+				# Baltimore
+				set_province_name = {
+					id = 6984
+					name = NAT_AI_VICTORY_POINTS_6984
+				}
+			}
+			# Michigan
+			if = {
+				limit = {
+					393 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				393 = {
+					set_state_name = NAT_AI_STATE_393
+				}
+				# Detroit
+				set_province_name = {
+					id = 6710
+					name = NAT_AI_VICTORY_POINTS_6710
+				}
+			}
+			# Minnesota
+			if = {
+				limit = {
+					391 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				391 = {
+					set_state_name = NAT_AI_STATE_391
+				}
+				# Minneapolis
+				set_province_name = {
+					id = 1866
+					name = NAT_AI_VICTORY_POINTS_1866
+				}
+			}
+			# Mississippi
+			if = {
+				limit = {
+					370 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				370 = {
+					set_state_name = NAT_AI_STATE_370
+				}
+				# Biloxi
+				set_province_name = {
+					id = 4464
+					name = NAT_AI_VICTORY_POINTS_4464
+				}
+			}
+			# Missouri
+			if = {
+				limit = {
+					373 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				373 = {
+					set_state_name = NAT_AI_STATE_373
+				}
+				# Saint Louis
+				set_province_name = {
+					id = 4569
+					name = NAT_AI_VICTORY_POINTS_4569
+				}
+				# Kansas City
+				set_province_name = {
+					id = 10717
+					name = NAT_AI_VICTORY_POINTS_10717
+				}
+				# Springfield
+				set_province_name = {
+					id = 10370
+					name = NAT_AI_VICTORY_POINTS_10370
+				}
+			}
+			# Montana
+			if = {
+				limit = {
+					388 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				388 = {
+					set_state_name = NAT_AI_STATE_388
+				}
+				# Great Falls
+				set_province_name = {
+					id = 4860
+					name = NAT_AI_VICTORY_POINTS_4860
+				}
+			}
+			# Nebraska
+			if = {
+				limit = {
+					384 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				384 = {
+					set_state_name = NAT_AI_STATE_384
+				}
+				# Omaha
+				set_province_name = {
+					id = 12586
+					name = NAT_AI_VICTORY_POINTS_12586
+				}
+			}
+			# Nevada
+			if = {
+				limit = {
+					379 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				379 = {
+					set_state_name = NAT_AI_STATE_379
+				}
+				# Las Vegas
+				set_province_name = {
+					id = 4799
+					name = NAT_AI_VICTORY_POINTS_4799
+				}
+			}
+			# New England
+			if = {
+				limit = {
+					357 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				357 = {
+					set_state_name = NAT_AI_STATE_357
+				}
+				# Boston
+				set_province_name = {
+					id = 6732
+					name = NAT_AI_VICTORY_POINTS_6732
+				}
+				# Bangor
+				set_province_name = {
+					id = 12459
+					name = NAT_AI_VICTORY_POINTS_12459
+				}
+				# Providence
+				set_province_name = {
+					id = 9832
+					name = NAT_AI_VICTORY_POINTS_9832
+				}
+			}
+			# New Jersey
+			if = {
+				limit = {
+					359 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				359 = {
+					set_state_name = NAT_AI_STATE_359
+				}
+				# Newark
+				set_province_name = {
+					id = 6882
+					name = NAT_AI_VICTORY_POINTS_6882
+				}
+			}
+			# New Mexico
+			if = {
+				limit = {
+					376 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				376 = {
+					set_state_name = NAT_AI_STATE_376
+				}
+				# Alberquerque
+				set_province_name = {
+					id = 4975
+					name = NAT_AI_VICTORY_POINTS_4975
+				}
+			}
+			# New York
+			if = {
+				limit = {
+					358 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				358 = {
+					set_state_name = NAT_AI_STATE_358
+				}
+				# New York
+				set_province_name = {
+					id = 3878
+					name = NAT_AI_VICTORY_POINTS_3878
+				}
+				# Buffalo
+				set_province_name = {
+					id = 11654
+					name = NAT_AI_VICTORY_POINTS_11654
+				}
+			}
+			# North Carolina
+			if = {
+				limit = {
+					363 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				363 = {
+					set_state_name = NAT_AI_STATE_363
+				}
+				# Charlotte
+				set_province_name = {
+					id = 7138
+					name = NAT_AI_VICTORY_POINTS_7138
+				}
+			}
+			# North Dakota
+			if = {
+				limit = {
+					389 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				389 = {
+					set_state_name = NAT_AI_STATE_389
+				}
+				# Bismarck
+				set_province_name = {
+					id = 1836
+					name = NAT_AI_VICTORY_POINTS_1836
+				}
+			}
+			# Ohio
+			if = {
+				limit = {
+					261 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				261 = {
+					set_state_name = NAT_AI_STATE_261
+				}
+				# Columbus
+				set_province_name = {
+					id = 6855
+					name = NAT_AI_VICTORY_POINTS_6855
+				}
+				# Cleveland
+				set_province_name = {
+					id = 6890
+					name = NAT_AI_VICTORY_POINTS_6890
+				}
+			}
+			# Oklahoma
+			if = {
+				limit = {
+					374 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				374 = {
+					set_state_name = NAT_AI_STATE_374
+				}
+				# Tulsa
+				set_province_name = {
+					id = 1806
+					name = NAT_AI_VICTORY_POINTS_1806
+				}
+			}
+			# Oregon
+			if = {
+				limit = {
+					385 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				385 = {
+					set_state_name = NAT_AI_STATE_385
+				}
+				# Portland
+				set_province_name = {
+					id = 3513
+					name = NAT_AI_VICTORY_POINTS_3513
+				}
+			}
+			# Pennsylvania
+			if = {
+				limit = {
+					360 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				360 = {
+					set_state_name = NAT_AI_STATE_360
+				}
+				# Philadelphia
+				set_province_name = {
+					id = 6845
+					name = NAT_AI_VICTORY_POINTS_6845
+				}
+				# Pittsburgh
+				set_province_name = {
+					id = 11800
+					name = NAT_AI_VICTORY_POINTS_11800
+				}
+			}
+			# South Carolina
+			if = {
+				limit = {
+					364 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				364 = {
+					set_state_name = NAT_AI_STATE_364
+				}
+				# Charleston
+				set_province_name = {
+					id = 7202
+					name = NAT_AI_VICTORY_POINTS_7202
+				}
+			}
+			# South Dakota
+			if = {
+				limit = {
+					390 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				390 = {
+					set_state_name = NAT_AI_STATE_390
+				}
+				# Rapid City
+				set_province_name = {
+					id = 1747
+					name = NAT_AI_VICTORY_POINTS_1747
+				}
+			}
+			# Tennesse
+			if = {
+				limit = {
+					368 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				368 = {
+					set_state_name = NAT_AI_STATE_368
+				}
+				# Nashville
+				set_province_name = {
+					id = 12501
+					name = NAT_AI_VICTORY_POINTS_12501
+				}
+			}
+			# Texas
+			if = {
+				limit = {
+					375 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				375 = {
+					set_state_name = NAT_AI_STATE_375
+				}
+				# Houston
+				set_province_name = {
+					id = 10337
+					name = NAT_AI_VICTORY_POINTS_10337
+				}
+				# Dallas
+				set_province_name = {
+					id = 3960
+					name = NAT_AI_VICTORY_POINTS_3960
+				}
+				# San Antonio
+				set_province_name = {
+					id = 12782
+					name = NAT_AI_VICTORY_POINTS_12782
+				}
+			}
+			# Utah
+			if = {
+				limit = {
+					380 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				380 = {
+					set_state_name = NAT_AI_STATE_380
+				}
+				# Salt Lake City
+				set_province_name = {
+					id = 4865
+					name = NAT_AI_VICTORY_POINTS_4865
+				}
+			}
+			# Virginia
+			if = {
+				limit = {
+					362 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				362 = {
+					set_state_name = NAT_AI_STATE_362
+				}
+				# Salamanka
+				set_province_name = {
+					id = 788
+					name = NAT_AI_VICTORY_POINTS_788
+				}
+				# Richmond
+				set_province_name = {
+					id = 10412
+					name = NAT_AI_VICTORY_POINTS_10412
+				}
+			}
+			# Washington
+			if = {
+				limit = {
+					386 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				386 = {
+					set_state_name = NAT_AI_STATE_386
+				}
+				# Spokane
+				set_province_name = {
+					id = 1690
+					name = NAT_AI_VICTORY_POINTS_1690
+				}
+				# Seattle
+				set_province_name = {
+					id = 7315
+					name = NAT_AI_VICTORY_POINTS_7315
+				}
+			}
+			# West Virginia
+			if = {
+				limit = {
+					816 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				816 = {
+					set_state_name = NAT_AI_STATE_816
+				}
+				# Charleston
+				set_province_name = {
+					id = 7588
+					name = NAT_AI_VICTORY_POINTS_7588
+				}
+			}
+			# Wisconsin
+			if = {
+				limit = {
+					394 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				394 = {
+					set_state_name = NAT_AI_STATE_394
+				}
+				# Milwaukee
+				set_province_name = {
+					id = 12357
+					name = NAT_AI_VICTORY_POINTS_12357
+				}
+			}
+			# Wyoming
+			if = {
+				limit = {
+					381 = {
+						is_owned_and_controlled_by = NAT
+						NOT = {
+							has_dynamic_modifier = TBR_DYN_MOD_renamed_by_NAT
+						}
+					}
+				}
+				381 = {
+					set_state_name = NAT_AI_STATE_381
+				}
+				# Somehow, Wyoming has no victory points.
+			}
+		}
+	}
+
+}
