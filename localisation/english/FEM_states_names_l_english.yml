@@ -46,6 +46,27 @@
   FEM_STATE_55: "Hessn" # Hessen
   FEM_STATE_57: "Weschdfalen" # Westfalen
   FEM_STATE_56: "Weser-Ems" # Weser-Ems
+  FEM_STATE_978: "Badn" # Baden
+  FEM_STATE_50: "Wüddmbeag" # Württemberg
+  FEM_STATE_54: "Franka" # Franken
+  FEM_STATE_848: "Voalbeag" # Vorarlberg
+  FEM_STATE_53: "Nidabayan" # Niederbayern
+  FEM_STATE_52: "Obabayan" # Oberbayern
+  FEM_STATE_153: "Tirol" # Tyrol
+  FEM_STATE_39: "Süd-Tirol" # South Tyrol
+  FEM_STATE_152: "Salzbuag" # Upper Austria
+  FEM_STATE_976: "Stayen-Keanda" # Steyermark-Kärnten
+  FEM_STATE_4: "Nida-Eschdraich" # Lower Austria
+  FEM_STATE_975: "Buagaland" # Burgenland
+  FEM_STATE_850: "Trend" # Trentino
+  FEM_STATE_972: "Süd-Sudetnland" # South Sudetenland
+  FEM_STATE_69: "Noad-Sudetnland" # North Sudetenland
+  FEM_STATE_9: "Böhma" # Bohemia
+  FEM_STATE_75: "Morawai" # Moravia
+  FEM_STATE_74: "Eschdraicha Schleßien" # Sudeten Silesia
+  FEM_STATE_70: "Weschdslowakai" # Western Slovakia
+  FEM_STATE_71: "Oschdslowakai" # Eastern Slovakia
+  FEM_STATE_73: "Transkapadn" # Carpathian Ruthenia / Kárpátalja
   
   # English States
   FEM_STATE_127: "Siadsachsa" # Sussex

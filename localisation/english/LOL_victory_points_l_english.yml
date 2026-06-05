@@ -1,0 +1,196 @@
+﻿l_english:
+  # Belgian Cities
+  LOL_VICTORY_POINTS_3576: "Courtrai" # Kortrijk
+  LOL_VICTORY_POINTS_6560: "Gand" # Gent
+  LOL_VICTORY_POINTS_516: "Bruxelles" # Brussels
+  LOL_VICTORY_POINTS_6598: "Anvers" # Antwerpen
+  LOL_VICTORY_POINTS_13068: "Louvain" # Leuven
+  LOL_VICTORY_POINTS_9536: "Charleroi" # Charleroi
+  LOL_VICTORY_POINTS_3516: "Namur" # Namur
+  LOL_VICTORY_POINTS_9418: "Arlon" # Arlon
+
+  # Luxembourg
+  LOL_VICTORY_POINTS_6583: "Luxembourg" # Luxembourg
+
+  # Dutch Cities
+  LOL_VICTORY_POINTS_3262: "Bréda" # Breda
+  LOL_VICTORY_POINTS_6496: "Eindhove" # Eindhoven
+  LOL_VICTORY_POINTS_11562: "Maastricht" # Maastricht
+  LOL_VICTORY_POINTS_9498: "Rotterdam" # Rotterdam
+  LOL_VICTORY_POINTS_3211: "La Haye" # The Hague
+  LOL_VICTORY_POINTS_391: "Amsterdam" # Amsterdam
+  LOL_VICTORY_POINTS_6241: "Utrecht" # Utrecht
+  LOL_VICTORY_POINTS_9363: "Arnhem" # Arnhem
+  LOL_VICTORY_POINTS_6336: "Gauwarde" # Leeuwarden
+  LOL_VICTORY_POINTS_9335: "Groningue" # Groningen
+
+  # German Cities
+  LOL_VICTORY_POINTS_241: "Guillaume-Havre" # Wilhelmshaven
+  LOL_VICTORY_POINTS_11388: "Munster" # Münster
+  LOL_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  LOL_VICTORY_POINTS_564: "Cassel" # Kassel
+  LOL_VICTORY_POINTS_6488: "Francfort" # Frankfurt
+  LOL_VICTORY_POINTS_6444: "Wisbade" # Wiesbaden
+  LOL_VICTORY_POINTS_11560: "Mayence" # Mainz
+  LOL_VICTORY_POINTS_6469: "Essen" # Essen
+  LOL_VICTORY_POINTS_587: "Cologne" # Köln
+  LOL_VICTORY_POINTS_9575: "Trèves" # Trier
+  LOL_VICTORY_POINTS_11531: "Sarrebruck" # Saarbrücken
+  LOL_VICTORY_POINTS_11435: "Palatinat" # Pfalz
+  LOL_VICTORY_POINTS_11640: "Mulheim" # Müllheim
+  LOL_VICTORY_POINTS_6712: "Fribourg-en-Brisgau" # Freiburg
+  LOL_VICTORY_POINTS_3530: "Carlsruhe" # Karlsruhe
+  LOL_VICTORY_POINTS_11544: "Nuremberg" # Nürnberg
+  LOL_VICTORY_POINTS_6421: "Cobourg" # Coburg
+  LOL_VICTORY_POINTS_9557: "Wurtzbourg" # Würzburg
+  LOL_VICTORY_POINTS_11499: "Ulm" # Ulm
+  LOL_VICTORY_POINTS_9517: "Stuttgart" # Stuttgart
+  LOL_VICTORY_POINTS_708: "Augsbourg" # Augsburg
+  LOL_VICTORY_POINTS_692: "Munich" # München
+  LOL_VICTORY_POINTS_9515: "Ratisbonne" # Regensburg
+  LOL_VICTORY_POINTS_673: "Inspruck" # Innsbruck
+  LOL_VICTORY_POINTS_11598: "Bozane" # Bolzano / Bozen
+  LOL_VICTORY_POINTS_9598: "Trente" # Trent
+  LOL_VICTORY_POINTS_Salzbourg: "Salzbourg" # Salzburg
+  LOL_VICTORY_POINTS_11612: "Villach" # Villach
+  LOL_VICTORY_POINTS_3673: "Clagenfort" # Klagenfurt
+  LOL_VICTORY_POINTS_11666: "Vienne" # Vienna
+  LOL_VICTORY_POINTS_3700: "Chasteau-de-Fer" # Eisenstadt
+  LOL_VICTORY_POINTS_557: "Znaïm" # Znojmo / Znaim
+  LOL_VICTORY_POINTS_3585: "Thermes-le-Roi" # Carlsbad / Karlovy Vary
+  LOL_VICTORY_POINTS_11432: "Aussig-sur-Elbe" # Aussig
+  LOL_VICTORY_POINTS_11401: "Mont-Riche" # Liberec / Reichenberg
+  LOL_VICTORY_POINTS_6418: "Pilsen" # Plzen / Pilsen
+  LOL_VICTORY_POINTS_9569: "Thabor" # Tábor
+  LOL_VICTORY_POINTS_11542: "Prague" # Prague
+  LOL_VICTORY_POINTS_3569: "Brinn" # Brno / Brünn
+  LOL_VICTORY_POINTS_6562: "Olmutz" # Olomouc / Olmütz
+  LOL_VICTORY_POINTS_3424: "Troppau" # Opava / Troppau
+  LOL_VICTORY_POINTS_3583: "Ostrau" # Ostrava
+  LOL_VICTORY_POINTS_9692: "Presbourg" # Bratislava / Pressburg
+  LOL_VICTORY_POINTS_541: "Nitrie" # Nitra / Neutra
+  LOL_VICTORY_POINTS_11539: "Sillein" # Žilina
+  LOL_VICTORY_POINTS_3581: "Preschau" # Prešov
+  LOL_VICTORY_POINTS_11691: "Ungon" # Uzhhorod / Ungvár
+  LOL_VICTORY_POINTS_3548: "Moncasteau" # Mukachevo / Munkács
+  LOL_VICTORY_POINTS_6571: "Frasnois" # Yasinia / Körösmező
+  LOL_VICTORY_POINTS_3561: "Erford" # Erfurt
+  LOL_VICTORY_POINTS_425: "Weimar" # Weimar
+  LOL_VICTORY_POINTS_538: "Jéna" # Jena
+  LOL_VICTORY_POINTS_6377: "Hanovre" # Hannover
+  LOL_VICTORY_POINTS_6298: "Lunebourg" # Lüneburg
+  LOL_VICTORY_POINTS_3326: "Brême" # Bremen
+  LOL_VICTORY_POINTS_374: "Cuxhavre" # Cuxhaven
+  LOL_VICTORY_POINTS_13258: "Sunderbourg" # Sonderborg
+  LOL_VICTORY_POINTS_317: "Flensbourg" # Flensburg
+  LOL_VICTORY_POINTS_9347: "Hambourg" # Hamburg
+  LOL_VICTORY_POINTS_6389: "Kiel" # Kiel
+  LOL_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
+  LOL_VICTORY_POINTS_3535: "Leipzig" # Leipzig
+  LOL_VICTORY_POINTS_514: "Dresde" # Dresden
+  LOL_VICTORY_POINTS_3522: "Magdebourg" # Magdeburg
+  LOL_VICTORY_POINTS_6521: "Berlin" # Berlin
+  LOL_VICTORY_POINTS_9496: "Seelau" # Seelow
+  LOL_VICTORY_POINTS_11305: "Lubeck" # Lübeck
+  LOL_VICTORY_POINTS_321: "Rostock" # Rostock
+  LOL_VICTORY_POINTS_9388: "Stralsund" # Stralsund
+  LOL_VICTORY_POINTS_3258: "Neustrelitz" # Neustrelitz
+  LOL_VICTORY_POINTS_6464: "Katowice" # Katowice
+  LOL_VICTORY_POINTS_11467: "Gleiwitz" # Gleiwitz
+  LOL_VICTORY_POINTS_9511: "Oppeln" # Oppeln
+  LOL_VICTORY_POINTS_9570: "Breslau" # Breslau
+  LOL_VICTORY_POINTS_552: "Lignitz" # Liegnitz
+  LOL_VICTORY_POINTS_3473: "Custrin" # Küstrin
+  LOL_VICTORY_POINTS_6558: "Posnanie" # Posen
+  LOL_VICTORY_POINTS_6282: "Stettin" # Stettin
+  LOL_VICTORY_POINTS_11372: "Coslin" # Köslin
+  LOL_VICTORY_POINTS_279: "Bromberg" # Bromberg
+  LOL_VICTORY_POINTS_3295: "Épine" # Thorn / Toruń
+  LOL_VICTORY_POINTS_9263: "Gdynie-Havre" # Gotenhafen
+  LOL_VICTORY_POINTS_362: "Dantzick" # Danzig
+  LOL_VICTORY_POINTS_6375: "Alenstin" # Allenstein
+  LOL_VICTORY_POINTS_6332: "Regniatome" # Königsberg
+  LOL_VICTORY_POINTS_3288: "Memel" # Memel
+
+  # French Cities (Restoring native names from the German puns)
+  LOL_VICTORY_POINTS_9559: "Metz" # Metz
+  LOL_VICTORY_POINTS_9503: "Strasbourg" # Strasbourg
+  LOL_VICTORY_POINTS_678: "Mulhouse" # Mulhouse
+  LOL_VICTORY_POINTS_11516: "Nancy" # Nancy
+  LOL_VICTORY_POINTS_9642: "Besançon" # Besançon
+  LOL_VICTORY_POINTS_3560: "Sedan" # Sedan
+  LOL_VICTORY_POINTS_13011: "Reims" # Reims
+  LOL_VICTORY_POINTS_9490: "Troyes" # Troyes
+  LOL_VICTORY_POINTS_3652: "Dijon" # Dijon
+  LOL_VICTORY_POINTS_11483: "Lille" # Lille
+  LOL_VICTORY_POINTS_575: "Dunkerque" # Dunkerque
+  LOL_VICTORY_POINTS_11548: "Calais" # Calais
+  LOL_VICTORY_POINTS_11420: "Amiens" # Amiens
+  LOL_VICTORY_POINTS_11506: "Paris" # Paris
+  LOL_VICTORY_POINTS_512: "Orléans" # Orléans
+  LOL_VICTORY_POINTS_3671: "Tours" # Tours
+  LOL_VICTORY_POINTS_485: "Dieppe" # Dieppe
+  LOL_VICTORY_POINTS_11563: "Rouen" # Rouen
+  LOL_VICTORY_POINTS_9434: "Le Havre" # Le Havre
+  LOL_VICTORY_POINTS_6449: "Cherbourg" # Cherbourg
+  LOL_VICTORY_POINTS_11465: "Nantes" # Nantes
+  LOL_VICTORY_POINTS_9495: "Rennes" # Rennes
+  LOL_VICTORY_POINTS_6536: "Lorient" # Lorient
+  LOL_VICTORY_POINTS_3552: "Brest" # Brest
+  LOL_VICTORY_POINTS_9909: "Nice" # Nice
+  LOL_VICTORY_POINTS_778: "Annecy" # Annecy
+  LOL_VICTORY_POINTS_911: "Toulon" # Toulon
+  LOL_VICTORY_POINTS_11834: "Marseille" # Marseille
+  LOL_VICTORY_POINTS_3768: "Grenoble" # Grenoble
+  LOL_VICTORY_POINTS_6613: "Lyon" # Lyon
+  LOL_VICTORY_POINTS_3594: "Vichy" # Vichy
+  LOL_VICTORY_POINTS_9898: "Montpellier" # Montpellier
+  LOL_VICTORY_POINTS_651: "Châteauroux" # Châteauroux
+  LOL_VICTORY_POINTS_620: "Limoges" # Limoges
+  LOL_VICTORY_POINTS_6766: "Toulouse" # Toulouse
+  LOL_VICTORY_POINTS_6657: "La Rochelle" # La Rochelle
+  LOL_VICTORY_POINTS_9737: "Bordeaux" # Bordeaux
+  LOL_VICTORY_POINTS_9710: "Bayonne" # Bayonne
+
+  # English Cities
+  LOL_VICTORY_POINTS_3501: "Douvres" # Dover
+  LOL_VICTORY_POINTS_9458: "Portsmouth" # Portsmouth
+  LOL_VICTORY_POINTS_6103: "Londres" # London
+  LOL_VICTORY_POINTS_271: "Ipswich" # Ipswich
+  LOL_VICTORY_POINTS_322: "Norwich" # Norwich
+  LOL_VICTORY_POINTS_11279: "Leicester" # Leicester
+  LOL_VICTORY_POINTS_6237: "Nottingham" # Nottingham
+  LOL_VICTORY_POINTS_9315: "Sheffield" # Sheffield
+  LOL_VICTORY_POINTS_9379: "Leeds" # Leeds
+  LOL_VICTORY_POINTS_11297: "Hull" # Hull
+  LOL_VICTORY_POINTS_6526: "Truro" # Truro
+  LOL_VICTORY_POINTS_540: "Plymouth" # Plymouth
+  LOL_VICTORY_POINTS_3369: "Bristol" # Bristol
+  LOL_VICTORY_POINTS_9297: "Birmingham" # Birmingham
+  LOL_VICTORY_POINTS_6318: "Manchester" # Manchester
+  LOL_VICTORY_POINTS_6384: "Liverpool" # Liverpool
+  LOL_VICTORY_POINTS_11332: "Carlisle" # Carlisle
+  LOL_VICTORY_POINTS_351: "Neufchâtel-sur-Tyne" # Newcastle
+  LOL_VICTORY_POINTS_377: "Cardiff" # Cardiff
+  LOL_VICTORY_POINTS_407: "Swansea" # Swansea
+  LOL_VICTORY_POINTS_311: "Wrexham" # Wrexham
+  LOL_VICTORY_POINTS_11218: "Dumfries" # Dumfries
+  LOL_VICTORY_POINTS_3273: "Glasgow" # Glasgow
+  LOL_VICTORY_POINTS_9392: "Édimbourg" # Edinburgh
+  LOL_VICTORY_POINTS_6300: "Rosyth" # Rosyth
+  LOL_VICTORY_POINTS_3150: "Dundee" # Dundee
+  LOL_VICTORY_POINTS_200: "Aberdeen" # Aberdeen
+  LOL_VICTORY_POINTS_3373: "Oban" # Oban
+  LOL_VICTORY_POINTS_9075: "Inverness" # Inverness
+  LOL_VICTORY_POINTS_11064: "Scapa Flow" # Scapa Flow
+  LOL_VICTORY_POINTS_6062: "Stornoway" # Stornoway
+  LOL_VICTORY_POINTS_3311: "Douglas" # Douglas
+  LOL_VICTORY_POINTS_3379: "Belfast" # Belfast
+  LOL_VICTORY_POINTS_385: "Londonderry" # Londonderry
+  LOL_VICTORY_POINTS_11371: "Sligo" # Sligo
+  LOL_VICTORY_POINTS_9303: "Galway" # Galway
+  LOL_VICTORY_POINTS_11293: "Dublin" # Dublin
+  LOL_VICTORY_POINTS_303: "Tullamore" # Tullamore
+  LOL_VICTORY_POINTS_285: "Wexford" # Wexford
+  LOL_VICTORY_POINTS_6313: "Limerick" # Limerick
+  LOL_VICTORY_POINTS_7394: "Cork" # Cork

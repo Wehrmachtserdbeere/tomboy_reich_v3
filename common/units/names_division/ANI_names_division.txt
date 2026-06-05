@@ -137,10 +137,10 @@ ANI_MIL_01 = {
 	fallback_name = "%d. Schutztruppe"
 
 	ordered = {
-		1 = { "%d Schutztruppe-Division" }
-		2 = { "%d Schutztruppe-Division" }
-		3 = { "%d Schutztruppe-Division" }
-		4 = { "%d Schutztruppe-Division" }
+		1 = { "%d. Schutztruppe-Division" }
+		2 = { "%d. Schutztruppe-Division" }
+		3 = { "%d. Schutztruppe-Division" }
+		4 = { "%d. Schutztruppe-Division" }
 	}
 }
 
@@ -156,10 +156,10 @@ ANI_MIL_02 = {
 	fallback_name = "%d. Sturmabteilung-Division"
 
 	ordered = {
-		1 = { "%d Sturmabteilung-Division \"Röhm\"" }
-		2 = { "%d Sturmabteilung-Division \"Ernst\"" }
-		3 = { "%d Sturmabteilung-Division \"Heines\"" }
-		4 = { "%d Sturmabteilung-Division \"Brückner\"" }
+		1 = { "%d. Sturmabteilung-Division \"Röhm\"" }
+		2 = { "%d. Sturmabteilung-Division \"Ernst\"" }
+		3 = { "%d. Sturmabteilung-Division \"Heines\"" }
+		4 = { "%d. Sturmabteilung-Division \"Brückner\"" }
 	}
 }
 

@@ -24,7 +24,7 @@
   FEM_VICTORY_POINTS_6336: "Leuwadn" # Leeuwarden
   FEM_VICTORY_POINTS_9335: "Greninga" # Groningen
 
-  # German Cities (Unchanged)
+  # German Cities
   FEM_VICTORY_POINTS_241: "Wilhelmshova" # Wilhelmshaven
   FEM_VICTORY_POINTS_11388: "Minschder" # Münster
   FEM_VICTORY_POINTS_495: "Doadmund" # Dortmund
@@ -36,6 +36,81 @@
   FEM_VICTORY_POINTS_587: "Keln" # Köln
   FEM_VICTORY_POINTS_9575: "Tria" # Trier
   FEM_VICTORY_POINTS_11531: "Saarbrigga" # Saarbrücken
+  FEM_VICTORY_POINTS_11435: "Pfalz" # Pfalz
+  FEM_VICTORY_POINTS_11640: "Millhaim" # Müllheim
+  FEM_VICTORY_POINTS_6712: "Fraibuag" # Freiburg
+  FEM_VICTORY_POINTS_3530: "Kalsrue" # Karlsruhe
+  FEM_VICTORY_POINTS_11544: "Ninbeag" # Nürnberg
+  FEM_VICTORY_POINTS_6421: "Cobuag" # Coburg
+  FEM_VICTORY_POINTS_9557: "Wiazbuag" # Würzburg
+  FEM_VICTORY_POINTS_11499: "Ulm" # Ulm
+  FEM_VICTORY_POINTS_9517: "Schduggad" # Stuttgard
+  FEM_VICTORY_POINTS_706: "Augschbuag" # Augsburg
+  FEM_VICTORY_POINTS_692: "Mincha" # München
+  FEM_VICTORY_POINTS_9515: "Regnschbuag" # Regensburg
+  FEM_VICTORY_POINTS_673: "Innschbrugg" # Innsbruck
+  FEM_VICTORY_POINTS_11598: "Bozn" # Bolzano
+  FEM_VICTORY_POINTS_9598: "Trend" # Trent
+  FEM_VICTORY_POINTS_688: "Salzbuag" # Salzburg
+  FEM_VICTORY_POINTS_11612: "Villach" # Villach
+  FEM_VICTORY_POINTS_3673: "Klagafuad" # Klagenfurt
+  FEM_VICTORY_POINTS_11666: "Wien" # Vienna
+  FEM_VICTORY_POINTS_3700: "Aisaschdadt" # Eisenstadt
+  FEM_VICTORY_POINTS_557: "Snaim" # Znojmo / Znaim
+  FEM_VICTORY_POINTS_3585: "Kalsbad" # Carlsbad / Karlovy Vary / Karlsbad
+  FEM_VICTORY_POINTS_11432: "Aussig" # Aussig
+  FEM_VICTORY_POINTS_11401: "Raichabeag" # Liberec / Reichenberg
+  FEM_VICTORY_POINTS_6418: "Pilsa" # Plzen / Pilsen
+  FEM_VICTORY_POINTS_9569: "Taboa" # Tábor / Tabor
+  FEM_VICTORY_POINTS_11542: "Prag" # Prague / Prag
+  FEM_VICTORY_POINTS_3569: "Brünn" # Brno / Brünn
+  FEM_VICTORY_POINTS_6562: "Olmüds" # Olomouc / Olmütz
+  FEM_VICTORY_POINTS_3424: "Drobbau" # Opava / Troppau
+  FEM_VICTORY_POINTS_3583: "Oschdrau" # Ostrava / Ostrau
+  FEM_VICTORY_POINTS_9692: "Pressbuag" # Bratislava / Pressburg
+  FEM_VICTORY_POINTS_541: "Noitra" # Nitra / Neutra
+  FEM_VICTORY_POINTS_11539: "Sillan" # Žilina / Sillein
+  FEM_VICTORY_POINTS_3581: "Breschau" # Prešov / Preschau
+  FEM_VICTORY_POINTS_11691: "Ungan" # Uzhhorod / Ungvár / Ungern (Fict.)
+  FEM_VICTORY_POINTS_3548: "Minchkass" # Mukachevo / Munkács / Münchkass (Fict.)
+  FEM_VICTORY_POINTS_6571: "Koschmetz" # Yasinia / Körösmező / Koschmetz (Fict.)
+  FEM_VICTORY_POINTS_3561: "Eafuad" # Erfurt
+  FEM_VICTORY_POINTS_425: "Weimar" # Weimar
+  FEM_VICTORY_POINTS_538: "Jena" # Jena
+  FEM_VICTORY_POINTS_6377: "Hannova" # Hannover
+  FEM_VICTORY_POINTS_6298: "Lünebuag" # Lüneburg
+  FEM_VICTORY_POINTS_3326: "Brema" # Bremen
+  FEM_VICTORY_POINTS_374: "Gugshafn" # Cuxhaven
+  FEM_VICTORY_POINTS_13258: "Sundabeag" # Sonderborg
+  FEM_VICTORY_POINTS_317: "Flensbuag" # Flensburg
+  FEM_VICTORY_POINTS_9347: "Hambuag" # Hamburg
+  FEM_VICTORY_POINTS_6389: "Kiel" # Kiel
+  FEM_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
+  FEM_VICTORY_POINTS_3535: "Laibzig" # Leipzig
+  FEM_VICTORY_POINTS_514: "Dreschdn" # Dresden
+  FEM_VICTORY_POINTS_3522: "Magdebuag" # Magdeburg
+  FEM_VICTORY_POINTS_6521: "Bealin" # Berlin
+  FEM_VICTORY_POINTS_9496: "Seelau" # Seelow
+  FEM_VICTORY_POINTS_11305: "Lübeg" # Lübeck
+  FEM_VICTORY_POINTS_321: "Roschdog" # Rostock
+  FEM_VICTORY_POINTS_9388: "Schdralsund" # Stralsund
+  FEM_VICTORY_POINTS_3258: "Noischdrelitz" # Neustrelitz
+  FEM_VICTORY_POINTS_6464: "Katowitz" # Katowice
+  FEM_VICTORY_POINTS_11467: "Glaiwitz" # Gleiwitz
+  FEM_VICTORY_POINTS_9511: "Oppln" # Oppeln
+  FEM_VICTORY_POINTS_9570: "Breslau" # Breslau
+  FEM_VICTORY_POINTS_552: "Lignitz" # Liegnitz
+  FEM_VICTORY_POINTS_3473: "Küstrin" # Küstrin
+  FEM_VICTORY_POINTS_6558: "Posn" # Posen
+  FEM_VICTORY_POINTS_6282: "Schdeddin" # Stettin
+  FEM_VICTORY_POINTS_11372: "Köslin" # Köslin
+  FEM_VICTORY_POINTS_279: "Brombeag" # Bromberg
+  FEM_VICTORY_POINTS_3295: "Torn" # Thorn
+  FEM_VICTORY_POINTS_9263: "Gotahafn" # Gotenhafen
+  FEM_VICTORY_POINTS_362: "Danzig" # Danzig
+  FEM_VICTORY_POINTS_6375: "Allaschdain" # Allenstein
+  FEM_VICTORY_POINTS_6332: "Kenigsbeag" # Königsberg
+  FEM_VICTORY_POINTS_3288: "Meml" # Memel
 
   # French Cities
   FEM_VICTORY_POINTS_9559: "Meds" # Metz

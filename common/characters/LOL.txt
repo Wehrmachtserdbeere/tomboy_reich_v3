@@ -1,0 +1,97 @@
+characters = {
+
+	LOL_LEADER_SENKO_SAN = {
+		name = LOL_LEADER_SENKO_SAN_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				TBR_TRAIT_kitsune_spirit
+			}
+			desc = LOL_LEADER_SENKO_SAN_DESC
+		}
+	}
+
+	LOL_LEADER_KATYUSHA = {
+		name = LOL_LEADER_KATYUSHA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = minaism
+			traits = {
+				
+			}
+			desc = LOL_LEADER_KATYUSHA_DESC
+		}
+	}
+
+	LOL_LEADER_TANYA_DEGURECHAFF = {
+		name = LOL_LEADER_TANYA_DEGURECHAFF_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_nazism
+			traits = {
+				TBR_TRAITS_loves_germany
+			}
+			desc = LOL_LEADER_TANYA_DEGURECHAFF_DESC
+		}
+	}
+
+	LOL_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+
+	LOL_LEADER_CHLOE_VON_EINZBERG = {
+		name = LOL_LEADER_CHLOE_VON_EINZBERG_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = LOL_LEADER_CHLOE_VON_EINZBERG_DESC
+		}
+	}
+}
