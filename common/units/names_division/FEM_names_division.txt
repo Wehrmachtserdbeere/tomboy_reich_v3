@@ -58,7 +58,7 @@ FEM_MOT_01 = {
 		6 = { "%d. Modoa-Trupp \"Gscheadmedla\"" }
 		9 = { "%d. Modoa-Trupp \"Boarazwinch\"" }
 		12 = { "%d. Modoa-Trupp \"Loli Medla\"" }
-		15 = { "%d. Modoa-Trupp \"Schpottgera\"" }
+		15 = { "%d. Modoa-Trupp \"Schbißa\"" }
 	}
 }
 

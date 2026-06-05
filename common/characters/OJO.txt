@@ -1,0 +1,99 @@
+characters = {
+	
+	OJO_LEADER_SHIRO = {
+		name = OJO_LEADER_SHIRO_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = OJO_LEADER_SHIRO_DESC
+		}
+	}
+
+	OJO_LEADER_NONNA = {
+		name = OJO_LEADER_NONNA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAIT_loves_russia
+				TBR_TRAIT_loves_france_katyusha
+			}
+			desc = OJO_LEADER_NONNA_DESC
+		}
+	}
+
+	OJO_LEADER_ESDEATH = {
+		name = OJO_LEADER_ESDEATH_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+				TBR_TRAIT_cruel
+			}
+			desc = OJO_LEADER_ESDEATH_DESC
+		}
+	}
+
+	OJO_LEADER_ARTORIA_PENDRAGON = {
+		name = OJO_LEADER_ARTORIA_PENDRAGON_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				TBR_TRAIT_heir_of_arthur
+			}
+			desc = OJO_LEADER_ARTORIA_PENDRAGON_DESC
+		}
+	}
+
+	OJO_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_human_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+
+}

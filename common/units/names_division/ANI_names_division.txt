@@ -58,7 +58,7 @@ ANI_MOT_01 = {
 		6 = { "%d. Motorisierte Infanterie-Division \"Großtomboy\"" }
 		9 = { "%d. Motorisierte Infanterie-Division \"Großfemboy\"" }
 		12 = { "%d. Motorisierte Infanterie-Division \"Großloli\"" }
-		15 = { "%d. Motorisierte Infanterie-Division \"Großmesugaki\"" }
+		15 = { "%d. Motorisierte Infanterie-Division \"Großojou\"" }
 	}
 }
 
