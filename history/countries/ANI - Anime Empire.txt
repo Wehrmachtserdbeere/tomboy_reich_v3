@@ -145,10 +145,15 @@ set_autonomy = {
 	target = LOL
 	autonomy_state = autonomy_imperial_subject
 }
+set_autonomy = {
+	target = OJO
+	autonomy_state = autonomy_imperial_subject
+}
 
 add_to_faction = ANI
 add_to_faction = FEM
 add_to_faction = LOL
+add_to_faction = OJO
 
 # recruit_character = ...
 recruit_character = ANI_LEADER_ESDEATH

@@ -1,0 +1,145 @@
+OJO_INF_01 = {
+	name = "Infantry Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Infantry Division"
+
+	ordered = {
+		1 = { "1. Infantry Division \"Class\"" }
+		2 = { "%d. Infantry Division \"Prodigy\"" }
+	}
+}
+
+OJO_JGR_01 = {
+	name = "Ranger Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Ranger Division"
+
+	ordered = {
+		1 = { "%d. Ranger Division \"Alps\"" }
+		2 = { "%d. Ranger Division \"Carpathians\"" }
+		3 = { "%d. Ranger Division \"Dinaric-Alps\"" }
+		4 = { "%d. Ranger Division \"Balkan\"" }
+		5 = { "%d. Ranger Division \"Pyrenees\"" }
+		6 = { "%d. Ranger Division \"Scandinavian Mountaineers\"" }
+		7 = { "%d. Ranger Division \"Iberia\"" }
+		8 = { "%d. Ranger Division \"Apennines\"" }
+		9 = { "%d. Ranger Division \"Caucasus\"" }
+		10 = { "%d. Ranger Division \"Ural\"" }
+	}
+}
+
+OJO_MOT_01 = {
+	name = "Motorized Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Motorized Division"
+
+	link_numbering_with = { OJO_Inf_01 }
+
+	ordered = {
+		3 = { "%d. Motorisierte Motorized Division \"Home Isles\"" }
+		6 = { "%d. Motorisierte Motorized Division \"Great Tomboy\"" }
+		9 = { "%d. Motorisierte Motorized Division \"Great Femboy\"" }
+		12 = { "%d. Motorisierte Motorized Division \"Great Loli\"" }
+		15 = { "%d. Motorisierte Motorized Division \"Great Empire\"" }
+	}
+}
+
+OJO_MEC_01 = {
+	name = "Combined Arms Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Combined Arms Division"
+
+	link_numbering_with = { OJO_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Combined Arms Division \"Victoria\"" }
+		5 = { "%d. Combined Arms Division \"Darjeeling\"" }
+		7 = { "%d. Combined Arms Division \"Earl Grey\"" }
+		8 = { "%d. Combined Arms Division \"Sheng Puer\"" }
+	}
+}
+
+OJO_ARM_01 = {
+	name = "Tank Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Tank Division"
+
+	ordered = {
+		1 = { "%d. Tank Division \"Guderian\"" }
+		2 = { "%d. Tank Division \"von Hindenburg\"" }
+		3 = { "%d. Tank Division \"Ludendorff\"" }
+		4 = { "%d. Tank Division \"Hoffmann\"" }
+		5 = { "%d. Tank Division \"Rupprecht\"" }
+		6 = { "%d. Tank Division \"Groener\"" }
+		50 = { "%d. Central German Tank Division" }
+		51 = { "%d. Central German Tank Division" }
+		52 = { "%d. Central German Tank Division" }
+		60 = { "%d. Czech Tank Division" }
+		61 = { "%d. Czech Tank Division" }
+		62 = { "%d. Czech Tank Division" }
+		70 = { "%d. Slovak Tank Division" }
+		71 = { "%d. Slovak Tank Division" }
+		72 = { "%d. Slovak Tank Division" }
+		80 = { "%d. Polish Tank Division" }
+		81 = { "%d. Polish Tank Division" }
+		82 = { "%d. Polish Tank Division" }
+		90 = { "%d. French Tank Division" }
+		91 = { "%d. French Tank Division" }
+		92 = { "%d. French Tank Division" }
+		100 = { "%d. Ukrainian Tank Division" }
+		101 = { "%d. Ukrainian Tank Division" }
+		102 = { "%d. Ukrainian Tank Division" }
+		110 = { "%d. Belarussian Tank Division" }
+		111 = { "%d. Belarussian Tank Division" }
+		112 = { "%d. Belarussian Tank Division" }
+	}
+}
+
+OJO_MIL_01 = {
+	name = "Princely Divisions"
+
+	for_countries = { OJO }
+
+	can_use = { always = yes }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Princely Division"
+
+	ordered = {
+		1 = { "%d. Princely Division" }
+		2 = { "%d. Princely Division" }
+		3 = { "%d. Princely Division" }
+		4 = { "%d. Princely Division" }
+	}
+}

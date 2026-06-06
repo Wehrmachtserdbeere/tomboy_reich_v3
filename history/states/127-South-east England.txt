@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
+		owner = OJO
+		add_core_of = OJO
 
 		victory_points = { 
 			3501 20 # Dover

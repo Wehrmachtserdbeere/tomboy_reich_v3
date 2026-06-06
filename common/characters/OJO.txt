@@ -39,8 +39,8 @@ characters = {
 		}
 	}
 
-	OJO_LEADER_ESDEATH = {
-		name = OJO_LEADER_ESDEATH_NAME
+	OJO_LEADER_SATSUKI_KIRYUUIN = {
+		name = OJO_LEADER_SATSUKI_KIRYUUIN_NAME
 		gender = female
 
 		portraits = {
@@ -52,9 +52,9 @@ characters = {
 		country_leader = {
 			ideology = pa_fascism
 			traits = {
-				TBR_TRAIT_cruel
+				
 			}
-			desc = OJO_LEADER_ESDEATH_DESC
+			desc = OJO_LEADER_SATSUKI_KIRYUUIN_DESC
 		}
 	}
 
