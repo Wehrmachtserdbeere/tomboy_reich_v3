@@ -143,4 +143,16 @@
   FEM_STATE_394: "Wiser Cousin" # Wisconsin
   FEM_STATE_381: "Weier Ming" # Wyoming
 
-  # TODO: Italian states. Refer to the WIP image, full constituents.
+  FEM_STATE_159: "Lombadai"
+  FEM_STATE_160: "Venedig"
+
+  FEM_STATE_102: "Untaschdeiamak"
+  FEM_STATE_853: "Laibach"
+  FEM_STATE_736: "Küschdnland"
+  FEM_STATE_852: "Ischdrien"
+
+  FEM_STATE_846: "Tessn"
+  FEM_STATE_151: "Öschdliche Schweidzalpn"
+  FEM_STATE_847: "Weschliche Schweidzalpn"
+  FEM_STATE_3: "Schweiza Flachlända"
+  FEM_STATE_845: "Schweiza Jura"

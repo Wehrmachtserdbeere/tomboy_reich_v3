@@ -195,4 +195,19 @@
   FEM_VICTORY_POINTS_6313: "Limmarigg" # Limerick
   FEM_VICTORY_POINTS_7394: "Koag" # Cork
 
-  # TODO: Italian victory points. Refer to the WIP image, full constituents.
+  FEM_VICTORY_POINTS_3780: "Mailand"
+  FEM_VICTORY_POINTS_773: "Breschdei"
+  FEM_VICTORY_POINTS_603: "Werona"
+  FEM_VICTORY_POINTS_3604: "Padau"
+  FEM_VICTORY_POINTS_11584: "Wenedig"
+  FEM_VICTORY_POINTS_665: "Mabuag an da Drau"
+  FEM_VICTORY_POINTS_9627: "Laibach"
+  FEM_VICTORY_POINTS_6626: "Drieschd"
+  FEM_VICTORY_POINTS_11564: "Sankt Veit am Flaum"
+  
+  FEM_VICTORY_POINTS_658: "Schua"
+  FEM_VICTORY_POINTS_663: "Ziarich"
+  FEM_VICTORY_POINTS_9620: "Bean"
+  FEM_VICTORY_POINTS_9600: "Luganai"
+  FEM_VICTORY_POINTS_9638: "Basl"
+  FEM_VICTORY_POINTS_6666: "Genf"
