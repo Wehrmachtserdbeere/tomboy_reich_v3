@@ -1,4 +1,4 @@
-TOM_INF_01 = {
+﻿TOM_INF_01 = {
 	name = "Infantry Divisions"
 
 	for_countries = { TOM }

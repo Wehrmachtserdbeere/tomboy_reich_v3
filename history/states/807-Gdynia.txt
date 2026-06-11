@@ -7,10 +7,10 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
-		add_core_of = ANI
-		add_claim_by = PRE
+		owner = CEU
+		add_core_of = CEU
+		add_core_of = GER
+		add_core_of = PRE
 
 		victory_points = {
 			9263 5 # Gdynia

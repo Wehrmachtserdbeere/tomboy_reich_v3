@@ -152,7 +152,7 @@ if = {
 			tank_nsb_armor_upgrade = 2
 		}
 		obsolete = yes
-		icon = "GFX_ANI_JUNGPANZER"
+		icon = "GFX_GER_JUNGPANZER"
 	}
 	create_equipment_variant = {
 		name = "Pz.Kpfw. I Ausf. H"
@@ -170,7 +170,7 @@ if = {
 			tank_nsb_engine_upgrade = 3
 			tank_nsb_armor_upgrade = 3
 		}
-		icon = "GFX_ANI_basic_light_tank_medium"
+		icon = "GFX_GER_basic_light_tank_medium"
 		obsolete = no
 	}
 }

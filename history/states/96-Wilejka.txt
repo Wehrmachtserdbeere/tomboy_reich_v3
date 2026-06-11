@@ -9,12 +9,13 @@ state={
 		victory_points = {
 			406 1
 		}
-		owner = ANI
+		owner = CEU
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = ANI
-		add_core_of = ANI
+		add_core_of = CEU
+		add_core_of = POL
+		add_core_of = BLR
 	}
 
 	provinces={

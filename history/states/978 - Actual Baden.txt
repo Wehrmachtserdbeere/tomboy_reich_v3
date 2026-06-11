@@ -13,6 +13,8 @@ state = {
 
 		owner = FEM
 		add_core_of = FEM
+		add_core_of = CEU
+		add_core_of = GER
 
 		victory_points = {
 			3530 10 #Karlsruhe

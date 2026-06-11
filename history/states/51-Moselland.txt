@@ -13,6 +13,8 @@ state = {
 
 		owner = TOM
 		add_core_of = TOM
+		add_core_of = CEU
+		add_core_of = GER
 
 		victory_points = {
 			6469 10 # Essen

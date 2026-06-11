@@ -3,7 +3,7 @@ state={
 	id=153
 	name="STATE_153"
 	history={
-		owner = ANI
+		owner = CEU
 		victory_points = {
 			673 5 
 		}
@@ -12,12 +12,8 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = ANI
-		1938.3.12 = {
-			owner = ANI
-			controller = ANI
-			add_core_of = ANI
-		}
+		add_core_of = CEU
+		add_core_of = AUS
 	}
 	provinces={
 		668 671 673 3675 6673 9633 9636 11618 11634 

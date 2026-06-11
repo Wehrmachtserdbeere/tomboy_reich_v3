@@ -205,4 +205,33 @@ characters = {
 		}
 	}
 
+	# ----------------------------------------------------------
+	# AI Pacified
+	# ----------------------------------------------------------
+
+	# TODO: Add democratic AI
+
+	# TODO: Add commie AI
+
+	NAT_LEADER_JUN = {
+		name = NAT_LEADER_JUN_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAIT_artificial_intelligence
+			}
+			desc = NAT_LEADER_JUN_DESC
+		}
+	}
+
+	# TODO: Add neutrality AI
+
 }

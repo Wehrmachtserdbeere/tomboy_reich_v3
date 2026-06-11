@@ -1,15 +1,15 @@
-capital = 57
+capital = 86
 
-set_research_slots = 3
+set_research_slots = 4
 
-set_stability = 0.15
-set_war_support = 0.3
+set_stability = 0.25
+set_war_support = 0.2
 
 add_ideas = {
 
 	war_economy
 	extensive_conscription
-	TBR_IDEA_COUNTRY_anime_people
+	TBR_IDEA_COUNTRY_human_people
 
 }
 
@@ -72,7 +72,7 @@ if = {
 		early_battlecruiser = 1
 		transport = 1
 	}
-	set_naval_oob = "TOM_1936_naval"
+	set_naval_oob = "CEU_1936_naval"
 }
 if = {
 	limit = {
@@ -102,7 +102,7 @@ if = {
 		sonar = 1
 		basic_cruiser_armor_scheme = 1
 	}
-	set_naval_oob = "TOM_1936_naval_mtg"
+	set_naval_oob = "CEU_1936_naval_mtg"
 }
 if = {
 	limit = {
@@ -112,7 +112,7 @@ if = {
 		armored_car1 = 1
 	}
 }
-set_oob = "TOM_1936"
+set_oob = "CEU_1936"
 
 set_politics = {
 	ruling_party = democratic
@@ -121,19 +121,25 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 30
-	pro_anime_reactionism= 25
-	communism = 20
-	neutrality = 25
-	anti_anime_reactionism = 0
+	democratic = 35
+	pro_anime_reactionism= 0
+	communism = 15
+	neutrality = 20
+	anti_anime_reactionism = 25
 }
 
 # recruit_character = ...
-recruit_character = TOM_LEADER_KAY
-recruit_character = TOM_LEADER_MIKASA_ACKERMAN
-recruit_character = TOM_LEADER_ARTORIA_PENDRAGON
-recruit_character = TOM_LEADER_SULETTA_MERCURY
-recruit_character = TOM_LEADER_NOBODY
+recruit_character = CEU_LEADER_MARIAN_ZYNDRAM_KOSCIALKOWSKI
+recruit_character = CEU_LEADER_KURT_SCHUMACHER
+recruit_character = CEU_LEADER_WLADYSLAW_GOMULKA
+recruit_character = CEU_LEADER_ERNST_THAELMANN
+recruit_character = CEU_LEADER_NOBODY
+recruit_character = CEU_LEADER_VIKTORIA
+recruit_character = CEU_LEADER_COUNCIL_OF_SIX_REPRESENTATIVES
+recruit_character = CEU_LEADER_TRIARCHY
+recruit_character = CEU_LEADER_WILHELM_II
+recruit_character = CEU_LEADER_WILHELM_III
+recruit_character = CEU_LEADER_KARL_I
 
 if = {
 	limit = {

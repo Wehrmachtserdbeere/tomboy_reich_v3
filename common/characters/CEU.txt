@@ -1,0 +1,229 @@
+characters = {
+
+	# ===========================================
+	# Country Leaders
+	# ===========================================
+
+	# DEM POL - Marian Zyndram-Kościałkowski
+	CEU_LEADER_MARIAN_ZYNDRAM_KOSCIALKOWSKI = {
+		name = CEU_LEADER_MARIAN_ZYNDRAM_KOSCIALKOWSKI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = democratic_socialism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_MARIAN_ZYNDRAM_KOSCIALKOWSKI_DESC
+		}
+	}
+
+	# DEM GER - Kurt Schumacher
+	CEU_LEADER_KURT_SCHUMACHER = {
+		name = CEU_LEADER_KURT_SCHUMACHER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_KURT_SCHUMACHER_DESC
+		}
+	}
+
+	# COM POL - Władysław Gomułka
+	CEU_LEADER_WLADYSLAW_GOMULKA = {
+		name = CEU_LEADER_WLADYSLAW_GOMULKA_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAIT_psychopath
+			}
+			desc = CEU_LEADER_WLADYSLAW_GOMULKA_DESC
+		}
+	}
+
+	# COM GER - Ernst Thälmann
+	CEU_LEADER_ERNST_THAELMANN = {
+		name = CEU_LEADER_ERNST_THAELMANN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAIT_loves_soviets
+			}
+			desc = CEU_LEADER_ERNST_THAELMANN_DESC
+		}
+	}
+
+	# PA - Nobody
+	CEU_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+	}
+
+	# PA GER - Viktoria
+	CEU_LEADER_VIKTORIA = {
+		name = CEU_LEADER_VIKTORIA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAITS_tomboy_kaiserin
+			}
+			desc = CEU_LEADER_VIKTORIA_DESC
+		}
+	}
+
+	# AA - Council of the Six Representatives
+	CEU_LEADER_COUNCIL_OF_SIX_REPRESENTATIVES = {
+		name = CEU_LEADER_COUNCIL_OF_SIX_REPRESENTATIVES_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_ultranationalism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_COUNCIL_OF_SIX_REPRESENTATIVES_DESC
+		}
+	}
+
+	# NEU - Triarchy
+	CEU_LEADER_TRIARCHY = {
+		name = CEU_LEADER_TRIARCHY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_TRIARCHY_DESC
+		}
+	}
+
+	# TODO: Wilhelm II Death Event on 9 June 1941
+	# NEU GER - Wilhelm II
+	CEU_LEADER_WILHELM_II = {
+		name = CEU_LEADER_WILHELM_II_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_WILHELM_II_DESC
+		}
+	}
+
+	# Available on Wilhelm II's death:
+	# NEU GER - Wilhlem III
+	CEU_LEADER_WILHELM_III = {
+		name = CEU_LEADER_WILHELM_III_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_WILHELM_III_DESC
+		}
+	}
+
+	# NEU POL - Karl I (Karl Albrecht of Austria)
+	CEU_LEADER_KARL_I = {
+		name = CEU_LEADER_KARL_I_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = CEU_LEADER_KARL_I_DESC
+		}
+	}
+
+}

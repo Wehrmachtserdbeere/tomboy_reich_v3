@@ -1,4 +1,4 @@
-ANI_INF_01 = {
+﻿ANI_INF_01 = {
 	name = "Infantry Divisions"
 
 	for_countries = { ANI }

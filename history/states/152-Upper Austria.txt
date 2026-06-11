@@ -13,8 +13,9 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
+		owner = CEU
+		add_core_of = CEU
+		add_core_of = AUS
 
 		buildings = {
 			infrastructure = 3 #was: 6

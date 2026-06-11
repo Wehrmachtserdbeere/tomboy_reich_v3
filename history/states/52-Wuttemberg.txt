@@ -10,9 +10,10 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
-		add_core_of = ANI
+		owner = CEU
+		add_core_of = CEU
+		add_core_of = GER
+		add_core_of = BAY
 
 		victory_points = {
 			692 20 # Munich

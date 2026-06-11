@@ -1,0 +1,151 @@
+﻿l_english:
+  # Belgium
+  CEU_STATE_6: "Vlaanderen"
+  CEU_STATE_977: "Antwerpen"
+  CEU_STATE_34: "Wallonie"
+  CEU_STATE_980: "Ardennes"
+
+  # Luxembourg
+  CEU_STATE_8: "Luxembourg"
+
+  # Netherlands
+  CEU_STATE_35: "Brabant"
+  CEU_STATE_7: "Holland"
+  CEU_STATE_36: "Friesland"
+  
+  # France
+  CEU_STATE_29: "Nord-Pas-De-Calais"
+  CEU_STATE_785: "Picardy"
+  CEU_STATE_18: "Champagne"
+  CEU_STATE_28: "Alsace-Lorraine"
+  CEU_STATE_17: "Franche-Comte"
+  CEU_STATE_27: "Bourgogne"
+  CEU_STATE_24: "Centre"
+  CEU_STATE_16: "Île De France"
+  CEU_STATE_15: "Normandy"
+  CEU_STATE_30: "Loire"
+  CEU_STATE_14: "Brittany"
+  CEU_STATE_735: "Savoy"
+  CEU_STATE_851: "Var"
+  CEU_STATE_21: "Bouches-du-Rhône"
+  CEU_STATE_32: "Alpes"
+  CEU_STATE_20: "Rhone"
+  CEU_STATE_26: "Auvergne"
+  CEU_STATE_22: "Languedoc"
+  CEU_STATE_33: "Centre-Sud"
+  CEU_STATE_25: "Limousin"
+  CEU_STATE_31: "Midi Pyrenees"
+  CEU_STATE_23: "Poitou"
+  CEU_STATE_19: "Aquitaine"
+  CEU_STATE_806: "Pyrénées-Atlantiques"
+  
+  # English States
+  CEU_STATE_127: "Sussex"
+  CEU_STATE_126: "Greater London Area"
+  CEU_STATE_125: "East Anglia"
+  CEU_STATE_129: "East Midlands"
+  CEU_STATE_130: "Yorkshire"
+  CEU_STATE_123: "South-West England"
+  CEU_STATE_338: "Gloucestershire"
+  CEU_STATE_128: "West Midlands"
+  CEU_STATE_132: "Lancashire"
+  CEU_STATE_931: "Cumbria"
+  CEU_STATE_131: "Northumberland"
+  CEU_STATE_122: "Wales"
+  CEU_STATE_121: "Lothian"
+  CEU_STATE_133: "Lanark"
+  CEU_STATE_136: "Aberdeenshire"
+  CEU_STATE_120: "Scottish Highlands"
+  CEU_STATE_933: "Shetland Islands"
+  CEU_STATE_932: "Isle of Man"
+  CEU_STATE_119: "Northern Ireland"
+  CEU_STATE_134: "Connaught"
+  CEU_STATE_113: "Leinester"
+  CEU_STATE_135: "Munster"
+
+  # Germany
+  CEU_STATE_57: "Westfalen"
+  CEU_STATE_56: "Weser-Ems"
+  CEU_STATE_51: "Rheinland"
+  CEU_STATE_42: "Pfalz"
+  CEU_STATE_55: "Hessen"
+  CEU_STATE_59: "Hannover"
+  CEU_STATE_60: "Thüringen"
+  CEU_STATE_912: "Nord-Schleswig"
+  CEU_STATE_909: "Schleswig"
+  CEU_STATE_58: "Holstein"
+  CEU_STATE_61: "Mecklenburg"
+  CEU_STATE_62: "Vorpommern"
+  CEU_STATE_64: "Brandenburg"
+  CEU_STATE_65: "Sachsen"
+  CEU_STATE_42: "Pfalz"
+  CEU_STATE_978: "Baden"
+  CEU_STATE_50: "Württemberg"
+  CEU_STATE_54: "Franken"
+  CEU_STATE_53: "Niederbayern"
+  CEU_STATE_52: "Oberbayern"
+  
+  # Austria
+  CEU_STATE_848: "Vorarlberg"
+  CEU_STATE_153: "Tirol"
+  CEU_STATE_152: "Ober-Österreich"
+  CEU_STATE_4: "Nieder-Österreich"
+  CEU_STATE_976: "Steyermark-Kärnten"
+  CEU_STATE_975: "Burgenland"
+  
+  # Czechia
+  CEU_STATE_69: "Severní Sudety"
+  CEU_STATE_972: "Jižní Sudety"
+  CEU_STATE_74: "Slezské Sudety"
+  CEU_STATE_9: "Čechy"
+  CEU_STATE_75: "Morava"
+
+  # Czech-Polish
+  CEU_STATE_72: "Záolží"
+
+  # Prussia
+  CEU_STATE_63: "Hinterpommern"
+  CEU_STATE_68: "Ostmark"
+  CEU_STATE_66: "Niederschlesien"
+  CEU_STATE_67: "Oberschlesien"
+  CEU_STATE_762: "Kattowitz"
+  CEU_STATE_86: "Posen"
+  CEU_STATE_807: "Gotenstaat"
+  CEU_STATE_85: "Danzig"
+  CEU_STATE_5: "Ermland-Masuren"
+  CEU_STATE_763: "Königsberg"
+  
+  # Lithuania
+  CEU_STATE_188: "Klaipėda"
+  CEU_STATE_784: "Vilnus"
+
+  # Slovakia
+  CEU_STATE_70: "Západné Slovensko"
+  CEU_STATE_71: "Východné Slovensko"
+  
+  # Hungary
+  CEU_STATE_664: "Észak-Magyarország"
+  CEU_STATE_155: "Közép-Dunántúl"
+  CEU_STATE_974: "Dél-Dunántúl"
+  CEU_STATE_973: "Bács-Kiskun"
+  CEU_STATE_154: "Alföld"
+  CEU_STATE_43: "Közép-Magyarország"
+
+  # Ukraine
+  CEU_STATE_73: "Zakarpats'ka"
+  CEU_STATE_89: "Ivano-Frankivska"
+  CEU_STATE_91: "Lvivska"
+  CEU_STATE_93: "Volynska"
+
+  # Belarus
+  CEU_STATE_94: "Gomelska"
+  CEU_STATE_95: "Grodzenska"
+  CEU_STATE_96: "Vilejska"
+
+  # poland
+  CEU_STATE_10: "Mazowieckie"
+  CEU_STATE_98: "Kujawsko-Pomorskie"
+  CEU_STATE_87: "Wielkopolskie"
+  CEU_STATE_90: "Łódzskie"
+  CEU_STATE_88: "Małopolskie"
+  CEU_STATE_97: "Podlaskie"
