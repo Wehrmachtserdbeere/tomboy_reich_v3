@@ -23,20 +23,12 @@ state={
 			}
 
 		}
-		add_core_of = ANI
+		add_core_of = NAT
 		victory_points = {
 			788 10 
 		}
 		victory_points = {
 			10412 15 
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-				dockyard = 5
-
-			}
-
 		}
 
 	}

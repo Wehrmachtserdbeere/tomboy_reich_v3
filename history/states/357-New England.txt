@@ -26,7 +26,7 @@ state={
 			}
 
 		}
-		add_core_of = ANI
+		add_core_of = NAT
 		victory_points = {
 			6732 20 
 		}

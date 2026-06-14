@@ -13,6 +13,7 @@ state={
 
 	history={
 		owner = ANI
+		add_core_of = ANI
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
@@ -33,7 +34,9 @@ state={
 		victory_points = {
 			122 5
 		}
-		add_core_of = ANI
+		victory_points = {
+			9127 1
+		}
 	}
 
 	provinces={

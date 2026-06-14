@@ -6,6 +6,7 @@ state={
 	
 	history={
 		owner = ANI
+		add_core_of = ANI
 		buildings = {
 			infrastructure = 2
 			12251 = {

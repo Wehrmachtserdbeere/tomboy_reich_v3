@@ -3,9 +3,15 @@ state={
 	name="STATE_95"
 
 	history={
+
 		victory_points = {
 			9304 1
 		}
+
+		victory_points = {
+			3393 3
+		}
+		
 		owner = CEU
 		buildings = {
 			infrastructure = 3
@@ -13,7 +19,6 @@ state={
 
 		}
 		add_core_of = CEU
-		add_core_of = POL
 		add_core_of = BLR
 
 	}

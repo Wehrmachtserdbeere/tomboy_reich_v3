@@ -8,7 +8,7 @@ state = {
 	history = {
 
 		owner = ANI
-		add_core_of = ANI
+		add_core_of = NAT
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -32,14 +32,6 @@ state = {
 
 		victory_points = {
 			7315 10 # Seattle
-		}
-
-		1939.1.1 = {
-			buildings = {
-				7315 = {
-					air_facility = 1 # Boeing Factories
-				}
-			}
 		}
 	}
 

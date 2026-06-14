@@ -15,7 +15,7 @@ state={
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
 		}
-		add_core_of = ANI
+		add_core_of = NAT
 		victory_points = {
 			12357 5 
 		}

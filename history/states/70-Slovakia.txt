@@ -37,7 +37,7 @@ state = {
 
 		add_core_of = CEU
 		add_core_of = CZE
-		add_core_of = SLV
+		add_core_of = SLO
 		
 	}
 

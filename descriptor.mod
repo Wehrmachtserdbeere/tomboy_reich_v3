@@ -6,7 +6,7 @@ tags={
 	"Events"
 }
 name="Tomboy Reich V3"
-supported_version="1.17.*"
+supported_version="1.19.*"
 replace_path="common/countries"
 replace_path="common/bookmarks"
 replace_path="common/ideologies"

@@ -6,8 +6,6 @@ state = {
 
 		owner = ANI
 		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
 
 		#victory_points = {
 		#	7940 10 # Goldmud was not ofunded until in the late fifties
@@ -23,6 +21,16 @@ state = {
 		}
 
 		1938.10.25 = {
+			IF = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
+				}
+				CHI = {
+					transfer_state = PREV
+				}
+			}
 		}
 
 	}

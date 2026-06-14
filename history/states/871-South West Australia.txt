@@ -5,14 +5,14 @@ state={
 		1526 2191 8200 10949 10969 10997 11011 12948 12962 12976 12990 
 	}
 	history = {
+		owner = ANI
+		add_core_of = ANI
 		buildings = {
 			infrastructure = 1
 		}
-		owner = ANI
-		add_core_of = ANI
 	}
 	state_category = pastoral
-	manpower=50000
+	manpower=105000#PreTAOG 50000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

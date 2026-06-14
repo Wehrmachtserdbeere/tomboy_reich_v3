@@ -13,10 +13,6 @@ state = {
 
 		owner = ANI
 		add_core_of = ANI
-		add_core_of = ANI
-
-		1936.1.1 = {
-		}
 
 		victory_points = {
 			1104 2 # Yantai
@@ -41,11 +37,6 @@ state = {
 				bunker = 1
 			}
 
-		}
-
-		1938.10.25 = {
-			owner = ANI
-			controller = ANI
 		}
 		
 	}

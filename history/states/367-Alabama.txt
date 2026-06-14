@@ -19,17 +19,12 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = ANI
+		add_core_of = NAT
 		victory_points = {
 			7480 1 
 		}
 		victory_points = {
 			12735 1 
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
 		}
 
 	}

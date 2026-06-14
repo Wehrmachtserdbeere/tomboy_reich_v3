@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = ANI
+		add_core_of = ANI
 		
 		victory_points = {
 			9932 15
@@ -18,13 +19,15 @@ state={
 		victory_points = {
 			3979 3 
 		}
+		victory_points = {
+			11853 3
+		}
 		buildings = {
 			infrastructure = 2
 			9932 = {
 				naval_base = 2
 			}
 		}
-		add_core_of = ANI
 	}
 
 	provinces={

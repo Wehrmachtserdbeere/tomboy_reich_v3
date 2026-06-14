@@ -10,6 +10,7 @@ state={
 	state_category = town
 	history={
 		owner = ANI
+		add_core_of = ANI
 		buildings = {
 			infrastructure = 2
 			arms_factory = 2
@@ -17,9 +18,6 @@ state={
 		victory_points = {
 			1896 5 
 		}
-		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

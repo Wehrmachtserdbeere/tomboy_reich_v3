@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = ANI
+		add_core_of = ANI
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -28,9 +29,11 @@ state={
 			}
 		}
 		victory_points = {
-			10837 10 
+			10837 10 # Tehran 
 		}
-		add_core_of = ANI
+		victory_points = {
+			7602 2 # Esterabad 
+		}
 	}
 
 	provinces={

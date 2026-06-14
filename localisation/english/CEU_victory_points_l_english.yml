@@ -1,2 +1,15 @@
 ﻿l_english:
-  FEM_VICTORY_POINTS_: ""
+  
+  # Germany
+  CEU_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelmshaven
+  CEU_VICTORY_POINTS_11388: "Münster" # Münster
+  CEU_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  CEU_VICTORY_POINTS_564: "Kassel" # Kassel
+  CEU_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  CEU_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  CEU_VICTORY_POINTS_11560: "Mainz" # Mainz
+  CEU_VICTORY_POINTS_6469: "Essen" # Essen
+  CEU_VICTORY_POINTS_587: "Köln" # Köln
+  CEU_VICTORY_POINTS_9575: "Trier" # Trier
+  CEU_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+  
