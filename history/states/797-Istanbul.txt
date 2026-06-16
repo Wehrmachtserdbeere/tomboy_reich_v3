@@ -1,9 +1,6 @@
 state={
 	id=797
 	name="STATE_797"
-	provinces={
-		9833 11829 
-	}
 	manpower = 1042276
 	resources={
 		#chromium=45 # was: 84
@@ -20,9 +17,9 @@ state={
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
-			arms_factory = 2
+			arms_factory = 1
 			dockyard = 1 # Taşkızak Naval Shipyard
-			air_base = 4
+			air_base = 2
 			9833 = {
 				naval_base = 8
                 landmark_hagia_sophia = {
@@ -34,6 +31,10 @@ state={
 			}
 		}
 		add_core_of = ANI
+	}
+	
+	provinces={
+		9833
 	}
 
 	local_supplies=0.0 

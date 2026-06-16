@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = ANI
+		add_core_of = ANI
 		victory_points = {
 			3671 10
 		}
@@ -18,12 +19,9 @@ state={
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
-
-		}
-		add_core_of = ANI
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
+			
+			6518 = {
+				bunker = 4
 			}
 		}
 	}

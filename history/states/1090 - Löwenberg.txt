@@ -1,0 +1,27 @@
+state = {
+	id = 1090
+	name = "STATE_1090"
+	manpower = 23000
+	buildings_max_level_factor = 1
+
+	state_category = city
+
+	history = {
+
+		owner = CEU
+		add_core_of = CEU
+		add_core_of = GER
+		add_core_of = PRE
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		375 3367 11219
+	}
+
+	local_supplies = 0.0 
+}

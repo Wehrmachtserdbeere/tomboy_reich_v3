@@ -1,3 +1,4 @@
 NAT_AI = {
 	color = rgb { 128 0 128 }
+	color_ui = rgb { 128 0 128 }
 }

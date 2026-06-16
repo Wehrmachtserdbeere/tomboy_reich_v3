@@ -1,0 +1,30 @@
+
+state={
+	id=1093
+	name="STATE_1093"
+	manpower = 250000
+	
+	state_category = city
+
+	history={
+		owner = LOL
+		add_core_of = LOL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 10
+
+			11491 = {
+				bunker = 5
+			}
+		}
+	}
+
+	
+
+	provinces={
+		551 3533 6531 6949 11491 11732
+	}
+
+	local_supplies=0.0 
+}

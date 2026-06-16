@@ -1,0 +1,43 @@
+
+state={
+	id=1094
+	name="STATE_1094"
+	manpower = 1020000
+	resources={
+		steel=3 # was: 36
+	}
+	
+	state_category = city
+
+	history={
+		owner = LOL
+		victory_points = {
+			9434 10 # Le Havre
+		}
+		victory_points = {
+			11563 5 # Rouen
+		}
+		victory_points = {
+			485 3 # Dieppe
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+			9434 = {
+				naval_base = 5
+				coastal_bunker = 1
+			}
+			485= {
+				naval_base = 1
+			}
+		}
+		add_core_of = LOL
+	}
+
+	provinces={
+		485 6569 9434 11563
+	}
+
+	local_supplies=0.0 
+}

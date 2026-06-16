@@ -1,0 +1,28 @@
+state = {
+	id = 1083
+	name = "STATE_1083"
+	manpower = 43000
+	
+	state_category = city
+
+	history = {
+
+		owner = FEM
+		add_core_of = FEM
+		add_core_of = GER
+
+		victory_points = {
+			3679 1 # Konstanz
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3679 6934 9655 13126
+	}
+
+	local_supplies = 8.0 
+}

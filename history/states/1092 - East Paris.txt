@@ -1,0 +1,45 @@
+state = {
+	id = 1092
+	name = "STATE_1092"
+	manpower = 6955167
+	
+	state_category = metropolis
+	
+
+	history = {
+
+		owner = LOL
+		add_core_of = LOL
+
+		victory_points = {
+			11506 50 # Paris
+		}
+
+		buildings = {
+			# Buildings remain the same because it's the capital and also intensely militarized
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			anti_air_building = 3
+			air_base = 5
+
+			9534 = {
+				# The Renault factories on Île Seguin in Billancourt
+				land_facility = 1
+			}
+
+			11506 = {
+				bunker = 10
+			}
+			9543 = {
+				bunker = 7
+			}
+		}
+	}
+
+	provinces = {
+		9534 11506 11518
+	}
+
+	local_supplies = 0.0 
+}

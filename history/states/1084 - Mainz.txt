@@ -1,0 +1,29 @@
+state = {
+	id = 1084
+	name = "STATE_1084"
+	manpower = 223000
+	
+	state_category = city
+
+	history = {
+
+		owner = FEM
+		add_core_of = FEM
+		add_core_of = TOM
+		add_core_of = GER
+
+		victory_points = {
+			11560 2 # Mainz
+		}
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11560
+	}
+
+	local_supplies = 8.0 
+}

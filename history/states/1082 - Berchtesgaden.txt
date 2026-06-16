@@ -1,0 +1,32 @@
+state = {
+	id = 1082
+	name = "STATE_1082"
+	manpower = 55000
+	resources = {
+		coal = 1
+	}
+	
+	state_category = rural
+
+	history = {
+
+		owner = CEU
+		add_core_of = CEU
+		add_core_of = GER
+		add_core_of = BAY
+
+		victory_points = {
+			707 1 # Berchtesgaden
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3688 707
+	}
+
+	local_supplies = 8.0 
+}

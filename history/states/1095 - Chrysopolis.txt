@@ -1,0 +1,35 @@
+state={
+	id=1095
+	name="STATE_1095"
+	
+	manpower = 1042276
+	resources={
+		
+	}
+	
+	state_category = city
+
+	history= {
+		owner = ANI
+		victory_points = {
+			11829 25
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			11829 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = ANI
+	}
+	
+	provinces={
+		11829
+	}
+
+	local_supplies=0.0 
+}

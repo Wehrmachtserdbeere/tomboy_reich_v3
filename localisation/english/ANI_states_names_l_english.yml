@@ -122,3 +122,18 @@
   ANI_STATE_816: "Aliza" # West Virginia - Aliza
   ANI_STATE_394: "Yukari" # Wisconsin - Yukari Takeba
   ANI_STATE_381: "Kirishima" # Wyoming - Touka Kirishima
+
+  ANI_STATE_1082: "Berchtesgaden"
+  ANI_STATE_1083: "Bodensee"
+  ANI_STATE_1084: "Mainz"
+  ANI_STATE_1085: "Mainz-Zweig"
+  ANI_STATE_1086: "Mosel-Westmark"
+  ANI_STATE_1087: "Waal-Niederrhein"
+  ANI_STATE_1088: "Magdeburg"
+  ANI_STATE_1089: "Stettin"
+  ANI_STATE_1090: "Löwensberg"
+  ANI_STATE_1091: "West-Sachsen"
+  ANI_STATE_1092: "Ost-Paris"
+  ANI_STATE_1093: "Marne-Seine"
+  ANI_STATE_1094: "Nord-Normandie"
+  ANI_STATE_1096: "Krakau"
