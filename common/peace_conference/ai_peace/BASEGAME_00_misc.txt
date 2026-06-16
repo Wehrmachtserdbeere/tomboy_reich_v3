@@ -60,7 +60,7 @@ peace_ai_desires = {
         ai_desire = -1000
     }
 
-    generic_influence_cutoff_force_government_fascism_unaligned = { #Don't do ANYTHING outside influence range
+    generic_influence_cutoff_force_government_pro_anime_reactionism_unaligned = { #Don't do ANYTHING outside influence range
 
         # This AI modifier attempts to make the AI start taking a new land area from specific provinces (e.g. ports) rather than starting at a random coast line.
 
@@ -169,7 +169,10 @@ peace_ai_desires = {
             ROOT = { 
                 NOT = { tag = JAP }            #We aren't Japan (special handling)
                 is_major = yes                #We are big
-                has_government = fascism    #We are the baddies
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
                 tag = ROOT.FROM                #We are acting for ourselves
             }
         }
@@ -183,7 +186,10 @@ peace_ai_desires = {
             ROOT = { 
                 NOT = { tag = JAP }            #We aren't Japan (special handling)
                 is_major = yes                #We are big
-                has_government = fascism    #We are the baddies
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
             }
         }
 
@@ -196,10 +202,18 @@ peace_ai_desires = {
             ROOT = { 
                 NOT = { tag = JAP }            #We aren't Japan (special handling)
                 is_major = yes                #We are big
-                has_government = fascism    #We are the baddies
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
                 tag = ROOT.FROM                #We are acting for ourselves
             }
-            ROOT.FROM.FROM = { NOT = { has_government = fascism } }
+            ROOT.FROM.FROM = {
+                NOT = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
+            }
         }
 
         ai_desire = -75
@@ -271,7 +285,8 @@ peace_ai_desires = {
         enable = {
             ROOT = {
                 NOT = { has_government = democratic }
-                NOT = { has_government = fascism }
+                NOT = { has_government = pro_anime_reactionism }
+                NOT = { has_government = anti_anime_reactionism }
                 NOT = {
                     tag = ROOT.FROM
                 }
@@ -375,7 +390,8 @@ peace_ai_desires = {
             ROOT = { has_government = democratic }
             ROOT.FROM = {
                 OR = {
-                    has_government = fascism
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
                     has_government = communism
                 }
             }
@@ -393,8 +409,12 @@ peace_ai_desires = {
                 ROOT.FROM.FROM = { pc_is_forced_government_to = democratic }
             }
             else_if = {
-                limit = { has_government = fascism }
-                ROOT.FROM.FROM = { pc_is_forced_government_to = fascism }
+                limit = { has_government = pro_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = pro_anime_reactionism }
+            }
+            else_if = {
+                limit = { has_government = anti_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = anti_anime_reactionism }
             }
             else_if = {
                 limit = { has_government = communism }
@@ -442,14 +462,20 @@ peace_ai_desires = {
     }
 
 
-    fascism_dont_liberate_the_wrong_ideology = {
+    anime_reactionism_dont_liberate_the_wrong_ideology = {
         peace_action_type = liberate
         enable = {
-            ROOT = { has_government = fascism }
+            ROOT = {
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
+            }
             ROOT.FROM = {
                 NOT = {
                     OR = {
-                        has_government = fascism
+                        has_government = pro_anime_reactionism
+                        has_government = anti_anime_reactionism
                         has_government = neutrality
                     }
                 }
@@ -625,8 +651,12 @@ peace_ai_desires = {
                 ROOT.FROM.FROM = { pc_is_forced_government_to = democratic }
             }
             else_if = {
-                limit = { has_government = fascism }
-                ROOT.FROM.FROM = { pc_is_forced_government_to = fascism }
+                limit = { has_government = pro_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = pro_anime_reactionism }
+            }
+            else_if = {
+                limit = { has_government = anti_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = anti_anime_reactionism }
             }
             else_if = {
                 limit = { has_government = communism }
@@ -649,7 +679,11 @@ peace_ai_desires = {
         enable = {
             ROOT.FROM = {
                 original_tag = GER
-                has_government = fascism
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
+                
             }
         }
         ai_desire = -100
@@ -672,14 +706,17 @@ peace_ai_desires = {
     }
 
 
-    fascism_take_states_germany_sov = {
+    anime_reactionism_take_states_germany_sov = {
         peace_action_type = take_states
         enable = {
             ROOT = {
                 tag = ROOT.FROM
             }
             ROOT = {
-                has_government = fascism
+                OR = {
+                    has_government = pro_anime_reactionism
+                    has_government = anti_anime_reactionism
+                }
             }
             ROOT.FROM.FROM = {
                 tag = SOV
@@ -1102,8 +1139,12 @@ peace_ai_desires = {
                 ROOT.FROM.FROM = { pc_is_forced_government_to = democratic }
             }
             else_if = {
-                limit = { has_government = fascism }
-                ROOT.FROM.FROM = { pc_is_forced_government_to = fascism }
+                limit = { has_government = pro_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = pro_anime_reactionism }
+            }
+            else_if = {
+                limit = { has_government = anti_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = anti_anime_reactionism }
             }
             else_if = {
                 limit = { has_government = communism }
@@ -1134,8 +1175,12 @@ peace_ai_desires = {
                 ROOT.FROM.FROM = { pc_is_forced_government_to = democratic }
             }
             else_if = {
-                limit = { has_government = fascism }
-                ROOT.FROM.FROM = { pc_is_forced_government_to = fascism }
+                limit = { has_government = pro_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = pro_anime_reactionism }
+            }
+            else_if = {
+                limit = { has_government = anti_anime_reactionism }
+                ROOT.FROM.FROM = { pc_is_forced_government_to = anti_anime_reactionism }
             }
             else_if = {
                 limit = { has_government = communism }

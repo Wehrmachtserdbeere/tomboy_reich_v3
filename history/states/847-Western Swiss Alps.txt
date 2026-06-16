@@ -7,12 +7,12 @@ state={
 	resources={
 	}
 	history={
-		owner = ANI
+		owner = SWI
+		add_core_of = SWI
 		buildings = {
 			infrastructure = 1 
 			industrial_complex = 1
 		}
-		add_core_of = ANI
 	}
 	provinces={
 		636 9587 3612 9618  

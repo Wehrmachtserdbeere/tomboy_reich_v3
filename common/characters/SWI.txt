@@ -1,0 +1,94 @@
+characters = {
+
+	SWI_LEADER_placeholder_1 = {
+		name = SWI_LEADER_placeholder_name
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = conservatism
+			traits = {
+				
+			}
+			desc = SWI_LEADER_placeholder_desc
+		}
+	}
+	SWI_LEADER_placeholder_2 = {
+		name = SWI_LEADER_placeholder_name
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = SWI_LEADER_placeholder_desc
+		}
+	}
+	SWI_LEADER_placeholder_3 = {
+		name = SWI_LEADER_placeholder_name
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				
+			}
+			desc = SWI_LEADER_placeholder_desc
+		}
+	}
+	SWI_LEADER_placeholder_4 = {
+		name = SWI_LEADER_placeholder_name
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = SWI_LEADER_placeholder_desc
+		}
+	}
+	SWI_LEADER_placeholder_5 = {
+		name = SWI_LEADER_placeholder_name
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = despotism
+			traits = {
+				
+			}
+			desc = SWI_LEADER_placeholder_desc
+		}
+	}
+
+}

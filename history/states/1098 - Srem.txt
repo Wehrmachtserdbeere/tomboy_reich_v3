@@ -1,0 +1,22 @@
+
+state={
+	id=1098
+	name="STATE_1098"
+	manpower = 24400
+	
+	state_category = town
+
+	history={
+		owner = ANI
+		add_core_of = ANI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		11577 11580
+	}
+
+	local_supplies=0.0 
+}

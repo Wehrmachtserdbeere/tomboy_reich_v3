@@ -1,0 +1,303 @@
+CEU_INF_01 = {
+	name = "Infantry Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Infanterie-Division"
+
+	ordered = {
+		1 = { "1. Infanterie-Division" }
+	}
+}
+
+CEU_INF_02 = {
+	name = "Infantry Divisions (Pol.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Dywizja Piechoty"
+
+	ordered = {
+		1 = { "1. Dywizja Piechoty" }
+	}
+}
+
+CEU_INF_03 = {
+	name = "Infantry Divisions (Cze.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Pěší Divize"
+
+	ordered = {
+		1 = { "1. Pěší Divize" }
+	}
+}
+
+CEU_JGR_01 = {
+	name = "Ranger Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Jäger-Division"
+
+	ordered = {
+		1 = { "%d. Jäger-Division" }
+	}
+}
+
+CEU_JGR_02 = {
+	name = "Ranger Divisions (Pol.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "ranger_battalion" }
+
+	fallback_name = "%d. Dywizja Łowca"
+
+	ordered = {
+		1 = { "%d. Dywizja Łowca" }
+	}
+}
+
+CEU_MOT_01 = {
+	name = "Motorized Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Motorisierte Infanterie-Division"
+
+	link_numbering_with = { CEU_Inf_01 }
+
+	ordered = {
+		3 = { "%d. Motorisierte Infanterie-Division \"Deutschland\"" }
+		6 = { "%d. Motorisierte Infanterie-Division \"Preußen\"" }
+		9 = { "%d. Motorisierte Infanterie-Division \"Bayern\"" }
+		12 = { "%d. Motorisierte Infanterie-Division \"Hessen\"" }
+		15 = { "%d. Motorisierte Infanterie-Division \"Rheinland\"" }
+	}
+}
+
+CEU_MOT_02 = {
+	name = "Motorized Divisions (Pol.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Dywizja Piechoty Zmotoryzowanej"
+
+	link_numbering_with = { CEU_Inf_02 }
+
+	ordered = {
+		3 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Polska\"" }
+		6 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Białoruś\"" }
+		9 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Ukraina\"" }
+		12 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Litwa\"" }
+		15 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Odra-Nysa\"" }
+	}
+}
+
+CEU_MEC_01 = {
+	name = "Panzergrenadier Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Panzergrenadier-Division"
+
+	link_numbering_with = { CEU_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Panzergrenadier-Division \"von Seeckt\"" }
+		5 = { "%d. Panzergrenadier-Division \"Lutz\"" }
+		7 = { "%d. Panzergrenadier-Division \"Volckheim\"" }
+		8 = { "%d. Panzergrenadier-Division \"Vollmer\"" }
+	}
+}
+
+CEU_MEC_02 = {
+	name = "Panzergrenadier Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	fallback_name = "%d. Dywizja Grenadierów Pancernych"
+
+	link_numbering_with = { CEU_Inf_01 }
+
+	ordered = {
+		4 = { "%d. Dywizja Grenadierów Pancernych \"Wojtek\"" }
+	}
+}
+
+CEU_ARM_01 = {
+	name = "Panzer Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Panzer-Division"
+
+	ordered = {
+		1 = { "%d. Panzer-Division \"Guderian\"" }
+		2 = { "%d. Panzer-Division \"von Hindenburg\"" }
+		3 = { "%d. Panzer-Division \"Ludendorff\"" }
+		4 = { "%d. Panzer-Division \"Hoffmann\"" }
+		5 = { "%d. Panzer-Division \"Rupprecht\"" }
+		6 = { "%d. Panzer-Division \"Groener\"" }
+		50 = { "%d. Mitteldeutsche Panzer-Division" }
+		51 = { "%d. Mitteldeutsche Panzer-Division" }
+		52 = { "%d. Mitteldeutsche Panzer-Division" }
+		60 = { "%d. Tschechische Panzer-Division" }
+		61 = { "%d. Tschechische Panzer-Division" }
+		62 = { "%d. Tschechische Panzer-Division" }
+		70 = { "%d. Slowakische Panzer-Division" }
+		71 = { "%d. Slowakische Panzer-Division" }
+		72 = { "%d. Slowakische Panzer-Division" }
+		80 = { "%d. Polnische Panzer-Division" }
+		81 = { "%d. Polnische Panzer-Division" }
+		82 = { "%d. Polnische Panzer-Division" }
+		90 = { "%d. Französische Panzer-Division" }
+		91 = { "%d. Französische Panzer-Division" }
+		92 = { "%d. Französische Panzer-Division" }
+		100 = { "%d. Ukrainische Panzer-Division" }
+		101 = { "%d. Ukrainische Panzer-Division" }
+		102 = { "%d. Ukrainische Panzer-Division" }
+		110 = { "%d. Weißrussische Panzer-Division" }
+		111 = { "%d. Weißrussische Panzer-Division" }
+		112 = { "%d. Weißrussische Panzer-Division" }
+	}
+}
+
+CEU_ARM_02 = {
+	name = "Panzer Divisions (Ger.)"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	fallback_name = "%d. Panzer-Division"
+
+	ordered = {
+		1 = { "%d. Dywizja Pancerna \"Guderian\"" }
+		2 = { "%d. Dywizja Pancerna \"von Hindenburg\"" }
+		3 = { "%d. Dywizja Pancerna \"Ludendorff\"" }
+		4 = { "%d. Dywizja Pancerna \"Hoffmann\"" }
+		5 = { "%d. Dywizja Pancerna \"Rupprecht\"" }
+		6 = { "%d. Dywizja Pancerna \"Groener\"" }
+		50 = { "%d. Środkowoniemiecki Dywizja Pancerna" }
+		51 = { "%d. Środkowoniemiecki Dywizja Pancerna" }
+		52 = { "%d. Środkowoniemiecki Dywizja Pancerna" }
+		60 = { "%d. Czeski Dywizja Pancerna" }
+		61 = { "%d. Czeski Dywizja Pancerna" }
+		62 = { "%d. Czeski Dywizja Pancerna" }
+		70 = { "%d. Słowacki Dywizja Pancerna" }
+		71 = { "%d. Słowacki Dywizja Pancerna" }
+		72 = { "%d. Słowacki Dywizja Pancerna" }
+		80 = { "%d. Polski Dywizja Pancerna" }
+		81 = { "%d. Polski Dywizja Pancerna" }
+		82 = { "%d. Polski Dywizja Pancerna" }
+		90 = { "%d. Francuski Dywizja Pancerna" }
+		91 = { "%d. Francuski Dywizja Pancerna" }
+		92 = { "%d. Francuski Dywizja Pancerna" }
+		100 = { "%d. Ukraiński Dywizja Pancerna" }
+		101 = { "%d. Ukraiński Dywizja Pancerna" }
+		102 = { "%d. Ukraiński Dywizja Pancerna" }
+		110 = { "%d. Białoruski Dywizja Pancerna" }
+		111 = { "%d. Białoruski Dywizja Pancerna" }
+		112 = { "%d. Białoruski Dywizja Pancerna" }
+	}
+}
+
+CEU_MIL_01 = {
+	name = "Freikorps-Veteran Divisions"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Freikorps-Veteranen-Division"
+
+	ordered = {
+		1 = { "%d. Freikorps-Veteranen-Division" }
+	}
+}
+
+CEU_MIL_01 = {
+	name = "Siły Ochrony Ludu"
+
+	for_countries = { CEU }
+
+	can_use = { always = yes }
+
+	division_types = { "militia" }
+
+	fallback_name = "%d. Siły Ochrony Ludu"
+
+	ordered = {
+		1 = { "%d. Siły Ochrony Ludu" }
+	}
+}
+
+CEU_CD_01 = {
+	name = "Conquistador Divisions"
+
+	for_countries = { CEU }
+
+	can_use = {
+		always = yes
+	}
+
+	division_types = { "infantry" "motorized" "medium_armor" "mechanized" }
+
+	fallback_name = "%d. Conquistador-Division"
+
+	ordered = {
+		1 = { "%d. Dywizja Konkwistadorów" }
+		2 = { "%d. Dywizja Konkwistadorów" }
+		3 = { "%d. Dywizja Konkwistadorów" }
+		4 = { "%d. Dywizja Konkwistadorów" }
+		5 = { "%d. Divize Conquistadorů" }
+		6 = { "%d. Divize Conquistadorů" }
+		7 = { "%d. Divize Conquistadorů" }
+		8 = { "%d. Divize Conquistadorů" }
+	}
+}
