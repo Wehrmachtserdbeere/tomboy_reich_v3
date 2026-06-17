@@ -66,7 +66,7 @@
   # Germany
   CEU_STATE_57: "Westfalen"
   CEU_STATE_56: "Weser-Ems"
-  CEU_STATE_51: "Rheinland"
+  CEU_STATE_51: "Ost-Rheinland"
   CEU_STATE_42: "Pfalz"
   CEU_STATE_55: "Hessen"
   CEU_STATE_59: "Hannover"
@@ -150,11 +150,11 @@
   CEU_STATE_88: "Małopolskie"
   CEU_STATE_97: "Podlaskie"
 
-  CEU_STATE_1082: "Bertesgaden"
+  CEU_STATE_1082: "Berchtesgaden"
   CEU_STATE_1083: "Bodensee"
   CEU_STATE_1084: "Mainz"
   CEU_STATE_1085: "Mainz-Zweig"
-  CEU_STATE_1086: "Mosel-Westmark"
+  CEU_STATE_1086: "West-Rheinland"
   CEU_STATE_1087: "Waal-Nijderrijnland"
   CEU_STATE_1088: "Magdeburg"
   CEU_STATE_1089: "Stettin-Szczecin"

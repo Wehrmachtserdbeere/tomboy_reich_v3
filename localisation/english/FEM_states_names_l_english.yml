@@ -42,7 +42,7 @@
 
   # Germany
   FEM_STATE_42: "Pfalz" # Moselland
-  FEM_STATE_51: "Rheinland" # Rhineland
+  FEM_STATE_51: "Oschd-Rhainland" # Rhineland
   FEM_STATE_55: "Hessn" # Hessen
   FEM_STATE_57: "Weschdfalen" # Westfalen
   FEM_STATE_56: "Weser-Ems" # Weser-Ems
@@ -161,7 +161,7 @@
   FEM_STATE_1083: "Bodasee"
   FEM_STATE_1084: "Mainz"
   FEM_STATE_1085: "Mainz-Zwaig"
-  FEM_STATE_1086: "Mosl-Weschdmak"
+  FEM_STATE_1086: "Weschd-Rhainland"
   FEM_STATE_1087: "Waal-Nidarhain"
   FEM_STATE_1088: "Magdebuag"
   FEM_STATE_1089: "Schdettin"

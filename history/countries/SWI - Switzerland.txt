@@ -33,11 +33,11 @@ set_technology = {
 }
 
 # TODO
- recruit_character = SWI_LEADER_placeholder_1
- recruit_character = SWI_LEADER_placeholder_2
- recruit_character = SWI_LEADER_placeholder_3
- recruit_character = SWI_LEADER_placeholder_4
- recruit_character = SWI_LEADER_placeholder_5
+recruit_character = SWI_LEADER_placeholder_1
+recruit_character = SWI_LEADER_placeholder_2
+recruit_character = SWI_LEADER_placeholder_3
+recruit_character = SWI_LEADER_placeholder_4
+recruit_character = SWI_LEADER_placeholder_5
 
 set_politics = {
 	ruling_party = democratic

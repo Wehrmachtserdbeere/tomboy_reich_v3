@@ -43,7 +43,7 @@
 
   # Germany
   ANI_STATE_42: "Pfalz" # Moselland
-  ANI_STATE_51: "Rheinland" # Rhineland
+  ANI_STATE_51: "Ost-Rheinland" # Rhineland
   ANI_STATE_55: "Hessen" # Hessen
   ANI_STATE_57: "Westfalen" # Westfalen
   ANI_STATE_56: "Weser-Ems" # Weser-Ems
@@ -127,7 +127,7 @@
   ANI_STATE_1083: "Bodensee"
   ANI_STATE_1084: "Mainz"
   ANI_STATE_1085: "Mainz-Zweig"
-  ANI_STATE_1086: "Mosel-Westmark"
+  ANI_STATE_1086: "West-Rheinland"
   ANI_STATE_1087: "Waal-Niederrhein"
   ANI_STATE_1088: "Magdeburg"
   ANI_STATE_1089: "Stettin"

@@ -1,1 +1,13 @@
-﻿
+﻿l_english:
+  SWI_LEADER_FEDERAL_ASSEMBLY_NAME: "Federal Assembly"
+  SWI_LEADER_FEDERAL_ASSEMBLY_DESC: "The Federal Assembly is the democratic apparatus of [SWI.GetName], without it, [SWI.GetName] wouldn't be [SWI.GetName]."
+  SWI_LEADER_JULES_HUMBERT_DROZ_NAME: "Jules Humbert-Droz"
+  SWI_LEADER_JULES_HUMBERT_DROZ_DESC: "Jules Humbert-Droz is a valiant Stalinist, seeing Stalin as an idol and as teacher, he seeks to establish a similar system in [SWI.GetName].\n\n\"Switzerland calls itself a democratic nation, and yet the shackles of the proletariat have not yet been smashed.\""
+  SWI_LEADER_HELVETIA_NAME: "Helvetia"
+  SWI_LEADER_HELVETIA_DESC: "Having arrived before the Anime War, Helvetia has been active in [SWI.GetAdjective] politics for more than a decade, and became immensely popular for a time. Unfortunately, the Anime War crashed the popularity of her party, but despite this, she seeks to regain the trust of the people she loves so much.\n\n\"One for all, all for one!\""
+  SWI_LEADER_ADOLF_HITLER_NAME: "Adolf Hitler"
+  SWI_LEADER_ADOLF_HITLER_DESC: "Once the leader of the National Socialists in Germany, he was forced to flee to [SWI.GetName] after the unification of [CEU.GetNameDef] and the following purges of dangerous actors and organizations. He continues his political career in [SWI.GetName], seeking an eventual return to Germany.\n\n\"We'll return and remain forever.\""
+  SWI_LEADER_ERNST_LEONHARDT_NAME: "Ernst Leonhardt"
+  SWI_LEADER_ERNST_LEONHARDT_DESC: "Leader of the remnants of the German National Socialist Party in [SWI.GetName], Ernst Leonhardt has a difficult time finding support among a people who are not interested in expansionism and war. And yet, he fights on for the National Socialist cause.\n\n\"Switzerland has always been German, and one day, we'll unite with our brothers.\""
+  SWI_LEADER_ULRICH_WILLE_JR_NAME: "Ulrich Wille Jr."
+  SWI_LEADER_ULRICH_WILLE_JR_DESC: "Representing the top professional officer class of the [SWI.GetAdjective] Armed Forces, Ulrich Wille Jr. follows an ideal of an authoritarian but democratic [SWI.GetName].\n\n\"This is merely a temporary measure; Democracy will resume soon enough.\""

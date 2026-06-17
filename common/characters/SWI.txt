@@ -1,7 +1,7 @@
 characters = {
 
-	SWI_LEADER_placeholder_1 = {
-		name = SWI_LEADER_placeholder_name
+	SWI_LEADER_FEDERAL_ASSEMBLY = {
+		name = SWI_LEADER_FEDERAL_ASSEMBLY_NAME
 		gender = male
 
 		portraits = {
@@ -11,15 +11,15 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = conservatism
+			ideology = free_conservatism
 			traits = {
 				
 			}
-			desc = SWI_LEADER_placeholder_desc
+			desc = SWI_LEADER_FEDERAL_ASSEMBLY_DESC
 		}
 	}
-	SWI_LEADER_placeholder_2 = {
-		name = SWI_LEADER_placeholder_name
+	SWI_LEADER_JULES_HUMBERT_DROZ = {
+		name = SWI_LEADER_JULES_HUMBERT_DROZ_NAME
 		gender = male
 
 		portraits = {
@@ -31,14 +31,14 @@ characters = {
 		country_leader = {
 			ideology = marxism
 			traits = {
-				
+				TBR_TRAITS_loves_soviets
 			}
-			desc = SWI_LEADER_placeholder_desc
+			desc = SWI_LEADER_JULES_HUMBERT_DROZ_DESC
 		}
 	}
-	SWI_LEADER_placeholder_3 = {
-		name = SWI_LEADER_placeholder_name
-		gender = male
+	SWI_LEADER_HELVETIA = {
+		name = SWI_LEADER_HELVETIA_NAME
+		gender = female
 
 		portraits = {
 			civilian = {
@@ -47,15 +47,15 @@ characters = {
 		}
 
 		country_leader = {
-			ideology = pa_anime_supremacy
+			ideology = pa_ultranationalism
 			traits = {
 				
 			}
-			desc = SWI_LEADER_placeholder_desc
+			desc = SWI_LEADER_HELVETIA_DESC
 		}
 	}
-	SWI_LEADER_placeholder_4 = {
-		name = SWI_LEADER_placeholder_name
+	SWI_LEADER_ADOLF_HITLER = {
+		name = SWI_LEADER_ADOLF_HITLER_NAME
 		gender = male
 
 		portraits = {
@@ -69,11 +69,29 @@ characters = {
 			traits = {
 				
 			}
-			desc = SWI_LEADER_placeholder_desc
+			desc = SWI_LEADER_ADOLF_HITLER_DESC
 		}
 	}
-	SWI_LEADER_placeholder_5 = {
-		name = SWI_LEADER_placeholder_name
+	SWI_LEADER_ERNST_LEONHARDT = {
+		name = SWI_LEADER_ERNST_LEONHARDT_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = SWI_LEADER_ERNST_LEONHARDT_DESC
+		}
+	}
+	SWI_LEADER_ULRICH_WILLE_JR = {
+		name = SWI_LEADER_ULRICH_WILLE_JR_NAME
 		gender = male
 
 		portraits = {
@@ -87,7 +105,7 @@ characters = {
 			traits = {
 				
 			}
-			desc = SWI_LEADER_placeholder_desc
+			desc = SWI_LEADER_ULRICH_WILLE_JR_DESC
 		}
 	}
 
