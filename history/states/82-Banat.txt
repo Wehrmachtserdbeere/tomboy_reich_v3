@@ -14,12 +14,12 @@ state={
 			9606 3
 		}
 		owner = ANI
+		add_core_of = ANI
+		add_claim_by = HUN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

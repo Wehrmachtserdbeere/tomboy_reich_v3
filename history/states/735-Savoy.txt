@@ -8,10 +8,8 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
-		add_core_of = ANI
-		add_claim_by = SPM
+		owner = FRA
+		add_core_of = FRA
 
 		victory_points = {
 			778 1 # Annecy

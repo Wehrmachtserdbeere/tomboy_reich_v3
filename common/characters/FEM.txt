@@ -17,6 +17,8 @@ characters = {
 			}
 			desc = FEM_LEADER_LUKA_URUSHIBARA_DESC
 		}
+
+		can_be_captured = no
 	}
 	
 	FEM_LEADER_ASTOLFO = {
@@ -32,10 +34,12 @@ characters = {
 		country_leader = {
 			ideology = monarchism
 			traits = {
-				FEM_the_astolfo_personality_cult
+				TBR_TRAIT_astolfo_personality_cult
 			}
 			desc = FEM_LEADER_ASTOLFO_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	FEM_LEADER_SCHROEDINGER = {
@@ -51,10 +55,12 @@ characters = {
 		country_leader = {
 			ideology = pa_nazism
 			traits = {
-				FEM_undying
+				TBR_TRAIT_undying
 			}
 			desc = FEM_LEADER_SCHROEDINGER_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# Tet from No Game No Life
@@ -71,10 +77,12 @@ characters = {
 		country_leader = {
 			ideology = minaism
 			traits = {
-				FEM_god_of_play
+				TBR_TRAIT_god_of_play
 			}
 			desc = FEM_LEADER_TET_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	FEM_LEADER_NOBODY = {
@@ -94,6 +102,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 	
 }

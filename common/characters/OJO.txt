@@ -17,6 +17,8 @@ characters = {
 			}
 			desc = OJO_LEADER_SHIRO_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	OJO_LEADER_NONNA = {
@@ -37,6 +39,8 @@ characters = {
 			}
 			desc = OJO_LEADER_NONNA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	OJO_LEADER_SATSUKI_KIRYUUIN = {
@@ -56,6 +60,8 @@ characters = {
 			}
 			desc = OJO_LEADER_SATSUKI_KIRYUUIN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	OJO_LEADER_ARTORIA_PENDRAGON = {
@@ -75,6 +81,8 @@ characters = {
 			}
 			desc = OJO_LEADER_ARTORIA_PENDRAGON_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	OJO_LEADER_NOBODY = {
@@ -94,6 +102,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 }

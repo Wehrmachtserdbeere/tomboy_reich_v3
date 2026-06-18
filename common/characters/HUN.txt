@@ -1,0 +1,142 @@
+characters = {
+	
+	HUN_LEADER_MIKLOS_HORTHY = {
+		name = HUN_LEADER_MIKLOS_HORTHY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_MIKLOS_HORTHY_DESC
+		}
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_MIKLOS_HORTHY_DESC
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_MIKLOS_HORTHY_DESC
+		}
+
+		advisor = {
+			slot = navy_chief
+
+			idea_token = HUN_IDEA_NAVY_MIKLOS_HORTHY
+
+			allowed = {
+				original_tag = HUN
+			}
+
+			traits = {
+				navy_chief_reform_2
+			}
+
+			cost = 100
+
+			ai_will_do = {
+				factor = 2
+			}
+		}
+
+		can_be_captured = yes
+	}
+
+	HUN_LEADER_OTTO_VON_HABSBURG = {
+		name = HUN_LEADER_OTTO_VON_HABSBURG_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_OTTO_VON_HABSBURG_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	HUN_LEADER_MATYAS_RAKOSI = {
+		name = HUN_LEADER_MATYAS_RAKOSI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_MATYAS_RAKOSI_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	HUN_LEADER_HUNGARIA = {
+		name = HUN_LEADER_HUNGARIA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_ultranationalism
+			traits = {
+				
+			}
+			desc = HUN_LEADER_HUNGARIA_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	HUN_LEADER_FERENC_SZALASI = {
+		name = HUN_LEADER_FERENC_SZALASI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				TBR_TRAIT_loves_germany
+			}
+			desc = HUN_LEADER_FERENC_SZALASI_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

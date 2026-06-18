@@ -11,7 +11,8 @@ state={
 	state_category = town
 
 	history={
-		owner = ANI
+		owner = FRA
+		add_core_of = FRA
 		victory_points = {
 			3594 3 
 		}
@@ -20,8 +21,6 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

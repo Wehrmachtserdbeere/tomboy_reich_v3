@@ -1,0 +1,263 @@
+﻿l_english:
+  # Belgian Cities
+  FRA_VICTORY_POINTS_3576: "Courtrai" # Kortrijk
+  FRA_VICTORY_POINTS_6560: "Gand" # Gent
+  FRA_VICTORY_POINTS_516: "Bruxelles" # Brussels
+  FRA_VICTORY_POINTS_6598: "Anvers" # Antwerpen
+  FRA_VICTORY_POINTS_13068: "Louvain" # Leuven
+  FRA_VICTORY_POINTS_9536: "Charleroi" # Charleroi
+  FRA_VICTORY_POINTS_3516: "Namur" # Namur
+  FRA_VICTORY_POINTS_9418: "Arlon" # Arlon
+
+  # Luxembourg
+  FRA_VICTORY_POINTS_6583: "Luxembourg" # Luxembourg
+
+  # Dutch Cities
+  FRA_VICTORY_POINTS_3262: "Bréda" # Breda
+  FRA_VICTORY_POINTS_6496: "Eindhove" # Eindhoven
+  FRA_VICTORY_POINTS_11562: "Maastricht" # Maastricht
+  FRA_VICTORY_POINTS_9498: "Rotterdam" # Rotterdam
+  FRA_VICTORY_POINTS_3211: "La Haye" # The Hague
+  FRA_VICTORY_POINTS_391: "Amsterdam" # Amsterdam
+  FRA_VICTORY_POINTS_6241: "Utrecht" # Utrecht
+  FRA_VICTORY_POINTS_9363: "Arnhem" # Arnhem
+  FRA_VICTORY_POINTS_6336: "Gauwarde" # Leeuwarden
+  FRA_VICTORY_POINTS_9335: "Groningue" # Groningen
+
+  # German Cities
+  FRA_VICTORY_POINTS_241: "Guillaume-Havre" # Wilhelmshaven
+  FRA_VICTORY_POINTS_11388: "Munster" # Münster
+  FRA_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  FRA_VICTORY_POINTS_564: "Cassel" # Kassel
+  FRA_VICTORY_POINTS_6488: "Francfort" # Frankfurt
+  FRA_VICTORY_POINTS_6444: "Wisbade" # Wiesbaden
+  FRA_VICTORY_POINTS_11560: "Mayence" # Mainz
+  FRA_VICTORY_POINTS_6469: "Essen" # Essen
+  FRA_VICTORY_POINTS_587: "Cologne" # Köln
+  FRA_VICTORY_POINTS_9575: "Trèves" # Trier
+  FRA_VICTORY_POINTS_11531: "Sarrebruck" # Saarbrücken
+  FRA_VICTORY_POINTS_11435: "Palatinat" # Pfalz
+  FRA_VICTORY_POINTS_11640: "Mulheim" # Müllheim
+  FRA_VICTORY_POINTS_6712: "Fribourg-en-Brisgau" # Freiburg
+  FRA_VICTORY_POINTS_3530: "Carlsruhe" # Karlsruhe
+  FRA_VICTORY_POINTS_11544: "Nuremberg" # Nürnberg
+  FRA_VICTORY_POINTS_6421: "Cobourg" # Coburg
+  FRA_VICTORY_POINTS_9557: "Wurtzbourg" # Würzburg
+  FRA_VICTORY_POINTS_11499: "Ulm" # Ulm
+  FRA_VICTORY_POINTS_9517: "Stuttgart" # Stuttgart
+  FRA_VICTORY_POINTS_708: "Augsbourg" # Augsburg
+  FRA_VICTORY_POINTS_692: "Munich" # München
+  FRA_VICTORY_POINTS_9515: "Ratisbonne" # Regensburg
+  FRA_VICTORY_POINTS_673: "Inspruck" # Innsbruck
+  FRA_VICTORY_POINTS_11598: "Bozane" # Bolzano / Bozen
+  FRA_VICTORY_POINTS_9598: "Trente" # Trent
+  FRA_VICTORY_POINTS_Salzbourg: "Salzbourg" # Salzburg
+  FRA_VICTORY_POINTS_11612: "Villach" # Villach
+  FRA_VICTORY_POINTS_3673: "Clagenfort" # Klagenfurt
+  FRA_VICTORY_POINTS_11666: "Vienne" # Vienna
+  FRA_VICTORY_POINTS_3700: "Chasteau-de-Fer" # Eisenstadt
+  FRA_VICTORY_POINTS_557: "Znaïm" # Znojmo / Znaim
+  FRA_VICTORY_POINTS_3585: "Thermes-le-Roi" # Carlsbad / Karlovy Vary
+  FRA_VICTORY_POINTS_11432: "Aussig-sur-Elbe" # Aussig
+  FRA_VICTORY_POINTS_11401: "Mont-Riche" # Liberec / Reichenberg
+  FRA_VICTORY_POINTS_6418: "Pilsen" # Plzen / Pilsen
+  FRA_VICTORY_POINTS_9569: "Thabor" # Tábor
+  FRA_VICTORY_POINTS_11542: "Prague" # Prague
+  FRA_VICTORY_POINTS_3569: "Brinn" # Brno / Brünn
+  FRA_VICTORY_POINTS_6562: "Olmutz" # Olomouc / Olmütz
+  FRA_VICTORY_POINTS_3424: "Troppau" # Opava / Troppau
+  FRA_VICTORY_POINTS_3583: "Ostrau" # Ostrava
+  FRA_VICTORY_POINTS_9692: "Presbourg" # Bratislava / Pressburg
+  FRA_VICTORY_POINTS_541: "Nitrie" # Nitra / Neutra
+  FRA_VICTORY_POINTS_11539: "Sillein" # Žilina
+  FRA_VICTORY_POINTS_3581: "Preschau" # Prešov
+  FRA_VICTORY_POINTS_11691: "Ungon" # Uzhhorod / Ungvár
+  FRA_VICTORY_POINTS_3548: "Moncasteau" # Mukachevo / Munkács
+  FRA_VICTORY_POINTS_6571: "Frasnois" # Yasinia / Körösmező
+  FRA_VICTORY_POINTS_3561: "Erford" # Erfurt
+  FRA_VICTORY_POINTS_425: "Weimar" # Weimar
+  FRA_VICTORY_POINTS_538: "Jéna" # Jena
+  FRA_VICTORY_POINTS_6377: "Hanovre" # Hannover
+  FRA_VICTORY_POINTS_6298: "Lunebourg" # Lüneburg
+  FRA_VICTORY_POINTS_3326: "Brême" # Bremen
+  FRA_VICTORY_POINTS_374: "Cuxhavre" # Cuxhaven
+  FRA_VICTORY_POINTS_13258: "Sunderbourg" # Sonderborg
+  FRA_VICTORY_POINTS_317: "Flensbourg" # Flensburg
+  FRA_VICTORY_POINTS_9347: "Hambourg" # Hamburg
+  FRA_VICTORY_POINTS_6389: "Kiel" # Kiel
+  FRA_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
+  FRA_VICTORY_POINTS_3535: "Leipzig" # Leipzig
+  FRA_VICTORY_POINTS_514: "Dresde" # Dresden
+  FRA_VICTORY_POINTS_3522: "Magdebourg" # Magdeburg
+  FRA_VICTORY_POINTS_6521: "Berlin" # Berlin
+  FRA_VICTORY_POINTS_9496: "Seelau" # Seelow
+  FRA_VICTORY_POINTS_11305: "Lubeck" # Lübeck
+  FRA_VICTORY_POINTS_321: "Rostock" # Rostock
+  FRA_VICTORY_POINTS_9388: "Stralsund" # Stralsund
+  FRA_VICTORY_POINTS_3258: "Neustrelitz" # Neustrelitz
+  FRA_VICTORY_POINTS_6464: "Katowice" # Katowice
+  FRA_VICTORY_POINTS_11467: "Gleiwitz" # Gleiwitz
+  FRA_VICTORY_POINTS_9511: "Oppeln" # Oppeln
+  FRA_VICTORY_POINTS_9570: "Breslau" # Breslau
+  FRA_VICTORY_POINTS_552: "Lignitz" # Liegnitz
+  FRA_VICTORY_POINTS_3473: "Custrin" # Küstrin
+  FRA_VICTORY_POINTS_6558: "Posnanie" # Posen
+  FRA_VICTORY_POINTS_6282: "Stettin" # Stettin
+  FRA_VICTORY_POINTS_11372: "Coslin" # Köslin
+  FRA_VICTORY_POINTS_279: "Bromberg" # Bromberg
+  FRA_VICTORY_POINTS_3295: "Épine" # Thorn / Toruń
+  FRA_VICTORY_POINTS_9263: "Gdynie-Havre" # Gotenhafen
+  FRA_VICTORY_POINTS_362: "Dantzick" # Danzig
+  FRA_VICTORY_POINTS_6375: "Alenstin" # Allenstein
+  FRA_VICTORY_POINTS_6332: "Regniatome" # Königsberg
+  FRA_VICTORY_POINTS_3288: "Memel" # Memel
+
+  # French Cities (Restoring native names from the German puns)
+  FRA_VICTORY_POINTS_9559: "Metz" # Metz
+  FRA_VICTORY_POINTS_9503: "Strasbourg" # Strasbourg
+  FRA_VICTORY_POINTS_678: "Mulhouse" # Mulhouse
+  FRA_VICTORY_POINTS_11516: "Nancy" # Nancy
+  FRA_VICTORY_POINTS_9642: "Besançon" # Besançon
+  FRA_VICTORY_POINTS_3560: "Sedan" # Sedan
+  FRA_VICTORY_POINTS_13011: "Reims" # Reims
+  FRA_VICTORY_POINTS_9490: "Troyes" # Troyes
+  FRA_VICTORY_POINTS_3652: "Dijon" # Dijon
+  FRA_VICTORY_POINTS_11483: "Lille" # Lille
+  FRA_VICTORY_POINTS_575: "Dunkerque" # Dunkerque
+  FRA_VICTORY_POINTS_11548: "Calais" # Calais
+  FRA_VICTORY_POINTS_11420: "Amiens" # Amiens
+  FRA_VICTORY_POINTS_11506: "Paris" # Paris
+  FRA_VICTORY_POINTS_512: "Orléans" # Orléans
+  FRA_VICTORY_POINTS_3671: "Tours" # Tours
+  FRA_VICTORY_POINTS_485: "Dieppe" # Dieppe
+  FRA_VICTORY_POINTS_11563: "Rouen" # Rouen
+  FRA_VICTORY_POINTS_9434: "Le Havre" # Le Havre
+  FRA_VICTORY_POINTS_6449: "Cherbourg" # Cherbourg
+  FRA_VICTORY_POINTS_11465: "Nantes" # Nantes
+  FRA_VICTORY_POINTS_9495: "Rennes" # Rennes
+  FRA_VICTORY_POINTS_6536: "Lorient" # Lorient
+  FRA_VICTORY_POINTS_3552: "Brest" # Brest
+  FRA_VICTORY_POINTS_9909: "Nice" # Nice
+  FRA_VICTORY_POINTS_778: "Annecy" # Annecy
+  FRA_VICTORY_POINTS_911: "Toulon" # Toulon
+  FRA_VICTORY_POINTS_11834: "Marseille" # Marseille
+  FRA_VICTORY_POINTS_3768: "Grenoble" # Grenoble
+  FRA_VICTORY_POINTS_6613: "Lyon" # Lyon
+  FRA_VICTORY_POINTS_3594: "Vichy" # Vichy
+  FRA_VICTORY_POINTS_9898: "Montpellier" # Montpellier
+  FRA_VICTORY_POINTS_651: "Châteauroux" # Châteauroux
+  FRA_VICTORY_POINTS_620: "Limoges" # Limoges
+  FRA_VICTORY_POINTS_6766: "Toulouse" # Toulouse
+  FRA_VICTORY_POINTS_6657: "La Rochelle" # La Rochelle
+  FRA_VICTORY_POINTS_9737: "Bordeaux" # Bordeaux
+  FRA_VICTORY_POINTS_9710: "Bayonne" # Bayonne
+
+  # English Cities
+  FRA_VICTORY_POINTS_3501: "Douvres" # Dover
+  FRA_VICTORY_POINTS_9458: "Portsmouth" # Portsmouth
+  FRA_VICTORY_POINTS_6103: "Londres" # London
+  FRA_VICTORY_POINTS_271: "Ipswich" # Ipswich
+  FRA_VICTORY_POINTS_322: "Norwich" # Norwich
+  FRA_VICTORY_POINTS_11279: "Leicester" # Leicester
+  FRA_VICTORY_POINTS_6237: "Nottingham" # Nottingham
+  FRA_VICTORY_POINTS_9315: "Sheffield" # Sheffield
+  FRA_VICTORY_POINTS_9379: "Leeds" # Leeds
+  FRA_VICTORY_POINTS_11297: "Hull" # Hull
+  FRA_VICTORY_POINTS_6526: "Truro" # Truro
+  FRA_VICTORY_POINTS_540: "Plymouth" # Plymouth
+  FRA_VICTORY_POINTS_3369: "Bristol" # Bristol
+  FRA_VICTORY_POINTS_9297: "Birmingham" # Birmingham
+  FRA_VICTORY_POINTS_6318: "Manchester" # Manchester
+  FRA_VICTORY_POINTS_6384: "Liverpool" # Liverpool
+  FRA_VICTORY_POINTS_11332: "Carlisle" # Carlisle
+  FRA_VICTORY_POINTS_351: "Neufchâtel-sur-Tyne" # Newcastle
+  FRA_VICTORY_POINTS_377: "Cardiff" # Cardiff
+  FRA_VICTORY_POINTS_407: "Swansea" # Swansea
+  FRA_VICTORY_POINTS_311: "Wrexham" # Wrexham
+  FRA_VICTORY_POINTS_11218: "Dumfries" # Dumfries
+  FRA_VICTORY_POINTS_3273: "Glasgow" # Glasgow
+  FRA_VICTORY_POINTS_9392: "Édimbourg" # Edinburgh
+  FRA_VICTORY_POINTS_6300: "Rosyth" # Rosyth
+  FRA_VICTORY_POINTS_3150: "Dundee" # Dundee
+  FRA_VICTORY_POINTS_200: "Aberdeen" # Aberdeen
+  FRA_VICTORY_POINTS_3373: "Oban" # Oban
+  FRA_VICTORY_POINTS_9075: "Inverness" # Inverness
+  FRA_VICTORY_POINTS_11064: "Scapa Flow" # Scapa Flow
+  FRA_VICTORY_POINTS_6062: "Stornoway" # Stornoway
+  FRA_VICTORY_POINTS_3311: "Douglas" # Douglas
+  FRA_VICTORY_POINTS_3379: "Belfast" # Belfast
+  FRA_VICTORY_POINTS_385: "Londonderry" # Londonderry
+  FRA_VICTORY_POINTS_11371: "Sligo" # Sligo
+  FRA_VICTORY_POINTS_9303: "Galway" # Galway
+  FRA_VICTORY_POINTS_11293: "Dublin" # Dublin
+  FRA_VICTORY_POINTS_303: "Tullamore" # Tullamore
+  FRA_VICTORY_POINTS_285: "Wexford" # Wexford
+  FRA_VICTORY_POINTS_6313: "Limerick" # Limerick
+  FRA_VICTORY_POINTS_7394: "Cork" # Cork
+
+  # ITA
+  FRA_VICTORY_POINTS_6788: "Gênes"
+  FRA_VICTORY_POINTS_6780: "Turin"
+  FRA_VICTORY_POINTS_778: "Annecy"
+  FRA_VICTORY_POINTS_9909: "Nice"
+
+  # SPA
+  FRA_VICTORY_POINTS_6927: "Catalogne"
+  FRA_VICTORY_POINTS_9764: "Barcelone"
+  FRA_VICTORY_POINTS_6966: "Tortose"
+  FRA_VICTORY_POINTS_3954: "Caspe"
+  FRA_VICTORY_POINTS_9840: "Huesca"
+  FRA_VICTORY_POINTS_3816: "Saragosse"
+  FRA_VICTORY_POINTS_7213: "Teruel"
+  FRA_VICTORY_POINTS_6906: "Valence"
+  FRA_VICTORY_POINTS_4098: "Alicante"
+  FRA_VICTORY_POINTS_9793: "Palma de Majorque"
+  FRA_VICTORY_POINTS_3933: "Pampelune"
+  FRA_VICTORY_POINTS_740: "Bilbao"
+  FRA_VICTORY_POINTS_885: "Burgos"
+  FRA_VICTORY_POINTS_11707: "Oviedo"
+  FRA_VICTORY_POINTS_11825: "Valladolid"
+  FRA_VICTORY_POINTS_726: "León"
+  FRA_VICTORY_POINTS_758: "La Corogne"
+  FRA_VICTORY_POINTS_6734: "Vigo"
+  FRA_VICTORY_POINTS_10024: "Murcie"
+  FRA_VICTORY_POINTS_3945: "Cuenca"
+  FRA_VICTORY_POINTS_3938: "Madrid"
+  FRA_VICTORY_POINTS_858: "Tolède"
+  FRA_VICTORY_POINTS_3874: "Salamanque"
+  FRA_VICTORY_POINTS_6902: "Badajoz"
+  FRA_VICTORY_POINTS_875: "Cordoue"
+  FRA_VICTORY_POINTS_1176: "Grenade"
+  FRA_VICTORY_POINTS_12038: "Almería"
+  FRA_VICTORY_POINTS_9979: "Málaga"
+  FRA_VICTORY_POINTS_4135: "Gibraltar"
+  FRA_VICTORY_POINTS_7183: "Séville"
+  FRA_VICTORY_POINTS_1048: "Cadix"
+  FRA_VICTORY_POINTS_9945: "Ceuta"
+  FRA_VICTORY_POINTS_12087: "Tétouan"
+  FRA_VICTORY_POINTS_12100: "Melilla"
+  FRA_VICTORY_POINTS_10070: "Rabat"
+  FRA_VICTORY_POINTS_7069: "Casablanca"
+  FRA_VICTORY_POINTS_12857: "Sidi Ifni"
+  FRA_VICTORY_POINTS_4108: "Marrakech"
+  FRA_VICTORY_POINTS_8038: "Laâyoune"
+  FRA_VICTORY_POINTS_13071: "Santa Cruz de Ténérife"
+  FRA_VICTORY_POINTS_3118: "Funchal"
+  FRA_VICTORY_POINTS_1751: "Ponta Delgada"
+  
+  # POR
+  FRA_VICTORY_POINTS_11673: "Braga"
+  FRA_VICTORY_POINTS_9817: "Porto"
+  FRA_VICTORY_POINTS_9787: "Viseu"
+  FRA_VICTORY_POINTS_6996: "Guarda"
+  FRA_VICTORY_POINTS_3798: "Coïmbre"
+  FRA_VICTORY_POINTS_11805: "Lisbonne"
+  FRA_VICTORY_POINTS_924: "Santarém"
+  FRA_VICTORY_POINTS_9869: "Évora"
+  FRA_VICTORY_POINTS_970: "Setúbal"
+  FRA_VICTORY_POINTS_6933: "Beja"
+  FRA_VICTORY_POINTS_3790: "Portimão"
+  FRA_VICTORY_POINTS_6880: "Faro"
+
+  FRA_VICTORY_POINTS_707: "Berchtesgaden"
+  FRA_VICTORY_POINTS_9523: "Paris-Ouest"

@@ -59,7 +59,17 @@ units = {
 			is_name_ordered = yes
 			name_order = 4
 		}
-		location = 9523
+		location = 9534
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 11491
 		division_template = "Division d'Infanterie"
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.3

@@ -1,0 +1,28 @@
+ideas = {
+	
+	country = {
+		
+		ITA_IDEA_COUNTRY_anchovy = {
+			name = ITA_IDEA_COUNTRY_anchovy
+
+			allowed = {
+				always = no
+			}
+
+			cancel_if_invalid = no
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = communism
+				}
+			}
+
+			modifier = {
+				# Counter-act the "Human Population" spirit's drift
+				pro_anime_reactionism_drift = 0.1
+			}
+		}
+
+	}
+
+}

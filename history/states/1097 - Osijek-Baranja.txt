@@ -5,6 +5,7 @@ state={
 	history={
 		owner = ANI
 		add_core_of = ANI
+		add_claim_by = HUN
 		buildings = {
 			infrastructure = 3
 

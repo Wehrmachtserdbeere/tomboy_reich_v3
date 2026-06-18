@@ -12,15 +12,14 @@ state={
 	}
 
 	history={
-		owner = ANI
+		owner = FRA
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3768 1 
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

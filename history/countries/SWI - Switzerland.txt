@@ -16,6 +16,7 @@ if = {
 
 add_ideas = {
 	TBR_IDEA_COUNTRY_mixed_people
+	TBR_IDEA_ECONOMY_armed_isolationism
 }
 
 set_research_slots = 3

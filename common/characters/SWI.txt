@@ -17,6 +17,8 @@ characters = {
 			}
 			desc = SWI_LEADER_FEDERAL_ASSEMBLY_DESC
 		}
+
+		can_be_captured = no
 	}
 	SWI_LEADER_JULES_HUMBERT_DROZ = {
 		name = SWI_LEADER_JULES_HUMBERT_DROZ_NAME
@@ -35,6 +37,8 @@ characters = {
 			}
 			desc = SWI_LEADER_JULES_HUMBERT_DROZ_DESC
 		}
+
+		can_be_captured = no
 	}
 	SWI_LEADER_HELVETIA = {
 		name = SWI_LEADER_HELVETIA_NAME
@@ -53,6 +57,8 @@ characters = {
 			}
 			desc = SWI_LEADER_HELVETIA_DESC
 		}
+
+		can_be_captured = no
 	}
 	SWI_LEADER_ADOLF_HITLER = {
 		name = SWI_LEADER_ADOLF_HITLER_NAME
@@ -71,6 +77,8 @@ characters = {
 			}
 			desc = SWI_LEADER_ADOLF_HITLER_DESC
 		}
+
+		can_be_captured = no
 	}
 	SWI_LEADER_ERNST_LEONHARDT = {
 		name = SWI_LEADER_ERNST_LEONHARDT_NAME
@@ -89,6 +97,25 @@ characters = {
 			}
 			desc = SWI_LEADER_ERNST_LEONHARDT_DESC
 		}
+
+		corps_commander = {
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+			desc = SWI_LEADER_ERNST_LEONHARDT_DESC
+			visible = {
+				NOT = {
+					has_country_leader = {
+						ruling_only = yes
+						character = SWI_LEADER_ERNST_LEONHARDT
+					}
+				}
+			}
+		}
+
+		can_be_captured = yes
 	}
 	SWI_LEADER_ULRICH_WILLE_JR = {
 		name = SWI_LEADER_ULRICH_WILLE_JR_NAME
@@ -107,6 +134,8 @@ characters = {
 			}
 			desc = SWI_LEADER_ULRICH_WILLE_JR_DESC
 		}
+
+		can_be_captured = no
 	}
 
 }

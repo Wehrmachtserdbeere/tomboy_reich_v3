@@ -12,6 +12,8 @@ state={
 
 	history={
 		owner = LOL
+		add_core_of = LOL
+		add_core_of = FRA
 		victory_points = {
 			3652 5 
 		}
@@ -26,7 +28,6 @@ state={
 				bunker = 10
 			}
 		}
-		add_core_of = LOL
 	}
 
 	provinces={

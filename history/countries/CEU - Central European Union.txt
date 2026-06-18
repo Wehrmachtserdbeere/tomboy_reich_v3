@@ -7,9 +7,12 @@ set_war_support = 0.2
 
 add_ideas = {
 
-	war_economy
-	extensive_conscription
 	TBR_IDEA_COUNTRY_human_people
+	TBR_IDEA_COUNTRY_fought_in_anime_war
+	
+	TBR_IDEA_ECONOMY_civilian_economy
+	TBR_IDEA_MANPOWER_volunteers_only
+	TBR_IDEA_TRADE_limited_trade
 
 }
 
@@ -125,7 +128,7 @@ set_popularities = {
 	pro_anime_reactionism= 0
 	communism = 15
 	neutrality = 20
-	anti_anime_reactionism = 25
+	anti_anime_reactionism = 30
 }
 
 # recruit_character = ...

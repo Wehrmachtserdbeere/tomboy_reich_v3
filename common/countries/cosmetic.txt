@@ -2,3 +2,8 @@ NAT_AI = {
 	color = rgb { 128 0 128 }
 	color_ui = rgb { 128 0 128 }
 }
+
+FRA_NAP = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}

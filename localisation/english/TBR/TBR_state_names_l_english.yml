@@ -1080,6 +1080,8 @@
   STATE_1079: "Auckland"
   STATE_1080: "Marlborough"
   STATE_1081: "Otago"
+
+  # Custom States start here
   STATE_1082: "Berchtesgaden"
   STATE_1083: "Constance"
   STATE_1084: "Mainz"

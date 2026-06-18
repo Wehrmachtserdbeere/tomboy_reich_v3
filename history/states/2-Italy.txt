@@ -6,7 +6,8 @@ state = {
 	state_category = city
 
 	history = {
-		owner = ANI
+		owner = ITA
+		add_core_of = ITA
 		victory_points = { 9904 40 } #Rome
 		victory_points = { 11846 2 } #Anzio (was 5)
 		victory_points = { 13413 1 } #Ostia
@@ -33,7 +34,6 @@ state = {
                 }
             }
 		}
-		add_core_of = ANI
 	}
 
 	provinces = {

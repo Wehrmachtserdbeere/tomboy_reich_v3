@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
+		owner = FRA
+		add_core_of = FRA
 
 		victory_points = {
 			9523 50 # West-Paris

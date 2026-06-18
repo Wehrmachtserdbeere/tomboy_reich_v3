@@ -21,6 +21,8 @@ characters = {
 			}
 			desc = ANI_LEADER_KIRISAME_MIDOKA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	ANI_LEADER_ESDEATH = {
@@ -41,6 +43,7 @@ characters = {
 			desc = ANI_LEADER_ESDEATH_DESC
 		}
 
+		can_be_captured = no # Hell no, she'd genuinely torture you to death for even trying.
 	}
 
 	ANI_LEADER_LALATINA_DUSTINESS_FORD = {
@@ -60,6 +63,25 @@ characters = {
 			}
 			desc = ANI_LEADER_LALATINA_DUSTINESS_FORD_DESC
 		}
+
+		field_marshal = {
+			skill = 2
+			attack_skill = 1
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 3
+			legacy_id = -1
+			visible = {
+				NOT = {
+					has_country_leader = {
+						ruling_only = yes
+						character = ANI_LEADER_LALATINA_DUSTINESS_FORD
+					}
+				}
+			}
+		}
+
+		can_be_captured = yes # We all know why.
 	}
 
 	ANI_LEADER_KAGANE_MINA = {
@@ -79,6 +101,8 @@ characters = {
 			}
 			desc = ANI_LEADER_KAGANE_MINA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# Used exclusively for anti-Anime Reactionism
@@ -99,6 +123,9 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		# I mean, you can certainly try...
+		can_be_captured = no
 	}
 
 }

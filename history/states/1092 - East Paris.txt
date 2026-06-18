@@ -10,6 +10,7 @@ state = {
 
 		owner = LOL
 		add_core_of = LOL
+		add_core_of = FRA
 
 		victory_points = {
 			11506 50 # Paris

@@ -7,9 +7,12 @@ set_war_support = 0.3
 
 add_ideas = {
 
-	war_economy
-	extensive_conscription
 	TBR_IDEA_COUNTRY_anime_people
+	TBR_IDEA_COUNTRY_fought_in_anime_war
+
+	TBR_IDEA_ECONOMY_young_economy
+	TBR_IDEA_MANPOWER_volunteers_only
+	TBR_IDEA_TRADE_limited_trade
 
 }
 

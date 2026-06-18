@@ -9,7 +9,7 @@ state = {
 
 		owner = ANI
 		add_core_of = ANI
-		add_core_of = ANI
+		add_core_of = HUN
 
 		buildings = {
 			infrastructure = 2

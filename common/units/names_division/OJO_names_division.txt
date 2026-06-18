@@ -10,8 +10,8 @@
 	fallback_name = "%d. Infantry Division"
 
 	ordered = {
-		1 = { "1. Infantry Division \"Class\"" }
-		2 = { "%d. Infantry Division \"Prodigy\"" }
+		1 = { "1. Infantry Division 'Class'" }
+		2 = { "%d. Infantry Division 'Prodigy'" }
 	}
 }
 
@@ -27,16 +27,16 @@ OJO_JGR_01 = {
 	fallback_name = "%d. Ranger Division"
 
 	ordered = {
-		1 = { "%d. Ranger Division \"Alps\"" }
-		2 = { "%d. Ranger Division \"Carpathians\"" }
-		3 = { "%d. Ranger Division \"Dinaric-Alps\"" }
-		4 = { "%d. Ranger Division \"Balkan\"" }
-		5 = { "%d. Ranger Division \"Pyrenees\"" }
-		6 = { "%d. Ranger Division \"Scandinavian Mountaineers\"" }
-		7 = { "%d. Ranger Division \"Iberia\"" }
-		8 = { "%d. Ranger Division \"Apennines\"" }
-		9 = { "%d. Ranger Division \"Caucasus\"" }
-		10 = { "%d. Ranger Division \"Ural\"" }
+		1 = { "%d. Ranger Division 'Alps'" }
+		2 = { "%d. Ranger Division 'Carpathians'" }
+		3 = { "%d. Ranger Division 'Dinaric-Alps'" }
+		4 = { "%d. Ranger Division 'Balkan'" }
+		5 = { "%d. Ranger Division 'Pyrenees'" }
+		6 = { "%d. Ranger Division 'Scandinavian Mountaineers'" }
+		7 = { "%d. Ranger Division 'Iberia'" }
+		8 = { "%d. Ranger Division 'Apennines'" }
+		9 = { "%d. Ranger Division 'Caucasus'" }
+		10 = { "%d. Ranger Division 'Ural'" }
 	}
 }
 
@@ -54,11 +54,11 @@ OJO_MOT_01 = {
 	link_numbering_with = { OJO_Inf_01 }
 
 	ordered = {
-		3 = { "%d. Motorisierte Motorized Division \"Home Isles\"" }
-		6 = { "%d. Motorisierte Motorized Division \"Great Tomboy\"" }
-		9 = { "%d. Motorisierte Motorized Division \"Great Femboy\"" }
-		12 = { "%d. Motorisierte Motorized Division \"Great Loli\"" }
-		15 = { "%d. Motorisierte Motorized Division \"Great Empire\"" }
+		3 = { "%d. Motorisierte Motorized Division 'Home Isles'" }
+		6 = { "%d. Motorisierte Motorized Division 'Great Tomboy'" }
+		9 = { "%d. Motorisierte Motorized Division 'Great Femboy'" }
+		12 = { "%d. Motorisierte Motorized Division 'Great Loli'" }
+		15 = { "%d. Motorisierte Motorized Division 'Great Empire'" }
 	}
 }
 
@@ -76,10 +76,10 @@ OJO_MEC_01 = {
 	link_numbering_with = { OJO_Inf_01 }
 
 	ordered = {
-		4 = { "%d. Combined Arms Division \"Victoria\"" }
-		5 = { "%d. Combined Arms Division \"Darjeeling\"" }
-		7 = { "%d. Combined Arms Division \"Earl Grey\"" }
-		8 = { "%d. Combined Arms Division \"Sheng Puer\"" }
+		4 = { "%d. Combined Arms Division 'Victoria'" }
+		5 = { "%d. Combined Arms Division 'Darjeeling'" }
+		7 = { "%d. Combined Arms Division 'Earl Grey'" }
+		8 = { "%d. Combined Arms Division 'Sheng Puer'" }
 	}
 }
 
@@ -95,12 +95,12 @@ OJO_ARM_01 = {
 	fallback_name = "%d. Tank Division"
 
 	ordered = {
-		1 = { "%d. Tank Division \"Guderian\"" }
-		2 = { "%d. Tank Division \"von Hindenburg\"" }
-		3 = { "%d. Tank Division \"Ludendorff\"" }
-		4 = { "%d. Tank Division \"Hoffmann\"" }
-		5 = { "%d. Tank Division \"Rupprecht\"" }
-		6 = { "%d. Tank Division \"Groener\"" }
+		1 = { "%d. Tank Division 'Guderian'" }
+		2 = { "%d. Tank Division 'von Hindenburg'" }
+		3 = { "%d. Tank Division 'Ludendorff'" }
+		4 = { "%d. Tank Division 'Hoffmann'" }
+		5 = { "%d. Tank Division 'Rupprecht'" }
+		6 = { "%d. Tank Division 'Groener'" }
 		50 = { "%d. Central German Tank Division" }
 		51 = { "%d. Central German Tank Division" }
 		52 = { "%d. Central German Tank Division" }

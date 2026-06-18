@@ -9,8 +9,8 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
+		owner = ITA
+		add_core_of = LBA
 
 		buildings = {
 			infrastructure = 0

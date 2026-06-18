@@ -1,0 +1,85 @@
+﻿#	Triggers to control if diplomatic actions are enabled:
+#		Format:
+#
+#		<diplomatic action tag>_enabled_trigger = {
+#			<trigger contents>
+#		}
+#
+#		ROOT is the country initiating the diplomatic action.
+#		FROM is the recipient or target of the diplomatic action.
+#
+#		Note:  For cleaner tooltips, it is recommended that you use
+#			if triggers within the enable triggers, and a single
+#			custom_trigger_tooltip trigger within each if trigger.
+#
+#		Example: (Germany is prevented from declaring war on the Soviet Union.)
+#
+#		DIPLOMACY_WAR_ENABLE_TRIGGER = {
+#			if = {
+#				limit = {
+#					tag = GER
+#				}
+#				custom_trigger_tooltip = {
+#					tooltip = PREVENT_GER_WAR_ON_SOV
+#					FROM = {
+#						NOT = {
+#							tag = SOV
+#						}
+#					}
+#				}
+#			}
+#		}
+#
+# This specifically overrides the rule check as to whether or not you can guarantee other ideologies
+
+# Release nations
+DIPLOMACY_RELEASE_NATION_ENABLE_TRIGGER = {
+
+	# CEU - Central European Union
+	if = {
+		limit = {
+			original_tag = CEU
+		}
+		custom_trigger_tooltip = {
+			tooltip = CEU_BLOCKED_RELEASES_TOOLTIP
+			NOT = {
+				FROM = {
+					OR = {
+						# CEU cannot disassemble itself without doing its focuses.
+						tag = GER
+						tag = POL
+						tag = CZE
+						tag = SLO
+						tag = BAY
+						tag = AUS
+						tag = BLR
+						tag = HUN
+						tag = UKR
+
+						# Anime Empire and Anime related
+						AND = {
+							OR = {
+								tag = ANI
+								tag = TOM
+								tag = FEM
+								tag = LOL
+								tag = OJO
+								has_idea = TBR_IDEA_COUNTRY_anime_people
+							}
+							OR = {
+								NOT = {
+									# TODO: If you give CEU a focus to reconcile, check that it
+									# has NOT done that focus yet.
+								}
+								# Pro-Anime should be able to free the Anime Empire.
+								has_government = pro_anime_reactionism
+							}
+							
+						}
+					}
+				}
+			}
+		}
+	}
+
+}

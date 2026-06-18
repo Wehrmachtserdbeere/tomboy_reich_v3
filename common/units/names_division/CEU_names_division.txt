@@ -1,4 +1,4 @@
-CEU_INF_01 = {
+﻿CEU_INF_01 = {
 	name = "Infantry Divisions (Ger.)"
 
 	for_countries = { CEU }
@@ -92,11 +92,11 @@ CEU_MOT_01 = {
 	link_numbering_with = { CEU_Inf_01 }
 
 	ordered = {
-		3 = { "%d. Motorisierte Infanterie-Division \"Deutschland\"" }
-		6 = { "%d. Motorisierte Infanterie-Division \"Preußen\"" }
-		9 = { "%d. Motorisierte Infanterie-Division \"Bayern\"" }
-		12 = { "%d. Motorisierte Infanterie-Division \"Hessen\"" }
-		15 = { "%d. Motorisierte Infanterie-Division \"Rheinland\"" }
+		3 = { "%d. Motorisierte Infanterie-Division 'Deutschland'" }
+		6 = { "%d. Motorisierte Infanterie-Division 'Preußen'" }
+		9 = { "%d. Motorisierte Infanterie-Division 'Bayern'" }
+		12 = { "%d. Motorisierte Infanterie-Division 'Hessen'" }
+		15 = { "%d. Motorisierte Infanterie-Division 'Rheinland'" }
 	}
 }
 
@@ -114,11 +114,11 @@ CEU_MOT_02 = {
 	link_numbering_with = { CEU_Inf_02 }
 
 	ordered = {
-		3 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Polska\"" }
-		6 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Białoruś\"" }
-		9 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Ukraina\"" }
-		12 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Litwa\"" }
-		15 = { "%d. Dywizja Piechoty Zmotoryzowanej \"Odra-Nysa\"" }
+		3 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Polska'" }
+		6 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Białoruś'" }
+		9 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Ukraina'" }
+		12 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Litwa'" }
+		15 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Odra-Nysa'" }
 	}
 }
 
@@ -136,10 +136,10 @@ CEU_MEC_01 = {
 	link_numbering_with = { CEU_Inf_01 }
 
 	ordered = {
-		4 = { "%d. Panzergrenadier-Division \"von Seeckt\"" }
-		5 = { "%d. Panzergrenadier-Division \"Lutz\"" }
-		7 = { "%d. Panzergrenadier-Division \"Volckheim\"" }
-		8 = { "%d. Panzergrenadier-Division \"Vollmer\"" }
+		4 = { "%d. Panzergrenadier-Division 'von Seeckt'" }
+		5 = { "%d. Panzergrenadier-Division 'Lutz'" }
+		7 = { "%d. Panzergrenadier-Division 'Volckheim'" }
+		8 = { "%d. Panzergrenadier-Division 'Vollmer'" }
 	}
 }
 
@@ -157,7 +157,7 @@ CEU_MEC_02 = {
 	link_numbering_with = { CEU_Inf_01 }
 
 	ordered = {
-		4 = { "%d. Dywizja Grenadierów Pancernych \"Wojtek\"" }
+		4 = { "%d. Dywizja Grenadierów Pancernych 'Wojtek'" }
 	}
 }
 
@@ -173,12 +173,12 @@ CEU_ARM_01 = {
 	fallback_name = "%d. Panzer-Division"
 
 	ordered = {
-		1 = { "%d. Panzer-Division \"Guderian\"" }
-		2 = { "%d. Panzer-Division \"von Hindenburg\"" }
-		3 = { "%d. Panzer-Division \"Ludendorff\"" }
-		4 = { "%d. Panzer-Division \"Hoffmann\"" }
-		5 = { "%d. Panzer-Division \"Rupprecht\"" }
-		6 = { "%d. Panzer-Division \"Groener\"" }
+		1 = { "%d. Panzer-Division 'Guderian'" }
+		2 = { "%d. Panzer-Division 'von Hindenburg'" }
+		3 = { "%d. Panzer-Division 'Ludendorff'" }
+		4 = { "%d. Panzer-Division 'Hoffmann'" }
+		5 = { "%d. Panzer-Division 'Rupprecht'" }
+		6 = { "%d. Panzer-Division 'Groener'" }
 		50 = { "%d. Mitteldeutsche Panzer-Division" }
 		51 = { "%d. Mitteldeutsche Panzer-Division" }
 		52 = { "%d. Mitteldeutsche Panzer-Division" }
@@ -215,12 +215,12 @@ CEU_ARM_02 = {
 	fallback_name = "%d. Panzer-Division"
 
 	ordered = {
-		1 = { "%d. Dywizja Pancerna \"Guderian\"" }
-		2 = { "%d. Dywizja Pancerna \"von Hindenburg\"" }
-		3 = { "%d. Dywizja Pancerna \"Ludendorff\"" }
-		4 = { "%d. Dywizja Pancerna \"Hoffmann\"" }
-		5 = { "%d. Dywizja Pancerna \"Rupprecht\"" }
-		6 = { "%d. Dywizja Pancerna \"Groener\"" }
+		1 = { "%d. Dywizja Pancerna 'Guderian'" }
+		2 = { "%d. Dywizja Pancerna 'von Hindenburg'" }
+		3 = { "%d. Dywizja Pancerna 'Ludendorff'" }
+		4 = { "%d. Dywizja Pancerna 'Hoffmann'" }
+		5 = { "%d. Dywizja Pancerna 'Rupprecht'" }
+		6 = { "%d. Dywizja Pancerna 'Groener'" }
 		50 = { "%d. Środkowoniemiecki Dywizja Pancerna" }
 		51 = { "%d. Środkowoniemiecki Dywizja Pancerna" }
 		52 = { "%d. Środkowoniemiecki Dywizja Pancerna" }

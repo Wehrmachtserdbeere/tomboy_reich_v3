@@ -1,4 +1,4 @@
-# French be like "Hon hon, we have 1re and everything else is -e"
+﻿# French be like "Hon hon, we have 1re and everything else is -e"
 # English isn't better though. 1st, 2nd, 3rd, 4th, 5th, ... 11th, ... 21st, 22nd, 23rd, 24th, ...
 
 LOL_INF_01 = {
@@ -13,7 +13,7 @@ LOL_INF_01 = {
 	fallback_name = "%de Division d'Infanterie"
 
 	ordered = {
-		1 = { "1re Division d'Infanterie \"Charlemagne\"" }
+		1 = { "1re Division d'Infanterie 'Charlemagne'" }
 	}
 }
 
@@ -29,16 +29,16 @@ LOL_JGR_01 = {
 	fallback_name = "%de Division de Chasseurs"
 
 	ordered = {
-		1 = { "%dre Division de Chasseurs \"Alpes\"" }
-		2 = { "%de Division de Chasseurs \"Carpates\"" }
-		3 = { "%de Division de Chasseurs \"Alpes Dinariques\"" }
-		4 = { "%de Division de Chasseurs \"Grand Balkan\"" }
-		5 = { "%de Division de Chasseurs \"Pyrénées\"" }
-		6 = { "%de Division de Chasseurs \"Alpes Scandinaves\"" }
-		7 = { "%de Division de Chasseurs \"Ibérique\"" }
-		8 = { "%de Division de Chasseurs \"Apennins\"" }
-		9 = { "%de Division de Chasseurs \"Montagnes du Caucase\"" }
-		10 = { "%de Division de Chasseurs \"Oural\"" }
+		1 = { "%dre Division de Chasseurs 'Alpes'" }
+		2 = { "%de Division de Chasseurs 'Carpates'" }
+		3 = { "%de Division de Chasseurs 'Alpes Dinariques'" }
+		4 = { "%de Division de Chasseurs 'Grand Balkan'" }
+		5 = { "%de Division de Chasseurs 'Pyrénées'" }
+		6 = { "%de Division de Chasseurs 'Alpes Scandinaves'" }
+		7 = { "%de Division de Chasseurs 'Ibérique'" }
+		8 = { "%de Division de Chasseurs 'Apennins'" }
+		9 = { "%de Division de Chasseurs 'Montagnes du Caucase'" }
+		10 = { "%de Division de Chasseurs 'Oural'" }
 	}
 }
 
@@ -56,11 +56,11 @@ LOL_MOT_01 = {
 	link_numbering_with = { LOL_Inf_01 }
 
 	ordered = {
-		3 = { "%de Division d'Infanterie Motorisée \"Patrie\"" }
-		6 = { "%de Division d'Infanterie Motorisée \"Bretagne\"" }
-		9 = { "%de Division d'Infanterie Motorisée \"L'Occitane\"" }
-		12 = { "%de Division d'Infanterie Motorisée \"Empire Français\"" }
-		15 = { "%de Division d'Infanterie Motorisée \"L'Empire Troisième\"" }
+		3 = { "%de Division d'Infanterie Motorisée 'Patrie'" }
+		6 = { "%de Division d'Infanterie Motorisée 'Bretagne'" }
+		9 = { "%de Division d'Infanterie Motorisée 'L'Occitane'" }
+		12 = { "%de Division d'Infanterie Motorisée 'Empire Français'" }
+		15 = { "%de Division d'Infanterie Motorisée 'L'Empire Troisième'" }
 	}
 }
 
@@ -78,11 +78,11 @@ LOL_MEC_01 = {
 	link_numbering_with = { LOL_Inf_01 }
 
 	ordered = {
-		4 = { "%de Division Mécanisée-Combinée \"Napoléon Bonaparte\"" }
-		5 = { "%de Division Mécanisée-Combinée \"Jean Baptiste Eugène Brillié\"" }
-		7 = { "%de Division Mécanisée-Combinée \"Philippe Pétain\"" }
-		8 = { "%de Division Mécanisée-Combinée \"Marie-Eugène Debeney\"" }
-		10 = { "%de Division Mécanisée-Combinée \"Charles de Gaulle\"" }
+		4 = { "%de Division Mécanisée-Combinée 'Napoléon Bonaparte'" }
+		5 = { "%de Division Mécanisée-Combinée 'Jean Baptiste Eugène Brillié'" }
+		7 = { "%de Division Mécanisée-Combinée 'Philippe Pétain'" }
+		8 = { "%de Division Mécanisée-Combinée 'Marie-Eugène Debeney'" }
+		10 = { "%de Division Mécanisée-Combinée 'Charles de Gaulle'" }
 	}
 }
 
@@ -98,8 +98,8 @@ LOL_ARM_01 = {
 	fallback_name = "%de Division Blindée"
 
 	ordered = {
-		1 = { "%der Division Blindée \"Jean-Baptiste Eugène Estienne\"" }
-		2 = { "%de Division Blindée \"Louis Renault\"" }
+		1 = { "%der Division Blindée 'Jean-Baptiste Eugène Estienne'" }
+		2 = { "%de Division Blindée 'Louis Renault'" }
 		50 = { "%de Division Blindée d'Europe Centrale" }
 		51 = { "%de Division Blindée d'Europe Centrale" }
 		52 = { "%de Division Blindée d'Europe Centrale" }
@@ -157,9 +157,9 @@ LOL_MIL_02 = {
 	fallback_name = "%de Division de Milice"
 
 	ordered = {
-		1 = { "%dre Division de Milice \"Liberté\"" }
-		2 = { "%de Division de Milice \"Fraternité\"" }
-		3 = { "%de Division de Milice \"Travail\"" }
-		4 = { "%de Division de Milice \"Famille\"" }
+		1 = { "%dre Division de Milice 'Liberté'" }
+		2 = { "%de Division de Milice 'Fraternité'" }
+		3 = { "%de Division de Milice 'Travail'" }
+		4 = { "%de Division de Milice 'Famille'" }
 	}
 }

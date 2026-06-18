@@ -1,0 +1,31 @@
+ideas = {
+	
+	country = {
+		
+		HUN_IDEA_COUNTRY_treaty_of_trianon = {
+			allowed = {
+				original_tag = HUN
+			}
+			available = {
+				has_war = no
+			}
+
+			rule = {
+				can_access_market = no
+				can_not_declare_war = yes
+			}
+
+			modifier = {
+				conscription = -0.005
+				production_speed_arms_factory_factor = -0.5
+				industrial_capacity_factory = -0.1
+				military_industrial_organization_funds_gain = -0.1
+				military_industrial_organization_research_bonus = -0.1
+				experience_gain_army_factor = -0.15
+				experience_gain_air_factor = -0.25
+			}
+		}
+
+	}
+
+}

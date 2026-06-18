@@ -1,0 +1,6 @@
+#
+#
+# Files in this folder must be in UTF-8 encoding.
+# UTF-8-BOM breaks this. Don't ask me why.
+#
+#

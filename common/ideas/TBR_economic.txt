@@ -18,7 +18,7 @@ ideas = {
 
 			modifier = {
 				consumer_goods_expected_value = 0.50
-				production_speed_industrial_complex_factor = -0.5
+				production_speed_industrial_complex_factor = 0.5
 				production_speed_arms_factory_factor = -0.5
 				production_speed_dockyard_factor = -0.5
 				conversion_cost_civ_to_mil_factor = 0.5
@@ -31,8 +31,24 @@ ideas = {
 				max_fuel_factor = -0.45
 				fuel_gain_factor = -0.6
 				agency_upgrade_time = 1.0
-				factory_energy_consumption = -0.3
-				production_speed_arms_factory_factor = 0.15
+				factory_energy_consumption = 0.3
+				production_speed_arms_factory_factor = -0.15
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_early_mobilization
+					has_idea = TBR_IDEA_ECONOMY_partial_mobilization
+					has_idea = TBR_IDEA_ECONOMY_war_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+			}
+
+			visible = {
+				always = yes
 			}
 
 			cancel_if_invalid = no
@@ -51,7 +67,7 @@ ideas = {
 
 			modifier = {
 				consumer_goods_expected_value = 0.4
-				production_speed_industrial_complex_factor = -0.4
+				production_speed_industrial_complex_factor = 0.4
 				production_speed_arms_factory_factor = -0.4
 				production_speed_dockyard_factor = -0.4
 				conversion_cost_civ_to_mil_factor= 0.4
@@ -64,7 +80,23 @@ ideas = {
 				max_fuel_factor = -0.35
 				fuel_gain_factor = -0.5
 				agency_upgrade_time = 0.8
-				factory_energy_consumption = -0.3
+				factory_energy_consumption = 0.3
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_early_mobilization
+					has_idea = TBR_IDEA_ECONOMY_partial_mobilization
+					has_idea = TBR_IDEA_ECONOMY_war_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+			}
+
+			visible = {
+				always = yes
 			}
 
 			cancel_if_invalid = no
@@ -79,14 +111,32 @@ ideas = {
 
 			modifier = {
 				consumer_goods_expected_value = 0.35
-				production_speed_industrial_complex_factor = -0.3
-				production_speed_arms_factory_factor = -0.3
-				conversion_cost_civ_to_mil_factor= 0.3
-				conversion_cost_mil_to_civ_factor = 0.3
-				max_fuel_factor = -0.25
-				fuel_gain_factor = -0.4
-				factory_energy_consumption = -0.3
+				production_speed_industrial_complex_factor = 0.2
+				production_speed_arms_factory_factor = -0.2
+				conversion_cost_civ_to_mil_factor= 0.4
+				conversion_cost_mil_to_civ_factor = 0.4
+				max_fuel_factor = -0.3
+				fuel_gain_factor = -0.5
+				factory_energy_consumption = 0.3
 			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_early_mobilization
+					has_idea = TBR_IDEA_ECONOMY_partial_mobilization
+					has_idea = TBR_IDEA_ECONOMY_war_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+			}
+
+			visible = {
+				always = yes
+			}
+
+			default = yes
 
 			cancel_if_invalid = no
 		}
@@ -97,8 +147,8 @@ ideas = {
 
 			modifier = {
 				consumer_goods_expected_value = 0.35
-				production_speed_industrial_complex_factor = -0.3
-				production_speed_arms_factory_factor = -0.3
+				production_speed_industrial_complex_factor = 0.1
+				production_speed_arms_factory_factor = -0.1
 				conversion_cost_civ_to_mil_factor= 0.3
 				conversion_cost_mil_to_civ_factor = 0.3
 				max_fuel_factor = -0.25
@@ -106,7 +156,207 @@ ideas = {
 				factory_energy_consumption = -0.3
 			}
 
-			default = yes
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_partial_mobilization
+					has_idea = TBR_IDEA_ECONOMY_war_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+			}
+
+			visible = {
+				always = yes
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		TBR_IDEA_ECONOMY_early_mobilization = {
+			cost = 150
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_expected_value = 0.3
+				conversion_cost_civ_to_mil_factor= 0.25
+				conversion_cost_mil_to_civ_factor = 0.25
+				max_fuel_factor = -0.2
+				fuel_gain_factor = -0.3
+				factory_energy_consumption = -0.25
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_war_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+				OR = {
+					has_government = pro_anime_reactionism
+					has_government = anti_anime_reactionism
+					has_war_support = 0.25
+					threat = 0.1
+				}
+				if = {
+					limit = {
+						original_tag = HUN
+					}
+					NOT = {
+						has_idea = HUN_IDEA_treaty_of_trianon
+					}
+				}
+			}
+
+			visible = {
+				always = yes
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		TBR_IDEA_ECONOMY_partial_mobilization = {
+			cost = 150
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_expected_value = 0.2
+				production_speed_industrial_complex_factor = -0.2
+				production_speed_arms_factory_factor = 0.2
+				conversion_cost_civ_to_mil_factor= 0.2
+				conversion_cost_mil_to_civ_factor = 0.2
+				max_fuel_factor = -0.15
+				fuel_gain_factor = -0.2
+				factory_energy_consumption = -0.20
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_total_war
+				}
+				OR = {
+					has_government = pro_anime_reactionism
+					has_government = anti_anime_reactionism
+					has_war_support = 0.5
+					threat = 0.25
+				}
+				if = {
+					limit = {
+						original_tag = HUN
+					}
+					NOT = {
+						has_idea = HUN_IDEA_treaty_of_trianon
+					}
+				}
+			}
+
+			visible = {
+				always = yes
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		TBR_IDEA_ECONOMY_war_economy = {
+			cost = 150
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_expected_value = 0.15
+				production_speed_industrial_complex_factor = -0.4
+				production_speed_arms_factory_factor = 0.4
+				conversion_cost_civ_to_mil_factor= 0.2
+				conversion_cost_mil_to_civ_factor = 0.2
+				max_fuel_factor = -0.15
+				fuel_gain_factor = -0.2
+				factory_energy_consumption = -0.20
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_early_mobilization
+				}
+				OR = {
+					has_government = pro_anime_reactionism
+					has_government = anti_anime_reactionism
+					has_war_support = 0.75
+					threat = 0.5
+				}
+				if = {
+					limit = {
+						original_tag = HUN
+					}
+					NOT = {
+						has_idea = HUN_IDEA_treaty_of_trianon
+					}
+				}
+			}
+
+			visible = {
+				always = yes
+			}
+
+			cancel_if_invalid = no
+		}
+		
+		TBR_IDEA_ECONOMY_total_war = {
+			cost = 150
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_expected_value = 0.05
+				production_speed_industrial_complex_factor = -0.75
+				production_speed_arms_factory_factor = 0.75
+				conversion_cost_civ_to_mil_factor= -0.2
+				conversion_cost_mil_to_civ_factor = 0.5
+				factory_energy_consumption = 0.25
+				stability_weekly_factor = -0.025
+				war_support_weekly_factor = 0.01
+			}
+
+			available = {
+				NOT = {
+					has_idea = TBR_IDEA_ECONOMY_armed_isolationism
+					has_idea = TBR_IDEA_ECONOMY_isolationism
+					has_idea = TBR_IDEA_ECONOMY_young_economy
+					has_idea = TBR_IDEA_ECONOMY_civilian_economy
+					has_idea = TBR_IDEA_ECONOMY_early_mobilization
+					has_idea = TBR_IDEA_ECONOMY_partial_mobilization
+				}
+				OR = {
+					AND = {
+						OR = {
+							has_government = pro_anime_reactionism
+							has_government = anti_anime_reactionism
+						}
+						surrender_progress = 0.25
+					}
+					surrender_progress = 0.5
+				}
+				if = {
+					limit = {
+						original_tag = HUN
+					}
+					NOT = {
+						has_idea = HUN_IDEA_treaty_of_trianon
+					}
+				}
+			}
+
+			visible = {
+				always = yes
+			}
 
 			cancel_if_invalid = no
 		}

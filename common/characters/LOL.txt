@@ -17,6 +17,8 @@ characters = {
 			}
 			desc = LOL_LEADER_SENKO_SAN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	LOL_LEADER_KATYUSHA = {
@@ -32,10 +34,12 @@ characters = {
 		country_leader = {
 			ideology = minaism
 			traits = {
-				
+				TBR_TRAIT_loves_ojou_nonna
 			}
 			desc = LOL_LEADER_KATYUSHA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	LOL_LEADER_TANYA_DEGURECHAFF = {
@@ -55,6 +59,8 @@ characters = {
 			}
 			desc = LOL_LEADER_TANYA_DEGURECHAFF_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	LOL_LEADER_NOBODY = {
@@ -74,6 +80,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	LOL_LEADER_CHLOE_VON_EINZBERG = {
@@ -93,5 +101,7 @@ characters = {
 			}
 			desc = LOL_LEADER_CHLOE_VON_EINZBERG_DESC
 		}
+
+		can_be_captured = no
 	}
 }

@@ -1,0 +1,128 @@
+﻿characters = {
+	
+	ITA_LEADER_BENITO_MUSSOLINI = {
+		name = ITA_LEADER_BENITO_MUSSOLINI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_BENITO_MUSSOLINI_DESC
+		}
+
+		can_be_captured = yes
+	}
+
+	ITA_LEADER_PIETRO_NENNI = {
+		name = ITA_LEADER_PIETRO_NENNI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_PIETRO_NENNI_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	ITA_LEADER_ALCIDE_DE_GASPERI = {
+		name = ITA_LEADER_ALCIDE_DE_GASPERI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_ALCIDE_DE_GASPERI_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	ITA_LEADER_VICTOR_EMMANUEL_III = {
+		name = ITA_LEADER_VICTOR_EMMANUEL_III_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_VICTOR_EMMANUEL_III_DESC
+			expire = 1947.12.28
+		}
+
+		can_be_captured = yes
+	}
+
+	ITA_LEADER_UMBERTO_II = {
+		name = ITA_LEADER_UMBERTO_II_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_UMBERTO_II_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	ITA_LEADER_ANCHOVY = {
+		name = ITA_LEADER_ANCHOVY_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+				
+			}
+			desc = ITA_LEADER_ANCHOVY_DESC
+		}
+	}
+
+}

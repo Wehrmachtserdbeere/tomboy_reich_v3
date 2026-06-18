@@ -22,6 +22,8 @@ characters = {
 			}
 			desc = CEU_LEADER_MARIAN_ZYNDRAM_KOSCIALKOWSKI_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# DEM GER - Kurt Schumacher
@@ -42,6 +44,8 @@ characters = {
 			}
 			desc = CEU_LEADER_KURT_SCHUMACHER_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# COM POL - Władysław Gomułka
@@ -62,6 +66,8 @@ characters = {
 			}
 			desc = CEU_LEADER_WLADYSLAW_GOMULKA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# COM GER - Ernst Thälmann
@@ -82,6 +88,8 @@ characters = {
 			}
 			desc = CEU_LEADER_ERNST_THAELMANN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# PA - Nobody
@@ -102,6 +110,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# PA GER - Viktoria
@@ -122,6 +132,8 @@ characters = {
 			}
 			desc = CEU_LEADER_VIKTORIA_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# AA - Council of the Six Representatives
@@ -142,6 +154,8 @@ characters = {
 			}
 			desc = CEU_LEADER_COUNCIL_OF_SIX_REPRESENTATIVES_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# NEU - Triarchy
@@ -162,6 +176,8 @@ characters = {
 			}
 			desc = CEU_LEADER_TRIARCHY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# TODO: Wilhelm II Death Event on 9 June 1941
@@ -182,7 +198,11 @@ characters = {
 				
 			}
 			desc = CEU_LEADER_WILHELM_II_DESC
+			legacy_id = 1
+			expire = 1941.6.9
 		}
+
+		can_be_captured = no
 	}
 
 	# Available on Wilhelm II's death:
@@ -202,8 +222,11 @@ characters = {
 			traits = {
 				
 			}
+			legacy_id = 2
 			desc = CEU_LEADER_WILHELM_III_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# NEU POL - Karl I (Karl Albrecht of Austria)
@@ -222,8 +245,11 @@ characters = {
 			traits = {
 				
 			}
+			legacy_id = 99
 			desc = CEU_LEADER_KARL_I_DESC
 		}
+
+		can_be_captured = no
 	}
 
 }

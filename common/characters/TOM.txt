@@ -21,6 +21,8 @@ characters = {
 			}
 			desc = TOM_LEADER_KAY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	TOM_LEADER_MIKASA_ACKERMAN = {
@@ -38,6 +40,8 @@ characters = {
 			traits = { }
 			desc = TOM_LEADER_MIKASA_ACKERMAN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	TOM_LEADER_ARTORIA_PENDRAGON = {
@@ -55,6 +59,8 @@ characters = {
 			traits = { }
 			desc = TOM_LEADER_ARTORIA_PENDRAGON_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	TOM_LEADER_SULETTA_MERCURY = {
@@ -72,6 +78,8 @@ characters = {
 			traits = { }
 			desc = TOM_LEADER_SULETTA_MERCURY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	TOM_LEADER_NOBODY = {
@@ -91,6 +99,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 
 }

@@ -8,9 +8,11 @@ add_command_power = 25
 
 add_ideas = {
 
+	TBR_IDEA_COUNTRY_anime_people
+	TBR_IDEA_COUNTRY_fought_in_anime_war
+	
 	war_economy
 	extensive_conscription
-	TBR_IDEA_COUNTRY_anime_people
 
 }
 

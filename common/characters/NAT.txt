@@ -24,6 +24,8 @@ characters = {
 			}
 			desc = NAT_LEADER_HAROLD_G_HOFFMAN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# William Thackara Read, former NJ state treasurer, banker, Republican power broker,
@@ -45,6 +47,8 @@ characters = {
 			}
 			desc = NAT_LEADER_WILLIAM_THACKARA_READ_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# Central Processing Unit.
@@ -65,6 +69,8 @@ characters = {
 			}
 			desc = NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# Theodor Eisenberg (Fictional)
@@ -85,6 +91,8 @@ characters = {
 			}
 			desc = NAT_LEADER_THEODOR_EISENBERG_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	NAT_LEADER_CENTRAL_PROCESSING_UNIT_NEUTRAL = {
@@ -104,6 +112,8 @@ characters = {
 			}
 			desc = NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# ===========================================
@@ -127,6 +137,8 @@ characters = {
 			}
 			desc = NAT_LEADER_NAITSUKI_DESC
 		}
+
+		can_be_captured = no
 	}
 	
 	NAT_LEADER_NAITSUKI_COMMUNISM = {
@@ -146,6 +158,8 @@ characters = {
 			}
 			desc = NAT_LEADER_NAITSUKI_DESC
 		}
+
+		can_be_captured = no
 	}
 	
 	NAT_LEADER_NAITSUKI_PA = {
@@ -165,6 +179,8 @@ characters = {
 			}
 			desc = NAT_LEADER_NAITSUKI_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	NAT_LEADER_NOBODY = {
@@ -184,6 +200,8 @@ characters = {
 			}
 			desc = GENERIC_LEADER_NOBODY_DESC
 		}
+
+		can_be_captured = no
 	}
 	
 	NAT_LEADER_NAITSUKI_NEUTRAL = {
@@ -203,6 +221,8 @@ characters = {
 			}
 			desc = NAT_LEADER_NAITSUKI_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# ----------------------------------------------------------
@@ -230,6 +250,8 @@ characters = {
 			}
 			desc = NAT_LEADER_JUN_DESC
 		}
+
+		can_be_captured = no
 	}
 
 	# TODO: Add neutrality AI

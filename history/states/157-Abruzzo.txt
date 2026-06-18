@@ -7,7 +7,8 @@ state = {
 	state_category = city
 
 	history = {
-		owner = ANI
+		owner = ITA
+		add_core_of = ITA
 		victory_points = {
 			925 1 
 		}
@@ -21,8 +22,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces = {

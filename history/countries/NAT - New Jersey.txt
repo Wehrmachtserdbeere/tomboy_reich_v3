@@ -148,6 +148,7 @@ recruit_character = NAT_LEADER_NAITSUKI_DEMOCRATIC
 recruit_character = NAT_LEADER_NAITSUKI_COMMUNISM
 recruit_character = NAT_LEADER_NAITSUKI_NEUTRAL
 recruit_character = NAT_LEADER_NAITSUKI_PA
+recruit_character = NAT_LEADER_JUN
 
 set_grand_doctrine = superior_firepower
 set_grand_doctrine = new_base_strike

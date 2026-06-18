@@ -10,26 +10,7 @@ TBR_DECISION_CATEGORIES_economy_decisions = {
 		available = {
 			has_idea = TBR_IDEA_ECONOMY_isolationism
 			has_war = no
-			OR = {
-				is_in_faction = no
-				AND = {
-					# Is in faction,
-					# is the leader,
-					# and only puppets
-					# or subjects are
-					# in faction.
-					is_faction_leader = yes
-					NOT = {
-						any_country = {
-							is_in_faction_with = ROOT
-							NOT = {
-								is_puppet_of = ROOT
-								is_subject_of = ROOT
-							}
-						}
-					}
-				}
-			}
+			threat = 0.25
 			custom_trigger_tooltip = {
 				tooltip = TBR_TOOLTIP_GENERIC_can_go_into_isolationism
 				NOT = {
@@ -57,30 +38,12 @@ TBR_DECISION_CATEGORIES_economy_decisions = {
 
 		available = {
 			has_war = no
+			is_in_faction = no
+			has_idea = TBR_IDEA_TRADE_closed_economy
 			OR = {
-				is_in_faction = no
-				AND = {
-					# Is in faction,
-					# is the leader,
-					# and only puppets
-					# or subjects are
-					# in faction.
-					is_faction_leader = yes
-					NOT = {
-						any_country = {
-							is_in_faction_with = ROOT
-							NOT = {
-								is_puppet_of = ROOT
-								is_subject_of = ROOT
-							}
-						}
-					}
-				}
-			}
-			OR = {
+				# Young Economies must first become established.
 				has_idea = TBR_IDEA_ECONOMY_armed_isolationism
 				has_idea = TBR_IDEA_ECONOMY_civilian_economy
-				has_idea = TBR_IDEA_ECONOMY_young_economy
 			}
 			custom_trigger_tooltip = {
 				tooltip = TBR_TOOLTIP_GENERIC_can_go_into_isolationism
@@ -99,15 +62,6 @@ TBR_DECISION_CATEGORIES_economy_decisions = {
 				}
 				swap_ideas = {
 					remove_idea = TBR_IDEA_ECONOMY_armed_isolationism
-					add_idea = TBR_IDEA_ECONOMY_isolationism
-				}
-			}
-			else_if = {
-				limit = {
-					has_idea = TBR_IDEA_ECONOMY_young_economy
-				}
-				swap_ideas = {
-					remove_idea = TBR_IDEA_ECONOMY_young_economy
 					add_idea = TBR_IDEA_ECONOMY_isolationism
 				}
 			}

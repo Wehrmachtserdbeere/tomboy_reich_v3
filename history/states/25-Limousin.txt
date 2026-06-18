@@ -10,15 +10,14 @@ state={
 
 	state_category = large_town
 	history={
-		owner = ANI
+		owner = FRA
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			620 5
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

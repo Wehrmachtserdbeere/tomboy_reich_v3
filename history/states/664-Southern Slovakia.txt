@@ -15,7 +15,10 @@ state = {
 	
 	history = {
 
-		owner = ANI
+		owner = HUN
+		add_core_of = HUN
+		add_core_of = CZE
+		add_core_of = SLO
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -26,8 +29,6 @@ state = {
 			6573 1 # Kosice
 		}
 
-		add_core_of = ANI
-		add_core_of = ANI
 
 		# This should isntead be reclaimable through Hungarian focuses with ww
 		

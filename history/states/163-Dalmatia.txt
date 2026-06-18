@@ -6,7 +6,8 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = ANI
+		owner = ITA
+		add_core_of = CRO
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}
@@ -16,9 +17,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
 		set_compliance = 70
 
 		### CHANGED TO A MROE ROBUST SYSTEM

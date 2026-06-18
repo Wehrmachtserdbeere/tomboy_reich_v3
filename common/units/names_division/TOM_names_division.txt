@@ -10,8 +10,8 @@
 	fallback_name = "%d. Infanterie-Division"
 
 	ordered = {
-		1 = { "1. Infanterie-Division \"Wildfang\"" }
-		2 = { "%d. Infanterie-Division \"Midriff\"" }
+		1 = { "1. Infanterie-Division 'Wildfang'" }
+		2 = { "%d. Infanterie-Division 'Midriff'" }
 	}
 }
 
@@ -27,16 +27,16 @@ TOM_JGR_01 = {
 	fallback_name = "%d. Jäger-Division"
 
 	ordered = {
-		1 = { "%d. Jäger-Division \"Ruhr\"" }
-		2 = { "%d. Jäger-Division \"Karpathen\"" }
-		3 = { "%d. Jäger-Division \"Dinaren-Alpen\"" }
-		4 = { "%d. Jäger-Division \"Balkan\"" }
-		5 = { "%d. Jäger-Division \"Pyrenäen\"" }
-		6 = { "%d. Jäger-Division \"Fjell\"" }
-		7 = { "%d. Jäger-Division \"Iberien\"" }
-		8 = { "%d. Jäger-Division \"Apennin\"" }
-		9 = { "%d. Jäger-Division \"Kaukasus\"" }
-		10 = { "%d. Jäger-Division \"Ural\"" }
+		1 = { "%d. Jäger-Division 'Ruhr'" }
+		2 = { "%d. Jäger-Division 'Karpathen'" }
+		3 = { "%d. Jäger-Division 'Dinaren-Alpen'" }
+		4 = { "%d. Jäger-Division 'Balkan'" }
+		5 = { "%d. Jäger-Division 'Pyrenäen'" }
+		6 = { "%d. Jäger-Division 'Fjell'" }
+		7 = { "%d. Jäger-Division 'Iberien'" }
+		8 = { "%d. Jäger-Division 'Apennin'" }
+		9 = { "%d. Jäger-Division 'Kaukasus'" }
+		10 = { "%d. Jäger-Division 'Ural'" }
 	}
 }
 
@@ -54,12 +54,12 @@ TOM_MOT_01 = {
 	link_numbering_with = { TOM_Inf_01 }
 
 	ordered = {
-		3 = { "%d. Motorisierte Infanterie-Division \"Tomboy\"" }
-		6 = { "%d. Motorisierte Infanterie-Division \"Loli\" (loli. Nr. 1)" }
-		9 = { "%d. Motorisierte Infanterie-Division \"Weibsjunge\" (femb. Nr. 1)" }
-		12 = { "%d. Motorisierte Infanterie-Division \"Uwu\" (femb. Nr. 2)" }
-		15 = { "%d. Motorisierte Infanterie-Division \"Power\"" }
-		18 = { "%d. Motorisierte Infanterie-Division \"Mirko\" (norw. Nr. 1)" }
+		3 = { "%d. Motorisierte Infanterie-Division 'Tomboy'" }
+		6 = { "%d. Motorisierte Infanterie-Division 'Loli' (loli. Nr. 1)" }
+		9 = { "%d. Motorisierte Infanterie-Division 'Weibsjunge' (femb. Nr. 1)" }
+		12 = { "%d. Motorisierte Infanterie-Division 'Uwu' (femb. Nr. 2)" }
+		15 = { "%d. Motorisierte Infanterie-Division 'Power'" }
+		18 = { "%d. Motorisierte Infanterie-Division 'Mirko' (norw. Nr. 1)" }
 	}
 }
 
@@ -77,10 +77,10 @@ TOM_MEC_01 = {
 	link_numbering_with = { TOM_Inf_01 }
 
 	ordered = {
-		4 = { "%d. Panzergrenadier-Division \"von Degurechaff\"" }
-		5 = { "%d. Panzergrenadier-Division \"Rheinübergang\"" }
-		7 = { "%d. Panzergrenadier-Division \"Vollstrecker\"" }
-		8 = { "%d. Panzergrenadier-Division \"Breslau\"" }
+		4 = { "%d. Panzergrenadier-Division 'von Degurechaff'" }
+		5 = { "%d. Panzergrenadier-Division 'Rheinübergang'" }
+		7 = { "%d. Panzergrenadier-Division 'Vollstrecker'" }
+		8 = { "%d. Panzergrenadier-Division 'Breslau'" }
 	}
 }
 
@@ -96,36 +96,36 @@ TOM_ARM_01 = {
 	fallback_name = "%d. Panzer-Division"
 
 	ordered = {
-		1 = { "%d. Panzer-Division \"Anglerfish\"" }
-		2 = { "%d. Panzer-Division \"Turtle\"" }
-		3 = { "%d. Panzer-Division \"Duck\"" }
-		4 = { "%d. Panzer-Division \"Hippo\"" }
-		5 = { "%d. Panzer-Division \"Rabbit\"" }
-		6 = { "%d. Panzer-Division \"Leopon\"" }
-		50 = { "%d. Panzer-Division \"Erika\" (de. Nr. 1)" }
-		51 = { "%d. Panzer-Division \"Miho\" (de. Nr. 2)" }
-		52 = { "%d. Panzer-Division \"Maho\" (de. Nr. 3)" }
-		60 = { "%d. Panzer-Division \"Anchovy\" (ital. Nr. 1" }
-		61 = { "%d. Panzer-Division \"Carpaccio\" (ital. Nr. 2" }
-		62 = { "%d. Panzer-Division \"Pepperoni\" (ital. Nr. 3" }
-		70 = { "%d. Panzer-Division \"Darjeeling\" (engl. Nr. 1" }
-		71 = { "%d. Panzer-Division \"Rosehip\" (engl. Nr. 2" }
-		72 = { "%d. Panzer-Division \"Earl Grey\" (engl. Nr. 3" }
-		80 = { "%d. Panzer-Division \"Marie\" (franz. Nr. 1" }
-		81 = { "%d. Panzer-Division \"Andou-Oshida\" (franz. Nr. 2" }
-		82 = { "%d. Panzer-Division \"Asparagus\" (franz. Nr. 3" }
-		90 = { "%d. Panzer-Division \"Katyusha\" (russ. Nr. 1" }
-		91 = { "%d. Panzer-Division \"Nonna\" (russ. Nr. 2" }
-		92 = { "%d. Panzer-Division \"Klara\" (russ. Nr. 3" }
-		100 = { "%d. Panzer-Division \"Mika\" (finn. Nr. 1" }
-		101 = { "%d. Panzer-Division \"Aki\" (finn. Nr. 2" }
-		102 = { "%d. Panzer-Division \"Jouko\" (finn. Nr. 3" }
-		110 = { "%d. Panzer-Division \"Kay\" (amerik. Nr. 1" }
-		111 = { "%d. Panzer-Division \"Alisa\" (amerik. Nr. 2" }
-		112 = { "%d. Panzer-Division \"Naomi\" (amerik. Nr. 3" }
-		250 = { "%d. Panzer-Division \"Cupcake\" (Nats. Nr. 1" }
-		251 = { "%d. Panzer-Division \"Kitten\" (Nats. Nr. 2" }
-		252 = { "%d. Panzer-Division \"Sweets\" (Nats. Nr. 3" }
+		1 = { "%d. Panzer-Division 'Anglerfish'" }
+		2 = { "%d. Panzer-Division 'Turtle'" }
+		3 = { "%d. Panzer-Division 'Duck'" }
+		4 = { "%d. Panzer-Division 'Hippo'" }
+		5 = { "%d. Panzer-Division 'Rabbit'" }
+		6 = { "%d. Panzer-Division 'Leopon'" }
+		50 = { "%d. Panzer-Division 'Erika' (de. Nr. 1)" }
+		51 = { "%d. Panzer-Division 'Miho' (de. Nr. 2)" }
+		52 = { "%d. Panzer-Division 'Maho' (de. Nr. 3)" }
+		60 = { "%d. Panzer-Division 'Anchovy' (ital. Nr. 1" }
+		61 = { "%d. Panzer-Division 'Carpaccio' (ital. Nr. 2" }
+		62 = { "%d. Panzer-Division 'Pepperoni' (ital. Nr. 3" }
+		70 = { "%d. Panzer-Division 'Darjeeling' (engl. Nr. 1" }
+		71 = { "%d. Panzer-Division 'Rosehip' (engl. Nr. 2" }
+		72 = { "%d. Panzer-Division 'Earl Grey' (engl. Nr. 3" }
+		80 = { "%d. Panzer-Division 'Marie' (franz. Nr. 1" }
+		81 = { "%d. Panzer-Division 'Andou-Oshida' (franz. Nr. 2" }
+		82 = { "%d. Panzer-Division 'Asparagus' (franz. Nr. 3" }
+		90 = { "%d. Panzer-Division 'Katyusha' (russ. Nr. 1" }
+		91 = { "%d. Panzer-Division 'Nonna' (russ. Nr. 2" }
+		92 = { "%d. Panzer-Division 'Klara' (russ. Nr. 3" }
+		100 = { "%d. Panzer-Division 'Mika' (finn. Nr. 1" }
+		101 = { "%d. Panzer-Division 'Aki' (finn. Nr. 2" }
+		102 = { "%d. Panzer-Division 'Jouko' (finn. Nr. 3" }
+		110 = { "%d. Panzer-Division 'Kay' (amerik. Nr. 1" }
+		111 = { "%d. Panzer-Division 'Alisa' (amerik. Nr. 2" }
+		112 = { "%d. Panzer-Division 'Naomi' (amerik. Nr. 3" }
+		250 = { "%d. Panzer-Division 'Cupcake' (Nats. Nr. 1" }
+		251 = { "%d. Panzer-Division 'Kitten' (Nats. Nr. 2" }
+		252 = { "%d. Panzer-Division 'Sweets' (Nats. Nr. 3" }
 	}
 }
 
@@ -160,10 +160,10 @@ TOM_MIL_02 = {
 	fallback_name = "%d. Volks-Division"
 
 	ordered = {
-		1 = { "%d Volks-Division \"Kay\"" }
-		2 = { "%d Volks-Division \"Mikasa\"" }
-		3 = { "%d Volks-Division \"Artoria\"" }
-		4 = { "%d Volks-Division \"Marcury\"" }
+		1 = { "%d Volks-Division 'Kay'" }
+		2 = { "%d Volks-Division 'Mikasa'" }
+		3 = { "%d Volks-Division 'Artoria'" }
+		4 = { "%d Volks-Division 'Marcury'" }
 	}
 }
 
@@ -182,13 +182,13 @@ TOM_MIL_02 = {
 #	fallback_name = "%d. SK-Division"
 #
 #	ordered = {
-#		1 = { "%d. SK-Division \"Heimwacht\"" }
-#		2 = { "%d. SK-Division \"Strandwacht\"" }
-#		3 = { "%d. SK-Division \"Megumin\"" }
-#		4 = { "%d. SK-Division \"Aqua\"" }
-#		5 = { "%d. SK-Division \"Kazuma\"" }
-#		6 = { "%d. SK-Division \"Frankreich\" (franz. Nr. 1)" }
-#		7 = { "%d. SK-Division \"Germania\" (germ. Nr. 1" }
-#		8 = { "%d. SK-Division \"Romanum\" (ital. Nr. 1" }
+#		1 = { "%d. SK-Division 'Heimwacht'" }
+#		2 = { "%d. SK-Division 'Strandwacht'" }
+#		3 = { "%d. SK-Division 'Megumin'" }
+#		4 = { "%d. SK-Division 'Aqua'" }
+#		5 = { "%d. SK-Division 'Kazuma'" }
+#		6 = { "%d. SK-Division 'Frankreich' (franz. Nr. 1)" }
+#		7 = { "%d. SK-Division 'Germania' (germ. Nr. 1" }
+#		8 = { "%d. SK-Division 'Romanum' (ital. Nr. 1" }
 #	}
 #}

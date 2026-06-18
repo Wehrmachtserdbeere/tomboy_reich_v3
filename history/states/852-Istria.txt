@@ -11,7 +11,9 @@ state = {
 	}
 
 	history = {
-		owner = ANI
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = CRO
 		victory_points = { #Fiume (Rijeka)
 			11564 1 
 		}
@@ -22,10 +24,6 @@ state = {
 				naval_base = 2
 			}
 		}
-		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
 
 		### CHANGED TO A MROE ROBUST SYSTEM
 		##CONTROLLED BY ITALY AT GAME START -> ITALIAN NAMES

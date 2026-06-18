@@ -20,7 +20,7 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-				anti_anime_reactionism_drift = -1
+				anti_anime_reactionism_drift = -0.1
 			}
 
 		}
@@ -44,7 +44,7 @@ ideas = {
 			
 
 			modifier = {
-				pro_anime_reactionism_drift = -1
+				pro_anime_reactionism_drift = -0.1
 			}
 		}
 
@@ -68,6 +68,34 @@ ideas = {
 			}
 		}
 
+		# Anime War Fighters
+		TBR_IDEA_COUNTRY_fought_in_anime_war = {
+			name = TBR_IDEA_COUNTRY_fought_in_anime_war
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			rule = {
+				can_not_declare_war = yes
+			}
+
+			modifier = {
+				war_support_weekly_factor = -0.1
+				guarantee_tension = 0.25
+				lend_lease_tension = 0.25
+				send_volunteers_tension = 0.5
+				production_speed_arms_factory_factor = -0.5
+				consumer_goods_factor = 0.05
+				conscription_factor = -0.2
+			}
+		}
 	}
 	
 }

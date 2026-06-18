@@ -14,8 +14,8 @@ FEM_INF_01 = {
 	fallback_name = "%d. Bua-Trupp"
 
 	ordered = {
-		1 = { "1. Bua-Trupp \"Zipfl\"" }
-		2 = { "%d. Bua-Trupp \"Röckle\"" }
+		1 = { "1. Bua-Trupp 'Zipfl'" }
+		2 = { "%d. Bua-Trupp 'Röckle'" }
 	}
 }
 
@@ -31,12 +31,12 @@ FEM_JGR_01 = {
 	fallback_name = "%d. Jega-Trupp"
 
 	ordered = {
-		1 = { "%d. Jega-Trupp \"Bobbesjega\"" }
-		2 = { "%d. Jega-Trupp \"Zwünchjega\"" }
-		3 = { "%d. Jega-Trupp \"Zipfljega\"" }
-		4 = { "%d. Jega-Trupp \"Buajega\"" }
-		5 = { "%d. Jega-Trupp \"Boy-Jega\" (amerik. Nr. 1)" }
-		6 = { "%d. Jega-Trupp \"Medlbuajega\"" }
+		1 = { "%d. Jega-Trupp 'Bobbesjega'" }
+		2 = { "%d. Jega-Trupp 'Zwünchjega'" }
+		3 = { "%d. Jega-Trupp 'Zipfljega'" }
+		4 = { "%d. Jega-Trupp 'Buajega'" }
+		5 = { "%d. Jega-Trupp 'Boy-Jega' (amerik. Nr. 1)" }
+		6 = { "%d. Jega-Trupp 'Medlbuajega'" }
 	}
 }
 
@@ -54,11 +54,11 @@ FEM_MOT_01 = {
 	link_numbering_with = { FEM_Inf_01 }
 
 	ordered = {
-		3 = { "%d. Modoa-Trupp \"Schwaubazwinch\"" }
-		6 = { "%d. Modoa-Trupp \"Gscheadmedla\"" }
-		9 = { "%d. Modoa-Trupp \"Boarazwinch\"" }
-		12 = { "%d. Modoa-Trupp \"Loli Medla\"" }
-		15 = { "%d. Modoa-Trupp \"Schbißa\"" }
+		3 = { "%d. Modoa-Trupp 'Schwaubazwinch'" }
+		6 = { "%d. Modoa-Trupp 'Gscheadmedla'" }
+		9 = { "%d. Modoa-Trupp 'Boarazwinch'" }
+		12 = { "%d. Modoa-Trupp 'Loli Medla'" }
+		15 = { "%d. Modoa-Trupp 'Schbißa'" }
 	}
 }
 
@@ -76,10 +76,10 @@ FEM_MEC_01 = {
 	link_numbering_with = { FEM_Inf_01 }
 
 	ordered = {
-		4 = { "%d. Feldhelda \"Schduggad\"" }
-		5 = { "%d. Feldhelda \"Ulm\"" }
-		7 = { "%d. Feldhelda \"Voalbeag\"" }
-		8 = { "%d. Feldhelda \"Elsaß\"" }
+		4 = { "%d. Feldhelda 'Schduggad'" }
+		5 = { "%d. Feldhelda 'Ulm'" }
+		7 = { "%d. Feldhelda 'Voalbeag'" }
+		8 = { "%d. Feldhelda 'Elsaß'" }
 	}
 }
 
@@ -95,12 +95,12 @@ FEM_ARM_01 = {
 	fallback_name = "%d. Panza-Trupp"
 
 	ordered = {
-		1 = { "%d. Panza-Trupp \"Eindringa\"" }
-		2 = { "%d. Panza-Trupp \"Proschta-Schlega\"" }
-		3 = { "%d. Panza-Trupp \"Buschi\"" }
-		4 = { "%d. Panza-Trupp \"Schwuchdl\"" }
-		5 = { "%d. Panza-Trupp \"Boilaschnüffla\"" } # I'm sorry.
-		6 = { "%d. Panza-Trupp \"Buaschanga\"" }
+		1 = { "%d. Panza-Trupp 'Eindringa'" }
+		2 = { "%d. Panza-Trupp 'Proschta-Schlega'" }
+		3 = { "%d. Panza-Trupp 'Buschi'" }
+		4 = { "%d. Panza-Trupp 'Schwuchdl'" }
+		5 = { "%d. Panza-Trupp 'Boilaschnüffla'" } # I'm sorry.
+		6 = { "%d. Panza-Trupp 'Buaschanga'" }
 		50 = { "%d. Middldaidscha Panza-Trupp" }
 		51 = { "%d. Middldaidscha Panza-Trupp" }
 		52 = { "%d. Middldaidscha Panza-Trupp" }
@@ -137,7 +137,7 @@ FEM_MIL_01 = {
 	fallback_name = "%d. Falla-Trupp"
 
 	ordered = {
-		1 = { "%d Falla-Trupp \"Astolfo\"" }
+		1 = { "%d Falla-Trupp 'Astolfo'" }
 		2 = { "%d Falla-Trupp" }
 		3 = { "%d Falla-Trupp" }
 		4 = { "%d Falla-Trupp" }
@@ -159,11 +159,11 @@ FEM_LG_01 = {
 	fallback_name = "%d. Era-Laibgade"
 
 	ordered = {
-		1 = { "%d. Laibgade \"Urushibara\"" }
-		2 = { "%d. Laibgade \"Astolfo\"" }
-		3 = { "%d. Laibgade \"Schrödinger\"" }
-		4 = { "%d. Laibgade \"Tet\"" }
-		5 = { "%d. Laibgade \"Felix\"" }
-		6 = { "%d. Laibgade \"Lee Hoon\"" }
+		1 = { "%d. Laibgade 'Urushibara'" }
+		2 = { "%d. Laibgade 'Astolfo'" }
+		3 = { "%d. Laibgade 'Schrödinger'" }
+		4 = { "%d. Laibgade 'Tet'" }
+		5 = { "%d. Laibgade 'Felix'" }
+		6 = { "%d. Laibgade 'Lee Hoon'" }
 	}
 }
