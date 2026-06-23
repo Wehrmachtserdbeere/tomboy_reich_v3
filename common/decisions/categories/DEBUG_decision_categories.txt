@@ -1,0 +1,8 @@
+DEBUG_DECISION_CATEGORIES_ukraine = {
+	icon = generic_political_actions
+
+	allowed = {
+		is_debug = yes
+		is_ai = no
+	}
+}

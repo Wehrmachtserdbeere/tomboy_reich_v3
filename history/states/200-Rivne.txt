@@ -6,9 +6,8 @@ state = {
 
 	history = {
 
-		owner = ANI
-		add_core_of = ANI
-		add_core_of = ANI
+		owner = UKR
+		add_core_of = UKR
 
 		victory_points = {
 			11405 1 # Zaporozhe

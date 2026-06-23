@@ -1,7 +1,9 @@
+# Novovoronezh
+
 
 state={
-	id=260
-	name="STATE_260" # Voronezh
+	id = 1104
+	name = "STATE_1104" # Novovoronezh
 	manpower = 2567983
 	
 	state_category = town
@@ -20,7 +22,7 @@ state={
 	}
 
 	provinces={
-		413 437 510 3504 3527 3566 6428 6494 6553 6587 9448 9529 11540 
+		3469 6477 6591 9552 11396 11412 11475
 	}
 
 	local_supplies=9.0 

@@ -1,16 +1,15 @@
-
 state={
-	id=199
-	name="STATE_199" # Proskuriv / Khmelnytskyi
+	id = 1103
+	name = "STATE_1103" # Proskuriv / Khmelnytskyi
 	manpower = 1424022
 	
 	state_category = town
 
-	history={
+	history = {
 		owner = UKR
 		add_core_of = UKR
 		victory_points = {
-			3457 3
+			6429 1 # Kamianets-Podilskyi
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		3457 3511 6509
+		462 3430 6429
 	}
 
 	local_supplies=4.0 

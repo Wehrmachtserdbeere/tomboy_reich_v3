@@ -64,3 +64,11 @@
   ani_imperialism_desc: "Exclusively practiced in [ANI.GetNameDef], Anime Imperialism refers to a policy of expanding the influence and territory of the realm, often through military conquest or cultural assimilation. A main staple of this ideology is the practice of granting conquered lands to various sub-groups of anime people as fiefs."
   failed_state: "Failed State"
   failed_state_desc: "A failed state is a political entity that has lost its ability to effectively govern itself, often due to internal strife or external pressures. Failed states can range from minor regions with limited resources to major nations facing significant challenges in maintaining stability and order. Although people may still live there, there is no de-jure governmental authority to provide basic services or enforce laws."
+
+
+
+
+  pro_anime_reactionism_drift: "Daily Pro-Anime Reactionism Support"
+  pro_anime_reactionism_drift_tt: " $pro_anime_reactionism_drift$: $RIGHT|+=2$"
+  anti_anime_reactionism_drift: "Daily Anti-Anime Reactionism Support"
+  anti_anime_reactionism_drift_tt: " $anti_anime_reactionism_drift$: $RIGHT|+=2$"

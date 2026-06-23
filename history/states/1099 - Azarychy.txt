@@ -1,7 +1,6 @@
-
-state={
-	id=194
-	name="STATE_194" # Mozyr
+state = {
+	id = 1099
+	name = "STATE_1099" # Azarychy
 	manpower = 467316
 	
 	state_category = rural
@@ -16,11 +15,10 @@ state={
 			6232 1
 		}
 		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={
-		6232 6556 9554 11453 
+		215 3203 3293 3507 6319 9249
 	}
 
 	local_supplies=0.0 

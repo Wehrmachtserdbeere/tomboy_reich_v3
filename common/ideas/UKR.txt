@@ -1,0 +1,44 @@
+ideas = {
+	
+	country = {
+		
+		UKR_IDEA_COUNTRY_ukraine_lives_anti_communist = {
+			name = UKR_IDEA_COUNTRY_ukraine_lives
+
+			allowed = {
+				always = no
+			}
+
+			cancel_if_invalid = no
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			modifier = {
+				communism_drift = -0.05
+				surrender_limit = 0.25
+			}
+		}
+
+		UKR_IDEA_COUNTRY_ukraine_lives_pro_communist = {
+			name = UKR_IDEA_COUNTRY_ukraine_lives
+
+			allowed = {
+				always = no
+			}
+
+			cancel_if_invalid = no
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			modifier = {
+				surrender_limit = 0.25
+			}
+		}
+
+	}
+
+}

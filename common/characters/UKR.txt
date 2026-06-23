@@ -1,0 +1,147 @@
+characters = {
+
+	UKR_LEADER_KOST_LEVYTSKY = {
+		name = UKR_LEADER_KOST_LEVYTSKY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			desc = UKR_LEADER_KOST_LEVYTSKY_DESC
+		}
+
+		can_be_captured = yes
+	}
+
+	UKR_LEADER_NIKITA_KRUSHCHYOV = {
+		name = UKR_LEADER_NIKITA_KRUSHCHYOV_NAME
+		gender = male
+	
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			traits = {
+
+			}
+			desc = UKR_LEADER_NIKITA_KRUSHCHYOV_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	UKR_LEADER_STEPAN_BANDERA = {
+		name = UKR_LEADER_STEPAN_BANDERA_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+
+			}
+			desc = UKR_LEADER_STEPAN_BANDERA_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	UKR_LEADER_MILITARY_GOVERNMENT = {
+		name = UKR_LEADER_MILITARY_GOVERNMENT_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = oligarchism
+			traits = {
+				
+			}
+			desc = UKR_LEADER_MILITARY_GOVERNMENT_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	UKR_LEADER_FRITHUGARDA_GAUTS = {
+		name = UKR_LEADER_FRITHUGARDA_GAUTS_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				TBR_TRAIT_CRIMEAN_GOTH
+			}
+			desc = UKR_LEADER_FRITHUGARDA_GAUTS_DESC
+		}
+
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+			visible = {
+				NOT = {
+					has_country_leader = {
+						ruling_only = yes
+						character = UKR_LEADER_FRITHUGARDA_GAUTS
+					}
+				}
+				# TODO: has_completed_focus = UKR_FOCUS_ something about bringing the Goths back
+			}
+		}
+
+		# Gaut protects her (we don't want the player to be screwed out of her by RNG)
+		can_be_captured = no
+	}
+
+	UKR_LEADER_MARICHKA = {
+		name = UKR_LEADER_MARICHKA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+				
+			}
+			desc = UKR_LEADER_MARICHKA_DESC
+		}
+
+		# "Screw off, Russkies!" *teleports away*
+		can_be_captured = no
+	}
+
+}

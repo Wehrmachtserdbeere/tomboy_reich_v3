@@ -8,6 +8,8 @@ state = {
 	history = {
 
 		owner = ANI
+		add_core_of = ANI
+		add_claim_by = UKR
 
 		victory_points = {
 			3686 20 # Sevastopol
@@ -47,18 +49,6 @@ state = {
 				coastal_bunker = 1
 			}
 			
-		}
-
-		add_core_of = ANI
-		add_core_of = ANI
-
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-				3686 = {
-					naval_facility = 1 # Sevastopol Naval Facilties
-				}
-			}
 		}
 	}
 

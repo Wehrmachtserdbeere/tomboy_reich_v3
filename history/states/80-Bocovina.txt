@@ -9,18 +9,17 @@ state={
 	
 	state_category = rural
 	
-	history=
-	{
+	history = {
+		owner = ANI
+		add_core_of = ANI
+		add_core_of = UKR
 		victory_points = {
 			577 1 
 		}
-		owner = ANI
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 	provinces={
 		577 9548

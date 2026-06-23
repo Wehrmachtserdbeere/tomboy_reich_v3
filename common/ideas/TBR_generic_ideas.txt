@@ -21,6 +21,12 @@ ideas = {
 
 			modifier = {
 				anti_anime_reactionism_drift = -0.1
+				female_divisional_commander_chance = 0.95
+				female_random_admiral_chance = 0.95
+				female_random_army_leader_chance = 0.95
+				female_random_country_leader_chance = 0.95
+				female_random_operative_chance = 0.95
+				female_random_scientist_chance = 0.95
 			}
 
 		}
@@ -65,10 +71,16 @@ ideas = {
 
 			modifier = {
 				stability_factor = -0.25
+				female_divisional_commander_chance = 0.25
+				female_random_admiral_chance = 0.25
+				female_random_army_leader_chance = 0.25
+				female_random_country_leader_chance = 0.25
+				female_random_operative_chance = 0.25
+				female_random_scientist_chance = 0.25
 			}
 		}
 
-		# Anime War Fighters
+		# Anime War Participant
 		TBR_IDEA_COUNTRY_fought_in_anime_war = {
 			name = TBR_IDEA_COUNTRY_fought_in_anime_war
 

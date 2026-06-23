@@ -1,0 +1,13 @@
+DEBUG_DECISION_CATEGORIES_ukraine = {
+
+	DEBUG_DECISION_CATEGORIES_ukraine_elevate_gothic_leader = {
+
+		icon = generic_political_actions
+
+		complete_effect = {
+			promote_character = UKR_LEADER_FRITHUGARDA_GAUTS
+			set_cosmetic_tag = UKR_GOT
+		}
+	}
+
+}

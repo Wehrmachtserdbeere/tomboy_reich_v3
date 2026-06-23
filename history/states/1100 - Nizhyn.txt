@@ -1,8 +1,7 @@
-
-state={
-	id=193
-	name="STATE_193" # Chernihiv
-	manpower = 1373637
+state = {
+	id = 1100
+	name = "STATE_1100" # Nizhyn
+	manpower = 273637
 	
 	state_category = city
 
@@ -19,7 +18,7 @@ state={
 	}
 
 	provinces={
-		238 489 546 3542 3568 6589 9506 
+		582 3480 3584 6458 6508 6532 9437 9543 11425 11489 11530 11557
 	}
 
 	local_supplies=0.0 

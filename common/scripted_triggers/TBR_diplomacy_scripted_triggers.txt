@@ -38,12 +38,16 @@ DIPLOMACY_RELEASE_NATION_ENABLE_TRIGGER = {
 	# CEU - Central European Union
 	if = {
 		limit = {
+			has_game_rule = {
+				rule = allow_release_nations
+				option = FREE
+			}
 			original_tag = CEU
 		}
 		custom_trigger_tooltip = {
 			tooltip = CEU_BLOCKED_RELEASES_TOOLTIP
-			NOT = {
-				FROM = {
+			FROM = {
+				NOT = {
 					OR = {
 						# CEU cannot disassemble itself without doing its focuses.
 						tag = GER

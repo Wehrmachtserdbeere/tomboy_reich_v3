@@ -1099,3 +1099,9 @@
   STATE_1096: "Kraków"
   STATE_1097: "Osijek-Baranja"
   STATE_1098: "Srem"
+  STATE_1099: "Azarychy"
+  STATE_1100: "Nezhin" # Nizhyn
+  STATE_1101: "Svatovo" # Svatove
+  STATE_1102: "Severodonetsk" # Siverskodonetsk
+  STATE_1103: "Kamenets-Podolskij" # Kamianets-Podilskyi
+  STATE_1104: "Novovoronezh"
