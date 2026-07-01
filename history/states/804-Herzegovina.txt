@@ -12,16 +12,16 @@ state={
 	}
 
 	history={
-		owner = ANI
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = BOS
+		add_core_of = HZG
 		victory_points = {
 			9894 3
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = ANI
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

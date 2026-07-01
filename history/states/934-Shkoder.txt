@@ -9,20 +9,17 @@ state = {
 	}
 
 	history = {
-		owner = ANI
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = ALB
+		add_claim_by = ITA
+		set_demilitarized_zone = yes
         victory_points = {
             9780 3 
         }
         buildings = {
             infrastructure = 2
             industrial_complex = 1
-		}
-		add_core_of = ANI
-		add_claim_by = ITA
-		1939.4.12 = {
-		    owner = ANI
-		    controller = ANI
-		    remove_claim_by = ITA
 		}
 
 	}

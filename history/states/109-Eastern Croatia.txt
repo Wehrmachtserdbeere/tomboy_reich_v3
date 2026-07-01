@@ -11,7 +11,9 @@ state={
 	state_category = large_town
 
 	history={
-		owner = ANI
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -19,8 +21,6 @@ state={
 		victory_points = {
 			11581 3 
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces={

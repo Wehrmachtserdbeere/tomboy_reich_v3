@@ -1,0 +1,155 @@
+characters = {
+	
+	YUG_LEADER_MILAN_STOJADINOVIC = {
+		name = YUG_LEADER_MILAN_STOJADINOVIC_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			desc = YUG_LEADER_MILAN_STOJADINOVIC_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	YUG_LEADER_PETER_II = {
+		name = YUG_LEADER_PETER_II_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = YUG_LEADER_PETER_II_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	YUG_LEADER_JOSIP_BROZ_TITO = {
+		name = YUG_LEADER_JOSIP_BROZ_TITO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAITS_personality_cult
+			}
+			desc = YUG_LEADER_JOSIP_BROZ_TITO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	YUG_LEADER_DIO_BRANDO = {
+		name = YUG_LEADER_DIO_BRANDO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAITS_personality_cult
+			}
+			desc = YUG_LEADER_DIO_BRANDO_DESC
+		}
+
+		can_be_captured = yes
+	}
+
+	YUG_LEADER_DIO_WORLD = {
+		name = YUG_LEADER_DIO_WORLD_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+		
+		country_leader = {
+			ideology = pa_accelerationism
+			traits = {
+				TBR_TRAITS_personality_cult
+				TBR_TRAITS_time_stop_power
+				TBR_TRAITS_dio
+			}
+			desc = YUG_LEADER_DIO_WORLD_DESC
+		}
+
+		can_be_captured = yes
+	}
+	
+	YUG_LEADER_DIO_HEAVEN = {
+		name = YUG_LEADER_DIO_HEAVEN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+		
+		country_leader = {
+			ideology = pa_accelerationism
+			traits = {
+				TBR_TRAITS_personality_cult # Generic, also applies to Tito
+				TBR_TRAITS_time_stop_power # Give combat bonuses, some maluses to org
+				TBR_TRAITS_dio # Political only, as well as a huge + to pa_drift (because he just kills his opponents)
+			}
+			desc = YUG_LEADER_DIO_HEAVEN_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# Dimitrije Ljotić
+	YUG_LEADER_DIMITRIJE_LJOTIC = {
+		name = YUG_LEADER_DIMITRIJE_LJOTIC_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_ultranationalism
+			traits = {
+				
+			}
+			desc = YUG_LEADER_DIMITRIJE_LJOTIC_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

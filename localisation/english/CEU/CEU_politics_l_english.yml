@@ -3,7 +3,7 @@
   CEU_democratic_party_long: "Sozialdemokratische Partei Deutschland/Polska Partia Socjalistyczna"
   CEU_communism_party: "KPD/SL"
   CEU_communism_party_long: "Kommunistische Partei Deutschland/Stronnictwo Ludowe"
-  CEU_pro_anime_reactionism_party: "§RBanned§!"
+  CEU_pro_anime_reactionism_party: "§RBanned§!" # Must be kept, the default can only be set after gamestart :(
   CEU_pro_anime_reactionism_party_long: "§RBanned§!"
   CEU_anti_anime_reactionism_party: "DSP/ND"
   CEU_anti_anime_reactionism_party_long: "Deutschsoziale Partei/Narodowa Demokracja"

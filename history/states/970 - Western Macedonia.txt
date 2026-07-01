@@ -7,7 +7,9 @@ state = {
 	}
 
 	history = {
-		owner = ANI
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = MAC
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -18,8 +20,6 @@ state = {
 		victory_points = {
 			867 1
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces = {

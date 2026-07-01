@@ -8,7 +8,9 @@ state={
 
 
 	history={
-		owner = ANI
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
 		victory_points = { #Dubrovnik
 			6889 3 
 		}
@@ -26,9 +28,6 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = ANI
-		#add_claim_by = ITA #added by focus
-		add_core_of = ANI
 	}
 
 	provinces={
