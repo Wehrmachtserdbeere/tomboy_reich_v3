@@ -6,3 +6,12 @@ DEBUG_DECISION_CATEGORIES_ukraine = {
 		is_ai = no
 	}
 }
+
+DEBUG_DECISION_CATEGORIES_new_jersey = {
+	icon = generic_political_actions
+
+	allowed = {
+		is_debug = yes
+		is_ai = no
+	}
+}

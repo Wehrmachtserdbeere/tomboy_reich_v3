@@ -139,4 +139,26 @@ characters = {
 		can_be_captured = no
 	}
 
+	HUN_LEADER_FERENC_KERESZTES_FISCHER = {
+		name = HUN_LEADER_FERENC_KERESZTES_FISCHER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				TBR_TRAIT_anti_communist
+				TBR_TRAIT_anti_fascist
+			}
+			desc = HUN_LEADER_FERENC_KERESZTES_FISCHER_DESC
+		}
+
+		can_be_captured = no
+	}
+
 }

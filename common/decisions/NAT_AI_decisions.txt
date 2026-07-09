@@ -1001,3 +1001,56 @@ NAT_DECISION_CATEGORIES_rename_locations_decisions = {
 	}
 
 }
+
+TBR_DECISION_CATEGORIES_economy_decisions = {
+
+	NAT_DECISION_NATSUKI_LEADER = {
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			retire_character = NAT_LEADER_HAROLD_G_HOFFMAN
+			retire_character = NAT_LEADER_THEODOR_EISENBERG
+			retire_character = NAT_LEADER_WILLIAM_THACKARA_READ
+			retire_character = NAT_LEADER_CENTRAL_PROCESSING_UNIT_NEUTRAL
+			retire_character = NAT_LEADER_CENTRAL_PROCESSING_UNIT_PA
+			
+			promote_character = NAT_LEADER_NAITSUKI_DEMOCRATIC
+			promote_character = NAT_LEADER_NAITSUKI_COMMUNISM
+			promote_character = NAT_LEADER_NAITSUKI_NEUTRAL
+			promote_character = NAT_LEADER_NAITSUKI_PA
+
+			set_party_name = {
+				ideology = neutrality
+				long_name = NAT_AI_neutrality_party_long
+				name = NAT_AI_neutrality_party
+			}
+			
+			set_party_name = {
+				ideology = democratic
+				long_name = NAT_AI_democratic_party_long
+				name = NAT_AI_democratic_party
+			}
+			
+			set_party_name = {
+				ideology = communism
+				long_name = NAT_AI_communism_party_long
+				name = NAT_AI_communism_party
+			}
+			
+			set_party_name = {
+				ideology = pro_anime_reactionism
+				long_name = NAT_AI_pro_anime_reactionism_party_long
+				name = NAT_AI_pro_anime_reactionism_party
+			}
+			
+			set_party_name = {
+				ideology = anti_anime_reactionism
+				long_name = TBR_parties_banned_long
+				name = TBR_parties_banned
+			}
+		}
+	}
+
+}

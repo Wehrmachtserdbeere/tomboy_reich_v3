@@ -1,0 +1,209 @@
+﻿l_english:
+  # Belgian Cities
+  GER_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
+  GER_VICTORY_POINTS_6560: "Gent" # Gent (Standard)
+  GER_VICTORY_POINTS_516: "Brüssel" # Brussels
+  GER_VICTORY_POINTS_6598: "Antorf" # Antwerpen
+  GER_VICTORY_POINTS_13068: "Löwen" # Leuven
+  GER_VICTORY_POINTS_9536: "Karnoit" # Charleroi
+  GER_VICTORY_POINTS_3516: "Namür" # Namur
+  GER_VICTORY_POINTS_9418: "Arel" # Arlon
+
+  # Luxembourg
+  GER_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
+
+  # Dutch Cities
+  GER_VICTORY_POINTS_3262: "Breita" # Breda
+  GER_VICTORY_POINTS_6496: "Endhofen" # Eindhoven
+  GER_VICTORY_POINTS_11562: "Maasstadt" # Maastricht
+  GER_VICTORY_POINTS_9498: "Rotterdamm" # Rotterdam
+  GER_VICTORY_POINTS_3211: "Des Grafen Hag" # The Hague
+  GER_VICTORY_POINTS_391: "Amseldamm" # Amsterdam
+  GER_VICTORY_POINTS_6241: "Aufrecht" # Utrecht
+  GER_VICTORY_POINTS_9363: "Arnheim" # Arnhem
+  GER_VICTORY_POINTS_6336: "Leuwarden" # Leeuwarden
+  GER_VICTORY_POINTS_9335: "Gröningen" # Groningen
+
+  # German Cities (Unchanged)
+  GER_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelmshaven
+  GER_VICTORY_POINTS_11388: "Münster" # Münster
+  GER_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  GER_VICTORY_POINTS_564: "Kassel" # Kassel
+  GER_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  GER_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  GER_VICTORY_POINTS_11560: "Mainz" # Mainz
+  GER_VICTORY_POINTS_6469: "Essen" # Essen
+  GER_VICTORY_POINTS_587: "Köln" # Köln
+  GER_VICTORY_POINTS_9575: "Trier" # Trier
+  GER_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+
+  # French Cities
+  GER_VICTORY_POINTS_9559: "Metz" # Metz
+  GER_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
+  GER_VICTORY_POINTS_678: "Mühlhausen" # Mulhouse
+  GER_VICTORY_POINTS_11516: "Nanzig" # Nancy
+  GER_VICTORY_POINTS_9642: "Bisanz" # Besancon
+  GER_VICTORY_POINTS_3560: "Sedensi" # Sedan
+  GER_VICTORY_POINTS_13011: "Rheims" # Reims
+  GER_VICTORY_POINTS_9490: "Tricassenstadt" # Troyes
+  GER_VICTORY_POINTS_3652: "Dianz" # Dijon
+  GER_VICTORY_POINTS_11483: "Reisel" # Lille
+  GER_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
+  GER_VICTORY_POINTS_11548: "Kalen" # Calais
+  GER_VICTORY_POINTS_11420: "Ambien" # Amiens
+  GER_VICTORY_POINTS_11506: "Lutezia" # Paris
+  GER_VICTORY_POINTS_512: "Zenabum" # Orleans
+  GER_VICTORY_POINTS_3671: "Turon" # Tours
+  GER_VICTORY_POINTS_485: "Tief" # Dieppe
+  GER_VICTORY_POINTS_11563: "Rudaburg" # Rouen
+  GER_VICTORY_POINTS_9434: "Westhafenstadt" # Le Havre
+  GER_VICTORY_POINTS_6449: "Kirchendorf" # Cherbourg
+  GER_VICTORY_POINTS_11465: "Naunt" # Nantes
+  GER_VICTORY_POINTS_9495: "Kondatten" # Rennes
+  GER_VICTORY_POINTS_6536: "Der Orient" # Lorient
+  GER_VICTORY_POINTS_3552: "Breschd" # Brest
+  GER_VICTORY_POINTS_9909: "Nizza" # Nice
+  GER_VICTORY_POINTS_778: "Annetschi" # Annecy
+  GER_VICTORY_POINTS_911: "Tolon" # Toulon
+  GER_VICTORY_POINTS_11834: "Massilien" # Marseille
+  GER_VICTORY_POINTS_3768: "Graswalde" # Grenoble
+  GER_VICTORY_POINTS_6613: "Welsch-Leiden" # Lyon
+  GER_VICTORY_POINTS_3594: "Widschi" # Vichy
+  GER_VICTORY_POINTS_9898: "Plierberg" # Montpellier
+  GER_VICTORY_POINTS_651: "Raoulschloss" # Châteauroux
+  GER_VICTORY_POINTS_620: "Limoges" # Limoges
+  GER_VICTORY_POINTS_6766: "Tholosen" # Toulouse
+  GER_VICTORY_POINTS_6657: "Roschellen" # La Rochelle
+  GER_VICTORY_POINTS_9737: "Bordau" # Bordeaux
+  GER_VICTORY_POINTS_9710: "Guthafen" # Bayonne
+
+  # English Cities
+  GER_VICTORY_POINTS_3501: "Dowershafen" # Dover
+  GER_VICTORY_POINTS_9458: "Hafensmund" # Portsmouth
+  GER_VICTORY_POINTS_6103: "Lunden" # London
+  GER_VICTORY_POINTS_271: "Gippeswich" # Ipswich
+  GER_VICTORY_POINTS_322: "Nordweich" # Norwich
+  GER_VICTORY_POINTS_11279: "Ledekester" # Leicester
+  GER_VICTORY_POINTS_6237: "Snotsheim" # Nottingham
+  GER_VICTORY_POINTS_9315: "Scheffsfeld" # Sheffield
+  GER_VICTORY_POINTS_9379: "Lattsheim" # Leeds
+  GER_VICTORY_POINTS_11297: "Hullen" # Hull
+  GER_VICTORY_POINTS_6526: "Treuo" # Truro
+  GER_VICTORY_POINTS_540: "Bleimünd" # Plymouth
+  GER_VICTORY_POINTS_3369: "Bristen" # Bristol
+  GER_VICTORY_POINTS_9297: "Beomingsland" # Birmingham
+  GER_VICTORY_POINTS_6318: "Mamutien" # Manchester
+  GER_VICTORY_POINTS_6384: "Leierpolen" # Liverpool
+  GER_VICTORY_POINTS_11332: "Karlsinsel" # Carlisle
+  GER_VICTORY_POINTS_351: "Neuburg am Tein" # Newcastle
+  GER_VICTORY_POINTS_377: "Kardiff" # Cardiff
+  GER_VICTORY_POINTS_407: "Schwansee" # Swansea
+  GER_VICTORY_POINTS_311: "Wechshamm" # Wrexham
+  GER_VICTORY_POINTS_11218: "Drumfried" # Dumfries
+  GER_VICTORY_POINTS_3273: "Glasgau" # Glasgow
+  GER_VICTORY_POINTS_9392: "Edensburg" # Edinburgh
+  GER_VICTORY_POINTS_6300: "Rositt" # Rosyth
+  GER_VICTORY_POINTS_3150: "Dundeln" # Dundee
+  GER_VICTORY_POINTS_200: "Abbern" # Aberdeen
+  GER_VICTORY_POINTS_3373: "Obben" # Oban
+  GER_VICTORY_POINTS_9075: "Inwern" # Inverness
+  GER_VICTORY_POINTS_11064: "Skappenlau" # Scapa Flow
+  GER_VICTORY_POINTS_6062: "Stornenweg" # Stornoway
+  GER_VICTORY_POINTS_3311: "Dugeln" # Douglas
+  GER_VICTORY_POINTS_3379: "Bellenburg" # Belfast
+  GER_VICTORY_POINTS_385: "Derrer Kahldeich" # Londonderry
+  GER_VICTORY_POINTS_11371: "Schliegen" # Sligo
+  GER_VICTORY_POINTS_9303: "Gallen" # Galway
+  GER_VICTORY_POINTS_11293: "Dublin" # Dublin
+  GER_VICTORY_POINTS_303: "Tullen" # Tullamore
+  GER_VICTORY_POINTS_285: "Wechselsfort" # Wexford
+  GER_VICTORY_POINTS_6313: "Limmerick" # Limerick
+  GER_VICTORY_POINTS_7394: "Kork" # Cork
+
+  # Ostdeutschland and Poland
+  GER_VICTORY_POINTS_6282: "Stettin"
+  GER_VICTORY_POINTS_11372: "Köslin"
+  GER_VICTORY_POINTS_3473: "Küstrin"
+  GER_VICTORY_POINTS_552: "Liegnitz"
+  GER_VICTORY_POINTS_9570: "Breslau"
+  GER_VICTORY_POINTS_9511: "Oppeln"
+  GER_VICTORY_POINTS_11476: "Gleiwitz"
+  GER_VICTORY_POINTS_6464: "Kattowitz"
+  GER_VICTORY_POINTS_6558: "Posen"
+
+  GER_VICTORY_POINTS_692: "München"
+  GER_VICTORY_POINTS_11544: "Nürnberg"
+  GER_VICTORY_POINTS_9427: "Krakau"
+  GER_VICTORY_POINTS_3320: "Wilna"
+  GER_VICTORY_POINTS_9508: "Litzmannstadt"
+  GER_VICTORY_POINTS_11479: "Lemberg"
+  GER_VICTORY_POINTS_11666: "Wien"
+  GER_VICTORY_POINTS_11542: "Prag"
+  GER_VICTORY_POINTS_3569: "Brünn"
+  GER_VICTORY_POINTS_6418: "Pilsen"
+  GER_VICTORY_POINTS_6573: "Kaschau"
+  GER_VICTORY_POINTS_9692: "Preßburg"
+  GER_VICTORY_POINTS_11610: "Fünfkirchen"
+  GER_VICTORY_POINTS_11659: "Debrezin"
+  GER_VICTORY_POINTS_11519: "Lüttich"
+  GER_VICTORY_POINTS_9627: "Laibach"
+  GER_VICTORY_POINTS_11581: "Agram"
+  GER_VICTORY_POINTS_690: "Kronstadt"
+  GER_VICTORY_POINTS_6711: "Klausenburg"
+  GER_VICTORY_POINTS_3780: "Mailand"
+  GER_VICTORY_POINTS_6626: "Triest"
+  GER_VICTORY_POINTS_11584: "Venedig"
+  GER_VICTORY_POINTS_9340: "Riga"
+  GER_VICTORY_POINTS_3529: "Wolgograd"
+  GER_VICTORY_POINTS_3151: "Saint Petersburg"
+  GER_VICTORY_POINTS_10000: "Tsingtao"
+  GER_VICTORY_POINTS_7251: "Simpsonhafen"
+  GER_VICTORY_POINTS_3230: "Schröttersburg"
+  GER_VICTORY_POINTS_11301: "Bialystok"
+  GER_VICTORY_POINTS_11411: "Stanislau"
+  GER_VICTORY_POINTS_442: "Tarnow"
+  GER_VICTORY_POINTS_3295: "Thorn"
+  GER_VICTORY_POINTS_9263: "Gotenhafen"
+  GER_VICTORY_POINTS_279: "Bromberg"
+  GER_VICTORY_POINTS_577: "Czernowitz"
+  GER_VICTORY_POINTS_3548: "Munkatsch"
+  GER_VICTORY_POINTS_11539: "Sillein"
+  GER_VICTORY_POINTS_3583: "Ostrau"
+  GER_VICTORY_POINTS_6562: "Olmütz"
+  GER_VICTORY_POINTS_9569: "Tabor"
+  GER_VICTORY_POINTS_3585: "Karlsbad"
+  GER_VICTORY_POINTS_11401: "Reichenberg"
+  GER_VICTORY_POINTS_9606: "Temeschwar"
+  GER_VICTORY_POINTS_619: "Neusatz"
+  GER_VICTORY_POINTS_3581: "Eperies"
+  GER_VICTORY_POINTS_6727: "Weißenburg"
+  GER_VICTORY_POINTS_11598: "Bozen"
+  GER_VICTORY_POINTS_3614: "Pantschowa"
+  GER_VICTORY_POINTS_11523: "Kosakenstadt"
+  GER_VICTORY_POINTS_9432: "Baronsk"
+  GER_VICTORY_POINTS_9598: "Trient"
+  GER_VICTORY_POINTS_3604: "Padua"
+  GER_VICTORY_POINTS_665: "Marburg"
+  GER_VICTORY_POINTS_6889: "Ragusa"
+  GER_VICTORY_POINTS_13258: "Sonderburg"
+  GER_VICTORY_POINTS_11691: "Ungwar"
+  GER_VICTORY_POINTS_6571: "Jassinja"
+  GER_VICTORY_POINTS_541: "Neutra"
+  GER_VICTORY_POINTS_557: "Znaim"
+  GER_VICTORY_POINTS_6670: "Frankenstadt"
+  GER_VICTORY_POINTS_11646: "Tschongrad"
+  GER_VICTORY_POINTS_6700: "Segedin"
+  GER_VICTORY_POINTS_6720: "Raab"
+  GER_VICTORY_POINTS_12154: "Friedrich - Wilhelmshafen"
+  GER_VICTORY_POINTS_686: "Ödenburg"
+  GER_VICTORY_POINTS_9672: "Neumarkt am Mieresch"
+  GER_VICTORY_POINTS_3414: "Troppau"
+  GER_VICTORY_POINTS_3609: "Schabatz"
+  GER_VICTORY_POINTS_6672: "Olsnitz"
+  GER_VICTORY_POINTS_3696: "Großwardein"
+  GER_VICTORY_POINTS_6470: "Falkenau"
+  GER_VICTORY_POINTS_11525: "Frain Dam"
+
+  GER_VICTORY_POINTS_707: "Berchtesgaden"
+  GER_VICTORY_POINTS_11829: "Chrysopolis"
+  GER_VICTORY_POINTS_9523: "West-Paris"

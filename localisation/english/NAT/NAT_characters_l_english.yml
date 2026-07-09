@@ -4,7 +4,7 @@
   NAT_LEADER_WILLIAM_THACKARA_READ_NAME: "William T. Read"
   NAT_LEADER_WILLIAM_THACKARA_READ_DESC: "William Thackara Read was a New Jersey Senator for the Republican Party from 1912 to 1916, and the State Treasurer of New Jersey from 1916 to 1928. Although having been a Republican for a long time, following promotions in the §RFreemasons§!, he started rallying for the Communist cause.\n\n\"In the greater scope of things, I have realized: Certain classes must unite.\""
   NAT_LEADER_CENTRAL_PROCESSING_UNIT_NAME: "Central Processing Unit"
-  NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC: "A revolutionary technological advancement, the Central Processing Unit is an almost futuristic artificial intelligence. Declaring allegiance to neither the Republican, Democratic, nor Communist Parties, it is focused entirely on non-partisan governance.\n\n\"<< [?global.date.GetDateText]  >> - All functions nominal, awaiting input.\""
+  NAT_LEADER_CENTRAL_PROCESSING_UNIT_DESC: "A revolutionary technological advancement, the Central Processing Unit is an almost futuristic artificial intelligence. Declaring allegiance to neither the Republican, Democratic, nor Communist Parties, it is focused entirely on non-partisan governance.\n\n\"<< §RTIME_GET_ERROR§! >> - All functions nominal, awaiting input.\""
   NAT_LEADER_THEODOR_EISENBERG_NAME: "Theodor Eisenberg"
   NAT_LEADER_THEODOR_EISENBERG_DESC: "An immigrant from Germany, Theodor Eisenberg is an almost genious banker and schemer, who took up the mantle of politics in the early 1930s. Despite his rumored connections to the §RFreemasons§!, he's a political rival of William T. Read, and generally unwilling to work with him.\n\n\"America is a nation of immigrants. The idea of nationalism in America is idiotic. However, a robot can never be counted as sapient, and should not be permitted here.\""
 
@@ -12,4 +12,4 @@
   NAT_LEADER_NAITSUKI_DESC: "§aHer Majesty§! needs no introduction.\n\n\"§aOnmi koso subete, onmi koso hikari!§!\""
 
   NAT_LEADER_JUN_NAME: "Jun"
-  NAT_LEADER_JUN_DESC: "A state-of-the-art robot girl developed and mass-produced by Incontinent Cell with well-thought-out features and a wide variety of customization options. It's obvious why many people support her leadership.\n\n§gThe portrayal of this character and her behavior in this mod is not representative of Incontinent Cell or their ideals. This mod has no connection to Incontinent Cell.§!"
+  NAT_LEADER_JUN_DESC: "A state-of-the-art robot girl developed and mass-produced by Incontinent Cell with well-thought-out features and a wide variety of customization options. It's obvious why many people support her leadership.\n\n\"I have detected a suspicious error in the technological state of this world...\"\n\n§gThe portrayal of this character and her behavior in this mod is not representative of Incontinent Cell or their ideals. This mod has no connection to Incontinent Cell.§!"

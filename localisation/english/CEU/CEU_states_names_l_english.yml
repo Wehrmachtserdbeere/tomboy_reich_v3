@@ -78,7 +78,6 @@
   CEU_STATE_62: "Vorpommern"
   CEU_STATE_64: "Brandenburg"
   CEU_STATE_65: "Sachsen"
-  CEU_STATE_42: "Pfalz"
   CEU_STATE_978: "Baden"
   CEU_STATE_50: "Württemberg"
   CEU_STATE_54: "Franken"
@@ -89,9 +88,10 @@
   CEU_STATE_848: "Vorarlberg"
   CEU_STATE_153: "Tirol"
   CEU_STATE_152: "Ober-Österreich"
-  CEU_STATE_4: "Nieder-Österreich"
+  CEU_STATE_4: "Wien"
   CEU_STATE_976: "Steyermark-Kärnten"
   CEU_STATE_975: "Burgenland"
+  CEU_STATE_1105: "Linz"
   
   # Czechia
   CEU_STATE_69: "Severní Sudety"

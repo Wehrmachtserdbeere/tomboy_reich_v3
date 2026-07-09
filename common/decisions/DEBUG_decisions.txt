@@ -4,6 +4,10 @@ DEBUG_DECISION_CATEGORIES_ukraine = {
 
 		icon = generic_political_actions
 
+		allowed = {
+			always = yes
+		}
+
 		complete_effect = {
 			promote_character = UKR_LEADER_FRITHUGARDA_GAUTS
 			set_cosmetic_tag = UKR_GOT

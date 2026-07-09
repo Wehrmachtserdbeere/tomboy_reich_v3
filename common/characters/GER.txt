@@ -1,0 +1,166 @@
+characters = {
+	
+	GER_LEADER_KONRAD_ADENAUER = {
+		name = GER_LEADER_KONRAD_ADENAUER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				TBR_TRAIT_anti_communist
+			}
+			desc = GER_LEADER_KONRAD_ADENAUER_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	GER_LEADER_ERNST_THAELMANN = {
+		name = GER_LEADER_ERNST_THAELMANN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				TBR_TRAIT_loves_soviets
+			}
+			desc = GER_LEADER_ERNST_THAELMANN_DESC
+		}
+	}
+
+	GER_LEADER_WILHELM_II = {
+		name = GER_LEADER_WILHELM_II_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = GER_LEADER_WILHELM_II_DESC
+			expire = 1941.6.9
+		}
+
+		can_be_captured = no
+	}
+
+	GER_LEADER_WILHELM_III = {
+		name = GER_LEADER_WILHELM_III_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = GER_LEADER_WILHELM_III_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	GER_LEADER_GREGOR_STRASSER = {
+		name = GER_LEADER_GREGOR_STRASSER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = GER_LEADER_GREGOR_STRASSER_DESC
+		}
+	}
+	
+	GER_LEADER_HERMANN_GOERING = {
+		name = GER_LEADER_HERMANN_GOERING_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				TBR_TRAIT_militarist
+			}
+			desc = GER_LEADER_HERMANN_GOERING_DESC
+		}
+	}
+
+	# Due to not being a German citizen, he can only ascend via transfer from Switzerland to Germany
+	# after the Nazis come to power.
+	GER_LEADER_ADOLF_HITLER = {
+		name = GER_LEADER_ADOLF_HITLER_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = GER_LEADER_ADOLF_HITLER_DESC
+		}
+	}
+
+	GER_LEADER_VIKTORIA = {
+		name = GER_LEADER_VIKTORIA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAITS_tomboy_kaiserin
+			}
+			desc = GER_LEADER_VIKTORIA_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

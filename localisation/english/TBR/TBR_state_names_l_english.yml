@@ -2,7 +2,7 @@
   STATE_1: "Corsica"
   STATE_2: "Lazio"
   STATE_3: "Swiss Plateau"
-  STATE_4: "Lower Austria"
+  STATE_4: "Vienna"
   STATE_5: "Ermland-Masuren"
   STATE_6: "Flanders"
   STATE_7: "Holland"
@@ -1105,3 +1105,4 @@
   STATE_1102: "Severodonetsk" # Siverskodonetsk
   STATE_1103: "Kamenets-Podolskij" # Kamianets-Podilskyi
   STATE_1104: "Novovoronezh"
+  STATE_1105: "Linz"

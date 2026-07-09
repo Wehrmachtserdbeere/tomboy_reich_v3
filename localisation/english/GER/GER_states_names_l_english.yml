@@ -1,0 +1,79 @@
+﻿l_english:
+
+  # Belgium
+  CEU_STATE_6: "Flandern"
+  CEU_STATE_977: "Antwerpen"
+  CEU_STATE_34: "Wallonie"
+  CEU_STATE_980: "Ardennen"
+
+ # Luxembourg
+  CEU_STATE_8: "Luxemburg"
+
+  # Netherlands
+  CEU_STATE_35: "Brabant"
+  CEU_STATE_7: "Holland"
+  CEU_STATE_36: "Friesland"
+
+  # Germany
+  CEU_STATE_57: "Westfalen"
+  CEU_STATE_56: "Weser-Ems"
+  CEU_STATE_51: "Ost-Rheinland"
+  CEU_STATE_42: "Pfalz"
+  CEU_STATE_55: "Hessen"
+  CEU_STATE_59: "Hannover"
+  CEU_STATE_60: "Thüringen"
+  CEU_STATE_912: "Nord-Schleswig"
+  CEU_STATE_909: "Schleswig"
+  CEU_STATE_58: "Holstein"
+  CEU_STATE_61: "Mecklenburg"
+  CEU_STATE_62: "Vorpommern"
+  CEU_STATE_64: "Brandenburg"
+  CEU_STATE_65: "Sachsen"
+  CEU_STATE_978: "Baden"
+  CEU_STATE_50: "Württemberg"
+  CEU_STATE_54: "Franken"
+  CEU_STATE_53: "Niederbayern"
+  CEU_STATE_52: "Oberbayern"
+  
+  # Austria
+  CEU_STATE_848: "Vorarlberg"
+  CEU_STATE_153: "Tirol"
+  CEU_STATE_152: "Ober-Österreich"
+  CEU_STATE_4: "Wien"
+  CEU_STATE_976: "Steyermark-Kärnten"
+  CEU_STATE_975: "Burgenland"
+  CEU_STATE_1105: "Linz"
+
+  # Prussia
+  CEU_STATE_63: "Hinterpommern"
+  CEU_STATE_68: "Ostmark"
+  CEU_STATE_66: "Niederschlesien"
+  CEU_STATE_67: "Oberschlesien"
+  CEU_STATE_762: "Kattowitz"
+  CEU_STATE_86: "Posen"
+  CEU_STATE_807: "Gotenstaat"
+  CEU_STATE_85: "Danzig"
+  CEU_STATE_5: "Ermland-Masuren"
+  CEU_STATE_763: "Königsberg"
+
+  # poland
+  CEU_STATE_10: "Masowien"
+  CEU_STATE_98: "Kujawien-Pommern"
+  CEU_STATE_87: "Posen"
+  CEU_STATE_90: "Lodz"
+  CEU_STATE_88: "Kleinpolen"
+  CEU_STATE_97: "Podlachien"
+
+  CEU_STATE_1082: "Berchtesgaden"
+  CEU_STATE_1083: "Bodensee"
+  CEU_STATE_1084: "Mainz"
+  CEU_STATE_1085: "Mainz-Zweig"
+  CEU_STATE_1086: "West-Rheinland"
+  CEU_STATE_1087: "Waal-Niederrheinland"
+  CEU_STATE_1088: "Magdeburg"
+  CEU_STATE_1089: "Stettin"
+  CEU_STATE_1090: "Löwensberg"
+  CEU_STATE_1091: "West-Sachsen"
+  CEU_STATE_1092: "Ost Paris"
+  CEU_STATE_1093: "Marne-Seine-Land"
+  CEU_STATE_1096: "Krakau"

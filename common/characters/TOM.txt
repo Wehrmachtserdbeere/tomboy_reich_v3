@@ -44,8 +44,9 @@ characters = {
 		can_be_captured = no
 	}
 
-	TOM_LEADER_ARTORIA_PENDRAGON = {
-		name = TOM_LEADER_ARTORIA_PENDRAGON_NAME
+	# Yona (akatsuki no yona)
+	TOM_LEADER_YONA = {
+		name = TOM_LEADER_YONA_NAME
 		gender = female
 
 		portraits = {
@@ -57,7 +58,7 @@ characters = {
 		country_leader = {
 			ideology = monarchism
 			traits = { }
-			desc = TOM_LEADER_ARTORIA_PENDRAGON_DESC
+			desc = TOM_LEADER_YONA_DESC
 		}
 
 		can_be_captured = no

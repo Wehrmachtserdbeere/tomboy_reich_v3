@@ -34,11 +34,12 @@ set_technology = {
 }
 
 # TODO
-recruit_character = SWI_LEADER_placeholder_1
-recruit_character = SWI_LEADER_placeholder_2
-recruit_character = SWI_LEADER_placeholder_3
-recruit_character = SWI_LEADER_placeholder_4
-recruit_character = SWI_LEADER_placeholder_5
+recruit_character = SWI_LEADER_ERNST_LEONHARDT
+recruit_character = SWI_LEADER_ADOLF_HITLER
+recruit_character = SWI_LEADER_FEDERAL_ASSEMBLY
+recruit_character = SWI_LEADER_HELVETIA
+recruit_character = SWI_LEADER_JULES_HUMBERT_DROZ
+recruit_character = SWI_LEADER_ULRICH_WILLE_JR
 
 set_politics = {
 	ruling_party = democratic
