@@ -13,6 +13,17 @@
   CEU_VICTORY_POINTS_9575: "Trier" # Trier
   CEU_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
 
+  # Austria
+  CEU_VICTORY_POINTS_673: "Innsbruck"
+  CEU_VICTORY_POINTS_688: "Salzburg"
+  CEU_VICTORY_POINTS_9665: "Wels"
+  CEU_VICTORY_POINTS_11612: "Villach"
+  CEU_VICTORY_POINTS_3673: "Klagenfurt"
+  CEU_VICTORY_POINTS_9648: "Graz"
+  CEU_VICTORY_POINTS_11666: "Wien"
+  CEU_VICTORY_POINTS_732: "Linz"
+  CEU_VICTORY_POINTS_3700: "Eisenstadt"
+
   # Czechia
   CEU_VICTORY_POINTS_11542: "Praha" # Prague
   CEU_VICTORY_POINTS_6418: "Plzeň" # Plzen
@@ -22,11 +33,48 @@
   CEU_VICTORY_POINTS_11401: "Liberec" # Liberec
   CEU_VICTORY_POINTS_557: "Znojmo" # Znojmo
   CEU_VICTORY_POINTS_3569: "Brno" # Brno
-  CEU_VICTORY_POINTS_: "" #
-  CEU_VICTORY_POINTS_: "" #
-  CEU_VICTORY_POINTS_: "" #
-  CEU_VICTORY_POINTS_: "" #
-  CEU_VICTORY_POINTS_: "" #
+  CEU_VICTORY_POINTS_6562: "Olomouc" # Olomouc
+  CEU_VICTORY_POINTS_3414: "Opava" # Opava
+  CEU_VICTORY_POINTS_3583: "Ostrava" # Ostrava
+
+  # Slovakia
+  CEU_VICTORY_POINTS_9692: "Bratislava" # Bratislava
+  CEU_VICTORY_POINTS_541: "Nitra" # Nitra
+  CEU_VICTORY_POINTS_11539: "Žilina" # Žilina
+  CEU_VICTORY_POINTS_3581: "Prešov" # Prešov
+  CEU_VICTORY_POINTS_11691: "Užhorod" # Uzhhorod
+  CEU_VICTORY_POINTS_3548: "Mukačevo" # Mukachevo
+  CEU_VICTORY_POINTS_6571: "Jasiňa" # Yasinia
+
+  # poland
+  CEU_VICTORY_POINTS_9508: "Łódź" # Lodz
+  CEU_VICTORY_POINTS_11430: "Kielce" # Kielce
+  CEU_VICTORY_POINTS_3458: "Radom" # Radom
+  CEU_VICTORY_POINTS_3544: "Warszawa" # Warsaw
+  CEU_VICTORY_POINTS_402: "Siedlce" # Siedlce
+  CEU_VICTORY_POINTS_3230: "Płock" # Plock
+  CEU_VICTORY_POINTS_11301: "Białystok" # Bialystok
+  CEU_VICTORY_POINTS_3254: "Suwałki" # Suwalki
+  CEU_VICTORY_POINTS_11399: "Lublin" # Lublin
+  CEU_VICTORY_POINTS_9427: "Kraków" # Krakow
+  CEU_VICTORY_POINTS_442: "Tarnów" # Tarnow
+  CEU_VICTORY_POINTS_9494: "Zamość" # Zamosc
+
+  # poland-Ukraine
+  CEU_VICTORY_POINTS_11411: "Stanisławów-Ivano-Frankivsk" # Ivano-Frankivska
+  CEU_VICTORY_POINTS_11479: "Lwów-Lviv" # Lwow
+  CEU_VICTORY_POINTS_6557: "Równe-Rivne" # Rowne
+  CEU_VICTORY_POINTS_422: "Kowel-Kovel" # Kowel
+
+  # poland-Belarus
+  CEU_VICTORY_POINTS_3392: "Brześć-Brėst" # Brest-Litovsk
+  CEU_VICTORY_POINTS_560: "Pińsk-Pinsk" # Pinsk
+  CEU_VICTORY_POINTS_9304: "Baranowicze-Baranavichy" # Baranowicze
+  CEU_VICTORY_POINTS_3393: "Grodno-Hrodna" # Grodno
+  CEU_VICTORY_POINTS_406: "Mołodeczno-Maladzechna" # Molodeczno
+
+  # Lithuania
+  CEU_VICTORY_POINTS_3320: "Vilnius" # Vilna
   
   CEU_VICTORY_POINTS_707: "Berchtesgaden"
   CEU_VICTORY_POINTS_11829: "Chrysopolis"

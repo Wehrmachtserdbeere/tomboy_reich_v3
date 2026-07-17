@@ -69,22 +69,22 @@
   FEM_VICTORY_POINTS_3583: "Oschdrau" # Ostrava / Ostrau
   FEM_VICTORY_POINTS_9692: "Pressbuag" # Bratislava / Pressburg
   FEM_VICTORY_POINTS_541: "Noitra" # Nitra / Neutra
-  FEM_VICTORY_POINTS_11539: "Sillan" # Žilina / Sillein
+  FEM_VICTORY_POINTS_11539: "Sillei" # Žilina / Sillein
   FEM_VICTORY_POINTS_3581: "Breschau" # Prešov / Preschau
   FEM_VICTORY_POINTS_11691: "Ungan" # Uzhhorod / Ungvár / Ungern (Fict.)
   FEM_VICTORY_POINTS_3548: "Minchkass" # Mukachevo / Munkács / Münchkass (Fict.)
   FEM_VICTORY_POINTS_6571: "Koschmetz" # Yasinia / Körösmező / Koschmetz (Fict.)
   FEM_VICTORY_POINTS_3561: "Eafuad" # Erfurt
-  FEM_VICTORY_POINTS_425: "Weimar" # Weimar
+  FEM_VICTORY_POINTS_425: "Weima" # Weimar
   FEM_VICTORY_POINTS_538: "Jena" # Jena
   FEM_VICTORY_POINTS_6377: "Hannova" # Hannover
   FEM_VICTORY_POINTS_6298: "Lünebuag" # Lüneburg
   FEM_VICTORY_POINTS_3326: "Brema" # Bremen
   FEM_VICTORY_POINTS_374: "Gugshafn" # Cuxhaven
-  FEM_VICTORY_POINTS_13258: "Sundabeag" # Sonderborg
+  FEM_VICTORY_POINTS_13258: "Sondabeag" # Sonderborg
   FEM_VICTORY_POINTS_317: "Flensbuag" # Flensburg
   FEM_VICTORY_POINTS_9347: "Hambuag" # Hamburg
-  FEM_VICTORY_POINTS_6389: "Kiel" # Kiel
+  FEM_VICTORY_POINTS_6389: "Kil" # Kiel
   FEM_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
   FEM_VICTORY_POINTS_3535: "Laibzig" # Leipzig
   FEM_VICTORY_POINTS_514: "Dreschdn" # Dresden
@@ -100,7 +100,7 @@
   FEM_VICTORY_POINTS_9511: "Oppln" # Oppeln
   FEM_VICTORY_POINTS_9570: "Breslau" # Breslau
   FEM_VICTORY_POINTS_552: "Lignitz" # Liegnitz
-  FEM_VICTORY_POINTS_3473: "Küstrin" # Küstrin
+  FEM_VICTORY_POINTS_3473: "Küschdrin" # Küstrin
   FEM_VICTORY_POINTS_6558: "Posn" # Posen
   FEM_VICTORY_POINTS_6282: "Schdeddin" # Stettin
   FEM_VICTORY_POINTS_11372: "Köslin" # Köslin
@@ -108,7 +108,7 @@
   FEM_VICTORY_POINTS_3295: "Torn" # Thorn
   FEM_VICTORY_POINTS_9263: "Gotahafn" # Gotenhafen
   FEM_VICTORY_POINTS_362: "Danzig" # Danzig
-  FEM_VICTORY_POINTS_6375: "Allaschdain" # Allenstein
+  FEM_VICTORY_POINTS_6375: "Allaschdoi" # Allenstein
   FEM_VICTORY_POINTS_6332: "Kenigsbeag" # Königsberg
   FEM_VICTORY_POINTS_3288: "Meml" # Memel
 
