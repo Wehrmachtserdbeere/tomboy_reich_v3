@@ -1,0 +1,11 @@
+#
+# 16-Jul-2026 - I have not yet figured out why the game won't load these files.
+# Attempted:
+# - Changing linebreaks from CRLF -> LF (same as vanilla)
+# - Feeding the FEM and the FRA files to Gemini, unsuccessfully.
+# - Asking the modding Discord back in June, got a reply on June 7th WITHOUT a ping, was ghosted after.
+#
+#
+#
+#
+#

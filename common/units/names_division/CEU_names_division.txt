@@ -10,7 +10,7 @@
 	fallback_name = "%d. Infanterie-Division"
 
 	ordered = {
-		1 = { "1. Infanterie-Division" }
+		1 = { "%d. Infanterie-Division" }
 	}
 }
 
@@ -26,7 +26,7 @@ CEU_INF_02 = {
 	fallback_name = "%d. Dywizja Piechoty"
 
 	ordered = {
-		1 = { "1. Dywizja Piechoty" }
+		1 = { "%d. Dywizja Piechoty" }
 	}
 }
 
@@ -42,7 +42,7 @@ CEU_INF_03 = {
 	fallback_name = "%d. Pěší Divize"
 
 	ordered = {
-		1 = { "1. Pěší Divize" }
+		1 = { "%d. Pěší Divize" }
 	}
 }
 
@@ -89,7 +89,7 @@ CEU_MOT_01 = {
 
 	fallback_name = "%d. Motorisierte Infanterie-Division"
 
-	link_numbering_with = { CEU_Inf_01 }
+	link_numbering_with = { CEU_INF_01 }
 
 	ordered = {
 		3 = { "%d. Motorisierte Infanterie-Division 'Deutschland'" }
@@ -111,7 +111,7 @@ CEU_MOT_02 = {
 
 	fallback_name = "%d. Dywizja Piechoty Zmotoryzowanej"
 
-	link_numbering_with = { CEU_Inf_02 }
+	link_numbering_with = { CEU_INF_02 }
 
 	ordered = {
 		3 = { "%d. Dywizja Piechoty Zmotoryzowanej 'Polska'" }
@@ -133,7 +133,7 @@ CEU_MEC_01 = {
 
 	fallback_name = "%d. Panzergrenadier-Division"
 
-	link_numbering_with = { CEU_Inf_01 }
+	link_numbering_with = { CEU_INF_01 }
 
 	ordered = {
 		4 = { "%d. Panzergrenadier-Division 'von Seeckt'" }
@@ -154,7 +154,7 @@ CEU_MEC_02 = {
 
 	fallback_name = "%d. Dywizja Grenadierów Pancernych"
 
-	link_numbering_with = { CEU_Inf_01 }
+	link_numbering_with = { CEU_INF_01 }
 
 	ordered = {
 		4 = { "%d. Dywizja Grenadierów Pancernych 'Wojtek'" }

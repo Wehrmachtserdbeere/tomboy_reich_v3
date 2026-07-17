@@ -14,7 +14,7 @@ FEM_INF_01 = {
 	fallback_name = "%d. Bua-Trupp"
 
 	ordered = {
-		1 = { "1. Bua-Trupp 'Zipfl'" }
+		1 = { "%d. Bua-Trupp 'Zipfl'" }
 		2 = { "%d. Bua-Trupp 'Röckle'" }
 	}
 }
@@ -51,7 +51,7 @@ FEM_MOT_01 = {
 
 	fallback_name = "%d. Modoa-Trupp"
 
-	link_numbering_with = { FEM_Inf_01 }
+	link_numbering_with = { FEM_INF_01 }
 
 	ordered = {
 		3 = { "%d. Modoa-Trupp 'Schwaubazwinch'" }
@@ -73,7 +73,7 @@ FEM_MEC_01 = {
 
 	fallback_name = "%d. Feldhelda"
 
-	link_numbering_with = { FEM_Inf_01 }
+	link_numbering_with = { FEM_INF_01 }
 
 	ordered = {
 		4 = { "%d. Feldhelda 'Schduggad'" }
@@ -104,9 +104,9 @@ FEM_ARM_01 = {
 		50 = { "%d. Middldaidscha Panza-Trupp" }
 		51 = { "%d. Middldaidscha Panza-Trupp" }
 		52 = { "%d. Middldaidscha Panza-Trupp" }
-		60 = { "%d. Dschechsche Panza-Trupp" }
-		61 = { "%d. Dschechsche Panza-Trupp" }
-		62 = { "%d. Dschechsche Panza-Trupp" }
+		60 = { "%d. Dschechscha Panza-Trupp" }
+		61 = { "%d. Dschechscha Panza-Trupp" }
+		62 = { "%d. Dschechscha Panza-Trupp" }
 		70 = { "%d. Freiwilliga Panza-Trupp" }
 		71 = { "%d. Freiwilliga Panza-Trupp" }
 		72 = { "%d. Freiwilliga Panza-Trupp" }

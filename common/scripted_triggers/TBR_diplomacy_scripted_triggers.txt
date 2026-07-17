@@ -1,4 +1,4 @@
-﻿#	Triggers to control if diplomatic actions are enabled:
+#	Triggers to control if diplomatic actions are enabled:
 #		Format:
 #
 #		<diplomatic action tag>_enabled_trigger = {

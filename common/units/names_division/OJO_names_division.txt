@@ -51,7 +51,7 @@ OJO_MOT_01 = {
 
 	fallback_name = "%d. Motorized Division"
 
-	link_numbering_with = { OJO_Inf_01 }
+	link_numbering_with = { OJO_INF_01 }
 
 	ordered = {
 		3 = { "%d. Motorisierte Motorized Division 'Home Isles'" }
@@ -73,7 +73,7 @@ OJO_MEC_01 = {
 
 	fallback_name = "%d. Combined Arms Division"
 
-	link_numbering_with = { OJO_Inf_01 }
+	link_numbering_with = { OJO_INF_01 }
 
 	ordered = {
 		4 = { "%d. Combined Arms Division 'Victoria'" }

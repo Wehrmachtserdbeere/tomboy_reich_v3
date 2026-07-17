@@ -10,7 +10,7 @@
 	fallback_name = "%d. Infanterie-Division"
 
 	ordered = {
-		1 = { "1. Infanterie-Division 'Wildfang'" }
+		1 = { "%d. Infanterie-Division 'Wildfang'" }
 		2 = { "%d. Infanterie-Division 'Midriff'" }
 	}
 }
@@ -51,7 +51,7 @@ TOM_MOT_01 = {
 
 	fallback_name = "%d. Motorisierte Infanterie-Division"
 
-	link_numbering_with = { TOM_Inf_01 }
+	link_numbering_with = { TOM_INF_01 }
 
 	ordered = {
 		3 = { "%d. Motorisierte Infanterie-Division 'Tomboy'" }
@@ -74,7 +74,7 @@ TOM_MEC_01 = {
 
 	fallback_name = "%d. Panzergrenadier-Division"
 
-	link_numbering_with = { TOM_Inf_01 }
+	link_numbering_with = { TOM_INF_01 }
 
 	ordered = {
 		4 = { "%d. Panzergrenadier-Division 'von Degurechaff'" }

@@ -10,7 +10,7 @@
 	fallback_name = "%d. Infanterie-Division"
 
 	ordered = {
-		1 = { "1. Infanterie-Division 'Moe'" }
+		1 = { "%d. Infanterie-Division 'Moe'" }
 		2 = { "%d. Infanterie-Division 'Animanga'" }
 	}
 }
@@ -51,7 +51,7 @@ ANI_MOT_01 = {
 
 	fallback_name = "%d. Motorisierte Infanterie-Division"
 
-	link_numbering_with = { ANI_Inf_01 }
+	link_numbering_with = { ANI_INF_01 }
 
 	ordered = {
 		3 = { "%d. Motorisierte Infanterie-Division 'Herzland'" }
@@ -73,7 +73,7 @@ ANI_MEC_01 = {
 
 	fallback_name = "%d. Panzergrenadier-Division"
 
-	link_numbering_with = { ANI_Inf_01 }
+	link_numbering_with = { ANI_INF_01 }
 
 	ordered = {
 		4 = { "%d. Panzergrenadier-Division 'von Seeckt'" }

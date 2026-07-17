@@ -91,7 +91,7 @@ NAT_MOT_01 = {
 
 	fallback_name = "%d. Mobile Division"
 
-	link_numbering_with = { NAT_Inf_01 }
+	link_numbering_with = { NAT_INF_01 }
 
 	ordered = {
 		3 = { "%d. Mobile Division 'Sweets'" }
@@ -116,7 +116,7 @@ NAT_MOT_02 = {
 
 	fallback_name = "%d. U.S. Mobile Division"
 
-	link_numbering_with = { NAT_Inf_02 }
+	link_numbering_with = { NAT_INF_02 }
 
 	ordered = {
 		3 = { "%d. Mobile Division 'Washington'" }
@@ -137,7 +137,7 @@ NAT_MEC_01 = {
 
 	fallback_name = "%d. Combined Arms Division"
 
-	link_numbering_with = { NAT_Inf_01 }
+	link_numbering_with = { NAT_INF_01 }
 
 	ordered = {
 		4 = { "%d. Combined Arms Division 'Her Majesty'" }
@@ -161,7 +161,7 @@ NAT_MEC_02 = {
 
 	fallback_name = "%d. U.S. Com. Arms Division"
 
-	link_numbering_with = { NAT_Inf_02 }
+	link_numbering_with = { NAT_INF_02 }
 
 	ordered = {
 		4 = { "%d. U.S. Com. Arms Division 'Franklin'" }
