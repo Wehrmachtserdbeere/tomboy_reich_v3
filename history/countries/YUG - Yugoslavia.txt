@@ -2,6 +2,13 @@
 
 set_oob = "YUG_1936"
 
+add_ideas = {
+	TBR_IDEA_COUNTRY_mixed_people
+	TBR_IDEA_ECONOMY_early_mobilization
+	TBR_IDEA_TRADE_limited_trade
+	TBR_IDEA_MANPOWER_volunteers_only
+}
+
 set_research_slots = 3
 
 recruit_character = YUG_LEADER_MILAN_STOJADINOVIC
@@ -94,8 +101,6 @@ set_popularities = {
 
 set_stability = 0.6
 
-### VARIANTS ###
-# 1936 Start #
 if = {
 	limit = {
 		has_dlc = "By Blood Alone"

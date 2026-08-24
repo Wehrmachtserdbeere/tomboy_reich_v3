@@ -12,3 +12,7 @@ ITA = "countries/Italy.txt"
 UKR = "countries/Ukraine.txt"
 YUG = "countries/Yugoslavia.txt"
 GER = "countries/Germany.txt"
+
+# TODO - NOTE: names_division not done from this point forward because the HoI4 Modding Discord refuses to help.
+ROM = "countries/Romania.txt"
+BUL = "countries/Bulgaria.txt"

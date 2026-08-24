@@ -5,6 +5,8 @@ state={
 
 	history={
 		owner = ANI
+		add_core_of = ANI
+		add_claim_by = BUL
 		victory_points = {
 			11818 5 
 		}
@@ -18,8 +20,6 @@ state={
 			}
 
 		}
-		add_core_of = ANI
-		add_claim_by = BUL
 
 	}
 

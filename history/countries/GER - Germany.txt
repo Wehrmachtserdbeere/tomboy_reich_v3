@@ -3,6 +3,9 @@ capital = 64 # Berlin/Brandeburg
 
 set_oob = "GER_1936"
 
+add_ideas = TBR_IDEA_COUNTRY_human_people
+add_ideas = TBR_IDEA_COUNTRY_fought_in_anime_war
+
 add_breakthrough_progress = {
 	specialization = specialization_land
 	value = 1.0

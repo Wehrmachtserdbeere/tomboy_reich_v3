@@ -1,0 +1,14 @@
+﻿l_english:
+  ROM_STATE_82: "Banat" # Banat
+  ROM_STATE_83: "Crișana" # Crisana
+  ROM_STATE_76: "Transilvania de Nord" # North Transylvania
+  ROM_STATE_84: "Transilvania" # Transylvania
+  ROM_STATE_81: "Oltenia" # Oltenia
+  ROM_STATE_46: "Muntenia" # Muntenia
+  ROM_STATE_77: "Dobrogea" # Dobrudja
+  ROM_STATE_971: "Dobrogea de Nord" # Northern Dobrudja
+  ROM_STATE_766: "Basarabia de Sud" # Southern Bessarabia
+  ROM_STATE_78: "Basarabia" # Bessarabia
+  ROM_STATE_79: "Moldova" # Moldova
+  ROM_STATE_80: "Bucovina" # Bucovina
+  ROM_STATE_764: "Banatul de Vest" # West Banat

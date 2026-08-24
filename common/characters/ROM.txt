@@ -1,0 +1,122 @@
+characters = {
+
+	ROM_LEADER_KARL_II_OF_HOHENZOLLERN_SIGMARINGEN = {
+		name = ROM_LEADER_KARL_II_OF_HOHENZOLLERN_SIGMARINGEN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ROM_LEADER_KARL_II_OF_HOHENZOLLERN_SIGMARINGEN_DESC
+			expire = 1953.4.4
+		}
+	}
+
+	ROM_LEADER_MICHAEL_I_OF_HOHENZOLLERN_SIGMARINGEN = {
+		name = ROM_LEADER_MICHAEL_I_OF_HOHENZOLLERN_SIGMARINGEN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ROM_LEADER_MICHAEL_I_OF_HOHENZOLLERN_SIGMARINGEN_DESC
+			# This mf died in 2017, insane.
+		}
+	}
+
+	ROM_LEADER_CORNELIU_ZELEA_CODREANU = {
+		name = ROM_LEADER_CORNELIU_ZELEA_CODREANU_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_ultranationalism
+			traits = {
+				
+			}
+			desc = ROM_LEADER_CORNELIU_ZELEA_CODREANU_DESC
+		}
+	}
+
+	ROM_LEADER_GHEORGHE_GHEORGHIU_DEJ = {
+		name = ROM_LEADER_GHEORGHE_GHEORGHIU_DEJ_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = ROM_LEADER_GHEORGHE_GHEORGHIU_DEJ_DESC
+		}
+	}
+
+	ROM_LEADER_GHEORGHE_TATARESCU = {
+		name = ROM_LEADER_GHEORGHE_TATARESCU_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			# Literally who? I don't think anyone would play democratic Romania.
+			#desc = ROM_LEADER_GHEORGHE_TATARESCU_DESC
+		}
+	}
+
+	ROM_LEADER_SHALLTEAR_BLOODFALLEN = {
+		name = ROM_LEADER_SHALLTEAR_BLOODFALLEN_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				
+			}
+			desc = ROM_LEADER_SHALLTEAR_BLOODFALLEN_DESC
+		}
+	}
+
+
+
+}

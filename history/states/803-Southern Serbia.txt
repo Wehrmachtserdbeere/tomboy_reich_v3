@@ -7,6 +7,7 @@ state={
 		owner = YUG
 		add_core_of = YUG
 		add_core_of = SRB
+		add_core_of = BUL
 		victory_points = {
 			11857 1 
 		}

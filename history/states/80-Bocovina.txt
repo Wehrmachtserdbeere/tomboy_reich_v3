@@ -10,8 +10,8 @@ state={
 	state_category = rural
 	
 	history = {
-		owner = ANI
-		add_core_of = ANI
+		owner = ROM
+		add_core_of = ROM
 		add_core_of = UKR
 		victory_points = {
 			577 1 

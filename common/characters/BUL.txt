@@ -1,0 +1,118 @@
+characters = {
+	
+	BUL_LEADER_TSAR_BORIS_III = {
+		name = BUL_LEADER_TSAR_BORIS_III_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_TSAR_BORIS_III_DESC
+		}
+	}
+
+	BUL_LEADER_GEORGI_KYOSEIVANOV = {
+		name = BUL_LEADER_GEORGI_KYOSEIVANOV_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_GEORGI_KYOSEIVANOV_DESC
+		}
+	}
+
+	BUL_LEADER_ALEKSANDAR_TSANKOV = {
+		name = BUL_LEADER_ALEKSANDAR_TSANKOV_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_ALEKSANDAR_TSANKOV_DESC
+		}
+	}
+
+	BUL_LEADER_GEORGI_DIMITROV = {
+		name = BUL_LEADER_GEORGI_DIMITROV_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = third_worldism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_GEORGI_DIMITROV_DESC
+			expire = 1949.7.2
+		}
+	}
+	
+	BUL_LEADER_VALKO_CHERVENKOV = {
+		name = BUL_LEADER_VALKO_CHERVENKOV_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = third_worldism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_VALKO_CHERVENKOV_DESC
+		}
+	}
+
+	BUL_LEADER_SHUNA_TENSURA = {
+		name = BUL_LEADER_SHUNA_TENSURA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_ultranationalism
+			traits = {
+				
+			}
+			desc = BUL_LEADER_SHUNA_TENSURA_DESC
+		}
+	}
+
+}

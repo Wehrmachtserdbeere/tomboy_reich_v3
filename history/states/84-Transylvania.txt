@@ -11,8 +11,8 @@ state={
 	state_category = town
 
 	history={
-		owner = ANI
-		add_core_of = ANI
+		owner = ROM
+		add_core_of = ROM
 		add_claim_by = HUN
 		buildings = {
 			infrastructure = 2
