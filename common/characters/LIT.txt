@@ -1,0 +1,99 @@
+characters = {
+
+	LIT_LEADER_KAZYS_GRINIUS = {
+		name = LIT_LEADER_KAZYS_GRINIUS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = LIT_LEADER_KAZYS_GRINIUS_DESC
+		}
+	}
+
+	LIT_LEADER_AUGUSTINAS_VOLDEMARAS = {
+		name = LIT_LEADER_AUGUSTINAS_VOLDEMARAS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = LIT_LEADER_AUGUSTINAS_VOLDEMARAS_DESC
+		}
+	}
+
+	LIT_LEADER_ANTANAS_SNIECKUS = {
+		name = LIT_LEADER_ANTANAS_SNIECKUS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = LIT_LEADER_ANTANAS_SNIECKUS_DESC
+		}
+	}
+
+	# https://en.wikipedia.org/wiki/Karl_Gero,_Duke_of_Urach
+	LIT_LEADER_KARL_GERO = {
+		name = LIT_LEADER_KARL_GERO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = LIT_LEADER_KARL_GERO_DESC
+		}
+	}
+
+	LIT_LEADER_TORIS_LAURINAITIS = {
+		name = LIT_LEADER_TORIS_LAURINAITIS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_ultranationalism
+			traits = {
+				
+			}
+			desc = LIT_LEADER_TORIS_LAURINAITIS_DESC
+		}
+	}
+
+}

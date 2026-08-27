@@ -1,6 +1,6 @@
 state={
 	id=784
-	name="STATE_784"
+	name="STATE_784" # Vilnus
 	manpower = 517081
 	
 	state_category = rural
