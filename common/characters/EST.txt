@@ -1,0 +1,98 @@
+characters = {
+	
+	EST_LEADER_JAAN_TONISSON = {
+		name = EST_LEADER_JAAN_TONISSON_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			desc = EST_LEADER_JAAN_TONISSON_DESC
+		}
+	}
+
+	EST_LEADER_ANDRES_LARKA = {
+		name = EST_LEADER_ANDRES_LARKA_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = EST_LEADER_ANDRES_LARKA_DESC
+		}
+	}
+
+	EST_LEADER_HENDRIK_ALLIK = {
+		name = EST_LEADER_HENDRIK_ALLIK_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = EST_LEADER_HENDRIK_ALLIK_DESC
+		}
+	}
+
+	EST_LEADER_KONSTANTIN_PATS = {
+		name = EST_LEADER_KONSTANTIN_PATS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = despotism
+			traits = {
+				
+			}
+			desc = EST_LEADER_KONSTANTIN_PATS_DESC
+		}
+	}
+
+	EST_LEADER_MAKISE_KURISU = {
+		name = EST_LEADER_MAKISE_KURISU_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				TBR_TRAITS_scientist
+			}
+			desc = EST_LEADER_MAKISE_KURISU_DESC
+		}
+	}
+
+}

@@ -1,0 +1,1711 @@
+﻿l_english:
+  GER_VICTORY_POINTS_37: "Sawolinien" # Savolinna
+  GER_VICTORY_POINTS_53: "Stawanger" # Stavanger
+  GER_VICTORY_POINTS_66: "Kochola" # Kokkola
+  GER_VICTORY_POINTS_67: "Lahtien" # Lahti
+  GER_VICTORY_POINTS_78: "Amarra" # Amarah
+  GER_VICTORY_POINTS_105: "Rotstadt" # Naryan Mar
+  GER_VICTORY_POINTS_108: "Serpentin" # Syktyvkar
+  GER_VICTORY_POINTS_109: "Wilhelmina" # Vilhemina
+  GER_VICTORY_POINTS_117: "Nowgorod" # Novgorod
+  GER_VICTORY_POINTS_121: "Jaroslaw" # Yaroslavl
+  GER_VICTORY_POINTS_122: "Bergen" # Bergen
+  GER_VICTORY_POINTS_130: "Schundswall" # Sundsvall
+  GER_VICTORY_POINTS_136: "Warkaus" # Varkaus
+  GER_VICTORY_POINTS_138: "Kargopol" # Kargopol
+  GER_VICTORY_POINTS_153: "Wilhelmstadt" # Willemstad
+  GER_VICTORY_POINTS_156: "Falun" # Falun
+  GER_VICTORY_POINTS_158: "Oulu" # Oulu
+  GER_VICTORY_POINTS_165: "Michaelstadt" # Mikkeli
+  GER_VICTORY_POINTS_169: "Rauma" # Rauma
+  GER_VICTORY_POINTS_185: "Kuhressien" # Kuressaare
+  GER_VICTORY_POINTS_191: "Elisabethstadt" # Élisabethville
+  GER_VICTORY_POINTS_192: "Narwik" # Narvik
+  GER_VICTORY_POINTS_200: "Abern" # Aberdeen
+  GER_VICTORY_POINTS_211: "Bergheim" # Borgholm
+  GER_VICTORY_POINTS_222: "Retsneck" # Rēzekne
+  GER_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelshaven
+  GER_VICTORY_POINTS_247: "Osnabrück" # Osnabrück
+  GER_VICTORY_POINTS_271: "Norwidsch" # Ipswich - was Norwich
+  GER_VICTORY_POINTS_279: "Bromberg" # Bydgoszcz
+  GER_VICTORY_POINTS_283: "Kleinbucht" # Oban
+  GER_VICTORY_POINTS_284: "Kleinbucht" # Oban
+  GER_VICTORY_POINTS_285: "Wexburg" # Wexford
+  GER_VICTORY_POINTS_299: "Kalmar" # Kalmar
+  GER_VICTORY_POINTS_303: "Großhügelstadt" # Tullamore
+  GER_VICTORY_POINTS_306: "Teerstadt" # Smolensk
+  GER_VICTORY_POINTS_309: "Oldenburg" # Oldenburg
+  GER_VICTORY_POINTS_310: "Dünaburg" # Daugavpils
+  GER_VICTORY_POINTS_311: "Wechselsmarkt" # Wrexham
+  GER_VICTORY_POINTS_317: "Flensburg" # Flensburg
+  GER_VICTORY_POINTS_321: "Rostock" # Rostock
+  GER_VICTORY_POINTS_322: "Nordwitsch" # Norwich
+  GER_VICTORY_POINTS_337: "Donarsgahl" # Donegal
+  GER_VICTORY_POINTS_351: "Neuburg am Tin" # Newcastle
+  GER_VICTORY_POINTS_362: "Danzig" # Danzig
+  GER_VICTORY_POINTS_374: "Cuxhaven" # Cuxhaven
+  GER_VICTORY_POINTS_377: "Didiusburg" # Cardiff
+  GER_VICTORY_POINTS_382: "Moorstadt" # Kaluga
+  GER_VICTORY_POINTS_383: "Gothenburg" # Göteborg
+  GER_VICTORY_POINTS_385: "Dähren" # Londonderry
+  GER_VICTORY_POINTS_391: "Amseldamm" # Amsterdam
+  GER_VICTORY_POINTS_392: "Simburg" # Ulyanovsk
+  GER_VICTORY_POINTS_394: "Heringen" # Hjørring
+  GER_VICTORY_POINTS_399: "Esberg" # Esbjerg
+  GER_VICTORY_POINTS_402: "Sietse" # Siedlce
+  GER_VICTORY_POINTS_405: "Bielefeld" # Bielefeld
+  GER_VICTORY_POINTS_406: "Prachtkerlstadt" # Mołodeczno
+  GER_VICTORY_POINTS_407: "Schwansee" # Swansea
+  GER_VICTORY_POINTS_408: "Wisby" # Visby
+  GER_VICTORY_POINTS_413: "Rabenstadt" # Voronezh
+  GER_VICTORY_POINTS_418: "Karsel" # Kharkov
+  GER_VICTORY_POINTS_422: "Schmiedstadt" # Kowel
+  GER_VICTORY_POINTS_424: "Roßhaupt" # Rozvadov
+  GER_VICTORY_POINTS_425: "Weimar" # Weimar
+  GER_VICTORY_POINTS_442: "Tarnow" # Tarnów
+  GER_VICTORY_POINTS_469: "Haida" # Nový Bor
+  GER_VICTORY_POINTS_476: "Winniza" # Vinnytsia
+  GER_VICTORY_POINTS_485: "Dieppe" # Dieppe
+  GER_VICTORY_POINTS_487: "Michaelowen" # Mikhaylovka
+  GER_VICTORY_POINTS_488: "Tscherkassy" # Cherkasy
+  GER_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  GER_VICTORY_POINTS_512: "Orelei" # Orléans
+  GER_VICTORY_POINTS_513: "Kowel" # Kowel
+  GER_VICTORY_POINTS_514: "Schmiedstadt" # Dresden
+  GER_VICTORY_POINTS_516: "Brüssel" # Brussels
+  GER_VICTORY_POINTS_525: "Kiew" # Kiev
+  GER_VICTORY_POINTS_526: "Braunschweig" # Braunschweig
+  GER_VICTORY_POINTS_538: "Jena" # Jena
+  GER_VICTORY_POINTS_540: "Pflaumünd" # Plymouth
+  GER_VICTORY_POINTS_541: "Neutra" # Nitra
+  GER_VICTORY_POINTS_549: "Hagenau" # Haguenau
+  GER_VICTORY_POINTS_552: "Liegnitz" # Liegnitz
+  GER_VICTORY_POINTS_557: "Znaim" # Znojmo
+  GER_VICTORY_POINTS_560: "Pinsk" # Pińsk
+  GER_VICTORY_POINTS_562: "Ostwien" # Ostrowiec
+  GER_VICTORY_POINTS_564: "Kassel" # Kassel
+  GER_VICTORY_POINTS_572: "Lugg" # Łuck
+  GER_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
+  GER_VICTORY_POINTS_577: "Tschernowitz" # Cernăuti
+  GER_VICTORY_POINTS_587: "Köln" # Köln
+  GER_VICTORY_POINTS_589: "Darmstadt" # Darmstadt
+  GER_VICTORY_POINTS_592: "Werro" # Võru
+  GER_VICTORY_POINTS_603: "Werona" # Verona
+  GER_VICTORY_POINTS_619: "Neusatz" # Novi
+  GER_VICTORY_POINTS_620: "Limgau" # Limoges
+  GER_VICTORY_POINTS_636: "Gotthardpass" # Gotthard
+  GER_VICTORY_POINTS_650: "Santiago" # Santiago
+  GER_VICTORY_POINTS_651: "Schattenstadt" # Châteauroux
+  GER_VICTORY_POINTS_657: "Konstanza" # Constanta
+  GER_VICTORY_POINTS_658: "Chur" # Chur
+  GER_VICTORY_POINTS_663: "Zürich" # Zürich
+  GER_VICTORY_POINTS_665: "Marburg an der Drau" # Maribor
+  GER_VICTORY_POINTS_673: "Innsbruck" # Innsbruck
+  GER_VICTORY_POINTS_678: "Mülhausen" # Mulhouse
+  GER_VICTORY_POINTS_686: "Ödenburg" # Sopron
+  GER_VICTORY_POINTS_688: "Salzburg" # Salzburg
+  GER_VICTORY_POINTS_690: "Kronstadt" # Brasov
+  GER_VICTORY_POINTS_692: "München" # Munich
+  GER_VICTORY_POINTS_697: "Mongu" # Mongu
+  GER_VICTORY_POINTS_705: "Achmeschid" # Simferopol
+  GER_VICTORY_POINTS_708: "Augsburg" # Augsburg
+  GER_VICTORY_POINTS_719: "Neurussburg" # Novorossysk
+  GER_VICTORY_POINTS_721: "Kersen" # Kherson
+  GER_VICTORY_POINTS_726: "Leon" # León
+  GER_VICTORY_POINTS_732: "Linz" # Linz
+  GER_VICTORY_POINTS_740: "Bilbao" # Bilbao
+  GER_VICTORY_POINTS_741: "Tirassenstadt" # Tiraspol
+  GER_VICTORY_POINTS_749: "Germanei" # Queenston
+  GER_VICTORY_POINTS_758: "Korun" # La Coruña
+  GER_VICTORY_POINTS_772: "Potti" # Poti
+  GER_VICTORY_POINTS_773: "Wälsch-Brixen" # Brescia
+  GER_VICTORY_POINTS_775: "Sals" # Salsk
+  GER_VICTORY_POINTS_778: "Annetsie" # Annecy
+  GER_VICTORY_POINTS_784: "Ispartei" # Isparta
+  GER_VICTORY_POINTS_788: "Nordvolk" # Norfolk
+  GER_VICTORY_POINTS_792: "Beirut" # Beirut
+  GER_VICTORY_POINTS_804: "Kirikalla" # Kırıkkale
+  GER_VICTORY_POINTS_819: "Neapel" # Naples
+  GER_VICTORY_POINTS_833: "Debar" # Debar
+  GER_VICTORY_POINTS_849: "Gallipoli" # Gelibolu
+  GER_VICTORY_POINTS_853: "Phönix" # Phoenix
+  GER_VICTORY_POINTS_858: "Toledo" # Toledo
+  GER_VICTORY_POINTS_863: "Karditza" # Karditsa
+  GER_VICTORY_POINTS_867: "Tetowo" # Tetovo
+  GER_VICTORY_POINTS_875: "Kordoben" # Córdoba
+  GER_VICTORY_POINTS_876: "Harput" # Xarpêt
+  GER_VICTORY_POINTS_883: "Foggia" # Foggia
+  GER_VICTORY_POINTS_885: "Burgos" # Burgos
+  GER_VICTORY_POINTS_886: "Marasch" # Maraş
+  GER_VICTORY_POINTS_898: "Tschongdschin" # Chongjin
+  GER_VICTORY_POINTS_904: "Adapatsaren" # Adapazarı
+  GER_VICTORY_POINTS_911: "Toulon" # Toulon
+  GER_VICTORY_POINTS_914: "Girokastra" # Gjirokastër
+  GER_VICTORY_POINTS_924: "Sankt Rehm" # Santarém
+  GER_VICTORY_POINTS_925: "Ankona" # Ancona
+  GER_VICTORY_POINTS_928: "Manisen" # Manisa
+  GER_VICTORY_POINTS_934: "Tschongjang" # Chaoyang
+  GER_VICTORY_POINTS_947: "Brussa" # Bursa
+  GER_VICTORY_POINTS_949: "Sofia" # Sofia
+  GER_VICTORY_POINTS_957: "Wladiwostok" # Vladivostok
+  GER_VICTORY_POINTS_970: "Settenbach" # Setúbal
+  GER_VICTORY_POINTS_976: "Lamia" # Lamia
+  GER_VICTORY_POINTS_988: "Koquettendorf" # Coquilhatville
+  GER_VICTORY_POINTS_993: "Utsunomien" # Utsunomiya
+  GER_VICTORY_POINTS_994: "Yaxien" # Yaxian
+  GER_VICTORY_POINTS_1003: "Häiju" # Haeju
+  GER_VICTORY_POINTS_1005: "Antalien" # Antalya
+  GER_VICTORY_POINTS_1010: "Tsunie" # Zunyi
+  GER_VICTORY_POINTS_1015: "Umm al-Raschräsch" # Umm al-Rashrāsh
+  GER_VICTORY_POINTS_1020: "Miatsaki" # Miyazaki
+  GER_VICTORY_POINTS_1025: "Kokurren" # Kokura
+  GER_VICTORY_POINTS_1029: "Donghai" # Donghai
+  GER_VICTORY_POINTS_1047: "Kanton" # Guangzhou
+  GER_VICTORY_POINTS_1048: "Kaditz" # Cádiz
+  GER_VICTORY_POINTS_1052: "Tangschan" # Tangshan
+  GER_VICTORY_POINTS_1055: "Wentschau" # Wenzhou
+  GER_VICTORY_POINTS_1056: "Homs" # Homs
+  GER_VICTORY_POINTS_1063: "Akita" # Akita
+  GER_VICTORY_POINTS_1065: "Nazareth" # Nazareth
+  GER_VICTORY_POINTS_1068: "Bennisau" # Beni Suef
+  GER_VICTORY_POINTS_1069: "Tsinan" # Jinan
+  GER_VICTORY_POINTS_1070: "Haikou" # Haikou
+  GER_VICTORY_POINTS_1071: "El-Alamein" # El-Alamein
+  GER_VICTORY_POINTS_1083: "Anking" # Anqing
+  GER_VICTORY_POINTS_1086: "Jerusalem" # Jerusalem
+  GER_VICTORY_POINTS_1088: "Latakien" # Latakia
+  GER_VICTORY_POINTS_1092: "Hiroschima" # Hiroshima
+  GER_VICTORY_POINTS_1097: "Saitama" # Saitama
+  GER_VICTORY_POINTS_1104: "Tschifu" # Yantai
+  GER_VICTORY_POINTS_1116: "Itanagar" # Itanagar
+  GER_VICTORY_POINTS_1117: "Nigatar" # Niigata
+  GER_VICTORY_POINTS_1130: "Tobruk" # Tobruk
+  GER_VICTORY_POINTS_1133: "Kuschimoto" # Kushimoto
+  GER_VICTORY_POINTS_1136: "Maitsuen" # Maizuru
+  GER_VICTORY_POINTS_1145: "Algier" # Algiers
+  GER_VICTORY_POINTS_1148: "Tschungtschon" # Chuncheon
+  GER_VICTORY_POINTS_1149: "Tripolis" # Tripoli
+  GER_VICTORY_POINTS_1150: "Dairen" # Dalian
+  GER_VICTORY_POINTS_1151: "Kena" # Qena
+  GER_VICTORY_POINTS_1158: "Sasebo" # Sasebo
+  GER_VICTORY_POINTS_1168: "Taitschau" # Taizhou
+  GER_VICTORY_POINTS_1176: "Granada" # Granada
+  GER_VICTORY_POINTS_1177: "Tschetschu" # Jeju
+  GER_VICTORY_POINTS_1180: "Tschintscheng" # Jincheng
+  GER_VICTORY_POINTS_1181: "Goma" # Goma
+  GER_VICTORY_POINTS_1182: "Tokio" # Tokyo
+  GER_VICTORY_POINTS_1205: "Agrinien" # Agrinio
+  GER_VICTORY_POINTS_1208: "Kuchingen" # Kuching
+  GER_VICTORY_POINTS_1221: "Batangen" # Batangas
+  GER_VICTORY_POINTS_1269: "Gudalkanal" # Guadalcanal
+  GER_VICTORY_POINTS_1273: "Goasburg" # Goa
+  GER_VICTORY_POINTS_1278: "Ufer" # Ufa
+  GER_VICTORY_POINTS_1283: "Daru" # Daru
+  GER_VICTORY_POINTS_1291: "Alorsettin" # Alor Setar
+  GER_VICTORY_POINTS_1319: "Kunming" # Kunming
+  GER_VICTORY_POINTS_1321: "Kochin" # Kochin
+  GER_VICTORY_POINTS_1330: "Rangun" # Rangoon
+  GER_VICTORY_POINTS_1349: "Bombai" # Bombay
+  GER_VICTORY_POINTS_1355: "Kuppen" # Kupang
+  GER_VICTORY_POINTS_1367: "Kuanhang" # Guanghan
+  GER_VICTORY_POINTS_1376: "Ippen" # Ipoh
+  GER_VICTORY_POINTS_1377: "Glücksburg" # Lucknow
+  GER_VICTORY_POINTS_1384: "Schillerburg" # Stalinabad
+  GER_VICTORY_POINTS_1403: "Mohlmain" # Moulmein
+  GER_VICTORY_POINTS_1408: "Wenschel" # Vancouver
+  GER_VICTORY_POINTS_1415: "Daugen" # Dagupan
+  GER_VICTORY_POINTS_1421: "Sambonn" # Zamboanga
+  GER_VICTORY_POINTS_1424: "Mongtau" # Moncton
+  GER_VICTORY_POINTS_1440: "Sankt Johannesburg" # San Juan
+  GER_VICTORY_POINTS_1449: "Paran" # Paraná
+  GER_VICTORY_POINTS_1459: "Taschkent" # Tashkent
+  GER_VICTORY_POINTS_1464: "Wientiane" # Vientiane
+  GER_VICTORY_POINTS_1468: "Durban" # Durban
+  GER_VICTORY_POINTS_1488: "Tschiang Mai" # Chiang Mai
+  GER_VICTORY_POINTS_1492: "Mandalai" # Mandalay
+  GER_VICTORY_POINTS_1493: "Taschaus" # Tashauz
+  GER_VICTORY_POINTS_1512: "Nemurgau" # Nemuro
+  GER_VICTORY_POINTS_1517: "Mangschtau" # Mangystau
+  GER_VICTORY_POINTS_1549: "Kamischli" # Qamishli
+  GER_VICTORY_POINTS_1553: "Impfal" # Imphal
+  GER_VICTORY_POINTS_1554: "Nawoi" # Navoi
+  GER_VICTORY_POINTS_1562: "Didakus-Stadt" # San Diego
+  GER_VICTORY_POINTS_1563: "Pakse" # Pakse
+  GER_VICTORY_POINTS_1573: "Buchen" # Bukhara
+  GER_VICTORY_POINTS_1591: "Alm-Atten" # Alma-Ata
+  GER_VICTORY_POINTS_1592: "Kampsacken" # Champasak
+  GER_VICTORY_POINTS_1595: "Inderstadt" # Indianapolis
+  GER_VICTORY_POINTS_1597: "Liutschou" # Liuzhou
+  GER_VICTORY_POINTS_1599: "Tiflis" # Tbilisi
+  GER_VICTORY_POINTS_1612: "Itschang" # Yichang
+  GER_VICTORY_POINTS_1613: "Bonetei" # Rincón del Bonete
+  GER_VICTORY_POINTS_1614: "Nukus" # Nukus
+  GER_VICTORY_POINTS_1631: "Trebil" # Trebil
+  GER_VICTORY_POINTS_1641: "Melo" # Melo
+  GER_VICTORY_POINTS_1652: "Pert" # Perth
+  GER_VICTORY_POINTS_1659: "Jomstadt" # Khanty-Mansysk
+  GER_VICTORY_POINTS_1668: "Ajagus" # Ayaguz
+  GER_VICTORY_POINTS_1684: "Salekard" # Salekhard
+  GER_VICTORY_POINTS_1690: "Spoken" # Spokane
+  GER_VICTORY_POINTS_1693: "Aihui" # Heihe
+  GER_VICTORY_POINTS_1747: "Schnellstadt" # Rapid City
+  GER_VICTORY_POINTS_1751: "Delgadenburg" # Ponta Delgada
+  GER_VICTORY_POINTS_1770: "Demoin" # Des Moines
+  GER_VICTORY_POINTS_1776: "Genhe" # Genhe
+  GER_VICTORY_POINTS_1794: "Barnaul" # Barnaul
+  GER_VICTORY_POINTS_1806: "Tulsa" # Tulsa
+  GER_VICTORY_POINTS_1814: "Wellenstein" # Wellington
+  GER_VICTORY_POINTS_1819: "Kolüm" # Srednekolymsk
+  GER_VICTORY_POINTS_1820: "Schikuka" # Shikuka
+  GER_VICTORY_POINTS_1821: "Schwertlau" # Sverdlovsk
+  GER_VICTORY_POINTS_1822: "Mabaden" # Mahabad
+  GER_VICTORY_POINTS_1827: "Denf" # Denver
+  GER_VICTORY_POINTS_1836: "Bismarck" # Bismarck
+  GER_VICTORY_POINTS_1843: "Maistadt" # Miami
+  GER_VICTORY_POINTS_1866: "Wasserburg" # Minneapolis
+  GER_VICTORY_POINTS_1891: "Sokoto" # Sokoto
+  GER_VICTORY_POINTS_1892: "Ensenada" # Ensenada
+  GER_VICTORY_POINTS_1896: "Täbris" # Tabriz
+  GER_VICTORY_POINTS_1900: "Tuchsgut" # Tuxtla Gutiérrez
+  GER_VICTORY_POINTS_1903: "Malabei" # Malabo
+  GER_VICTORY_POINTS_1908: "Tschaipur" # Jaipur
+  GER_VICTORY_POINTS_1909: "Konakrei" # Conakry
+  GER_VICTORY_POINTS_1910: "Kotteln" # Kotli
+  GER_VICTORY_POINTS_1929: "Kabinda" # Kabinda
+  GER_VICTORY_POINTS_1939: "Nairobi" # Nairobi
+  GER_VICTORY_POINTS_1944: "Marakaibo" # Maracaibo
+  GER_VICTORY_POINTS_1950: "Stanleystadt" # Stanleyville
+  GER_VICTORY_POINTS_1951: "Lomme" # Lomé
+  GER_VICTORY_POINTS_1960: "Nial" # Nyala
+  GER_VICTORY_POINTS_1965: "Mexiko-Stadt" # Mexico City
+  GER_VICTORY_POINTS_1970: "Jehtscheng" # Yecheng
+  GER_VICTORY_POINTS_1977: "Halajeb" # Halayeb
+  GER_VICTORY_POINTS_1984: "Gondar" # Gondar
+  GER_VICTORY_POINTS_2003: "Tokar" # Tokar
+  GER_VICTORY_POINTS_2004: "Diwanien" # Al Diwaniyah
+  GER_VICTORY_POINTS_2008: "Leon" # León
+  GER_VICTORY_POINTS_2009: "Asosa" # Asosa
+  GER_VICTORY_POINTS_2015: "Kaschgar" # Kashgar
+  GER_VICTORY_POINTS_2017: "Farah" # Farah
+  GER_VICTORY_POINTS_2021: "Hermosenstadt" # Villahermosa
+  GER_VICTORY_POINTS_2022: "Lantschou" # Lanzhou
+  GER_VICTORY_POINTS_2023: "Medellin" # Medellin
+  GER_VICTORY_POINTS_2024: "Backwangen" # Bakwanga
+  GER_VICTORY_POINTS_2026: "Isfahan" # Isfahan
+  GER_VICTORY_POINTS_2029: "Mukallen" # Al Mukalla
+  GER_VICTORY_POINTS_2034: "Faradei" # Faradje
+  GER_VICTORY_POINTS_2038: "Fritauen" # Freetown
+  GER_VICTORY_POINTS_2046: "Atbara" # Atbara
+  GER_VICTORY_POINTS_2050: "Lagos" # Lagos
+  GER_VICTORY_POINTS_2054: "Tschaipur" # Jaipur
+  GER_VICTORY_POINTS_2056: "Niamei" # Niamey
+  GER_VICTORY_POINTS_2060: "Neu-Lareden" # Nuevo Laredo
+  GER_VICTORY_POINTS_2065: "Arak" # Arak
+  GER_VICTORY_POINTS_2072: "Makalle" # Macalle
+  GER_VICTORY_POINTS_2074: "Ruckang" # Ruoqiang
+  GER_VICTORY_POINTS_2075: "Blaufeld" # Bluefields
+  GER_VICTORY_POINTS_2076: "Darmsaal" # Dharamshala
+  GER_VICTORY_POINTS_2077: "Belize-Stadt" # Belize City
+  GER_VICTORY_POINTS_2080: "Jaunde" # Yaoundé
+  GER_VICTORY_POINTS_2081: "Lamienburg" # N'Djamena
+  GER_VICTORY_POINTS_2086: "Delli" # Delhi
+  GER_VICTORY_POINTS_2087: "Wujüan" # Wuyuan
+  GER_VICTORY_POINTS_2089: "Basra" # Basrah
+  GER_VICTORY_POINTS_2096: "Juba" # Juba
+  GER_VICTORY_POINTS_2097: "Bagdad" # Baghdad
+  GER_VICTORY_POINTS_2103: "Salala" # Salalah
+  GER_VICTORY_POINTS_2106: "Heimstadt" # Resistencia
+  GER_VICTORY_POINTS_2111: "Kuiaba" # Cuiabá
+  GER_VICTORY_POINTS_2115: "Kabinden" # Cabinda
+  GER_VICTORY_POINTS_2136: "Sankt Johannesburg" # San Juan
+  GER_VICTORY_POINTS_2152: "Asuntsion" # Asunción
+  GER_VICTORY_POINTS_2156: "Piur" # Piura
+  GER_VICTORY_POINTS_2160: "Amerika-Kreuzstadt" # Santa Cruz de la Sierra
+  GER_VICTORY_POINTS_2161: "Koihaik" # Coyhaique
+  GER_VICTORY_POINTS_2173: "Humatanen-Festung" # Fortress Humaitá
+  GER_VICTORY_POINTS_2194: "Inkarnen-Stadt" # Encarnación
+  GER_VICTORY_POINTS_2195: "Filadelfen" # Filadelfia
+  GER_VICTORY_POINTS_2196: "Daressalamei" # Dar es Salaam
+  GER_VICTORY_POINTS_2197: "Gottesburg" # Christchurch
+  GER_VICTORY_POINTS_2203: "Waitak" # Waitaki
+  GER_VICTORY_POINTS_2210: "Arkippa" # Arequipa
+  GER_VICTORY_POINTS_2211: "Dundin" # Dunedin
+  GER_VICTORY_POINTS_2220: "Bujumbura" # Bujumbura
+  GER_VICTORY_POINTS_2223: "Alise-Quelle" # Alice Springs
+  GER_VICTORY_POINTS_2224: "Tschutschui" # San Salvador de Jujuy
+  GER_VICTORY_POINTS_2226: "Pukalpa" # Pucallpa
+  GER_VICTORY_POINTS_2489: "Truk" # Truk
+  GER_VICTORY_POINTS_2998: "Porjähren" # Porajärvi
+  GER_VICTORY_POINTS_3010: "Edmin" # Edmonton
+  GER_VICTORY_POINTS_3022: "Drontheim" # Trondheim
+  GER_VICTORY_POINTS_3048: "Mo" # Mo i Rana
+  GER_VICTORY_POINTS_3061: "Kotta" # Kotka
+  GER_VICTORY_POINTS_3067: "Uchtua" # Uhtua
+  GER_VICTORY_POINTS_3073: "Sumusalm" # Suomussalmi
+  GER_VICTORY_POINTS_3083: "Abo" # Turku
+  GER_VICTORY_POINTS_3095: "Kirun" # Kiruna
+  GER_VICTORY_POINTS_3117: "Björneberg" # Pori
+  GER_VICTORY_POINTS_3118: "Funchal" # Funchal
+  GER_VICTORY_POINTS_3122: "Wasa" # Vaasa
+  GER_VICTORY_POINTS_3125: "Kajana" # Kajaani
+  GER_VICTORY_POINTS_3134: "Mürmanns" # Murmansk
+  GER_VICTORY_POINTS_3136: "Elferum" # Elverum
+  GER_VICTORY_POINTS_3137: "Tammerfors" # Tampere
+  GER_VICTORY_POINTS_3140: "Tischwin" # Tikhvin
+  GER_VICTORY_POINTS_3150: "Dundei" # Dundee
+  GER_VICTORY_POINTS_3151: "Gutenberg" # Leningrad
+  GER_VICTORY_POINTS_3152: "Reval" # Tallinn
+  GER_VICTORY_POINTS_3174: "Pernau" # Pärnu
+  GER_VICTORY_POINTS_3206: "Wiborg" # Viborg
+  GER_VICTORY_POINTS_3211: "Grafenhaag" # The Hague
+  GER_VICTORY_POINTS_3230: "Plock" # Płock
+  GER_VICTORY_POINTS_3254: "Suwalken" # Suwałki
+  GER_VICTORY_POINTS_3255: "Jakobstadt" # Jēkabpils
+  GER_VICTORY_POINTS_3258: "Neustrelitz" # Neustrelitz
+  GER_VICTORY_POINTS_3262: "Breda" # Breda
+  GER_VICTORY_POINTS_3273: "Glasgau" # Glasgow
+  GER_VICTORY_POINTS_3277: "Kolding" # Kolding
+  GER_VICTORY_POINTS_3284: "Spanienhafen" # Port of Spain
+  GER_VICTORY_POINTS_3288: "Memel" # Memel
+  GER_VICTORY_POINTS_3295: "Thorn" # Toruń
+  GER_VICTORY_POINTS_3296: "Windau" # Ventspils
+  GER_VICTORY_POINTS_3311: "Dungeln" # Douglas
+  GER_VICTORY_POINTS_3320: "Wilnau" # Vilna
+  GER_VICTORY_POINTS_3325: "Odense" # Odense
+  GER_VICTORY_POINTS_3326: "Bremen" # Bremen
+  GER_VICTORY_POINTS_3335: "Brüansk" # Bryansk
+  GER_VICTORY_POINTS_3338: "Erzengel-Stadt" # Archangelsk
+  GER_VICTORY_POINTS_3340: "Greifswald" # Greifswald
+  GER_VICTORY_POINTS_3350: "Bobrust" # Bobruysk
+  GER_VICTORY_POINTS_3359: "Drogeda" # Drogheda
+  GER_VICTORY_POINTS_3368: "Heide" # Heide
+  GER_VICTORY_POINTS_3369: "Bristen" # Bristol
+  GER_VICTORY_POINTS_3374: "Swenburg" # Svendborg
+  GER_VICTORY_POINTS_3375: "Schöwding" # Skövde
+  GER_VICTORY_POINTS_3379: "Bellenberg" # Belfast
+  GER_VICTORY_POINTS_3392: "Brest-Litowsk" # Brest-Litovsk
+  GER_VICTORY_POINTS_3393: "Grodno" # Grodno
+  GER_VICTORY_POINTS_3414: "Troppau" # Opava
+  GER_VICTORY_POINTS_3423: "Koblenz" # Koblenz
+  GER_VICTORY_POINTS_3427: "Ordus" # Ordos
+  GER_VICTORY_POINTS_3444: "Düsseldorf" # Düsseldorf
+  GER_VICTORY_POINTS_3456: "Karatschi" # Karachi
+  GER_VICTORY_POINTS_3457: "Proskurau" # Proskuriv
+  GER_VICTORY_POINTS_3458: "Radom" # Radom
+  GER_VICTORY_POINTS_3473: "Küstrin" # Küstrin
+  GER_VICTORY_POINTS_3483: "Tarnopol" # Tarnopol
+  GER_VICTORY_POINTS_3488: "Eupen-Malmedy" # Eupen-Malmedy
+  GER_VICTORY_POINTS_3499: "Potsdam" # Potsdam
+  GER_VICTORY_POINTS_3501: "Dower" # Dover
+  GER_VICTORY_POINTS_3513: "Portland" # Portland
+  GER_VICTORY_POINTS_3516: "Namür" # Namur
+  GER_VICTORY_POINTS_3520: "Sumi" # Sumy
+  GER_VICTORY_POINTS_3522: "Magdeburg" # Magdeburg
+  GER_VICTORY_POINTS_3529: "Beethoven" # Stalingrad
+  GER_VICTORY_POINTS_3530: "Karlsruhe" # Karlsruhe
+  GER_VICTORY_POINTS_3535: "Leipzig" # Leipzig
+  GER_VICTORY_POINTS_3544: "Warschau" # Warsaw
+  GER_VICTORY_POINTS_3545: "Waldenburg" # Waldenburg
+  GER_VICTORY_POINTS_3547: "Bonn" # Bonn
+  GER_VICTORY_POINTS_3548: "Munkatsch" # Mukachevo
+  GER_VICTORY_POINTS_3552: "Breschd" # Brest
+  GER_VICTORY_POINTS_3560: "Sedan" # Sedan
+  GER_VICTORY_POINTS_3561: "Erfurt" # Erfurt
+  GER_VICTORY_POINTS_3568: "Tschernigow" # Chernigov
+  GER_VICTORY_POINTS_3569: "Brünn" # Brno
+  GER_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
+  GER_VICTORY_POINTS_3578: "Saratow" # Saratov
+  GER_VICTORY_POINTS_3580: "Kursk" # Kursk
+  GER_VICTORY_POINTS_3581: "Eperies" # Prešov
+  GER_VICTORY_POINTS_3583: "Mährisch-Ostrau" # Ostrava
+  GER_VICTORY_POINTS_3585: "Karlsbad" # Carlsbad
+  GER_VICTORY_POINTS_3594: "Widschy" # Vichy
+  GER_VICTORY_POINTS_3604: "Padua" # Padova
+  GER_VICTORY_POINTS_3609: "Schabatz" # Šabac
+  GER_VICTORY_POINTS_3614: "Pantschowa" # Pančevo
+  GER_VICTORY_POINTS_3618: "Gurjau" # Guryev
+  GER_VICTORY_POINTS_3652: "Dischon" # Dijon
+  GER_VICTORY_POINTS_3653: "Batumi" # Batumi
+  GER_VICTORY_POINTS_3663: "Plojescht" # Ploiesti
+  GER_VICTORY_POINTS_3671: "Tours" # Tours
+  GER_VICTORY_POINTS_3672: "Grodsnei" # Grozny
+  GER_VICTORY_POINTS_3673: "Klagenfurt" # Klagenfurt
+  GER_VICTORY_POINTS_3679: "Konstanz" # Konstanz
+  GER_VICTORY_POINTS_3686: "Sewastopol" # Sevastopol
+  GER_VICTORY_POINTS_3696: "Großwardein" # Oradea
+  GER_VICTORY_POINTS_3700: "Eisenstadt" # Eisenstadt
+  GER_VICTORY_POINTS_3707: "Kischinau" # Chisinău
+  GER_VICTORY_POINTS_3720: "Maikop" # Maykop
+  GER_VICTORY_POINTS_3734: "Krasnodar" # Krasnodar
+  GER_VICTORY_POINTS_3738: "Juschne" # Yuzhne
+  GER_VICTORY_POINTS_3757: "Balta" # Balta
+  GER_VICTORY_POINTS_3768: "Grenobel" # Grenoble
+  GER_VICTORY_POINTS_3775: "Tronten" # Toronto
+  GER_VICTORY_POINTS_3778: "Ottawa" # Ottawa
+  GER_VICTORY_POINTS_3780: "Mailand" # Milan
+  GER_VICTORY_POINTS_3790: "Mauhaven" # Portimão
+  GER_VICTORY_POINTS_3795: "Tikrit" # Tikrit
+  GER_VICTORY_POINTS_3796: "Plewen" # Pleven
+  GER_VICTORY_POINTS_3798: "Kaimbra" # Coimbra
+  GER_VICTORY_POINTS_3816: "Saragusa" # Zaragoza
+  GER_VICTORY_POINTS_3838: "Ajatschio" # Ajáccio
+  GER_VICTORY_POINTS_3844: "Katerin" # Kateríni
+  GER_VICTORY_POINTS_3856: "Kütaja" # Kütahya
+  GER_VICTORY_POINTS_3862: "Josgat" # Yozgat
+  GER_VICTORY_POINTS_3864: "Wolos" # Volos
+  GER_VICTORY_POINTS_3868: "Ragusa" # Dubrovnik
+  GER_VICTORY_POINTS_3874: "Salamanka" # Salamanca
+  GER_VICTORY_POINTS_3878: "Neu-München" # New York
+  GER_VICTORY_POINTS_3882: "Skoppel" # Skopje
+  GER_VICTORY_POINTS_3914: "Janina" # Ioannina
+  GER_VICTORY_POINTS_3916: "Arbil" # Erbil
+  GER_VICTORY_POINTS_3924: "Spalato" # Split
+  GER_VICTORY_POINTS_3933: "Pamplon" # Pamplona
+  GER_VICTORY_POINTS_3938: "Madrid" # Madrid
+  GER_VICTORY_POINTS_3942: "Daiasor" # Deir az-Zur
+  GER_VICTORY_POINTS_3943: "Zarra" # Zadar
+  GER_VICTORY_POINTS_3945: "Kuendscha" # Cuenca
+  GER_VICTORY_POINTS_3951: "Eskischedir" # Eskişehir
+  GER_VICTORY_POINTS_3954: "Kaspe" # Caspe
+  GER_VICTORY_POINTS_3957: "Goethe" # Washington
+  GER_VICTORY_POINTS_3960: "Dallen" # Dallas
+  GER_VICTORY_POINTS_3962: "Hakodate" # Hakodate
+  GER_VICTORY_POINTS_3973: "Larissa" # Larissa
+  GER_VICTORY_POINTS_3979: "Gemüschan" # Gümüşhane
+  GER_VICTORY_POINTS_3988: "Korinth" # Kórinthos
+  GER_VICTORY_POINTS_3992: "Nantschang" # Nanchang
+  GER_VICTORY_POINTS_3995: "Saipan" # Saipan
+  GER_VICTORY_POINTS_3996: "Giza" # Giza
+  GER_VICTORY_POINTS_4001: "Jangtschau" # Yangzhou
+  GER_VICTORY_POINTS_4014: "Katanien" # Catania
+  GER_VICTORY_POINTS_4027: "Beppu" # Beppu
+  GER_VICTORY_POINTS_4052: "Pjöngjang" # Pyongyang
+  GER_VICTORY_POINTS_4054: "Ise" # Ise
+  GER_VICTORY_POINTS_4056: "Fussen" # Busan
+  GER_VICTORY_POINTS_4067: "Sakaten" # Sakata
+  GER_VICTORY_POINTS_4069: "Öi-Talsperre" # Ōi Dam
+  GER_VICTORY_POINTS_4073: "Sueß" # Suez
+  GER_VICTORY_POINTS_4075: "Hanoi" # Hanoi
+  GER_VICTORY_POINTS_4076: "Alexandrien" # Alexandria
+  GER_VICTORY_POINTS_4091: "Nantong" # Nantong
+  GER_VICTORY_POINTS_4094: "Takamatsu" # Takamatsu
+  GER_VICTORY_POINTS_4098: "Alisante" # Alicante
+  GER_VICTORY_POINTS_4100: "Hitaschi" # Hitachi
+  GER_VICTORY_POINTS_4102: "Kagoschima" # Kagoshima
+  GER_VICTORY_POINTS_4106: "Indore" # Indore
+  GER_VICTORY_POINTS_4108: "Marrakesch" # Marrakech
+    GER_VICTORY_POINTS_4109: "Athen" # Athens
+  GER_VICTORY_POINTS_4111: "Damaskus" # Damascus
+  GER_VICTORY_POINTS_4112: "Smyrna" # Izmir
+  GER_VICTORY_POINTS_4115: "Akaba" # Aqaba
+  GER_VICTORY_POINTS_4118: "Fukushima" # Fukushima
+  GER_VICTORY_POINTS_4119: "Haiphong" # Haiphong
+  GER_VICTORY_POINTS_4126: "Tschondschu" # Jeonju
+  GER_VICTORY_POINTS_4128: "Port-Francqui" # Port-Francqui
+  GER_VICTORY_POINTS_4130: "Mienjang" # Mienyang
+  GER_VICTORY_POINTS_4135: "Gibraltar" # Gibraltar
+  GER_VICTORY_POINTS_4142: "Suzuka" # Suzuka
+  GER_VICTORY_POINTS_4159: "Messina" # Messina
+  GER_VICTORY_POINTS_4161: "El-Arisch" # El-Arīsh
+  GER_VICTORY_POINTS_4164: "Kurume" # Kurume
+  GER_VICTORY_POINTS_4174: "Taiyüan" # Taiyuan
+  GER_VICTORY_POINTS_4179: "Matsuyama" # Matsuyama
+  GER_VICTORY_POINTS_4180: "Honolulu" # Honolulu
+  GER_VICTORY_POINTS_4181: "Lini" # Linyi
+  GER_VICTORY_POINTS_4188: "Tschiba" # Chiba
+  GER_VICTORY_POINTS_4189: "Makao" # Macau
+  GER_VICTORY_POINTS_4190: "Schimen" # Shimen
+  GER_VICTORY_POINTS_4196: "Futschou" # Fuzhou
+  GER_VICTORY_POINTS_4202: "Jänangjaung" # Yenangyaung
+  GER_VICTORY_POINTS_4205: "Weihaiwei" # Weihaiwei
+  GER_VICTORY_POINTS_4206: "Tel Aviv" # Tel Aviv
+  GER_VICTORY_POINTS_4210: "Panlon" # Pan Lon
+  GER_VICTORY_POINTS_4226: "Buin" # Buin
+  GER_VICTORY_POINTS_4241: "Davao" # Davao
+  GER_VICTORY_POINTS_4245: "Kalkutta" # Calcutta
+  GER_VICTORY_POINTS_4251: "Battambang" # Battambang
+  GER_VICTORY_POINTS_4268: "Nouméa" # Noumea
+  GER_VICTORY_POINTS_4279: "Pontianak" # Pontianak
+  GER_VICTORY_POINTS_4282: "Kudat" # Kudat
+  GER_VICTORY_POINTS_4285: "Sankt Johann" # Saint John
+  GER_VICTORY_POINTS_4286: "Suwa" # Suva
+  GER_VICTORY_POINTS_4288: "Kalapan" # Calapan
+  GER_VICTORY_POINTS_4301: "Ende" # Ende
+  GER_VICTORY_POINTS_4302: "Siem Reap" # Siem Reap
+  GER_VICTORY_POINTS_4311: "Belorezk" # Beloretsk
+  GER_VICTORY_POINTS_4315: "Maisur" # Mysore City
+  GER_VICTORY_POINTS_4329: "Port Moresby" # Port Moresby
+  GER_VICTORY_POINTS_4333: "Akmolinsk" # Akmolinsk
+  GER_VICTORY_POINTS_4345: "Montreal" # Montréal
+  GER_VICTORY_POINTS_4354: "Sterlitamak" # Sterlitamak
+  GER_VICTORY_POINTS_4357: "Ngaraard" # Ngaraard
+  GER_VICTORY_POINTS_4361: "Tandjungkarang-Telukbetung" # Tanjung Karang Teluk Betung
+  GER_VICTORY_POINTS_4371: "Songkhla" # Songkhla
+  GER_VICTORY_POINTS_4379: "Hue" # Huế
+  GER_VICTORY_POINTS_4396: "Bintulu" # Bintulu
+  GER_VICTORY_POINTS_4401: "Saigon" # Saigon
+  GER_VICTORY_POINTS_4412: "Seremban" # Seremban
+  GER_VICTORY_POINTS_4425: "Myitkyina" # Myitkyina
+  GER_VICTORY_POINTS_4434: "Tjilatjap" # Cilacap
+  GER_VICTORY_POINTS_4435: "Gangtok" # Gangtok
+  GER_VICTORY_POINTS_4440: "Ruwaished" # Ruwaished
+  GER_VICTORY_POINTS_4464: "Biloxi" # Biloxi
+  GER_VICTORY_POINTS_4468: "Sorong" # Sorong
+  GER_VICTORY_POINTS_4473: "Astara" # Astara
+  GER_VICTORY_POINTS_4486: "Suwaida" # Sweida
+  GER_VICTORY_POINTS_4501: "Mengtse" # Mengzi
+  GER_VICTORY_POINTS_4504: "Kweijang" # Guiyang
+  GER_VICTORY_POINTS_4512: "Diarbekir" # Diyarbakır
+  GER_VICTORY_POINTS_4515: "Jadotville" # Jadotville
+  GER_VICTORY_POINTS_4516: "Patna" # Patna
+  GER_VICTORY_POINTS_4543: "Auckland" # Auckland
+  GER_VICTORY_POINTS_4548: "Florianopolis" # Florianópolis
+  GER_VICTORY_POINTS_4564: "Kendari" # Kendari
+  GER_VICTORY_POINTS_4569: "Sankt Ludwig" # Saint Louis
+  GER_VICTORY_POINTS_4572: "Hsingking" # Hsinking
+  GER_VICTORY_POINTS_4576: "Wakkanai" # Wakkanai
+  GER_VICTORY_POINTS_4579: "Dobo" # Dobo
+  GER_VICTORY_POINTS_4583: "Igdir" # Iğdır
+  GER_VICTORY_POINTS_4598: "Sankt Jakob der Ritter" # Santiago de los Caballeros
+  GER_VICTORY_POINTS_4611: "Sankt Josef von David" # San José de David
+  GER_VICTORY_POINTS_4613: "Luang Prabang" # Luang Prabang
+  GER_VICTORY_POINTS_4619: "Wuhan" # Wuhan
+  GER_VICTORY_POINTS_4640: "Narwa" # Narva
+  GER_VICTORY_POINTS_4641: "Port-au-Prince" # Port-au-Prince
+  GER_VICTORY_POINTS_4652: "Medan" # Medan
+  GER_VICTORY_POINTS_4682: "Aksu" # Aksu
+  GER_VICTORY_POINTS_4696: "Port Elisabeth" # Port Elizabeth
+  GER_VICTORY_POINTS_4704: "Hami" # Hami
+  GER_VICTORY_POINTS_4705: "Tschita" # Chita
+  GER_VICTORY_POINTS_4709: "Urumtschi" # Ürümqi
+  GER_VICTORY_POINTS_4718: "Tauranga" # Tauranga
+  GER_VICTORY_POINTS_4724: "Krasnojarsk" # Krasnoyarsk
+  GER_VICTORY_POINTS_4739: "Saskatoon" # Saskatoon
+  GER_VICTORY_POINTS_4740: "Wichita" # Wichita
+  GER_VICTORY_POINTS_4783: "Edsin-Banner" # Ejin Banner
+  GER_VICTORY_POINTS_4797: "Irkutsk" # Irkutsk
+  GER_VICTORY_POINTS_4799: "Las Vegas" # Las Vegas
+  GER_VICTORY_POINTS_4800: "Ojrot-Tura" # Oyrot-Tura
+  GER_VICTORY_POINTS_4801: "Ulan-Bator" # Ulaanbaatar
+  GER_VICTORY_POINTS_4804: "Mangahao" # Mangahao
+  GER_VICTORY_POINTS_4823: "Altai" # Altay
+  GER_VICTORY_POINTS_4824: "Tjumen" # Tyumen
+  GER_VICTORY_POINTS_4859: "Dudinka" # Dudinka
+  GER_VICTORY_POINTS_4860: "Große Fälle" # Great Falls
+  GER_VICTORY_POINTS_4864: "Katarakt-Talsperre" # Cataract Dam
+  GER_VICTORY_POINTS_4865: "Salzseestadt" # Salt Lake City
+  GER_VICTORY_POINTS_4872: "Winnipeg" # Winnipeg
+  GER_VICTORY_POINTS_4879: "Windhuk" # Windhoek
+  GER_VICTORY_POINTS_4887: "Morelia" # Morelia
+  GER_VICTORY_POINTS_4893: "Herat" # Herat
+  GER_VICTORY_POINTS_4901: "Ardebil" # Ardabil
+  GER_VICTORY_POINTS_4904: "Campeche" # Campeche
+  GER_VICTORY_POINTS_4908: "Guaymas" # Guaymas
+  GER_VICTORY_POINTS_4924: "Marib" # Marib
+  GER_VICTORY_POINTS_4925: "Tschengtu" # Chengdu
+  GER_VICTORY_POINTS_4927: "Bamako" # Bamako
+  GER_VICTORY_POINTS_4928: "Jasudsch" # Yasuj
+  GER_VICTORY_POINTS_4941: "Albertstadt" # Albertville
+  GER_VICTORY_POINTS_4943: "Senandadsch" # Sanandaj
+  GER_VICTORY_POINTS_4948: "Dakar" # Dakar
+  GER_VICTORY_POINTS_4950: "Nagpur" # Nagpur
+  GER_VICTORY_POINTS_4956: "San Luis Potosi" # San Luis Potosi
+  GER_VICTORY_POINTS_4965: "Tschetumal" # Chetumal
+  GER_VICTORY_POINTS_4967: "Male" # Malé
+  GER_VICTORY_POINTS_4973: "Hotan" # Hotan
+  GER_VICTORY_POINTS_4975: "Albuquerque" # Albuquerque
+  GER_VICTORY_POINTS_4977: "Obregonstadt" # Ciudad Obregón
+  GER_VICTORY_POINTS_4980: "Macapa" # Macapá
+  GER_VICTORY_POINTS_4982: "Georgetown" # Georgetown
+  GER_VICTORY_POINTS_4987: "Katmandu" # Kathmandu
+  GER_VICTORY_POINTS_4989: "Bathurst" # Banjul
+  GER_VICTORY_POINTS_4993: "Sohar" # Sohar
+  GER_VICTORY_POINTS_4999: "Kangt'ing" # Kangding
+  GER_VICTORY_POINTS_5010: "Addis Abeba" # Addis Ababa
+  GER_VICTORY_POINTS_5015: "Matamoros" # Matamoros
+  GER_VICTORY_POINTS_5023: "Puerto Ayora" # Puerto Ayora
+  GER_VICTORY_POINTS_5025: "Guyüan" # Guyuan
+  GER_VICTORY_POINTS_5029: "Meschhed" # Mashhad
+  GER_VICTORY_POINTS_5031: "Alxa-Rechtsbanner" # Alxa Right Banner
+  GER_VICTORY_POINTS_5033: "Lhasa" # Lhasa
+  GER_VICTORY_POINTS_5034: "Nuakschott" # Nouakchott
+  GER_VICTORY_POINTS_5037: "Mekka" # Mecca
+  GER_VICTORY_POINTS_5049: "Nizwa" # Nizwa
+  GER_VICTORY_POINTS_5064: "Kandahar" # Kandahar
+  GER_VICTORY_POINTS_5068: "Hargeisa" # Hargeisa
+  GER_VICTORY_POINTS_5069: "Berenike" # Berenice Troglodytica
+  GER_VICTORY_POINTS_5071: "Agua Prieta" # Agua Prieta
+  GER_VICTORY_POINTS_5072: "Tschenschung" # Zhenxiong
+  GER_VICTORY_POINTS_5074: "Aden" # Aden
+  GER_VICTORY_POINTS_5082: "Gardes" # Gardez
+  GER_VICTORY_POINTS_5097: "Dessie" # Dessie
+  GER_VICTORY_POINTS_5098: "Kermanschah" # Kermānshāhān
+  GER_VICTORY_POINTS_5100: "Wuwei" # Wuwei
+  GER_VICTORY_POINTS_5105: "Quetta" # Quetta
+  GER_VICTORY_POINTS_5107: "Fortaleza" # Fortaleza
+  GER_VICTORY_POINTS_5112: "Santos" # Santos
+  GER_VICTORY_POINTS_5117: "Leopoldstadt" # Léopoldville
+  GER_VICTORY_POINTS_5120: "Machala" # Machala
+  GER_VICTORY_POINTS_5121: "Temuco" # Temuco
+  GER_VICTORY_POINTS_5128: "Tananarive" # Antananarivo
+  GER_VICTORY_POINTS_5131: "Arica" # Arica
+  GER_VICTORY_POINTS_5139: "Libreville" # Libreville
+  GER_VICTORY_POINTS_5151: "Palmas" # Palmas
+  GER_VICTORY_POINTS_5152: "Minister-Pistarini-Stausee" # Minister Pistarini Reservoir
+  GER_VICTORY_POINTS_5153: "Teresina" # Teresina
+  GER_VICTORY_POINTS_5163: "Sankt Fe de la Vera Cruz" # Santa Fe de la Vera Cruz
+  GER_VICTORY_POINTS_5165: "Major-Pablo-Lagerenza" # Mayor Pablo Lagerenza
+  GER_VICTORY_POINTS_5166: "Cuzco" # Cusco
+  GER_VICTORY_POINTS_5168: "Recife" # Recife
+  GER_VICTORY_POINTS_5169: "Puerto Montt" # Puerto Montt
+  GER_VICTORY_POINTS_5172: "Vassouras" # Vassouras
+  GER_VICTORY_POINTS_5173: "Rio Gallegos" # Rio Gallegos
+  GER_VICTORY_POINTS_5187: "Hobart" # Hobart
+  GER_VICTORY_POINTS_5193: "Minsien" # Minsien
+  GER_VICTORY_POINTS_5199: "Lusaka" # Lusaka
+  GER_VICTORY_POINTS_5201: "Ponta Delgada" # Punta Delgada
+  GER_VICTORY_POINTS_5210: "Mombasa" # Mombasa
+  GER_VICTORY_POINTS_5214: "Boa Vista" # Boa Vista
+  GER_VICTORY_POINTS_5215: "Punta Arenas" # Punta Arenas
+  GER_VICTORY_POINTS_5221: "Tschipata" # Chipata
+  GER_VICTORY_POINTS_5228: "Copiapo" # Copiapó
+  GER_VICTORY_POINTS_5230: "La Paz" # La Paz
+  GER_VICTORY_POINTS_6009: "Borgå" # Porvoo
+  GER_VICTORY_POINTS_6013: "Seinäjoki" # Seinäjoki
+  GER_VICTORY_POINTS_6050: "Stockholm" # Stockholm
+  GER_VICTORY_POINTS_6062: "Stornoway" # Stornoway
+  GER_VICTORY_POINTS_6082: "Villmanstrand" # Lappeenranta
+  GER_VICTORY_POINTS_6085: "Udatschny" # Udachny
+  GER_VICTORY_POINTS_6087: "Rovaniemi" # Rovaniemi
+  GER_VICTORY_POINTS_6098: "Repola" # Repola
+  GER_VICTORY_POINTS_6103: "Lunden" # London
+  GER_VICTORY_POINTS_6115: "Oslo" # Oslo
+  GER_VICTORY_POINTS_6124: "Kirow" # Kirov
+  GER_VICTORY_POINTS_6132: "Umea" # Umeå
+  GER_VICTORY_POINTS_6141: "Jyväskylä" # Jyväskylä
+  GER_VICTORY_POINTS_6142: "Inari" # Inari
+  GER_VICTORY_POINTS_6151: "Skien" # Skien
+  GER_VICTORY_POINTS_6181: "Kandalakscha" # Kandalaksha
+  GER_VICTORY_POINTS_6196: "Lerwick" # Lerwick
+  GER_VICTORY_POINTS_6222: "Mitau" # Jelgava
+  GER_VICTORY_POINTS_6229: "Ponewjesch" # Panevėžys
+  GER_VICTORY_POINTS_6232: "Mosyr" # Mozyr
+  GER_VICTORY_POINTS_6235: "Aalborg" # Aalborg
+  GER_VICTORY_POINTS_6237: "Nottingham" # Nottingham
+  GER_VICTORY_POINTS_6241: "Utrecht" # Utrecht
+  GER_VICTORY_POINTS_6245: "Kalinin" # Kalinin
+  GER_VICTORY_POINTS_6262: "Tula" # Tula
+  GER_VICTORY_POINTS_6269: "Iwanowo" # Ivanovo
+  GER_VICTORY_POINTS_6278: "Ischewsk" # Izhevsk
+  GER_VICTORY_POINTS_6282: "Stettin" # Stettin
+  GER_VICTORY_POINTS_6287: "Kopenhagen" # Copenhagen
+  GER_VICTORY_POINTS_6296: "Kauen" # Kaunas
+  GER_VICTORY_POINTS_6298: "Lüneburg" # Lüneburg
+  GER_VICTORY_POINTS_6300: "Rosyth" # Rosyth
+  GER_VICTORY_POINTS_6310: "Uddevalla" # Uddevalla
+  GER_VICTORY_POINTS_6313: "Limerick" # Limerick
+  GER_VICTORY_POINTS_6314: "Polangen" # Palanga
+  GER_VICTORY_POINTS_6318: "Manchester" # Manchester
+  GER_VICTORY_POINTS_6325: "Buxtehude" # Buxtehude
+  GER_VICTORY_POINTS_6332: "Königsberg" # Königsberg
+  GER_VICTORY_POINTS_6336: "Leeuwarden" # Leeuwarden
+  GER_VICTORY_POINTS_6338: "Kasan" # Kazan
+  GER_VICTORY_POINTS_6345: "Hälsingborg" # Helsingborg
+  GER_VICTORY_POINTS_6361: "Rönne" # Rønne
+  GER_VICTORY_POINTS_6364: "Aarhus" # Aarhus
+  GER_VICTORY_POINTS_6375: "Allenstein" # Allenstein
+  GER_VICTORY_POINTS_6377: "Hannover" # Hannover
+  GER_VICTORY_POINTS_6380: "Moskau" # Moscow
+  GER_VICTORY_POINTS_6384: "Liverpool" # Liverpool
+  GER_VICTORY_POINTS_6386: "Lokot" # Lokot
+  GER_VICTORY_POINTS_6389: "Kiel" # Kiel
+  GER_VICTORY_POINTS_6393: "Roskilde" # Roskilde
+  GER_VICTORY_POINTS_6398: "Lipezk" # Lipetsk
+  GER_VICTORY_POINTS_6418: "Pilsen" # Plzen
+  GER_VICTORY_POINTS_6420: "Mariupol" # Mariupol
+  GER_VICTORY_POINTS_6421: "Coburg" # Coburg
+  GER_VICTORY_POINTS_6429: "Kamenez-Podolsk" # Kamenets-Podolsky
+  GER_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  GER_VICTORY_POINTS_6449: "Cherbourg" # Cherbourg
+  GER_VICTORY_POINTS_6464: "Kattowitz" # Katowice
+  GER_VICTORY_POINTS_6469: "Essen" # Essen
+  GER_VICTORY_POINTS_6470: "Falkenau" # Falknov
+  GER_VICTORY_POINTS_6474: "Stalino" # Stalino
+  GER_VICTORY_POINTS_6483: "Drogobytsch" # Drohobych
+  GER_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  GER_VICTORY_POINTS_6496: "Eindhoven" # Eindhoven
+  GER_VICTORY_POINTS_6502: "Balakowo" # Balakovo
+  GER_VICTORY_POINTS_6519: "Sewerodonezk" # Severodonetsk
+  GER_VICTORY_POINTS_6521: "Berlin" # Berlin
+  GER_VICTORY_POINTS_6526: "Truro" # Truro
+  GER_VICTORY_POINTS_6529: "Kolmar" # Colmar
+  GER_VICTORY_POINTS_6536: "Lorient" # Lorient
+  GER_VICTORY_POINTS_6542: "Baden-Baden" # Baden-Baden
+  GER_VICTORY_POINTS_6550: "Samos" # Samos
+  GER_VICTORY_POINTS_6557: "Rowno" # Równe
+  GER_VICTORY_POINTS_6558: "Posen" # Poznań
+  GER_VICTORY_POINTS_6560: "Gent" # Ghent
+  GER_VICTORY_POINTS_6562: "Olmütz" # Olomouc
+  GER_VICTORY_POINTS_6571: "Jasinja" # Yasinia
+  GER_VICTORY_POINTS_6573: "Kaschau" # Kosice
+  GER_VICTORY_POINTS_6582: "Halle" # Halle
+  GER_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
+  GER_VICTORY_POINTS_6593: "Schitomir" # Zhytomyr
+  GER_VICTORY_POINTS_6598: "Antwerpen" # Antwerp
+  GER_VICTORY_POINTS_6606: "Bologna" # Bologna
+  GER_VICTORY_POINTS_6613: "Lyon" # Lyon
+  GER_VICTORY_POINTS_6626: "Triest" # Trieste
+  GER_VICTORY_POINTS_6642: "Goris" # Goris
+  GER_VICTORY_POINTS_6652: "Krajowa" # Craiova
+  GER_VICTORY_POINTS_6657: "La Rochelle" # La Rochelle
+  GER_VICTORY_POINTS_6666: "Genf" # Genève
+  GER_VICTORY_POINTS_6670: "Baja" # Baja
+  GER_VICTORY_POINTS_6671: "Gori" # Gori
+  GER_VICTORY_POINTS_6672: "Murska Sobota" # Murska Sobota
+  GER_VICTORY_POINTS_6680: "Vaduz" # Vaduz
+  GER_VICTORY_POINTS_6682: "Arad" # Arad
+  GER_VICTORY_POINTS_6696: "Louisville" # Louisville
+  GER_VICTORY_POINTS_6700: "Szegedin" # Szeged
+  GER_VICTORY_POINTS_6701: "Machatschkala" # Makhachkala
+  GER_VICTORY_POINTS_6704: "Jalta" # Yalta
+  GER_VICTORY_POINTS_6706: "Galatz" # Galati
+  GER_VICTORY_POINTS_6710: "Detroit" # Detroit
+  GER_VICTORY_POINTS_6711: "Klausenburg" # Cluj
+  GER_VICTORY_POINTS_6712: "Freiburg" # Freiburg
+  GER_VICTORY_POINTS_6720: "Raab" # Győr
+  GER_VICTORY_POINTS_6727: "Weißkirchen" # Cetatea Albă
+  GER_VICTORY_POINTS_6732: "Boston" # Boston
+  GER_VICTORY_POINTS_6734: "Vigo" # Vigo
+  GER_VICTORY_POINTS_6763: "Sakatala" # Zaqatala
+  GER_VICTORY_POINTS_6766: "Toulouse" # Toulouse
+  GER_VICTORY_POINTS_6780: "Turin" # Torino
+  GER_VICTORY_POINTS_6788: "Genua" # Genoa
+  GER_VICTORY_POINTS_6793: "Ferrara" # Ferrara
+  GER_VICTORY_POINTS_6807: "Karaman" # Karaman
+  GER_VICTORY_POINTS_6813: "Marasch" # Kahramanmaraş
+  GER_VICTORY_POINTS_6814: "Eski-Sagora" # Stara Zagora
+  GER_VICTORY_POINTS_6826: "Suleimania" # Sulaymaniyah
+  GER_VICTORY_POINTS_6832: "Ciudad Real" # Ciudad Real
+  GER_VICTORY_POINTS_6845: "Philadelphia" # Philadelphia
+  GER_VICTORY_POINTS_6851: "Tschuangho" # Zhuanghe
+  GER_VICTORY_POINTS_6855: "Kolumbus" # Columbus
+  GER_VICTORY_POINTS_6880: "Faro" # Faro
+  GER_VICTORY_POINTS_6882: "Neuburg" # Newark
+  GER_VICTORY_POINTS_6883: "Ain al-Arab" # Ayn al-Arab
+  GER_VICTORY_POINTS_6889: "Ragusa" # Dubrovnik
+  GER_VICTORY_POINTS_6890: "Klagenburg" # Cleveland
+  GER_VICTORY_POINTS_6900: "Koritza" # Korçë
+  GER_VICTORY_POINTS_6902: "Badajau" # Badajoz
+  GER_VICTORY_POINTS_6904: "Kalgan" # Kalgan
+  GER_VICTORY_POINTS_6906: "Valentsia" # Valencia
+  GER_VICTORY_POINTS_6912: "Bandirma" # Bandırma
+  GER_VICTORY_POINTS_6923: "Philippopel" # Plovdiv
+  GER_VICTORY_POINTS_6927: "Gerona" # Gerona
+  GER_VICTORY_POINTS_6928: "Hamhung" # Hamhung
+  GER_VICTORY_POINTS_6933: "Beha" # Beja
+  GER_VICTORY_POINTS_6935: "Wan" # Van
+  GER_VICTORY_POINTS_6938: "Kastamuni" # Kastamonu
+  GER_VICTORY_POINTS_6940: "Prischtina" # Prishtina
+  GER_VICTORY_POINTS_6946: "Luka" # Lucca
+  GER_VICTORY_POINTS_6966: "Tortosen" # Tortosa
+  GER_VICTORY_POINTS_6967: "Sliwen" # Sliven
+  GER_VICTORY_POINTS_6973: "Spetziem" # La Spezia
+  GER_VICTORY_POINTS_6977: "Kaiseri" # Kayseri
+  GER_VICTORY_POINTS_6983: "Warmwasser-Stadt" # Banja Luka
+  GER_VICTORY_POINTS_6984: "Baltenheim" # Baltimore
+  GER_VICTORY_POINTS_6994: "Omori" # Aomori
+  GER_VICTORY_POINTS_6995: "Sinope" # Sinop
+  GER_VICTORY_POINTS_6996: "Garda" # Guarda
+  GER_VICTORY_POINTS_6997: "Nachitschewan" # Nakhchivan
+  GER_VICTORY_POINTS_6999: "Tschungking" # Chongqing
+  GER_VICTORY_POINTS_7005: "Gaben" # Gabès
+  GER_VICTORY_POINTS_7011: "Kairo" # Cairo
+  GER_VICTORY_POINTS_7014: "Schanghai" # Shanghai
+  GER_VICTORY_POINTS_7016: "Iwaki" # Iwaki
+  GER_VICTORY_POINTS_7025: "Suchau" # Xuzhou
+  GER_VICTORY_POINTS_7069: "Kasablanca" # Casablanca
+  GER_VICTORY_POINTS_7071: "Amoi" # Xiamen
+  GER_VICTORY_POINTS_7072: "Osaka" # Osaka
+  GER_VICTORY_POINTS_7081: "Bone" # Annaba
+  GER_VICTORY_POINTS_7087: "Schidsoka" # Shizuoka
+  GER_VICTORY_POINTS_7096: "Argos" # Argos
+  GER_VICTORY_POINTS_7097: "Tschangschah" # Changsha
+  GER_VICTORY_POINTS_7101: "Tschangte" # Changde
+  GER_VICTORY_POINTS_7108: "Bauern" # Bao'an
+  GER_VICTORY_POINTS_7110: "Fukoka" # Fukuoka
+  GER_VICTORY_POINTS_7113: "Wakajama" # Wakayama
+  GER_VICTORY_POINTS_7117: "Faium" # Faiyum
+  GER_VICTORY_POINTS_7125: "Saul" # Seoul
+  GER_VICTORY_POINTS_7127: "Tschalkis" # Chalcis
+  GER_VICTORY_POINTS_7132: "Oran" # Oran
+  GER_VICTORY_POINTS_7137: "Nanning" # Nanning
+  GER_VICTORY_POINTS_7138: "Karlotte" # Charlotte
+  GER_VICTORY_POINTS_7145: "Matsue" # Matsue
+  GER_VICTORY_POINTS_7151: "Amman" # Amman
+  GER_VICTORY_POINTS_7158: "Ulan-Tschab" # Ulanqab
+  GER_VICTORY_POINTS_7169: "Sendai" # Sendai
+  GER_VICTORY_POINTS_7170: "Irbid" # Irbid
+  GER_VICTORY_POINTS_7174: "Kütschou" # Quzhou
+  GER_VICTORY_POINTS_7175: "Kunsan" # Gunsan
+  GER_VICTORY_POINTS_7183: "Sewilla" # Sevilla
+  GER_VICTORY_POINTS_7186: "Taipeh" # Taipei
+  GER_VICTORY_POINTS_7191: "Hangtschou" # Hangzhou
+  GER_VICTORY_POINTS_7193: "Limasau" # Limassol
+  GER_VICTORY_POINTS_7197: "Kichi" # Kochi
+  GER_VICTORY_POINTS_7199: "Kantschou" # Ganzhou
+  GER_VICTORY_POINTS_7202: "Kalstadt" # Charleston
+  GER_VICTORY_POINTS_7211: "Patra" # Patras
+  GER_VICTORY_POINTS_7212: "Okayama" # Okayama
+  GER_VICTORY_POINTS_7213: "Teruel" # Teruel
+  GER_VICTORY_POINTS_7222: "Hofei" # Hefei
+  GER_VICTORY_POINTS_7225: "Tschonburei" # Chon Buri
+  GER_VICTORY_POINTS_7236: "Hattau" # Hat Yai
+  GER_VICTORY_POINTS_7244: "Mangalor" # Mangalore
+  GER_VICTORY_POINTS_7251: "Rabaul" # Rabaul
+  GER_VICTORY_POINTS_7254: "Bassein" # Bassein
+  GER_VICTORY_POINTS_7259: "Viktoria" # Victoria
+  GER_VICTORY_POINTS_7273: "Rinagar" # Srinagar
+  GER_VICTORY_POINTS_7274: "Neu-Sibirien" # Novosibirsk
+  GER_VICTORY_POINTS_7290: "Apia" # Apia
+  GER_VICTORY_POINTS_7294: "Liangschan" # Liangshan
+  GER_VICTORY_POINTS_7301: "Sian" # Xi'an
+  GER_VICTORY_POINTS_7302: "Suwa" # Suva
+  GER_VICTORY_POINTS_7305: "Gona" # Gona
+  GER_VICTORY_POINTS_7312: "Massen" # Mae Sot
+  GER_VICTORY_POINTS_7314: "Julien" # Yulin
+  GER_VICTORY_POINTS_7315: "Satteln" # Seattle
+  GER_VICTORY_POINTS_7329: "Kotabar" # Kota Bharu
+  GER_VICTORY_POINTS_7341: "Aktoben" # Aktobe
+  GER_VICTORY_POINTS_7350: "Kurtschatow" # Kurchatov
+  GER_VICTORY_POINTS_7351: "Batan" # Bataan
+  GER_VICTORY_POINTS_7361: "Halifax" # Halifax
+  GER_VICTORY_POINTS_7371: "Bangar" # Bangar
+  GER_VICTORY_POINTS_7375: "Perm" # Perm
+  GER_VICTORY_POINTS_7376: "Pompeng" # Phnom Penh
+  GER_VICTORY_POINTS_7377: "Wicklow" # Wicklow
+  GER_VICTORY_POINTS_7381: "Batawien" # Batavia
+  GER_VICTORY_POINTS_7384: "Pangel" # Pangkalpinang
+  GER_VICTORY_POINTS_7387: "Brunei-Stadt" # Brunei Town
+  GER_VICTORY_POINTS_7390: "Nendau" # Nendö
+  GER_VICTORY_POINTS_7394: "Kork" # Cork
+  GER_VICTORY_POINTS_7399: "Kuntan" # Kuantan
+  GER_VICTORY_POINTS_7408: "Bangkok" # Bangkok
+  GER_VICTORY_POINTS_7413: "Ternat" # Ternate
+  GER_VICTORY_POINTS_7415: "Tarakan" # Tarakan
+  GER_VICTORY_POINTS_7421: "Bandung" # Bandung
+  GER_VICTORY_POINTS_7432: "Kampau" # Kompong Saom
+  GER_VICTORY_POINTS_7476: "Horizont" # Belo Horizonte
+  GER_VICTORY_POINTS_7480: "Mobilei" # Mobile
+  GER_VICTORY_POINTS_7492: "Lampun" # Lamphun
+  GER_VICTORY_POINTS_7500: "Rosario" # Rosario
+  GER_VICTORY_POINTS_7520: "Neuburg an der Tin" # Newcastle
+  GER_VICTORY_POINTS_7530: "Kitzir" # Cizîr
+  GER_VICTORY_POINTS_7531: "Lampang" # Lampang
+  GER_VICTORY_POINTS_7552: "Neu-Berlin" # New Orleans
+  GER_VICTORY_POINTS_7564: "Brisben" # Brisbane
+  GER_VICTORY_POINTS_7566: "Tirpitzstadt" # Townsville
+  GER_VICTORY_POINTS_7588: "Karl-der-Große-Stadt" # Charleston
+  GER_VICTORY_POINTS_7590: "Gantanamo" # Guantánamo
+  GER_VICTORY_POINTS_7597: "Kschil-Orden" # Kzyl-Orda
+  GER_VICTORY_POINTS_7602: "Astrabad" # Esterabad
+  GER_VICTORY_POINTS_7603: "Mongpan" # Mong Pan
+  GER_VICTORY_POINTS_7604: "Urmi" # Orumiyeh
+  GER_VICTORY_POINTS_7617: "Kolon" # Colón
+  GER_VICTORY_POINTS_7620: "Malatien" # Malatya
+  GER_VICTORY_POINTS_7621: "Silberbucht" # Mar del Plata
+  GER_VICTORY_POINTS_7622: "Hawanna" # Havana
+  GER_VICTORY_POINTS_7624: "Dirpent" # Derbent
+  GER_VICTORY_POINTS_7630: "Panama" # Panamá
+  GER_VICTORY_POINTS_7631: "Kwaisu" # Kweisui
+  GER_VICTORY_POINTS_7656: "Kaifeng" # Kaifeng
+  GER_VICTORY_POINTS_7660: "Sankt Dominik" # Santo Domingo
+  GER_VICTORY_POINTS_7661: "Baku" # Baku
+  GER_VICTORY_POINTS_7669: "Darwin" # Darwin
+  GER_VICTORY_POINTS_7676: "Erdenet" # Erdenet
+  GER_VICTORY_POINTS_7708: "Pawloden" # Pavlodar
+  GER_VICTORY_POINTS_7716: "Luluaburg" # Luluabourg
+  GER_VICTORY_POINTS_7717: "Darkan" # Darkhan
+  GER_VICTORY_POINTS_7757: "Kemerowo" # Kemerovo
+  GER_VICTORY_POINTS_7789: "Tomsk" # Tomsk
+  GER_VICTORY_POINTS_7798: "Melbürn" # Melbourne
+  GER_VICTORY_POINTS_7799: "Ullastein" # Uliastay
+  GER_VICTORY_POINTS_7805: "Tura" # Tura
+  GER_VICTORY_POINTS_7822: "Nowokuschei" # Novokuznetsk
+  GER_VICTORY_POINTS_7834: "Topeka" # Topeka
+  GER_VICTORY_POINTS_7835: "Ulan-Ude" # Ulan Ude
+  GER_VICTORY_POINTS_7843: "Ullengom" # Ulaangom
+  GER_VICTORY_POINTS_7848: "Mohe" # Mohe
+  GER_VICTORY_POINTS_7851: "Albazin" # Albazino
+  GER_VICTORY_POINTS_7859: "Kanberren" # Canberra
+  GER_VICTORY_POINTS_7887: "Hammelstadt" # Hamilton
+  GER_VICTORY_POINTS_7899: "Donnerbucht" # Thunder Bay
+  GER_VICTORY_POINTS_7909: "Kengtung" # Kyaingtong
+  GER_VICTORY_POINTS_7911: "Tianschui" # Tianshui
+  GER_VICTORY_POINTS_7912: "Tschiren" # Jiren
+  GER_VICTORY_POINTS_7921: "Duran" # Durango
+  GER_VICTORY_POINTS_7940: "Golmut" # Golmud
+  GER_VICTORY_POINTS_7953: "Ahwas" # Ahvaz
+  GER_VICTORY_POINTS_7959: "Monrowien" # Monrovia
+  GER_VICTORY_POINTS_7960: "Abu Dabi" # Abu Dhabi
+  GER_VICTORY_POINTS_7965: "Tali" # Dali
+  GER_VICTORY_POINTS_7969: "Karadsch" # Karaj
+  GER_VICTORY_POINTS_7971: "Dschiukwan" # Jiuquan
+  GER_VICTORY_POINTS_7977: "Kutt" # Kut
+  GER_VICTORY_POINTS_7980: "Dirr-Daua" # Dire Dawa
+  GER_VICTORY_POINTS_7982: "Bandar Abbas" # Bandar e'Abbas
+  GER_VICTORY_POINTS_7990: "Bierand" # Birjand
+  GER_VICTORY_POINTS_7994: "Kerbella" # Karbala
+  GER_VICTORY_POINTS_8001: "Nadschaf" # Najaf
+  GER_VICTORY_POINTS_8005: "Leh" # Leh
+  GER_VICTORY_POINTS_8010: "Punka" # Punakha
+  GER_VICTORY_POINTS_8011: "Bangalur" # Bangalore
+  GER_VICTORY_POINTS_8018: "Jüschu" # Yushu
+  GER_VICTORY_POINTS_8019: "Yabello" # Yabello
+  GER_VICTORY_POINTS_8031: "Jeschd" # Yazd
+  GER_VICTORY_POINTS_8032: "Manzanill" # Manzanillo
+  GER_VICTORY_POINTS_8034: "Enugu" # Enugu
+  GER_VICTORY_POINTS_8036: "Asellen" # Asella
+  GER_VICTORY_POINTS_8038: "Al-Ujun" # Laayoune
+  GER_VICTORY_POINTS_8040: "Hamadan" # Hamedan
+  GER_VICTORY_POINTS_8049: "Yannan" # Yan'an
+  GER_VICTORY_POINTS_8051: "Dauha" # Doha
+  GER_VICTORY_POINTS_8057: "Kullikahn" # Culiacán
+  GER_VICTORY_POINTS_8066: "Kusdar" # Khuzdar
+  GER_VICTORY_POINTS_8085: "Kuwait" # Kuwait City
+  GER_VICTORY_POINTS_8087: "Haiderbad" # Hyderabad City
+  GER_VICTORY_POINTS_8089: "Puella" # Puebla
+  GER_VICTORY_POINTS_8093: "Schahrud" # Shahroud
+  GER_VICTORY_POINTS_8097: "Jahres" # Juárez
+  GER_VICTORY_POINTS_8098: "Kalat" # Kalat
+  GER_VICTORY_POINTS_8105: "Waden-Half" # Wadi Halfa
+  GER_VICTORY_POINTS_8113: "Karrakass" # Caracas
+  GER_VICTORY_POINTS_8117: "Schiras" # Shiraz
+  GER_VICTORY_POINTS_8123: "Kirk" # Kirkuk
+  GER_VICTORY_POINTS_8124: "Dschibuti" # Djibouti
+  GER_VICTORY_POINTS_8127: "Yintschuan" # Yinchuan
+  GER_VICTORY_POINTS_8161: "Trewelin" # Trevelin
+  GER_VICTORY_POINTS_8181: "Kurtiba" # Curitiba
+  GER_VICTORY_POINTS_8191: "Maldanhaven" # Puerto Maldonado
+  GER_VICTORY_POINTS_8193: "Bradschawill" # Brazzaville
+  GER_VICTORY_POINTS_8194: "Kokimbo" # Coquimbo
+  GER_VICTORY_POINTS_8214: "Gaborone" # Gaborone
+  GER_VICTORY_POINTS_8216: "Tuckuman" # Tucumán
+  GER_VICTORY_POINTS_8217: "Iquik" # Iquique
+  GER_VICTORY_POINTS_8222: "Wallpariso" # Valparaíso
+  GER_VICTORY_POINTS_8241: "Inwerschargill" # Invercargill
+  GER_VICTORY_POINTS_8245: "Lorenz-Stadt" # Lourenco Marques
+  GER_VICTORY_POINTS_8248: "Luanda" # Luanda
+  GER_VICTORY_POINTS_8251: "Tschillen" # Chillán
+  GER_VICTORY_POINTS_8252: "Guajaquirl" # Guayaquil
+  GER_VICTORY_POINTS_8435: "Mitellin" # Mitilini
+  GER_VICTORY_POINTS_9061: "Jonschu" # Joensuu
+  GER_VICTORY_POINTS_9075: "Inwern" # Inverness
+  GER_VICTORY_POINTS_9098: "Luga" # Luga
+  GER_VICTORY_POINTS_9108: "Lulea" # Luleå
+  GER_VICTORY_POINTS_9116: "Kirkens" # Kirkenes
+  GER_VICTORY_POINTS_9126: "Bodö" # Bodø
+  GER_VICTORY_POINTS_9127: "Alesund" # Ålesund
+  GER_VICTORY_POINTS_9131: "Wologda" # Vologda
+  GER_VICTORY_POINTS_9140: "Petsamo" # Petsamo
+  GER_VICTORY_POINTS_9147: "Haparanda" # Haparanda
+  GER_VICTORY_POINTS_9149: "Uppsala" # Uppsala
+  GER_VICTORY_POINTS_9167: "Tavastehus" # Hämeenlinna
+  GER_VICTORY_POINTS_9183: "Kouwola" # Kouvola
+  GER_VICTORY_POINTS_9186: "Boden" # Boden
+  GER_VICTORY_POINTS_9197: "Woltschow" # Volkhov
+  GER_VICTORY_POINTS_9206: "Wiborg" # Viipuri
+  GER_VICTORY_POINTS_9221: "Dorpat" # Tartu
+  GER_VICTORY_POINTS_9228: "Marienham" # Mariehamn
+  GER_VICTORY_POINTS_9258: "Pensa" # Penza
+  GER_VICTORY_POINTS_9259: "Tscheboksarie" # Cheboksary
+  GER_VICTORY_POINTS_9262: "Libau" # Liepāja
+  GER_VICTORY_POINTS_9263: "Gotenhafen" # Gdynia
+  GER_VICTORY_POINTS_9279: "Malmö" # Malmö
+  GER_VICTORY_POINTS_9288: "Homel" # Gomel
+  GER_VICTORY_POINTS_9289: "Mogilew" # Mogilev
+  GER_VICTORY_POINTS_9292: "Tscheljabinsk" # Chelyabinsk
+  GER_VICTORY_POINTS_9296: "Kristiansand" # Kristiansand
+  GER_VICTORY_POINTS_9297: "Beormingaham" # Birmingham
+  GER_VICTORY_POINTS_9303: "Gaillimh" # Galway
+  GER_VICTORY_POINTS_9304: "Baranowitschi" # Baranowicze
+  GER_VICTORY_POINTS_9310: "Kilkenny" # Kilkenny
+  GER_VICTORY_POINTS_9315: "Scaedfeld" # Sheffield
+  GER_VICTORY_POINTS_9329: "Jönköping" # Jönköping
+  GER_VICTORY_POINTS_9335: "Gröningen" # Groningen
+  GER_VICTORY_POINTS_9340: "Riga" # Rīga
+  GER_VICTORY_POINTS_9347: "Hamburg" # Hamburg
+  GER_VICTORY_POINTS_9355: "Orjol" # Orel
+  GER_VICTORY_POINTS_9357: "Wilkomir" # Ukmergė
+  GER_VICTORY_POINTS_9363: "Arnheim" # Arnhem
+  GER_VICTORY_POINTS_9377: "Peterspunkt" # Pointe-à-Pitre
+  GER_VICTORY_POINTS_9379: "Loidis" # Leeds
+  GER_VICTORY_POINTS_9388: "Stralsund" # Stralsund
+  GER_VICTORY_POINTS_9392: "Edenburg" # Edinburgh
+  GER_VICTORY_POINTS_9393: "Linköping" # Linköping
+  GER_VICTORY_POINTS_9402: "Joschkar-Ola" # Yoshkar-Ola
+  GER_VICTORY_POINTS_9417: "Rostow" # Rostov
+  GER_VICTORY_POINTS_9418: "Arlon" # Arlon
+  GER_VICTORY_POINTS_9427: "Krakau" # Kraków
+  GER_VICTORY_POINTS_9430: "Tagarogg" # Taganrog
+  GER_VICTORY_POINTS_9432: "Markstadt" # Marksshtadt
+  GER_VICTORY_POINTS_9434: "Hawre" # Le Havre
+  GER_VICTORY_POINTS_9449: "Belgord" # Belgorod
+  GER_VICTORY_POINTS_9450: "Schikago" # Chicago
+  GER_VICTORY_POINTS_9456: "Brandenburg" # Brandenburg
+  GER_VICTORY_POINTS_9458: "Portenmünd" # Portsmouth
+  GER_VICTORY_POINTS_9461: "Woroschilograd" # Voroshilovgrad
+  GER_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
+  GER_VICTORY_POINTS_9483: "Schaulen" # Šiauliai
+  GER_VICTORY_POINTS_9490: "Troyes" # Troyes
+  GER_VICTORY_POINTS_9494: "Zamoschk" # Zamość
+  GER_VICTORY_POINTS_9495: "Rennes" # Rennes
+  GER_VICTORY_POINTS_9496: "Seelow" # Seelow
+  GER_VICTORY_POINTS_9498: "Rotterdam" # Rotterdam
+  GER_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
+  GER_VICTORY_POINTS_9508: "Lodsch" # Łódź
+  GER_VICTORY_POINTS_9509: "Hamm" # Hamm
+  GER_VICTORY_POINTS_9511: "Oppeln" # Oppeln
+  GER_VICTORY_POINTS_9515: "Regensburg" # Regensburg
+  GER_VICTORY_POINTS_9517: "Stuttgart" # Stuttgart
+  GER_VICTORY_POINTS_9522: "Aachen" # Aachen
+  GER_VICTORY_POINTS_9536: "Karlerei" # Charleroi
+  GER_VICTORY_POINTS_9541: "Budweis" # Budweis
+  GER_VICTORY_POINTS_9544: "Weißpolackei" # Biała Podlaska
+  GER_VICTORY_POINTS_9557: "Würzburg" # Würzburg
+  GER_VICTORY_POINTS_9559: "Metz" # Metz
+  GER_VICTORY_POINTS_9560: "Wittenberg" # Wittenberg
+  GER_VICTORY_POINTS_9566: "Schostka" # Shostka
+  GER_VICTORY_POINTS_9569: "Tabor" # Tábor
+  GER_VICTORY_POINTS_9570: "Breslau" # Breslau
+  GER_VICTORY_POINTS_9575: "Trier" # Trier
+  GER_VICTORY_POINTS_9598: "Trient" # Trent
+  GER_VICTORY_POINTS_9600: "Lugano" # Lugano
+  GER_VICTORY_POINTS_9602: "Nisch" # Niš
+  GER_VICTORY_POINTS_9606: "Temeschwar" # Timisoara
+  GER_VICTORY_POINTS_9612: "Russe" # Ruse
+  GER_VICTORY_POINTS_9616: "Boise" # Boise
+  GER_VICTORY_POINTS_9617: "Bukarest" # Bucharest
+  GER_VICTORY_POINTS_9620: "Bern" # Bern
+  GER_VICTORY_POINTS_9627: "Laibach" # Ljubljana
+  GER_VICTORY_POINTS_9628: "Ordschonikidse" # Ordzhonikidze
+  GER_VICTORY_POINTS_9638: "Basel" # Basel
+  GER_VICTORY_POINTS_9642: "Besankon" # Besancon
+  GER_VICTORY_POINTS_9648: "Graz" # Graz
+  GER_VICTORY_POINTS_9652: "Rosenheim" # Rosenheim
+  GER_VICTORY_POINTS_9660: "Budapescht" # Budapest
+  GER_VICTORY_POINTS_9663: "Sotschi" # Sochi
+  GER_VICTORY_POINTS_9665: "Wels" # Wels
+  GER_VICTORY_POINTS_9670: "Deda" # Déda
+  GER_VICTORY_POINTS_9671: "Sankt Franzikus" # San Francisco
+  GER_VICTORY_POINTS_9672: "Neumarkt am Mieresch" # Târgu Mures
+  GER_VICTORY_POINTS_9677: "Theodosia" # Feodosia
+  GER_VICTORY_POINTS_9680: "Kertsch" # Kerch
+  GER_VICTORY_POINTS_9692: "Preßburg" # Bratislava
+  GER_VICTORY_POINTS_9710: "Bajonne" # Bayonne
+  GER_VICTORY_POINTS_9713: "Sakrament" # Sacramento
+  GER_VICTORY_POINTS_9716: "Jassi" # Iasi
+  GER_VICTORY_POINTS_9718: "Dschankoi" # Dzhankoi
+  GER_VICTORY_POINTS_9729: "Melitopol" # Melitopol
+  GER_VICTORY_POINTS_9737: "Bordo" # Bordeaux
+  GER_VICTORY_POINTS_9752: "Parma" # Parma
+  GER_VICTORY_POINTS_9753: "Astrakahn" # Astrakhan
+  GER_VICTORY_POINTS_9764: "Barcelona" # Barcelona
+  GER_VICTORY_POINTS_9769: "Schumen" # Shumen
+  GER_VICTORY_POINTS_9771: "Widin" # Vidin
+  GER_VICTORY_POINTS_9772: "Sassari" # Sassari
+  GER_VICTORY_POINTS_9777: "Siwas" # Sivas
+  GER_VICTORY_POINTS_9780: "Skutari" # Shkodër
+  GER_VICTORY_POINTS_9783: "Warna" # Varna
+  GER_VICTORY_POINTS_9784: "Bari" # Bari
+  GER_VICTORY_POINTS_9787: "Viseu" # Viseu
+  GER_VICTORY_POINTS_9793: "Palma" # Palma de Mallorca
+  GER_VICTORY_POINTS_9799: "Balikesir" # Balıkesir
+  GER_VICTORY_POINTS_9807: "Morioka" # Morioka
+  GER_VICTORY_POINTS_9809: "Podgoritza" # Podgorica
+  GER_VICTORY_POINTS_9814: "Engelstadt" # Los Angeles
+  GER_VICTORY_POINTS_9817: "Porto" # Porto
+  GER_VICTORY_POINTS_9821: "Kattaro" # Kotor
+  GER_VICTORY_POINTS_9823: "Urfa" # Urfa
+  GER_VICTORY_POINTS_9832: "Providentz" # Providence
+  GER_VICTORY_POINTS_9833: "Konstantinopel" # Istanbul
+  GER_VICTORY_POINTS_9840: "Hueska" # Huesca
+  GER_VICTORY_POINTS_9843: "Peiping" # Beiping
+  GER_VICTORY_POINTS_9849: "Prisren" # Prizren
+  GER_VICTORY_POINTS_9859: "Mutsu" # Mutsu
+  GER_VICTORY_POINTS_9860: "Tuntscheli" # Tunceli
+  GER_VICTORY_POINTS_9861: "Konja" # Konya
+  GER_VICTORY_POINTS_9862: "Tschaskowo" # Haskovo
+  GER_VICTORY_POINTS_9868: "Erzingen" # Erzîngan
+  GER_VICTORY_POINTS_9869: "Ewora" # Évora
+  GER_VICTORY_POINTS_9875: "Elbasan" # Elbasan
+  GER_VICTORY_POINTS_9878: "Afion" # Afyon
+  GER_VICTORY_POINTS_9888: "Jambol" # Yambol
+  GER_VICTORY_POINTS_9893: "Antep" # Gaziantep
+  GER_VICTORY_POINTS_9894: "Mostar" # Mostar
+  GER_VICTORY_POINTS_9898: "Monpellier" # Montpellier
+  GER_VICTORY_POINTS_9902: "Burgas" # Burgas
+  GER_VICTORY_POINTS_9904: "Rom" # Rome
+  GER_VICTORY_POINTS_9907: "Florenz" # Florence
+  GER_VICTORY_POINTS_9909: "Nizza" # Nice
+  GER_VICTORY_POINTS_9914: "Tirana" # Tirana
+  GER_VICTORY_POINTS_9932: "Trapezunt" # Trabzon
+  GER_VICTORY_POINTS_9937: "Dschin-Dschia-Schai" # Jinjiazhai
+  GER_VICTORY_POINTS_9938: "Swatau" # Shantou
+  GER_VICTORY_POINTS_9940: "Iraklion" # Heraklion
+  GER_VICTORY_POINTS_9945: "Keuta" # Ceuta
+  GER_VICTORY_POINTS_9948: "Langson" # Lang Son
+  GER_VICTORY_POINTS_9950: "Nagasaki" # Nagasaki
+  GER_VICTORY_POINTS_9952: "Sado" # Sado
+  GER_VICTORY_POINTS_9958: "Tschengtschou" # Zhengzhou
+  GER_VICTORY_POINTS_9962: "Kigali" # Kigali
+  GER_VICTORY_POINTS_9965: "Tokushima" # Tokushima
+  GER_VICTORY_POINTS_9968: "Taishakugawa-Talsperre" # Taishakugawa Dam
+  GER_VICTORY_POINTS_9970: "Kukong" # Kukong
+  GER_VICTORY_POINTS_9974: "Ningpo" # Ningbo
+  GER_VICTORY_POINTS_9975: "Bad Achmet" # Ahmadabad
+  GER_VICTORY_POINTS_9979: "Malaga" # Málaga
+  GER_VICTORY_POINTS_9989: "Süd Barranei" # Sidi Barrani
+  GER_VICTORY_POINTS_9990: "Reggio Kalabrien" # Reggio Calabria
+  GER_VICTORY_POINTS_9994: "Biserte" # Bizerte
+  GER_VICTORY_POINTS_9998: "Jokohama" # Yokohama
+  GER_VICTORY_POINTS_10000: "Tsingtau" # Qingdao
+  GER_VICTORY_POINTS_10004: "Fangtschöng" # Fangcheng
+  GER_VICTORY_POINTS_10007: "Rhodos" # Rhodes
+  GER_VICTORY_POINTS_10011: "Tsuschima" # Tsushima
+  GER_VICTORY_POINTS_10015: "Nagano" # Nagano
+  GER_VICTORY_POINTS_10020: "Aso" # Aso
+  GER_VICTORY_POINTS_10024: "Murschia" # Murcia
+  GER_VICTORY_POINTS_10032: "Kanazawa" # Kanazawa
+  GER_VICTORY_POINTS_10041: "Denmislien" # Denizli
+  GER_VICTORY_POINTS_10052: "Jamagutschi" # Yamaguchi
+  GER_VICTORY_POINTS_10055: "Tottori" # Tottori
+  GER_VICTORY_POINTS_10056: "Mersin" # Mersin
+  GER_VICTORY_POINTS_10061: "Merlinstadt" # Marsa Matruh
+  GER_VICTORY_POINTS_10062: "Hongkong" # Hong Kong
+  GER_VICTORY_POINTS_10068: "Tientsin" # Tianjin
+  GER_VICTORY_POINTS_10070: "Rabat" # Rabat
+  GER_VICTORY_POINTS_10073: "Mansura" # Mansoura
+  GER_VICTORY_POINTS_10074: "Palermo" # Palermo
+  GER_VICTORY_POINTS_10076: "Sutschou" # Suzhou
+  GER_VICTORY_POINTS_10092: "Oita" # Oita
+  GER_VICTORY_POINTS_10099: "Scharm esch-Scheich" # Sharm el-Sheikh
+  GER_VICTORY_POINTS_10106: "Mosul" # Mosul
+  GER_VICTORY_POINTS_10110: "Kwangdschu" # Gwangju
+  GER_VICTORY_POINTS_10115: "Tschongdschu" # Cheongju
+  GER_VICTORY_POINTS_10118: "Dschamnagar" # Jamnagar
+  GER_VICTORY_POINTS_10125: "Nagoya" # Nagoya
+  GER_VICTORY_POINTS_10128: "Toyama" # Toyama
+  GER_VICTORY_POINTS_10149: "Kirschsee" # Pondicherry
+  GER_VICTORY_POINTS_10153: "Manado" # Manado
+  GER_VICTORY_POINTS_10169: "Gorontal" # Gorontalo
+  GER_VICTORY_POINTS_10172: "Aquaskaliennen" # Aguascalientes
+  GER_VICTORY_POINTS_10173: "Rawalpindi" # Rawalpindi
+  GER_VICTORY_POINTS_10199: "Sandakan" # Sandakan
+  GER_VICTORY_POINTS_10201: "Trinkomali" # Trincomalee
+  GER_VICTORY_POINTS_10203: "Korfu" # Corfu
+  GER_VICTORY_POINTS_10212: "Jesselton" # Jesselton
+  GER_VICTORY_POINTS_10221: "Adjütaja" # Ayutthaya
+  GER_VICTORY_POINTS_10230: "Schörbrock" # Sherbrooke
+  GER_VICTORY_POINTS_10234: "Buka" # Buka
+  GER_VICTORY_POINTS_10243: "Goldstadt" # Cagayan de Oro
+  GER_VICTORY_POINTS_10246: "Madurei" # Madurai
+  GER_VICTORY_POINTS_10254: "Nassau" # Nassau
+  GER_VICTORY_POINTS_10256: "Magnitogorscht" # Magnitogorsk
+  GER_VICTORY_POINTS_10260: "Alotau" # Alotau
+  GER_VICTORY_POINTS_10263: "Makassar" # Makassar
+  GER_VICTORY_POINTS_10265: "Manil" # Manila
+  GER_VICTORY_POINTS_10278: "Madras" # Madras
+  GER_VICTORY_POINTS_10285: "Miri" # Miri
+  GER_VICTORY_POINTS_10297: "Kuala Lumpur" # Kuala Lumpur
+  GER_VICTORY_POINTS_10309: "Turan" # Tourane
+  GER_VICTORY_POINTS_10311: "Bad Aurangen" # Aurangabad
+  GER_VICTORY_POINTS_10312: "Kostanai" # Kostanay
+  GER_VICTORY_POINTS_10322: "Palembang" # Palembang
+  GER_VICTORY_POINTS_10325: "Tandjung Selor" # Tanjung Selor
+  GER_VICTORY_POINTS_10329: "Slatust" # Zlatoust
+  GER_VICTORY_POINTS_10330: "Xajabuli" # Xayabuli
+  GER_VICTORY_POINTS_10337: "Houston" # Houston (Named after a person, Sam Houston)
+  GER_VICTORY_POINTS_10344: "Taungau" # Taungoo
+  GER_VICTORY_POINTS_10362: "Montewido" # Montevideo
+  GER_VICTORY_POINTS_10370: "Frühlingsfeld" # Springfield
+  GER_VICTORY_POINTS_10372: "Silingol" # Xilinhot
+  GER_VICTORY_POINTS_10382: "Padang" # Padang
+  GER_VICTORY_POINTS_10397: "Tschangpei" # Zhangbei
+  GER_VICTORY_POINTS_10398: "Petschabun" # Petchabun
+  GER_VICTORY_POINTS_10400: "Pretoria" # Pretoria
+  GER_VICTORY_POINTS_10403: "Ardann" # Ardahan
+  GER_VICTORY_POINTS_10404: "Kweilin" # Guilin
+  GER_VICTORY_POINTS_10405: "Johannisburg" # Joinville
+  GER_VICTORY_POINTS_10412: "Scheon" # Richmond
+  GER_VICTORY_POINTS_10425: "Khon-Kenn" # Khon Kaen
+  GER_VICTORY_POINTS_10433: "Harbin" # Harbin
+  GER_VICTORY_POINTS_10438: "Nakon-Ratschasima" # Nakhon Ratchasima
+  GER_VICTORY_POINTS_10444: "Sapporo" # Sapporo
+  GER_VICTORY_POINTS_10447: "Alegiershafen" # Porto Alegre
+  GER_VICTORY_POINTS_10459: "Bose" # Bose
+  GER_VICTORY_POINTS_10463: "Kiatsmusi" # Jiamusi
+  GER_VICTORY_POINTS_10467: "Angkor" # Angkor
+  GER_VICTORY_POINTS_10472: "Kars" # Kars
+  GER_VICTORY_POINTS_10488: "Kokand" # Kokand
+  GER_VICTORY_POINTS_10493: "Wolmar" # Valmiera
+  GER_VICTORY_POINTS_10497: "Sirt" # Sêrt
+  GER_VICTORY_POINTS_10502: "Paisand" # Paysandú
+  GER_VICTORY_POINTS_10505: "Merauke" # Merauke
+  GER_VICTORY_POINTS_10513: "Sankt-Paul-Stadt" # São Paulo
+  GER_VICTORY_POINTS_10545: "Hetsching" # Hejing
+  GER_VICTORY_POINTS_10580: "Abakan" # Abakan
+  GER_VICTORY_POINTS_10609: "Waikar" # Waikaremoana
+  GER_VICTORY_POINTS_10612: "Mandschuli" # Manzhouli
+  GER_VICTORY_POINTS_10627: "Küsil" # Kyzyl
+  GER_VICTORY_POINTS_10641: "Jakutschk" # Yakutsk
+  GER_VICTORY_POINTS_10655: "Kantschasu" # Kanchazu
+  GER_VICTORY_POINTS_10671: "Samarkand" # Samarkand
+  GER_VICTORY_POINTS_10696: "Omsk" # Omsk
+  GER_VICTORY_POINTS_10717: "Kaustadt" # Kansas City
+  GER_VICTORY_POINTS_10729: "Amritsei" # Amritsar
+  GER_VICTORY_POINTS_10730: "Ackerpulko" # Acapulco
+  GER_VICTORY_POINTS_10737: "Kabul" # Kabul
+  GER_VICTORY_POINTS_10739: "El-Faschir" # Al Fashir
+  GER_VICTORY_POINTS_10747: "Bogoda" # Bogota
+  GER_VICTORY_POINTS_10750: "Dulan" # Dulan
+  GER_VICTORY_POINTS_10752: "Taitz" # Taizz
+  GER_VICTORY_POINTS_10760: "Maskat" # Muscat
+  GER_VICTORY_POINTS_10765: "Hermosillo" # Hermosillo
+  GER_VICTORY_POINTS_10769: "Reinosa" # Reynosa
+  GER_VICTORY_POINTS_10772: "Lahur" # Lahore
+  GER_VICTORY_POINTS_10775: "Gaba" # Gaba
+  GER_VICTORY_POINTS_10781: "Baglan" # Baghlan
+  GER_VICTORY_POINTS_10782: "Iran-Schahr" # Iransahr
+  GER_VICTORY_POINTS_10803: "Abidjahn" # Abidjan
+  GER_VICTORY_POINTS_10811: "Duhok" # Duhok
+  GER_VICTORY_POINTS_10830: "Tschihauha" # Chihuahua
+  GER_VICTORY_POINTS_10833: "Berbera" # Berbera
+  GER_VICTORY_POINTS_10836: "Wagadugu" # Ouagadougou
+  GER_VICTORY_POINTS_10837: "Teheran" # Tehran
+  GER_VICTORY_POINTS_10840: "Sanaa" # Sana'a
+  GER_VICTORY_POINTS_10841: "Jahn" # Ya'an
+  GER_VICTORY_POINTS_10854: "Wuhai" # Wuhai
+  GER_VICTORY_POINTS_10856: "Tschamdo" # Chamdo
+  GER_VICTORY_POINTS_10858: "Kindu" # Kindu
+  GER_VICTORY_POINTS_10862: "Ackra" # Accra
+  GER_VICTORY_POINTS_10863: "Heschun" # Heshun
+  GER_VICTORY_POINTS_10879: "Sankt Felix" # San Félix
+  GER_VICTORY_POINTS_10886: "Guatemala" # Guatemala
+  GER_VICTORY_POINTS_10887: "Lahur" # Lahore
+  GER_VICTORY_POINTS_10889: "Neu-Köslin" # Coatzacoalcos
+  GER_VICTORY_POINTS_10895: "Masatlan" # Mazatlán
+  GER_VICTORY_POINTS_10898: "Harappa" # Harappa
+  GER_VICTORY_POINTS_10904: "Dubai" # Dubai
+  GER_VICTORY_POINTS_10906: "Paramar" # Paramaribo
+  GER_VICTORY_POINTS_10913: "Kerman" # Kerman
+  GER_VICTORY_POINTS_10919: "Neuhafen" # Porto Novo
+  GER_VICTORY_POINTS_10929: "Sallenburg" # Salisbury
+  GER_VICTORY_POINTS_10933: "Natal" # Natal
+  GER_VICTORY_POINTS_10934: "Manaus" # Manaus
+  GER_VICTORY_POINTS_10946: "Salwador" # Salvador
+  GER_VICTORY_POINTS_10953: "Rawson" # Rawson
+  GER_VICTORY_POINTS_10964: "Mendoza" # Mendoza
+  GER_VICTORY_POINTS_10966: "Neu-Lissabon" # Nova Lisboa
+  GER_VICTORY_POINTS_10968: "Boma" # Boma
+  GER_VICTORY_POINTS_10970: "Jurimagusa" # Yurimaguas
+  GER_VICTORY_POINTS_10980: "Januarsfluss-Stadt" # Rio de Janeiro
+  GER_VICTORY_POINTS_10999: "Vitoria" # Vitória
+  GER_VICTORY_POINTS_11001: "Salta" # Salta
+  GER_VICTORY_POINTS_11007: "Posadas" # Posadas
+  GER_VICTORY_POINTS_11023: "Peter-Kaballero-Stadt" # Pedro Juan Caballero
+  GER_VICTORY_POINTS_11050: "Tromsö" # Tromsø
+  GER_VICTORY_POINTS_11061: "Kotlas" # Kotlas
+  GER_VICTORY_POINTS_11064: "Strapa-Flut" # Scapa Flow
+  GER_VICTORY_POINTS_11091: "Gäwle" # Gävle
+  GER_VICTORY_POINTS_11105: "Helsingfors" # Helsinki
+  GER_VICTORY_POINTS_11114: "Karlstadt" # Karlstad
+  GER_VICTORY_POINTS_11125: "Tornea" # Tornio
+  GER_VICTORY_POINTS_11127: "Wesenberg" # Rakvere
+  GER_VICTORY_POINTS_11129: "Krangede" # Krångede
+  GER_VICTORY_POINTS_11141: "Kuppio" # Kuopio
+  GER_VICTORY_POINTS_11148: "Östersund" # Östersund
+  GER_VICTORY_POINTS_11151: "Friedrichstadt" # Fredrikstad
+  GER_VICTORY_POINTS_11153: "Unter-Swir-Wasserkraftwerk" # Lower Svir Hydroelectric Station
+  GER_VICTORY_POINTS_11155: "Gälliware" # Gällivare
+  GER_VICTORY_POINTS_11159: "Petrosawosk" # Petrozavodsk
+  GER_VICTORY_POINTS_11160: "Christianstadt" # Kristianstad
+  GER_VICTORY_POINTS_11164: "Kemi" # Kemi
+  GER_VICTORY_POINTS_11202: "Pleskau" # Pskov
+  GER_VICTORY_POINTS_11211: "Hanko" # Hanko
+  GER_VICTORY_POINTS_11215: "Karlskrone" # Karlskrona
+  GER_VICTORY_POINTS_11218: "Dunfress" # Dumfries
+  GER_VICTORY_POINTS_11225: "Kuibischew" # Kuybyshev
+  GER_VICTORY_POINTS_11234: "Welikei-Luki" # Velikiye Luki
+  GER_VICTORY_POINTS_11237: "Wedrafjord" # Waterford
+  GER_VICTORY_POINTS_11241: "Witebs" # Vitebsk
+  GER_VICTORY_POINTS_11248: "Rjasan" # Ryazan
+  GER_VICTORY_POINTS_11276: "Schwerin" # Schwerin
+  GER_VICTORY_POINTS_11279: "Legerkaster" # Leicester
+  GER_VICTORY_POINTS_11287: "Athlon" # Athlone
+  GER_VICTORY_POINTS_11293: "Difflin" # Dublin
+  GER_VICTORY_POINTS_11297: "Hul" # Hull
+  GER_VICTORY_POINTS_11301: "Weißfluss" # Białystok
+  GER_VICTORY_POINTS_11305: "Lübeck" # Lübeck
+  GER_VICTORY_POINTS_11312: "Marienpol" # Marijampolė
+  GER_VICTORY_POINTS_11313: "Salihorsk" # Salihorsk
+  GER_VICTORY_POINTS_11332: "Kardol" # Carlisle
+  GER_VICTORY_POINTS_11336: "Roslaul" # Roslavl
+  GER_VICTORY_POINTS_11343: "Stolp" # Stolp
+  GER_VICTORY_POINTS_11349: "Reschew" # Rzhev
+  GER_VICTORY_POINTS_11350: "Brück" # Bridgetown
+  GER_VICTORY_POINTS_11351: "Tambau" # Tambov
+  GER_VICTORY_POINTS_11360: "Emden" # Emden
+  GER_VICTORY_POINTS_11366: "Niebüll" # Niebüll
+  GER_VICTORY_POINTS_11370: "Minsk" # Minsk
+  GER_VICTORY_POINTS_11371: "Sligo" # Sligo
+  GER_VICTORY_POINTS_11372: "Köslin" # Köslin
+  GER_VICTORY_POINTS_11375: "Gorki" # Gorky
+  GER_VICTORY_POINTS_11380: "Nordköpfing" # Norrköping
+  GER_VICTORY_POINTS_11386: "Lück" # Lyck
+  GER_VICTORY_POINTS_11388: "Münster" # Münster
+  GER_VICTORY_POINTS_11399: "Lublin" # Lublin
+  GER_VICTORY_POINTS_11401: "Reichenberg" # Liberec
+  GER_VICTORY_POINTS_11405: "Saporoschje" # Zaporozhe
+  GER_VICTORY_POINTS_11420: "Amien" # Amiens
+  GER_VICTORY_POINTS_11430: "Kieltse" # Kielce
+  GER_VICTORY_POINTS_11431: "Möhnestausee" # Möhne Reservoir
+  GER_VICTORY_POINTS_11432: "Aussig" # Aussig
+  GER_VICTORY_POINTS_11435: "Bitburg" # Bitburg
+  GER_VICTORY_POINTS_11437: "Nieper-Petrowsk" # Dnipropetrovsk
+  GER_VICTORY_POINTS_11448: "Labrang" # Labrang
+  GER_VICTORY_POINTS_11465: "Nanten" # Nantes
+  GER_VICTORY_POINTS_11467: "Gleiwitz" # Gleiwitz
+  GER_VICTORY_POINTS_11476: "Millergau" # Millerovo
+  GER_VICTORY_POINTS_11479: "Lemberg" # Lwów
+  GER_VICTORY_POINTS_11483: "Lille" # Lille
+  GER_VICTORY_POINTS_11499: "Ulm" # Ulm
+  GER_VICTORY_POINTS_11504: "Poltawa" # Poltava
+  GER_VICTORY_POINTS_11506: "Ost-Paris" # Paris-Est
+  GER_VICTORY_POINTS_11516: "Nantsen" # Nancy
+  GER_VICTORY_POINTS_11519: "Lüttich" # Liège
+  GER_VICTORY_POINTS_11523: "Engels" # Engels
+  GER_VICTORY_POINTS_11525: "wranau-Talsperre" # Vranov Dam
+  GER_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+  GER_VICTORY_POINTS_11533: "Edertal-Dam" # Edersee Dam
+  GER_VICTORY_POINTS_11537: "Uralsk" # Ural'sk
+  GER_VICTORY_POINTS_11539: "Sillein" # Žilina
+  GER_VICTORY_POINTS_11542: "Prag" # Prague
+  GER_VICTORY_POINTS_11544: "Nürnberg" # Nuremberg
+  GER_VICTORY_POINTS_11548: "Kalai" # Calais
+  GER_VICTORY_POINTS_11560: "Mainz" # Mainz
+  GER_VICTORY_POINTS_11561: "Kriwoi Rog" # Kryvyi Rih
+  GER_VICTORY_POINTS_11562: "Maas-Tricht" # Maastricht
+  GER_VICTORY_POINTS_11563: "Rauen" # Rouen
+  GER_VICTORY_POINTS_11564: "Sankt Veit am Flaum" # Rijeka
+  GER_VICTORY_POINTS_11581: "Agram" # Zagreb
+  GER_VICTORY_POINTS_11584: "Venedig" # Venice
+  GER_VICTORY_POINTS_11586: "Belgrad" # Belgrade
+  GER_VICTORY_POINTS_11597: "Dobritsch" # Dobrich
+  GER_VICTORY_POINTS_11598: "Bozen" # Bolzano
+  GER_VICTORY_POINTS_11610: "Fünfkirchen" # Pécs
+  GER_VICTORY_POINTS_11612: "Willach" # Villach
+  GER_VICTORY_POINTS_11614: "Naltschik" # Nalchik
+  GER_VICTORY_POINTS_11617: "Suchum" # Sukhumi
+  GER_VICTORY_POINTS_11640: "Müllheim" # Müllheim
+  GER_VICTORY_POINTS_11646: "Tschongrad" # Csongrád
+  GER_VICTORY_POINTS_11654: "Büffelstadt" # Buffalo
+  GER_VICTORY_POINTS_11659: "Debrezin" # Debrecen
+  GER_VICTORY_POINTS_11666: "Wien" # Vienna
+  GER_VICTORY_POINTS_11670: "Odessa" # Odessa
+  GER_VICTORY_POINTS_11673: "Braga" # Braga
+  GER_VICTORY_POINTS_11674: "Jelisawetpol" # Ganja
+  GER_VICTORY_POINTS_11683: "Nikolajau" # Mykolaiv
+  GER_VICTORY_POINTS_11691: "Ungwar" # Uzhhorod
+  GER_VICTORY_POINTS_11696: "Stawopol" # Stavropol
+  GER_VICTORY_POINTS_11707: "Owiedo" # Oviedo
+  GER_VICTORY_POINTS_11724: "Elista" # Elista
+  GER_VICTORY_POINTS_11746: "Adana" # Adana
+  GER_VICTORY_POINTS_11747: "Angora" # Ankara
+  GER_VICTORY_POINTS_11764: "Jinkau" # Yingkou
+  GER_VICTORY_POINTS_11767: "Walona" # Vlorë
+  GER_VICTORY_POINTS_11771: "Mukden" # Mukden
+  GER_VICTORY_POINTS_11773: "Kagliar" # Cagliari
+  GER_VICTORY_POINTS_11800: "Petersburg" # Pittsburgh
+  GER_VICTORY_POINTS_11801: "Jehol" # Jehol
+  GER_VICTORY_POINTS_11805: "Lissabon" # Lisbon
+  GER_VICTORY_POINTS_11810: "Tarsus" # Tarsus
+  GER_VICTORY_POINTS_11811: "Ismid" # İzmit
+  GER_VICTORY_POINTS_11818: "Saloniki" # Thessaloniki
+  GER_VICTORY_POINTS_11822: "Tungtschou" # Tongzhou
+  GER_VICTORY_POINTS_11825: "Walladolid" # Valladolid
+  GER_VICTORY_POINTS_11833: "Liworno" # Livorno
+  GER_VICTORY_POINTS_11834: "Marsill" # Marseille
+  GER_VICTORY_POINTS_11835: "Sinitschu" # Sinijiu
+  GER_VICTORY_POINTS_11836: "Tunglau" # Tongliao
+  GER_VICTORY_POINTS_11837: "Tarent" # Taranto
+  GER_VICTORY_POINTS_11842: "Adrianopel" # Edirne
+  GER_VICTORY_POINTS_11846: "Anzio" # Anzio
+  GER_VICTORY_POINTS_11847: "Hachinohe" # Hachinohe
+  GER_VICTORY_POINTS_11853: "Erserum" # Erzurum
+  GER_VICTORY_POINTS_11857: "Leskowatz" # Leskovac
+  GER_VICTORY_POINTS_11865: "Wanksien" # Wanxian
+  GER_VICTORY_POINTS_11881: "Samsun" # Samsun
+  GER_VICTORY_POINTS_11899: "Sarajewo" # Sarajevo
+  GER_VICTORY_POINTS_11905: "Alexandropolis" # Alexandroupolis
+  GER_VICTORY_POINTS_11908: "Takasaki" # Takasaki
+  GER_VICTORY_POINTS_11913: "Nanking" # Nanjing
+  GER_VICTORY_POINTS_11921: "Saffax" # Sfax
+  GER_VICTORY_POINTS_11925: "Kumamoto" # Kumamoto
+  GER_VICTORY_POINTS_11929: "Dacka" # Dacca
+  GER_VICTORY_POINTS_11931: "Lojang" # Luoyang
+  GER_VICTORY_POINTS_11932: "Naha" # Naha
+  GER_VICTORY_POINTS_11934: "Bondo" # Bondo
+  GER_VICTORY_POINTS_11946: "Fukujama" # Fukuyama
+  GER_VICTORY_POINTS_11954: "Bengasi" # Bengasi
+  GER_VICTORY_POINTS_11960: "Kioto" # Kyoto
+  GER_VICTORY_POINTS_11964: "Damiette" # Damietta
+  GER_VICTORY_POINTS_11965: "Kalamata" # Kalamáta
+  GER_VICTORY_POINTS_11969: "Tunis" # Tunis
+  GER_VICTORY_POINTS_11972: "Ipin" # Yibin
+  GER_VICTORY_POINTS_11974: "Assiut" # Asyut
+  GER_VICTORY_POINTS_11976: "Mahan" # Ma'an
+  GER_VICTORY_POINTS_11977: "Taejon" # Daejeon
+  GER_VICTORY_POINTS_11981: "Tschantschiang" # Zhanjiang
+  GER_VICTORY_POINTS_11984: "Nikosia" # Nicosia
+  GER_VICTORY_POINTS_11985: "Schimonoseki" # Shimonoseki
+  GER_VICTORY_POINTS_11998: "Brindisi" # Brindisi
+  GER_VICTORY_POINTS_11999: "Assuan" # Aswan
+  GER_VICTORY_POINTS_12002: "Hurgada" # Hurghada
+  GER_VICTORY_POINTS_12003: "Walletta" # Valletta
+  GER_VICTORY_POINTS_12019: "Huidschou" # Huizhou
+  GER_VICTORY_POINTS_12021: "Hilo" # Hilo
+  GER_VICTORY_POINTS_12026: "Paoting" # Baoding
+  GER_VICTORY_POINTS_12029: "Antiochia" # Antakya
+  GER_VICTORY_POINTS_12031: "Himetschi" # Himeji
+  GER_VICTORY_POINTS_12034: "Batna" # Batna
+  GER_VICTORY_POINTS_12038: "Almeria" # Almería
+  GER_VICTORY_POINTS_12044: "Sohag" # Sohag
+  GER_VICTORY_POINTS_12046: "Falludscha" # Fallujah
+  GER_VICTORY_POINTS_12049: "Saidhafen" # Port Said
+  GER_VICTORY_POINTS_12051: "Konstantin" # Constantine
+  GER_VICTORY_POINTS_12058: "Kania" # Chania
+  GER_VICTORY_POINTS_12065: "Kaobang" # Cao Bang
+  GER_VICTORY_POINTS_12068: "Takao" # Gaoxiong
+  GER_VICTORY_POINTS_12071: "Luxor" # Luxor
+  GER_VICTORY_POINTS_12077: "Maoming" # Maoming
+  GER_VICTORY_POINTS_12087: "Tetuan" # Tétouan
+  GER_VICTORY_POINTS_12089: "Taegu" # Daegu
+  GER_VICTORY_POINTS_12090: "Achjab" # Akyab
+  GER_VICTORY_POINTS_12097: "Hamamatsu" # Hamamatsu
+  GER_VICTORY_POINTS_12100: "Melila" # Melilla
+  GER_VICTORY_POINTS_12103: "Koror" # Koror
+  GER_VICTORY_POINTS_12110: "Bandjermasin" # Banjarmasin
+  GER_VICTORY_POINTS_12114: "Warangal" # Warangal
+  GER_VICTORY_POINTS_12118: "Tschebu" # Cebu
+  GER_VICTORY_POINTS_12120: "Willenhafen" # Port Vila
+  GER_VICTORY_POINTS_12140: "Agana" # Hagatna
+  GER_VICTORY_POINTS_12144: "Kangar" # Kangar
+  GER_VICTORY_POINTS_12148: "Papett" # Pape'ete
+  GER_VICTORY_POINTS_12149: "Kwebek" # Québec
+  GER_VICTORY_POINTS_12154: "Madang" # Madang
+  GER_VICTORY_POINTS_12189: "Kabarausk" # Khabarovsk
+  GER_VICTORY_POINTS_12190: "Dili" # Dili
+  GER_VICTORY_POINTS_12199: "Kuala Terengau" # Kuala Terengganu
+  GER_VICTORY_POINTS_12204: "Phan Rang" # Pan Rang
+  GER_VICTORY_POINTS_12206: "Pante Makassar" # Pante Macassar
+  GER_VICTORY_POINTS_12212: "Djambi" # Jambi
+  GER_VICTORY_POINTS_12213: "Aparri" # Aparri
+  GER_VICTORY_POINTS_12215: "Dinding" # Dinding
+  GER_VICTORY_POINTS_12223: "Sagunai" # Saguenay
+  GER_VICTORY_POINTS_12224: "Tscha-Tschöngsau" # Chachoengsao
+  GER_VICTORY_POINTS_12225: "Balikpapen" # Balikpapan
+  GER_VICTORY_POINTS_12228: "Tawau" # Tawau
+  GER_VICTORY_POINTS_12230: "Puket" # Phuket
+  GER_VICTORY_POINTS_12234: "Waingpau" # Waingapu
+  GER_VICTORY_POINTS_12237: "Lai" # Lae
+  GER_VICTORY_POINTS_12240: "Wewak" # Wewak
+  GER_VICTORY_POINTS_12248: "Kundus" # Kunduz
+  GER_VICTORY_POINTS_12251: "Belarhafen" # Port Blair
+  GER_VICTORY_POINTS_12262: "Puer" # Pu'er
+  GER_VICTORY_POINTS_12283: "Sibu" # Sibu
+  GER_VICTORY_POINTS_12295: "Kolapur" # Kolhapur
+  GER_VICTORY_POINTS_12299: "Singapur" # Singapore
+  GER_VICTORY_POINTS_12304: "Königsburg" # Kingston
+  GER_VICTORY_POINTS_12306: "Neukwen" # Neuquén
+  GER_VICTORY_POINTS_12319: "Lau-Kai" # Lào Cai
+  GER_VICTORY_POINTS_12320: "Jerewan" # Yerevan
+  GER_VICTORY_POINTS_12321: "Wiedma" # Viedma
+  GER_VICTORY_POINTS_12331: "Pailingmiao" # Pailingmiao
+  GER_VICTORY_POINTS_12333: "Aschkabad" # Ashkhabad
+  GER_VICTORY_POINTS_12334: "Petropolis" # Petrópolis
+  GER_VICTORY_POINTS_12338: "Darjeeling" # Darjeeling
+  GER_VICTORY_POINTS_12350: "Hengjang" # Hengyang
+  GER_VICTORY_POINTS_12356: "Wajaupu" # Wayaobu
+  GER_VICTORY_POINTS_12357: "Milwauburg" # Milwaukee
+  GER_VICTORY_POINTS_12360: "Utt-Tanni" # Udon Thani
+  GER_VICTORY_POINTS_12364: "Gutenburg" # Buenos Aires
+  GER_VICTORY_POINTS_12366: "Dispur" # Dispur
+  GER_VICTORY_POINTS_12371: "Hollandia" # Hollandia
+  GER_VICTORY_POINTS_12376: "Kereköse" # Qerekose
+  GER_VICTORY_POINTS_12384: "Atlantika" # Atlanta
+  GER_VICTORY_POINTS_12387: "Batmann" # Batman
+  GER_VICTORY_POINTS_12406: "Sidnei" # Sydney
+  GER_VICTORY_POINTS_12413: "Rumadia" # Rumadiyah
+  GER_VICTORY_POINTS_12421: "Asaikawa" # Asahikawa
+  GER_VICTORY_POINTS_12432: "Datong" # Datong
+  GER_VICTORY_POINTS_12434: "Lankaran" # Lankaran
+  GER_VICTORY_POINTS_12441: "Kumri" # Gyumri
+  GER_VICTORY_POINTS_12446: "Tojohara" # Toyohara
+  GER_VICTORY_POINTS_12448: "Erenhot" # Erenhot
+  GER_VICTORY_POINTS_12459: "Bangor" # Bangor
+  GER_VICTORY_POINTS_12461: "Tengau" # Tijuana
+  GER_VICTORY_POINTS_12465: "Kiwa" # Khiva
+  GER_VICTORY_POINTS_12467: "Hankau" # Hankow
+  GER_VICTORY_POINTS_12468: "Salto" # Salto
+  GER_VICTORY_POINTS_12473: "Aleppo" # Aleppo
+  GER_VICTORY_POINTS_12476: "Hakkari" # Hakkâri
+  GER_VICTORY_POINTS_12485: "Ulanhot" # Ulanhot
+  GER_VICTORY_POINTS_12489: "Klein-Felsen" # Little Rock
+  GER_VICTORY_POINTS_12501: "Nash-Stadt" # Nashville
+  GER_VICTORY_POINTS_12505: "Sankt Johann" # St. John's
+  GER_VICTORY_POINTS_12512: "Godthaab" # Nuuk
+  GER_VICTORY_POINTS_12549: "Werkojansk" # Verkhoyansk
+  GER_VICTORY_POINTS_12557: "Bajan-Tümen" # Bayan Tümen
+  GER_VICTORY_POINTS_12583: "Frunse" # Frunze
+  GER_VICTORY_POINTS_12586: "Omaha" # Omaha
+  GER_VICTORY_POINTS_12589: "Kapstadt" # Cape Town
+  GER_VICTORY_POINTS_12594: "Semipalatinsk" # Semipalatinsk
+  GER_VICTORY_POINTS_12601: "Kuldja" # Yining
+  GER_VICTORY_POINTS_12604: "Neu-Pleimünd" # New Plymouth
+  GER_VICTORY_POINTS_12612: "Sainschand" # Sainshand
+  GER_VICTORY_POINTS_12632: "Nelson" # Nelson
+  GER_VICTORY_POINTS_12644: "Bargusin" # Barguzin
+  GER_VICTORY_POINTS_12674: "Reykjarwik" # Reykjavik
+  GER_VICTORY_POINTS_12683: "Magadan" # Magadan
+  GER_VICTORY_POINTS_12690: "Tauran" # Tauran
+  GER_VICTORY_POINTS_12702: "Dammheim" # Dammam
+  GER_VICTORY_POINTS_12715: "Merida" # Mérida
+  GER_VICTORY_POINTS_12723: "Bischia" # Biscia
+  GER_VICTORY_POINTS_12724: "Bahan" # Ba'an
+  GER_VICTORY_POINTS_12725: "Sudanhafen" # Port Sudan
+  GER_VICTORY_POINTS_12726: "Nassirien" # Nasiriyah
+  GER_VICTORY_POINTS_12727: "Riad" # Riyadh
+  GER_VICTORY_POINTS_12732: "Sining" # Xining
+  GER_VICTORY_POINTS_12735: "Beomingsheim" # Birmingham
+  GER_VICTORY_POINTS_12736: "Patsen" # La Paz
+  GER_VICTORY_POINTS_12738: "Managau" # Managua
+  GER_VICTORY_POINTS_12746: "Wallartahafen" # Puerto Vallarta
+  GER_VICTORY_POINTS_12754: "Dschammu" # Jammu
+  GER_VICTORY_POINTS_12758: "Medina" # Medina
+  GER_VICTORY_POINTS_12763: "Peschawar" # Peshawar
+  GER_VICTORY_POINTS_12766: "Massaua" # Massaua
+  GER_VICTORY_POINTS_12774: "Gwadar" # Gwadar
+  GER_VICTORY_POINTS_12782: "Sankt Anton" # San Antonio
+  GER_VICTORY_POINTS_12787: "Kumasi" # Kumasi
+  GER_VICTORY_POINTS_12790: "Kartagen" # Cartagena
+  GER_VICTORY_POINTS_12798: "Kwuito" # Quito
+  GER_VICTORY_POINTS_12806: "Kartum" # Khartoum
+  GER_VICTORY_POINTS_12810: "Werakrutz" # Veracruz
+  GER_VICTORY_POINTS_12811: "Schwarzstein-Burg" # Piedras Negras
+  GER_VICTORY_POINTS_12812: "Walwal" # Wal Wal
+  GER_VICTORY_POINTS_12823: "Sankt Salvador" # San Salvador
+  GER_VICTORY_POINTS_12824: "Gemena" # Gemena
+  GER_VICTORY_POINTS_12830: "Bangui" # Bangui
+  GER_VICTORY_POINTS_12831: "Dschalabad" # Jalalabad
+  GER_VICTORY_POINTS_12832: "Buschehr" # Bushehr
+  GER_VICTORY_POINTS_12835: "Monterei" # Monterrey
+  GER_VICTORY_POINTS_12839: "Ramadi" # Ramadi
+  GER_VICTORY_POINTS_12853: "Belehm" # Belém
+  GER_VICTORY_POINTS_12857: "Sidifni" # Sidi Ifni
+  GER_VICTORY_POINTS_12865: "Tegutschi-Galpa" # Tegucigalpa
+  GER_VICTORY_POINTS_12879: "Samawa" # Samawah
+  GER_VICTORY_POINTS_12883: "Dschidda" # Jeddah
+  GER_VICTORY_POINTS_12885: "Kajenn" # Cayenne
+  GER_VICTORY_POINTS_12891: "Bissau" # Bissau
+  GER_VICTORY_POINTS_12901: "Ostburg" # Ciudad del Este
+  GER_VICTORY_POINTS_12907: "Bauduin-Stadt" # Baudoinville
+  GER_VICTORY_POINTS_12910: "Adelaid" # Adelaide
+  GER_VICTORY_POINTS_12922: "Formosa" # Formosa
+  GER_VICTORY_POINTS_12925: "Matadi" # Matadi
+  GER_VICTORY_POINTS_12930: "Suchre" # Sucre
+  GER_VICTORY_POINTS_12933: "Sankt Luis" # São Luís
+  GER_VICTORY_POINTS_12939: "Welloshafen" # Porto Velho
+  GER_VICTORY_POINTS_12941: "Kismaju" # Kismaayo
+  GER_VICTORY_POINTS_12942: "Kordoba" # Córdoba
+  GER_VICTORY_POINTS_12951: "Großlager-Stadt" # Campo Grande
+  GER_VICTORY_POINTS_12960: "Stanlauhafen" # Port Stanley
+  GER_VICTORY_POINTS_12964: "korrient" # Corrientes
+  GER_VICTORY_POINTS_12975: "Longau" # Loango
+  GER_VICTORY_POINTS_12978: "Ri-Oha" # La Rioja
+  GER_VICTORY_POINTS_12984: "Konzeption" # Concepción
+  GER_VICTORY_POINTS_12986: "Lilongau" # Lilongwe
+  GER_VICTORY_POINTS_12987: "Gojana" # Goiânia
+  GER_VICTORY_POINTS_12989: "Kampala" # Kampala
+  GER_VICTORY_POINTS_12991: "Mogadischu" # Mogadiscio
+  GER_VICTORY_POINTS_12997: "Lima" # Lima
+  GER_VICTORY_POINTS_13003: "Torshafen" # Tórshavn
+  GER_VICTORY_POINTS_13010: "Hammelheim" # Hamilton
+  GER_VICTORY_POINTS_13011: "Reims" # Reims
+  GER_VICTORY_POINTS_13014: "Praia" # Praia
+  GER_VICTORY_POINTS_13021: "Tarawa" # Tarawa
+  GER_VICTORY_POINTS_13025: "Iwojima" # Iwo Jima
+  GER_VICTORY_POINTS_13028: "Japp" # Yap
+  GER_VICTORY_POINTS_13038: "Nauru" # Nauru
+  GER_VICTORY_POINTS_13041: "Kwajalein" # Kwajalein
+  GER_VICTORY_POINTS_13046: "Einwetok" # Eniwetok
+  GER_VICTORY_POINTS_13047: "Wachstadt" # Wake
+  GER_VICTORY_POINTS_13052: "Mittenstadt" # Midway
+  GER_VICTORY_POINTS_13063: "Anadir" # Anadyr
+  GER_VICTORY_POINTS_13067: "Attu" # Attu
+  GER_VICTORY_POINTS_13068: "Löwen" # Leuven
+  GER_VICTORY_POINTS_13071: "Sankt Cruz von Teneriffa" # Santa Cruz de Tenerife
+  GER_VICTORY_POINTS_13079: "El Gaida" # Al Ghaydah
+  GER_VICTORY_POINTS_13080: "Pago Pago" # Pago Pago
+  GER_VICTORY_POINTS_13086: "Takna" # Tacna
+  GER_VICTORY_POINTS_13087: "Sankt Josef" # San Jose
+  GER_VICTORY_POINTS_13089: "Garda-Lajara" # Guadalajara
+  GER_VICTORY_POINTS_13090: "Unalaska" # Unalaska
+  GER_VICTORY_POINTS_13091: "Ankerstadt" # Anchorage
+  GER_VICTORY_POINTS_13150: "Hailar" # Hailar
+  GER_VICTORY_POINTS_13204: "Laurenzien" # Lavrentiya
+  GER_VICTORY_POINTS_13215: "Mexikali" # Mexicali
+  GER_VICTORY_POINTS_13237: "Aksum" # Aksum
+  GER_VICTORY_POINTS_13238: "Adwa" # Adwa
+  GER_VICTORY_POINTS_13240: "Aussa" # Aussa
+  GER_VICTORY_POINTS_13242: "Deber-Markus" # Debre Markos
+  GER_VICTORY_POINTS_13243: "Saio" # Saio
+  GER_VICTORY_POINTS_13244: "Gambella" # Gambella
+  GER_VICTORY_POINTS_13246: "Irgalem" # Irgalem
+  GER_VICTORY_POINTS_13247: "Mojale" # Moyale
+  GER_VICTORY_POINTS_13249: "Hermannstadt" # Harar
+  GER_VICTORY_POINTS_13250: "Asmara" # Asmara
+  GER_VICTORY_POINTS_13255: "Durres" # Durrës
+  GER_VICTORY_POINTS_13256: "Sirakuse" # Siracusa
+  GER_VICTORY_POINTS_13257: "Rügen" # Rügen
+  GER_VICTORY_POINTS_13258: "Sonderburg" # Sønderborg
+  GER_VICTORY_POINTS_13278: "Brankenfluss" # Rio Branco
+  GER_VICTORY_POINTS_13286: "Puno" # Puno
+  GER_VICTORY_POINTS_13288: "Mollend" # Mollendo
+  GER_VICTORY_POINTS_13289: "Ikwitos" # Iquitos
+  GER_VICTORY_POINTS_13294: "Hangau" # Hanga Roa
+  GER_VICTORY_POINTS_13300: "Uschei" # Ushuaia
+  GER_VICTORY_POINTS_13307: "Madreinhafen" # Puerto Madryn
+  GER_VICTORY_POINTS_13309: "Katamarka" # Catamarca
+  GER_VICTORY_POINTS_13313: "Manama" # Manama
+  GER_VICTORY_POINTS_13363: "Kitega" # Kitega
+  GER_VICTORY_POINTS_13364: "Miautsa" # Nyanza
+  GER_VICTORY_POINTS_13365: "Numba" # Nkamba
+  GER_VICTORY_POINTS_13369: "Kasab" # Khasab
+  GER_VICTORY_POINTS_13376: "Jobaru" # Johor Bahru
+  GER_VICTORY_POINTS_13378: "Limbang" # Limbang
+  GER_VICTORY_POINTS_13386: "Denpasar" # Denpasar
+  GER_VICTORY_POINTS_13387: "Matarahm" # Mataram
+  GER_VICTORY_POINTS_13391: "Biema" # Bima
+  GER_VICTORY_POINTS_13398: "Banda-Atsch" # Banda Aceh
+  GER_VICTORY_POINTS_13403: "Surabaja" # Surabaya
+  GER_VICTORY_POINTS_13404: "Parkassenstadt" # Purwokerto
+  GER_VICTORY_POINTS_13405: "Semarang" # Semarang
+  GER_VICTORY_POINTS_13406: "Dschok-Jakarta" # Yogyakarta
+  GER_VICTORY_POINTS_13407: "Surakarta" # Surakarta
+  GER_VICTORY_POINTS_13408: "Seberang" # Seberang Perai
+  GER_VICTORY_POINTS_13412: "Safotu-Lafai" # Safotulafai
+  GER_VICTORY_POINTS_13413: "Ostia" # Ostia
+
+  GER_VICTORY_POINTS_707: "Berchtesgaden" # Berchtesgaden
+  GER_VICTORY_POINTS_11829: "Chrisopolis" # Chrysopolis
+  GER_VICTORY_POINTS_9523: "West-Paris" # Paris-Ouest

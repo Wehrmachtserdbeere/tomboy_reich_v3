@@ -1,0 +1,114 @@
+﻿l_english:
+
+ # LIT states
+ EST_STATE_11: "Kaunas" # Kaunas
+ EST_STATE_814: "Sudaa" # Sudova *
+ EST_STATE_188: "Klaipeda" # Memel/Klaipeda
+ EST_STATE_189: "Žemaitija" # Zemaitija
+ EST_STATE_815: "Aukštaitija" # Aukstaitija
+ EST_STATE_784: "Vilnius" # Vilnus
+ 
+ # LAT states
+ EST_STATE_190: "Kuramaa" # Kurzeme
+ EST_STATE_809: "Zemgale" # Zemgale
+ EST_STATE_808: "Riia" # Riga
+ EST_STATE_12: "Vidzeme" # Vidzeme
+ EST_STATE_810: "Latgale" # Latgale
+ 
+ # EST states
+ EST_STATE_811: "Saaremaa" # Saaremaa
+ EST_STATE_13: "Pärnu" # Pärnu
+ EST_STATE_812: "Harjumaa" # Harju
+ EST_STATE_191: "Tartu" # Tartu
+ EST_STATE_813: "Virumaa" # Virumaa
+ 
+ # BLR states
+ EST_STATE_95: "Grodno" # Grodzenska (polanized)
+ EST_STATE_94: "Homiel" # Gomelska (polanized, area that has Pinsk in it)
+ EST_STATE_96: "Viljandi" # Vilejska (polanized) *
+ EST_STATE_194: "Mazõr" # Mozyr *
+ EST_STATE_1099: "Azarytšy" # Azarychy *
+ EST_STATE_204: "Babruisk" # Bobruysk
+ EST_STATE_206: "Minsk" # Minsk
+ EST_STATE_207: "Vitebsk" # Vitebsk
+ EST_STATE_241: "Homiel" # Gomel
+
+ # RUS states
+ EST_STATE_210: "Nevel" # Nevel *
+ EST_STATE_209: "Pihkva" # Pskov
+ EST_STATE_208: "Luuga" # Luga
+ EST_STATE_263: "Novgorod" # Novgorod
+ EST_STATE_244: "Volhovi" # Volkhov *
+ EST_STATE_195: "Peterburi" # Leningrad *
+
+ # FIN states
+ EST_STATE_146: "Karjala" # Karjala
+ EST_STATE_216: "Olonets" # Olonets
+ EST_STATE_215: "Onega" # Onega
+ EST_STATE_213: "Murmansk" # Murmansk
+ EST_STATE_145: "Ahvenamaa" # Aland
+ EST_STATE_111: "Uusimaa" # Uusimaa
+ EST_STATE_926: "Turu" # Turku
+ EST_STATE_149: "Vaasa" # Vaasa
+ EST_STATE_927: "Häme" # Häme
+ EST_STATE_928: "Kymenlaakso" # Kymi *
+ EST_STATE_930: "Mikkeli" # Mikkeli
+ EST_STATE_150: "Kuopio" # Kuoplo
+ EST_STATE_929: "Oulu" # Oulu
+ EST_STATE_147: "Salla" # Salla
+ EST_STATE_148: "Lapimaa" # Lappi *
+ EST_STATE_722: "Petsamo" # Petsamo
+
+ # NOR states
+ EST_STATE_925: "Finnmark" # Finnmark
+ EST_STATE_924: "Troms" # Troms
+ EST_STATE_144: "Nordland" # Nordland
+ EST_STATE_923: "Helgeland" # Helgeland
+ EST_STATE_143: "Trøndelag" # Trondelag
+ EST_STATE_142: "Vestland" # Vestlandet
+ EST_STATE_922: "Agder" # Agder
+ EST_STATE_921: "Telemark" # Telemark
+ EST_STATE_110: "Oslo Fjord" # Oslofjord
+ EST_STATE_915: "Bohuslän" # Bohuslän
+ EST_STATE_920: "Oppland" # Opplandene
+ EST_STATE_914: "Jan Mayen" # Jan Mayen
+ EST_STATE_337: "Fääri saared" # Faroe Islands
+ EST_STATE_933: "Shetland" # Shetland
+ 
+ # SWE states
+ EST_STATE_138: "Skåne" # Skane
+ EST_STATE_139: "Småland" # Smaland
+ EST_STATE_140: "Västergötland" # Västergötland
+ EST_STATE_913: "Östergötland" # Östergötland
+ EST_STATE_124: "Ojamaa" # Gotland
+ EST_STATE_919: "Värmland" # Värmland
+ EST_STATE_141: "Södermanland" # Södermanland
+ EST_STATE_916: "Dalarna" # Dalarna
+ EST_STATE_38: "Gävleborg" # Gävleborg
+ EST_STATE_917: "Jämtland" # Jämtland
+ EST_STATE_918: "Västerbotten" # Västerbotten
+ EST_STATE_666: "Norrbotten" # Norrbotten
+ 
+ # DEN states
+ EST_STATE_910: "Bornholm" # Bornholm
+ EST_STATE_37: "Sjælland" # Sjaelland
+ EST_STATE_911: "Fyn" # Fyn
+ EST_STATE_99: "Jüütimaa" # Jutland
+ EST_STATE_912: "Põhja-Schleswig" # Southern Jutland / North Schleswig *
+ EST_STATE_909: "Schleswig" # Schleswig
+ EST_STATE_101: "Gröönimaa" # Greenland
+ 
+ # ICE states
+ EST_STATE_100: "Island" # Iceland
+
+ # Coastal GER states
+ EST_STATE_763: "Königsberg" # Königsberg
+ EST_STATE_5: "Ermland-Masuren" # Ermland-Masuren
+ EST_STATE_85: "Gdańsk" # Danzig
+ EST_STATE_807: "Gootide linn" # Gotenstaat / Gdynia *
+ EST_STATE_63: "Ida-Pommeri" # Hinterpommern
+ EST_STATE_1089: "Stettin" # Stettin
+ EST_STATE_62: "Lääne-Pommeri" # Vorpommern
+ EST_STATE_61: "Mecklenburg" # Mecklenburg
+ EST_STATE_58: "Holstein" # Holstein
+ EST_STATE_1090: "Löwenberg" # Löwensberg

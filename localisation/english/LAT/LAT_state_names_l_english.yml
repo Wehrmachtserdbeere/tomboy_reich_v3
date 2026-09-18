@@ -1,0 +1,114 @@
+﻿l_english:
+
+ # LIT states
+ LAT_STATE_11: "Kauņa" # Kaunas
+ LAT_STATE_814: "Sūduva" # Sudova
+ LAT_STATE_118: "Klaipēda" # Memel/Klaipeda
+ LAT_STATE_189: "Žemaitija" # Zemaitija
+ LAT_STATE_815: "Aukštaitija" # Aukstaitija
+ LAT_STATE_784: "Viļņa" # Vilnus
+ 
+ # LAT states
+ LAT_STATE_190: "Kurzeme" # Kurzeme
+ LAT_STATE_809: "Zemgale" # Zemgale
+ LAT_STATE_808: "Rīga" # Riga
+ LAT_STATE_12: "Vidzeme" # Vidzeme
+ LAT_STATE_810: "Latgale" # Latgale
+ 
+ # EST states
+ LAT_STATE_811: "Sāremā" # Saaremaa
+ LAT_STATE_13: "Pērnava" # Pärnu
+ LAT_STATE_812: "Harju" # Harju
+ LAT_STATE_191: "Tērbata" # Tartu
+ LAT_STATE_813: "Virumā" # Virumaa
+ 
+ # BLR states
+ LAT_STATE_95: "Grodņa" # Grodzenska (polanized)
+ LAT_STATE_94: "Gomeļa" # Gomelska (polanized, area that has Pinsk in it)
+ LAT_STATE_96: "Viļņa" # Vilejska (polanized)
+ LAT_STATE_194: "Mozyra" # Mozyr *
+ LAT_STATE_1099: "Azariči" # Azarychy *
+ LAT_STATE_204: "Babruiska" # Bobruysk
+ LAT_STATE_206: "Minska" # Minsk
+ LAT_STATE_207: "Vitebska" # Vitebsk
+ LAT_STATE_241: "Gomeļa" # Gomel
+
+ # RUS states
+ LAT_STATE_210: "Neveļa" # Nevel *
+ LAT_STATE_209: "Pleskava" # Pskov
+ LAT_STATE_208: "Luga" # Luga
+ LAT_STATE_263: "Novgoroda" # Novgorod *
+ LAT_STATE_244: "Volhova" # Volkhov *
+ LAT_STATE_195: "Sanktpēterburga" # Leningrad
+
+ # FIN states
+ LAT_STATE_146: "Karēlija" # Karjala
+ LAT_STATE_216: "Oloneca" # Olonets *
+ LAT_STATE_215: "Oņega" # Onega
+ LAT_STATE_213: "Murmanska" # Murmansk
+ LAT_STATE_145: "Ālandu Salas" # Aland
+ LAT_STATE_111: "Uusimā" # Uusimaa
+ LAT_STATE_926: "Turku" # Turku
+ LAT_STATE_149: "Vāsa" # Vaasa
+ LAT_STATE_927: "Hēme" # Häme
+ LAT_STATE_928: "Kīmi" # Kymi *
+ LAT_STATE_930: "Mikeli" # Mikkeli
+ LAT_STATE_150: "Kuopio" # Kuoplo
+ LAT_STATE_929: "Oulu" # Oulu
+ LAT_STATE_147: "Salla" # Salla
+ LAT_STATE_148: "Lapzeme" # Lappi *
+ LAT_STATE_722: "Petsamo" # Petsamo
+
+ # NOR states
+ LAT_STATE_925: "Finnmarka" # Finnmark *
+ LAT_STATE_924: "Tromsa" # Troms *
+ LAT_STATE_144: "Nūrlandes" # Nordland *
+ LAT_STATE_923: "Helgelande" # Helgeland *
+ LAT_STATE_143: "Trēndelaga" # Trondelag *
+ LAT_STATE_142: "Vestlande" # Vestlandet *
+ LAT_STATE_922: "Agdere" # Agder *
+ LAT_STATE_921: "Telemarka" # Telemark *
+ LAT_STATE_110: "Oslofjords" # Oslofjord *
+ LAT_STATE_915: "Bohuslēna" # Bohuslän *
+ LAT_STATE_920: "Opplandene" # Opplandene
+ LAT_STATE_914: "Jāna Majena" # Jan Mayen *
+ LAT_STATE_337: "Fēru salas" # Faroe Islands
+ LAT_STATE_933: "Šetlendas" # Shetland
+ 
+ # SWE states
+ LAT_STATE_138: "Skone" # Skane *
+ LAT_STATE_139: "Smolande" # Smaland *
+ LAT_STATE_140: "Vesterjētlande" # Västergötland *
+ LAT_STATE_913: "Esterjētlande" # Östergötland *
+ LAT_STATE_124: "Gotlande" # Gotland
+ LAT_STATE_919: "Vērmlande" # Värmland *
+ LAT_STATE_141: "Sēdermanlande" # Södermanland *
+ LAT_STATE_916: "Dālarna" # Dalarna
+ LAT_STATE_38: "Jēvleborga" # Gävleborg *
+ LAT_STATE_917: "Jēmtlande" # Jämtland *
+ LAT_STATE_918: "Vesterbotene" # Västerbotten *
+ LAT_STATE_666: "Norbottēne" # Norrbotten *
+ 
+ # DEN states
+ LAT_STATE_910: "Bornholma" # Bornholm
+ LAT_STATE_37: "Zēlande" # Sjaelland
+ LAT_STATE_911: "Fīna" # Fyn
+ LAT_STATE_99: "Jitlande" # Jutland
+ LAT_STATE_912: "Ziemeļšlēsviga" # Southern Jutland / North Schleswig *
+ LAT_STATE_909: "Šlēsviga" # Schleswig
+ LAT_STATE_101: "Grenlande" # Greenland
+ 
+ # ICE states
+ LAT_STATE_100: "Islande" # Iceland
+
+ # Coastal GER states
+ LAT_STATE_763: "Karaļauči" # Königsberg
+ LAT_STATE_5: "Ermlande-Mazūrija" # Ermland-Masuren
+ LAT_STATE_85: "Gdaņska" # Danzig
+ LAT_STATE_807: "Gotu Pilsēta" # Gotenstaat / Gdynia *
+ LAT_STATE_63: "Austrumpomerānija" # Hinterpommern
+ LAT_STATE_1089: "Štetīne" # Stettin
+ LAT_STATE_62: "Rietumpomerānija" # Vorpommern
+ LAT_STATE_61: "Mēklenburga" # Mecklenburg
+ LAT_STATE_58: "Holšteina" # Holstein
+ LAT_STATE_1090: "Lēvenberga" # Löwensberg *

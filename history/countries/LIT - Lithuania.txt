@@ -11,7 +11,7 @@ recruit_character = LIT_LEADER_KAZYS_GRINIUS
 recruit_character = LIT_LEADER_TORIS_LAURINAITIS
 
 add_ideas = {
-	TBR_IDEA_COUNTRY_human_people
+	TBR_IDEA_COUNTRY_mixed_people
 
 	TBR_IDEA_ECONOMY_civilian_economy
 	TBR_IDEA_TRADE_limited_trade

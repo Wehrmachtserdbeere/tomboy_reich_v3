@@ -4,8 +4,8 @@ state={
 	name="STATE_810"
 
 	history={
-		owner = ANI
-		add_core_of = ANI
+		owner = LAT
+		add_core_of = LAT
 
 		victory_points = {
 			310 3 #Daugavpils

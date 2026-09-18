@@ -1,0 +1,102 @@
+characters = {
+
+	LAT_LEADER_PAULS_KALNINS = {
+		name = LAT_LEADER_PAULS_KALNINS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				
+			}
+			desc = LAT_LEADER_PAULS_KALNINS_DESC
+			expire = 1945.8.26
+		}
+	}
+
+	LAT_LEADER_GUSTAVS_CELMINS = {
+		name = LAT_LEADER_GUSTAVS_CELMINS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = LAT_LEADER_GUSTAVS_CELMINS_DESC
+			expire = 1968.4.10
+		}
+	}
+
+	LAT_LEADER_JANIS_KALNBERZINS = {
+		name = LAT_LEADER_JANIS_KALNBERZINS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = LAT_LEADER_JANIS_KALNBERZINS_DESC
+
+		}
+	}
+
+	LAT_LEADER_KARLIS_ULMANIS = {
+		name = LAT_LEADER_KARLIS_ULMANIS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = despotism
+			traits = {
+				
+			}
+			desc = LAT_LEADER_KARLIS_ULMANIS_DESC
+			# His death was due to illness contracted during evacuation from the Germans, so we don't set it here.
+		}
+	}
+
+	LAT_LEADER_REI_AYANAMI = {
+		name = LAT_LEADER_REI_AYANAMI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				
+			}
+			desc = LAT_LEADER_REI_AYANAMI_DESC
+		}
+	}
+
+}

@@ -40,6 +40,7 @@ characters = {
 		}
 	}
 
+	# TODO: Wilhelm II. death event
 	GER_LEADER_WILHELM_II = {
 		name = GER_LEADER_WILHELM_II_NAME
 		gender = male
@@ -123,6 +124,8 @@ characters = {
 
 	# Due to not being a German citizen, he can only ascend via transfer from Switzerland to Germany
 	# after the Nazis come to power.
+	# TODO: This needs to be redone as a "create_country_leader" thing instead, else if something
+	# fucks up, they just get him without any of the work.
 	GER_LEADER_ADOLF_HITLER = {
 		name = GER_LEADER_ADOLF_HITLER_NAME
 		gender = male

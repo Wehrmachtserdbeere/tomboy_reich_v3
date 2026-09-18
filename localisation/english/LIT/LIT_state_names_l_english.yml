@@ -1,0 +1,113 @@
+﻿l_english:
+
+ # LIT states
+ LIT_STATE_11: "Kaunas" # Kaunas
+ LIT_STATE_814: "Sūduva" # Sudova
+ LIT_STATE_118: "Klaipėda" # Memel/Klaipeda
+ LIT_STATE_189: "Žemaitija" # Zemaitija
+ LIT_STATE_815: "Aukštaitija" # Aukstaitija
+ LIT_STATE_784: "Vilnius" # Vilnus
+ 
+ # LAT states
+ LIT_STATE_190: "Kuršas" # Kurzeme
+ LIT_STATE_809: "Žiemgala" # Zemgale
+ LIT_STATE_808: "Ryga" # Riga
+ LIT_STATE_12: "Vidžemė" # Vidzeme
+ LIT_STATE_810: "Latgala" # Latgale
+ 
+ # EST states
+ LIT_STATE_811: "Sarema" # Saaremaa
+ LIT_STATE_13: "Pernu" # Pärnu
+ LIT_STATE_812: "Harju" # Harju
+ LIT_STATE_191: "Tartu" # Tartu
+ LIT_STATE_813: "Viru" # Virumaa
+ 
+ # BLR states
+ LIT_STATE_95: "Gardinas" # Grodzenska (polanized)
+ LIT_STATE_94: "Gomelis" # Gomelska (polanized, area that has Pinsk in it)
+ LIT_STATE_96: "Vileika" # Vilejska (polanized)
+ LIT_STATE_194: "Mozyrius" # Mozyr *
+ LIT_STATE_1099: "Azaryčiai" # Azarychy *
+ LIT_STATE_204: "Bobruiskas" # Bobruysk
+ LIT_STATE_206: "Minskas" # Minsk
+ LIT_STATE_207: "Vitebskas" # Vitebsk
+ LIT_STATE_241: "Gomelis" # Gomel
+
+ # RUS states
+ LIT_STATE_210: "Nevelis" # Nevel *
+ LIT_STATE_209: "Pskovas" # Pskov
+ LIT_STATE_208: "Luga" # Luga
+ LIT_STATE_263: "Naugardas" # Novgorod
+ LIT_STATE_244: "Volchovas" # Volkhov *
+ LIT_STATE_195: "Petrapilis" # Leningrad *
+
+ # FIN states
+ LIT_STATE_146: "Karelija" # Karjala
+ LIT_STATE_216: "Olonets" # Olonets
+ LIT_STATE_215: "Onega" # Onega
+ LIT_STATE_213: "Murmanskas" # Murmansk
+ LIT_STATE_145: "Alandai" # Aland
+ LIT_STATE_111: "Uusima" # Uusimaa
+ LIT_STATE_926: "Turku" # Turku
+ LIT_STATE_149: "Vasa" # Vaasa
+ LIT_STATE_927: "Hämė" # Häme
+ LIT_STATE_928: "Kymis" # Kymi
+ LIT_STATE_930: "Mikelis" # Mikkeli *
+ LIT_STATE_150: "Kuopijas" # Kuoplo *
+ LIT_STATE_929: "Oulu" # Oulu
+ LIT_STATE_147: "Salla" # Salla
+ LIT_STATE_148: "Lapija" # Lappi
+ LIT_STATE_722: "Petsamas" # Petsam
+ # NOR states
+ LIT_STATE_925: "Finnmarkas" # Finnmark *
+ LIT_STATE_924: "Tromsas" # Troms *
+ LIT_STATE_144: "Nordlandas" # Nordland *
+ LIT_STATE_923: "Helgelandas" # Helgeland *
+ LIT_STATE_143: "Triondelagas" # Trondelag *
+ LIT_STATE_142: "Vestlandas" # Vestlandet *
+ LIT_STATE_922: "Agderis" # Agder *
+ LIT_STATE_921: "Telemarkas" # Telemark *
+ LIT_STATE_110: "Oslofjordas" # Oslofjord *
+ LIT_STATE_915: "Bohuslenas" # Bohuslän *
+ LIT_STATE_920: "Opplandai" # Opplandene *
+ LIT_STATE_914: "Jan Mayen" # Jan Mayen
+ LIT_STATE_337: "Farerų salos" # Faroe Islands
+ LIT_STATE_933: "Šetlandas" # Shetland
+ 
+ # SWE states
+ LIT_STATE_138: "Skonė" # Skane *
+ LIT_STATE_139: "Smolandas" # Smaland *
+ LIT_STATE_140: "Vesterjotalandas" # Västergötland *
+ LIT_STATE_913: "Esterjotalandas" # Östergötland *
+ LIT_STATE_124: "Gotlandas" # Gotland
+ LIT_STATE_919: "Vermlandas" # Värmland *
+ LIT_STATE_141: "Siodermanlandas" # Södermanland *
+ LIT_STATE_916: "Dalarna" # Dalarna
+ LIT_STATE_38: "Jevleborgas" # Gävleborg *
+ LIT_STATE_917: "Jemtlandas" # Jämtland *
+ LIT_STATE_918: "Vesterbotenas" # Västerbotten *
+ LIT_STATE_666: "Norbotenas" # Norrbotten *
+ 
+ # DEN states
+ LIT_STATE_910: "Bornholmas" # Bornholm
+ LIT_STATE_37: "Zelandija" # Sjaelland
+ LIT_STATE_911: "Fiūnas" # Fyn
+ LIT_STATE_99: "Jutlandija" # Jutland
+ LIT_STATE_912: "Šiaurės Šlezvigas" # North Schleswig
+ LIT_STATE_909: "Šlezvigas" # Schleswig
+ LIT_STATE_101: "Grenlandija" # Greenland
+ 
+ # ICE states
+ LIT_STATE_100: "Islandija" # Iceland
+
+ # Coastal GER states
+ LIT_STATE_763: "Karaliaučius" # Königsberg
+ LIT_STATE_5: "Varmija-Mozūrija" # Ermland-Masuren
+ LIT_STATE_85: "Gdanskas" # Danzig
+ LIT_STATE_807: "Gotų miestas" # Gotenstaat / Gdynia *
+ LIT_STATE_63: "Rytų Pomeranija" # Hinterpommern
+ LIT_STATE_1089: "Štetinas" # Stettin
+ LIT_STATE_62: "Vakarų Pomeranija" # Vorpommern
+ LIT_STATE_61: "Meklenburgas" # Mecklenburg
+ LIT_STATE_58: "Holšteinas" # Holstein
+ LIT_STATE_1090: "Liovenbergas" # Löwensberg *
