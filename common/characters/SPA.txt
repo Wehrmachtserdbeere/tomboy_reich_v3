@@ -1,0 +1,109 @@
+characters = {
+
+	# ===========================================
+	# Country Leaders
+	# ===========================================
+
+
+
+	SPA_LEADER_ALFONSO_XIII = {
+		name = SPA_LEADER_ALFONSO_XIII_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+			}
+			desc = SPA_LEADER_ALFONSO_XIII_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	SPA_LEADER_FRANCISCO_FRANCO = {
+		name = SPA_LEADER_FRANCISCO_FRANCO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+			}
+			desc = SPA_LEADER_FRANCISCO_FRANCO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	SPA_LEADER_DOLORES_IBARRURI = {
+		name = SPA_LEADER_DOLORES_IBARRURI_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+			}
+			desc = SPA_LEADER_DOLORES_IBARRURI_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	SPA_LEADER_DIEGO_MARTINEZ_BARRIO = {
+		name = SPA_LEADER_DIEGO_MARTINEZ_BARRIO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+			}
+			desc = SPA_LEADER_DIEGO_MARTINEZ_BARRIO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	SPA_LEADER_ED_BEBOP = {
+		name = SPA_LEADER_ED_BEBOP_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_ultranationalism
+			traits = {
+			}
+			desc = SPA_LEADER_ED_BEBOP_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

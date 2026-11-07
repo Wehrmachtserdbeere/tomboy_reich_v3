@@ -49,28 +49,28 @@
   ANI_STATE_56: "Weser-Ems" # Weser-Ems
   
   # English States
-  ANI_STATE_127: "Südsachsen" # Sussex
-  ANI_STATE_126: "Großlunden" # Greater London Area
+  ANI_STATE_113: "Leinsburg" # Leinester
+  ANI_STATE_119: "Ulster" # Northern Ireland
+  ANI_STATE_120: "Schottenhochland" # Scottish Highlands
+  ANI_STATE_121: "Lotien" # Lothian
+  ANI_STATE_122: "Wallen" # Wales
+  ANI_STATE_123: "Kärntwall" # South-West England
   ANI_STATE_125: "Ostangeln" # East Anglia
+  ANI_STATE_126: "Großlunden" # Greater London Area
+  ANI_STATE_127: "Südsachsen" # Sussex
+  ANI_STATE_128: "Westlande" # West Midlands
   ANI_STATE_129: "Ostlande" # East Midlands
   ANI_STATE_130: "Eibensland" # Yorkshire
-  ANI_STATE_123: "Kärntwall" # South-West England
-  ANI_STATE_338: "Karolei" # Gloucestershire
-  ANI_STATE_128: "Westlande" # West Midlands
-  ANI_STATE_132: "Lankern" # Lancashire
-  ANI_STATE_931: "Cumberland" # Cumbria
   ANI_STATE_131: "Nordhumbern" # Northumberland
-  ANI_STATE_122: "Wallen" # Wales
-  ANI_STATE_121: "Lotien" # Lothian
+  ANI_STATE_132: "Lankern" # Lancashire
   ANI_STATE_133: "Lanenarchsland" # Lanark
-  ANI_STATE_136: "Abbersland" # Aberdeenshire
-  ANI_STATE_120: "Schottenhochland" # Scottish Highlands
-  ANI_STATE_933: "Schettland" # Shetland Islands
-  ANI_STATE_932: "Männerinsel" # Isle of Man
-  ANI_STATE_119: "Ulster" # Northern Ireland
   ANI_STATE_134: "Konnach" # Connaught
-  ANI_STATE_113: "Leinsburg" # Leinester
   ANI_STATE_135: "Irisch Münster" # Munster
+  ANI_STATE_136: "Abbersland" # Aberdeenshire
+  ANI_STATE_338: "Karolei" # Gloucestershire
+  ANI_STATE_931: "Cumberland" # Cumbria
+  ANI_STATE_932: "Männerinsel" # Isle of Man
+  ANI_STATE_933: "Schettland" # Shetland Islands
 
 
 

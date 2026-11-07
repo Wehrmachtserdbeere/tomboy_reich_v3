@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = ANI
+		owner = SPA
+		add_core_of = SPA
 		victory_points = {
 			9979 5
 		}
@@ -30,7 +31,6 @@ state={
 			}
 
 		}
-		add_core_of = ANI
 
 	}
 

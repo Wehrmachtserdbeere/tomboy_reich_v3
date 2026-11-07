@@ -494,7 +494,7 @@
   GER_VICTORY_POINTS_4102: "Kagoschima" # Kagoshima
   GER_VICTORY_POINTS_4106: "Indore" # Indore
   GER_VICTORY_POINTS_4108: "Marrakesch" # Marrakech
-    GER_VICTORY_POINTS_4109: "Athen" # Athens
+  GER_VICTORY_POINTS_4109: "Athen" # Athens
   GER_VICTORY_POINTS_4111: "Damaskus" # Damascus
   GER_VICTORY_POINTS_4112: "Smyrna" # Izmir
   GER_VICTORY_POINTS_4115: "Akaba" # Aqaba
@@ -669,8 +669,8 @@
   GER_VICTORY_POINTS_5215: "Punta Arenas" # Punta Arenas
   GER_VICTORY_POINTS_5221: "Tschipata" # Chipata
   GER_VICTORY_POINTS_5228: "Copiapo" # Copiapó
-  GER_VICTORY_POINTS_5230: "La Paz" # La Paz
-  GER_VICTORY_POINTS_6009: "Borgå" # Porvoo
+  GER_VICTORY_POINTS_5230: "Pat5sen" # La Paz
+  GER_VICTORY_POINTS_6009: "Borga" # Porvoo
   GER_VICTORY_POINTS_6013: "Seinäjoki" # Seinäjoki
   GER_VICTORY_POINTS_6050: "Stockholm" # Stockholm
   GER_VICTORY_POINTS_6062: "Stornoway" # Stornoway
@@ -730,7 +730,7 @@
   GER_VICTORY_POINTS_6464: "Kattowitz" # Katowice
   GER_VICTORY_POINTS_6469: "Essen" # Essen
   GER_VICTORY_POINTS_6470: "Falkenau" # Falknov
-  GER_VICTORY_POINTS_6474: "Stalino" # Stalino
+  GER_VICTORY_POINTS_6474: "Hermann" # Stalino
   GER_VICTORY_POINTS_6483: "Drogobytsch" # Drohobych
   GER_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
   GER_VICTORY_POINTS_6496: "Eindhoven" # Eindhoven

@@ -11,8 +11,8 @@ state={
 	state_category = large_city
 
 	history={
-		owner = ANI
-		add_core_of = ANI
+		owner = SPA
+		add_core_of = SPA
 		victory_points = {
 			9764 30
 		}
@@ -31,7 +31,6 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = ANI
 	}
 
 	provinces={

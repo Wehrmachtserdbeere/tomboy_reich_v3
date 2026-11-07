@@ -1050,6 +1050,8 @@ TBR_DECISION_CATEGORIES_economy_decisions = {
 				long_name = TBR_parties_banned_long
 				name = TBR_parties_banned
 			}
+
+			set_cosmetic_tag = NAT_AI
 		}
 	}
 
