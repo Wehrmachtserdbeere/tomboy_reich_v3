@@ -8,6 +8,7 @@ state=
 		owner = ITA
 		add_core_of = ITA
 		add_claim_by = ENG
+		add_claim_by = OJO
 		victory_points = {
 			12003 5 
 		}

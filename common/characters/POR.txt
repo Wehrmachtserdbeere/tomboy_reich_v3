@@ -1,0 +1,146 @@
+characters = {
+	
+	POR_LEADER_ANTONIO_SALAZAR = {
+		name = POR_LEADER_ANTONIO_SALAZAR_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_ultranationalism
+			traits = {
+				
+			}
+			desc = POR_LEADER_ANTONIO_SALAZAR_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	POR_LEADER_BENTO_GONCALVES = {
+		name = POR_LEADER_BENTO_GONCALVES_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = third_worldism
+			traits = {
+			}
+			desc = POR_LEADER_BENTO_GONCALVES_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	POR_LEADER_BERNARDINO_MACHADO = {
+		name = POR_LEADER_BERNARDINO_MACHADO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = liberalism
+			traits = {
+				
+			}
+			desc = POR_LEADER_BERNARDINO_MACHADO_DESC
+		}
+	}
+
+	POR_LEADER_LOUISE_FROIS = {
+		name = POR_LEADER_LOUISE_FROIS_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_fascism
+			traits = {
+				
+			}
+			desc = POR_LEADER_LOUISE_FROIS_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	POR_LEADER_MONARCHIST_MOVEMENT = {
+		name = POR_LEADER_MONARCHIST_MOVEMENT_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = POR_LEADER_MONARCHIST_MOVEMENT_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# Duarte Nuno
+	POR_LEADER_DUARTE_NUNO = {
+		name = POR_LEADER_DUARTE_NUNO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = POR_LEADER_DUARTE_NUNO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	POR_LEADER_MARIA_PIA = {
+		name = POR_LEADER_MARIA_PIA_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = POR_LEADER_MARIA_PIA_DESC
+		}
+	}
+
+}

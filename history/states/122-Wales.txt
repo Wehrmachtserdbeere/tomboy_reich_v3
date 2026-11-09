@@ -11,9 +11,10 @@ state= {
 		coal = 55 #initial distribution
 	}
 
-	history=
-	{
-		owner = ANI
+	history={
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = OJO
 		victory_points = {
 			407 3 #Swansea
 		}
@@ -28,8 +29,6 @@ state= {
 				naval_base = 3
 			}
 		}
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces=

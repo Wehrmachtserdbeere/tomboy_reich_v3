@@ -13,7 +13,9 @@ bookmarks = {
 			history = TBR_ANI_HISTORY_DESC
 			ideology = democracy
 			ideas = {
-				# Add
+				TBR_IDEA_COUNTRY_anime_people
+				TBR_IDEA_COUNTRY_fought_in_anime_war
+				# Add more later
 			}
 			focuses = {
 				# Add

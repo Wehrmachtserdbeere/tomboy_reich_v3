@@ -9,6 +9,7 @@ state=
 		owner = SPA
 		add_core_of = SPA
 		add_claim_by = ENG
+		add_claim_by = OJO
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 3

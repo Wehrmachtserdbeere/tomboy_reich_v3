@@ -1,0 +1,167 @@
+characters = {
+	
+	ENG_LEADER_OSWALD_MOSLEY = {
+		name = ENG_LEADER_OSWALD_MOSLEY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_fascism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_OSWALD_MOSLEY_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# IMPORTANT: Dies on January 20th, 1936
+	ENG_LEADER_GEORGE_V = {
+		name = ENG_LEADER_GEORGE_V_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_GEORGE_V_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# IMPORTANT: Abdicated on December 11th, 1936
+	ENG_LEADER_EDWARD_VIII = {
+		name = ENG_LEADER_EDWARD_VIII_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_EDWARD_VIII_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	ENG_LEADER_GEORGE_VI = {
+		name = ENG_LEADER_GEORGE_VI_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_GEORGE_VI_DESC
+		}
+	}
+
+	ENG_LEADER_HARRY_POLLITT = {
+		name = ENG_LEADER_HARRY_POLLITT_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_HARRY_POLLITT_DESC
+		}
+	}
+
+	ENG_LEADER_STANLEY_BALDWIN = {
+		name = ENG_LEADER_STANLEY_BALDWIN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_STANLEY_BALDWIN_DESC
+		}
+	}
+	
+	ENG_LEADER_NEVILLE_CHAMBERLAIN = {
+		name = ENG_LEADER_NEVILLE_CHAMBERLAIN_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			desc = ENG_LEADER_NEVILLE_CHAMBERLAIN_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	ENG_LEADER_NOBODY = {
+		name = GENERIC_LEADER_NOBODY_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+
+			}
+			desc = GENERIC_LEADER_NOBODY_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

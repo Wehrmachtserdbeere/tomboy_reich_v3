@@ -8,10 +8,8 @@ state={
 		steel = 32
 	}
 	
-	history=
-	{
-		owner = ANI
-		add_core_of = ANI
+	history={
+		owner = ENG
 		victory_points = {
 			2038 1 
 		}

@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = ANI
+		owner = POR
+		add_core_of = POR
 		victory_points = {
 			11805 20 
 		}
@@ -23,7 +24,6 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = ANI
 
 	}
 

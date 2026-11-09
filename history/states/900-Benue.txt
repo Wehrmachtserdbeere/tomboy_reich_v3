@@ -9,11 +9,7 @@ state = {
 	state_category = pastoral 
 
 	history = {
-
-		owner = ANI
-
-		add_core_of = ANI
-		add_core_of = ANI
+		owner = ENG
 
 		victory_points = {
 			8034 2 # Enugu

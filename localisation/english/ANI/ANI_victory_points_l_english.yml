@@ -1,126 +1,1711 @@
 ﻿l_english:
-  # Belgian Cities
-  ANI_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
-  ANI_VICTORY_POINTS_6560: "Gent" # Gent (Standard)
-  ANI_VICTORY_POINTS_516: "Brüssel" # Brussels
-  ANI_VICTORY_POINTS_6598: "Antorf" # Antwerpen
-  ANI_VICTORY_POINTS_13068: "Löwen" # Leuven
-  ANI_VICTORY_POINTS_9536: "Karnoit" # Charleroi
-  ANI_VICTORY_POINTS_3516: "Namür" # Namur
-  ANI_VICTORY_POINTS_9418: "Arel" # Arlon
-
-  # Luxembourg
-  ANI_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
-
-  # Dutch Cities
-  ANI_VICTORY_POINTS_3262: "Breita" # Breda
-  ANI_VICTORY_POINTS_6496: "Endhofen" # Eindhoven
-  ANI_VICTORY_POINTS_11562: "Maasstadt" # Maastricht
-  ANI_VICTORY_POINTS_9498: "Rotterdamm" # Rotterdam
-  ANI_VICTORY_POINTS_3211: "Des Grafen Hag" # The Hague
+  ANI_VICTORY_POINTS_37: "Sawolinien" # Savolinna
+  ANI_VICTORY_POINTS_53: "Stawanger" # Stavanger
+  ANI_VICTORY_POINTS_66: "Kochola" # Kokkola
+  ANI_VICTORY_POINTS_67: "Lahtien" # Lahti
+  ANI_VICTORY_POINTS_78: "Amarra" # Amarah
+  ANI_VICTORY_POINTS_105: "Rotstadt" # Naryan Mar
+  ANI_VICTORY_POINTS_108: "Serpentin" # Syktyvkar
+  ANI_VICTORY_POINTS_109: "Wilhelmina" # Vilhemina
+  ANI_VICTORY_POINTS_117: "Nowgorod" # Novgorod
+  ANI_VICTORY_POINTS_121: "Jaroslaw" # Yaroslavl
+  ANI_VICTORY_POINTS_122: "Bergen" # Bergen
+  ANI_VICTORY_POINTS_130: "Schundswall" # Sundsvall
+  ANI_VICTORY_POINTS_136: "Warkaus" # Varkaus
+  ANI_VICTORY_POINTS_138: "Kargopol" # Kargopol
+  ANI_VICTORY_POINTS_153: "Wilhelmstadt" # Willemstad
+  ANI_VICTORY_POINTS_156: "Falun" # Falun
+  ANI_VICTORY_POINTS_158: "Oulu" # Oulu
+  ANI_VICTORY_POINTS_165: "Michaelstadt" # Mikkeli
+  ANI_VICTORY_POINTS_169: "Rauma" # Rauma
+  ANI_VICTORY_POINTS_185: "Kuhressien" # Kuressaare
+  ANI_VICTORY_POINTS_191: "Elisabethstadt" # Élisabethville
+  ANI_VICTORY_POINTS_192: "Narwik" # Narvik
+  ANI_VICTORY_POINTS_200: "Abern" # Aberdeen
+  ANI_VICTORY_POINTS_211: "Bergheim" # Borgholm
+  ANI_VICTORY_POINTS_222: "Retsneck" # Rēzekne
+  ANI_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelshaven
+  ANI_VICTORY_POINTS_247: "Osnabrück" # Osnabrück
+  ANI_VICTORY_POINTS_271: "Norwidsch" # Ipswich - was Norwich
+  ANI_VICTORY_POINTS_279: "Bromberg" # Bydgoszcz
+  ANI_VICTORY_POINTS_283: "Kleinbucht" # Oban
+  ANI_VICTORY_POINTS_284: "Kleinbucht" # Oban
+  ANI_VICTORY_POINTS_285: "Wexburg" # Wexford
+  ANI_VICTORY_POINTS_299: "Kalmar" # Kalmar
+  ANI_VICTORY_POINTS_303: "Großhügelstadt" # Tullamore
+  ANI_VICTORY_POINTS_306: "Teerstadt" # Smolensk
+  ANI_VICTORY_POINTS_309: "Oldenburg" # Oldenburg
+  ANI_VICTORY_POINTS_310: "Dünaburg" # Daugavpils
+  ANI_VICTORY_POINTS_311: "Wechselsmarkt" # Wrexham
+  ANI_VICTORY_POINTS_317: "Flensburg" # Flensburg
+  ANI_VICTORY_POINTS_321: "Rostock" # Rostock
+  ANI_VICTORY_POINTS_322: "Nordwitsch" # Norwich
+  ANI_VICTORY_POINTS_337: "Donarsgahl" # Donegal
+  ANI_VICTORY_POINTS_351: "Neuburg am Tin" # Newcastle
+  ANI_VICTORY_POINTS_362: "Danzig" # Danzig
+  ANI_VICTORY_POINTS_374: "Cuxhaven" # Cuxhaven
+  ANI_VICTORY_POINTS_377: "Didiusburg" # Cardiff
+  ANI_VICTORY_POINTS_382: "Moorstadt" # Kaluga
+  ANI_VICTORY_POINTS_383: "Gothenburg" # Göteborg
+  ANI_VICTORY_POINTS_385: "Dähren" # Londonderry
   ANI_VICTORY_POINTS_391: "Amseldamm" # Amsterdam
-  ANI_VICTORY_POINTS_6241: "Aufrecht" # Utrecht
-  ANI_VICTORY_POINTS_9363: "Arnheim" # Arnhem
-  ANI_VICTORY_POINTS_6336: "Leuwarden" # Leeuwarden
-  ANI_VICTORY_POINTS_9335: "Gröningen" # Groningen
-
-  # German Cities (Unchanged)
-  ANI_VICTORY_POINTS_241: "Wilhelmshaven" # Wilhelmshaven
-  ANI_VICTORY_POINTS_11388: "Münster" # Münster
-  ANI_VICTORY_POINTS_495: "Dortmund" # Dortmund
-  ANI_VICTORY_POINTS_564: "Kassel" # Kassel
-  ANI_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
-  ANI_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
-  ANI_VICTORY_POINTS_11560: "Mainz" # Mainz
-  ANI_VICTORY_POINTS_6469: "Essen" # Essen
-  ANI_VICTORY_POINTS_587: "Köln" # Köln
-  ANI_VICTORY_POINTS_9575: "Trier" # Trier
-  ANI_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
-
-  # French Cities
-  ANI_VICTORY_POINTS_9559: "Metz" # Metz
-  ANI_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
-  ANI_VICTORY_POINTS_678: "Mühlhausen" # Mulhouse
-  ANI_VICTORY_POINTS_11516: "Nanzig" # Nancy
-  ANI_VICTORY_POINTS_9642: "Bisanz" # Besancon
-  ANI_VICTORY_POINTS_3560: "Sedensi" # Sedan
-  ANI_VICTORY_POINTS_13011: "Rheims" # Reims
-  ANI_VICTORY_POINTS_9490: "Tricassenstadt" # Troyes
-  ANI_VICTORY_POINTS_3652: "Dianz" # Dijon
-  ANI_VICTORY_POINTS_11483: "Reisel" # Lille
-  ANI_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
-  ANI_VICTORY_POINTS_11548: "Kalen" # Calais
-  ANI_VICTORY_POINTS_11420: "Ambien" # Amiens
-  ANI_VICTORY_POINTS_11506: "Lutezia" # Paris
-  ANI_VICTORY_POINTS_512: "Zenabum" # Orleans
-  ANI_VICTORY_POINTS_3671: "Turon" # Tours
-  ANI_VICTORY_POINTS_485: "Tief" # Dieppe
-  ANI_VICTORY_POINTS_11563: "Rudaburg" # Rouen
-  ANI_VICTORY_POINTS_9434: "Westhafenstadt" # Le Havre
-  ANI_VICTORY_POINTS_6449: "Kirchendorf" # Cherbourg
-  ANI_VICTORY_POINTS_11465: "Naunt" # Nantes
-  ANI_VICTORY_POINTS_9495: "Kondatten" # Rennes
-  ANI_VICTORY_POINTS_6536: "Der Orient" # Lorient
-  ANI_VICTORY_POINTS_3552: "Breschd" # Brest
-  # Non-Core Tomboy French Cities
-  ANI_VICTORY_POINTS_9909: "Nizza" # Nice
-  ANI_VICTORY_POINTS_778: "Annetschi" # Annecy
-  ANI_VICTORY_POINTS_911: "Tolon" # Toulon
-  ANI_VICTORY_POINTS_11834: "Massilien" # Marseille
-  ANI_VICTORY_POINTS_3768: "Graswalde" # Grenoble
-  ANI_VICTORY_POINTS_6613: "Welsch-Leiden" # Lyon
-  ANI_VICTORY_POINTS_3594: "Widschi" # Vichy
-  ANI_VICTORY_POINTS_9898: "Plierberg" # Montpellier
-  ANI_VICTORY_POINTS_651: "Raoulschloss" # Châteauroux
-  ANI_VICTORY_POINTS_620: "Limoges" # Limoges
-  ANI_VICTORY_POINTS_6766: "Tholosen" # Toulouse
-  ANI_VICTORY_POINTS_6657: "Roschellen" # La Rochelle
-  ANI_VICTORY_POINTS_9737: "Bordau" # Bordeaux
-  ANI_VICTORY_POINTS_9710: "Guthafen" # Bayonne
-
-  # English Cities
-  ANI_VICTORY_POINTS_3501: "Dowershafen" # Dover
-  ANI_VICTORY_POINTS_9458: "Hafensmund" # Portsmouth
-  ANI_VICTORY_POINTS_6103: "Lunden" # London
-  ANI_VICTORY_POINTS_271: "Gippeswich" # Ipswich
-  ANI_VICTORY_POINTS_322: "Nordweich" # Norwich
-  ANI_VICTORY_POINTS_11279: "Ledekester" # Leicester
-  ANI_VICTORY_POINTS_6237: "Snotsheim" # Nottingham
-  ANI_VICTORY_POINTS_9315: "Scheffsfeld" # Sheffield
-  ANI_VICTORY_POINTS_9379: "Lattsheim" # Leeds
-  ANI_VICTORY_POINTS_11297: "Hullen" # Hull
-  ANI_VICTORY_POINTS_6526: "Treuo" # Truro
-  ANI_VICTORY_POINTS_540: "Bleimünd" # Plymouth
-  ANI_VICTORY_POINTS_3369: "Bristen" # Bristol
-  ANI_VICTORY_POINTS_9297: "Beomingsland" # Birmingham
-  ANI_VICTORY_POINTS_6318: "Mamutien" # Manchester
-  ANI_VICTORY_POINTS_6384: "Leierpolen" # Liverpool
-  ANI_VICTORY_POINTS_11332: "Karlsinsel" # Carlisle
-  ANI_VICTORY_POINTS_351: "Neuburg am Tein" # Newcastle
-  ANI_VICTORY_POINTS_377: "Kardiff" # Cardiff
+  ANI_VICTORY_POINTS_392: "Simburg" # Ulyanovsk
+  ANI_VICTORY_POINTS_394: "Heringen" # Hjørring
+  ANI_VICTORY_POINTS_399: "Esberg" # Esbjerg
+  ANI_VICTORY_POINTS_402: "Sietse" # Siedlce
+  ANI_VICTORY_POINTS_405: "Bielefeld" # Bielefeld
+  ANI_VICTORY_POINTS_406: "Prachtkerlstadt" # Mołodeczno
   ANI_VICTORY_POINTS_407: "Schwansee" # Swansea
-  ANI_VICTORY_POINTS_311: "Wechshamm" # Wrexham
-  ANI_VICTORY_POINTS_11218: "Drumfried" # Dumfries
+  ANI_VICTORY_POINTS_408: "Wisby" # Visby
+  ANI_VICTORY_POINTS_413: "Rabenstadt" # Voronezh
+  ANI_VICTORY_POINTS_418: "Karsel" # Kharkov
+  ANI_VICTORY_POINTS_422: "Schmiedstadt" # Kowel
+  ANI_VICTORY_POINTS_424: "Roßhaupt" # Rozvadov
+  ANI_VICTORY_POINTS_425: "Weimar" # Weimar
+  ANI_VICTORY_POINTS_442: "Tarnow" # Tarnów
+  ANI_VICTORY_POINTS_469: "Haida" # Nový Bor
+  ANI_VICTORY_POINTS_476: "Winniza" # Vinnytsia
+  ANI_VICTORY_POINTS_485: "Dieppe" # Dieppe
+  ANI_VICTORY_POINTS_487: "Michaelowen" # Mikhaylovka
+  ANI_VICTORY_POINTS_488: "Tscherkassy" # Cherkasy
+  ANI_VICTORY_POINTS_495: "Dortmund" # Dortmund
+  ANI_VICTORY_POINTS_512: "Orelei" # Orléans
+  ANI_VICTORY_POINTS_513: "Kowel" # Kowel
+  ANI_VICTORY_POINTS_514: "Schmiedstadt" # Dresden
+  ANI_VICTORY_POINTS_516: "Brüssel" # Brussels
+  ANI_VICTORY_POINTS_525: "Kiew" # Kiev
+  ANI_VICTORY_POINTS_526: "Braunschweig" # Braunschweig
+  ANI_VICTORY_POINTS_538: "Jena" # Jena
+  ANI_VICTORY_POINTS_540: "Pflaumünd" # Plymouth
+  ANI_VICTORY_POINTS_541: "Neutra" # Nitra
+  ANI_VICTORY_POINTS_549: "Hagenau" # Haguenau
+  ANI_VICTORY_POINTS_552: "Liegnitz" # Liegnitz
+  ANI_VICTORY_POINTS_557: "Znaim" # Znojmo
+  ANI_VICTORY_POINTS_560: "Pinsk" # Pińsk
+  ANI_VICTORY_POINTS_562: "Ostwien" # Ostrowiec
+  ANI_VICTORY_POINTS_564: "Kassel" # Kassel
+  ANI_VICTORY_POINTS_572: "Lugg" # Łuck
+  ANI_VICTORY_POINTS_575: "Dünkirchen" # Dunkerque
+  ANI_VICTORY_POINTS_577: "Tschernowitz" # Cernăuti
+  ANI_VICTORY_POINTS_587: "Köln" # Köln
+  ANI_VICTORY_POINTS_589: "Darmstadt" # Darmstadt
+  ANI_VICTORY_POINTS_592: "Werro" # Võru
+  ANI_VICTORY_POINTS_603: "Werona" # Verona
+  ANI_VICTORY_POINTS_619: "Neusatz" # Novi
+  ANI_VICTORY_POINTS_620: "Limgau" # Limoges
+  ANI_VICTORY_POINTS_636: "Gotthardpass" # Gotthard
+  ANI_VICTORY_POINTS_650: "Santiago" # Santiago
+  ANI_VICTORY_POINTS_651: "Schattenstadt" # Châteauroux
+  ANI_VICTORY_POINTS_657: "Konstanza" # Constanta
+  ANI_VICTORY_POINTS_658: "Chur" # Chur
+  ANI_VICTORY_POINTS_663: "Zürich" # Zürich
+  ANI_VICTORY_POINTS_665: "Marburg an der Drau" # Maribor
+  ANI_VICTORY_POINTS_673: "Innsbruck" # Innsbruck
+  ANI_VICTORY_POINTS_678: "Mülhausen" # Mulhouse
+  ANI_VICTORY_POINTS_686: "Ödenburg" # Sopron
+  ANI_VICTORY_POINTS_688: "Salzburg" # Salzburg
+  ANI_VICTORY_POINTS_690: "Kronstadt" # Brasov
+  ANI_VICTORY_POINTS_692: "München" # Munich
+  ANI_VICTORY_POINTS_697: "Mongu" # Mongu
+  ANI_VICTORY_POINTS_705: "Achmeschid" # Simferopol
+  ANI_VICTORY_POINTS_708: "Augsburg" # Augsburg
+  ANI_VICTORY_POINTS_719: "Neurussburg" # Novorossysk
+  ANI_VICTORY_POINTS_721: "Kersen" # Kherson
+  ANI_VICTORY_POINTS_726: "Leon" # León
+  ANI_VICTORY_POINTS_732: "Linz" # Linz
+  ANI_VICTORY_POINTS_740: "Bilbao" # Bilbao
+  ANI_VICTORY_POINTS_741: "Tirassenstadt" # Tiraspol
+  ANI_VICTORY_POINTS_749: "Germanei" # Queenston
+  ANI_VICTORY_POINTS_758: "Korun" # La Coruña
+  ANI_VICTORY_POINTS_772: "Potti" # Poti
+  ANI_VICTORY_POINTS_773: "Wälsch-Brixen" # Brescia
+  ANI_VICTORY_POINTS_775: "Sals" # Salsk
+  ANI_VICTORY_POINTS_778: "Annetsie" # Annecy
+  ANI_VICTORY_POINTS_784: "Ispartei" # Isparta
+  ANI_VICTORY_POINTS_788: "Nordvolk" # Norfolk
+  ANI_VICTORY_POINTS_792: "Beirut" # Beirut
+  ANI_VICTORY_POINTS_804: "Kirikalla" # Kırıkkale
+  ANI_VICTORY_POINTS_819: "Neapel" # Naples
+  ANI_VICTORY_POINTS_833: "Debar" # Debar
+  ANI_VICTORY_POINTS_849: "Gallipoli" # Gelibolu
+  ANI_VICTORY_POINTS_853: "Phönix" # Phoenix
+  ANI_VICTORY_POINTS_858: "Toledo" # Toledo
+  ANI_VICTORY_POINTS_863: "Karditza" # Karditsa
+  ANI_VICTORY_POINTS_867: "Tetowo" # Tetovo
+  ANI_VICTORY_POINTS_875: "Kordoben" # Córdoba
+  ANI_VICTORY_POINTS_876: "Harput" # Xarpêt
+  ANI_VICTORY_POINTS_883: "Foggia" # Foggia
+  ANI_VICTORY_POINTS_885: "Burgos" # Burgos
+  ANI_VICTORY_POINTS_886: "Marasch" # Maraş
+  ANI_VICTORY_POINTS_898: "Tschongdschin" # Chongjin
+  ANI_VICTORY_POINTS_904: "Adapatsaren" # Adapazarı
+  ANI_VICTORY_POINTS_911: "Toulon" # Toulon
+  ANI_VICTORY_POINTS_914: "Girokastra" # Gjirokastër
+  ANI_VICTORY_POINTS_924: "Sankt Rehm" # Santarém
+  ANI_VICTORY_POINTS_925: "Ankona" # Ancona
+  ANI_VICTORY_POINTS_928: "Manisen" # Manisa
+  ANI_VICTORY_POINTS_934: "Tschongjang" # Chaoyang
+  ANI_VICTORY_POINTS_947: "Brussa" # Bursa
+  ANI_VICTORY_POINTS_949: "Sofia" # Sofia
+  ANI_VICTORY_POINTS_957: "Wladiwostok" # Vladivostok
+  ANI_VICTORY_POINTS_970: "Settenbach" # Setúbal
+  ANI_VICTORY_POINTS_976: "Lamia" # Lamia
+  ANI_VICTORY_POINTS_988: "Koquettendorf" # Coquilhatville
+  ANI_VICTORY_POINTS_993: "Utsunomien" # Utsunomiya
+  ANI_VICTORY_POINTS_994: "Yaxien" # Yaxian
+  ANI_VICTORY_POINTS_1003: "Häiju" # Haeju
+  ANI_VICTORY_POINTS_1005: "Antalien" # Antalya
+  ANI_VICTORY_POINTS_1010: "Tsunie" # Zunyi
+  ANI_VICTORY_POINTS_1015: "Umm al-Raschräsch" # Umm al-Rashrāsh
+  ANI_VICTORY_POINTS_1020: "Miatsaki" # Miyazaki
+  ANI_VICTORY_POINTS_1025: "Kokurren" # Kokura
+  ANI_VICTORY_POINTS_1029: "Donghai" # Donghai
+  ANI_VICTORY_POINTS_1047: "Kanton" # Guangzhou
+  ANI_VICTORY_POINTS_1048: "Kaditz" # Cádiz
+  ANI_VICTORY_POINTS_1052: "Tangschan" # Tangshan
+  ANI_VICTORY_POINTS_1055: "Wentschau" # Wenzhou
+  ANI_VICTORY_POINTS_1056: "Homs" # Homs
+  ANI_VICTORY_POINTS_1063: "Akita" # Akita
+  ANI_VICTORY_POINTS_1065: "Nazareth" # Nazareth
+  ANI_VICTORY_POINTS_1068: "Bennisau" # Beni Suef
+  ANI_VICTORY_POINTS_1069: "Tsinan" # Jinan
+  ANI_VICTORY_POINTS_1070: "Haikou" # Haikou
+  ANI_VICTORY_POINTS_1071: "El-Alamein" # El-Alamein
+  ANI_VICTORY_POINTS_1083: "Anking" # Anqing
+  ANI_VICTORY_POINTS_1086: "Jerusalem" # Jerusalem
+  ANI_VICTORY_POINTS_1088: "Latakien" # Latakia
+  ANI_VICTORY_POINTS_1092: "Hiroschima" # Hiroshima
+  ANI_VICTORY_POINTS_1097: "Saitama" # Saitama
+  ANI_VICTORY_POINTS_1104: "Tschifu" # Yantai
+  ANI_VICTORY_POINTS_1116: "Itanagar" # Itanagar
+  ANI_VICTORY_POINTS_1117: "Nigatar" # Niigata
+  ANI_VICTORY_POINTS_1130: "Tobruk" # Tobruk
+  ANI_VICTORY_POINTS_1133: "Kuschimoto" # Kushimoto
+  ANI_VICTORY_POINTS_1136: "Maitsuen" # Maizuru
+  ANI_VICTORY_POINTS_1145: "Algier" # Algiers
+  ANI_VICTORY_POINTS_1148: "Tschungtschon" # Chuncheon
+  ANI_VICTORY_POINTS_1149: "Tripolis" # Tripoli
+  ANI_VICTORY_POINTS_1150: "Dairen" # Dalian
+  ANI_VICTORY_POINTS_1151: "Kena" # Qena
+  ANI_VICTORY_POINTS_1158: "Sasebo" # Sasebo
+  ANI_VICTORY_POINTS_1168: "Taitschau" # Taizhou
+  ANI_VICTORY_POINTS_1176: "Granada" # Granada
+  ANI_VICTORY_POINTS_1177: "Tschetschu" # Jeju
+  ANI_VICTORY_POINTS_1180: "Tschintscheng" # Jincheng
+  ANI_VICTORY_POINTS_1181: "Goma" # Goma
+  ANI_VICTORY_POINTS_1182: "Tokio" # Tokyo
+  ANI_VICTORY_POINTS_1205: "Agrinien" # Agrinio
+  ANI_VICTORY_POINTS_1208: "Kuchingen" # Kuching
+  ANI_VICTORY_POINTS_1221: "Batangen" # Batangas
+  ANI_VICTORY_POINTS_1269: "Gudalkanal" # Guadalcanal
+  ANI_VICTORY_POINTS_1273: "Goasburg" # Goa
+  ANI_VICTORY_POINTS_1278: "Ufer" # Ufa
+  ANI_VICTORY_POINTS_1283: "Daru" # Daru
+  ANI_VICTORY_POINTS_1291: "Alorsettin" # Alor Setar
+  ANI_VICTORY_POINTS_1319: "Kunming" # Kunming
+  ANI_VICTORY_POINTS_1321: "Kochin" # Kochin
+  ANI_VICTORY_POINTS_1330: "Rangun" # Rangoon
+  ANI_VICTORY_POINTS_1349: "Bombai" # Bombay
+  ANI_VICTORY_POINTS_1355: "Kuppen" # Kupang
+  ANI_VICTORY_POINTS_1367: "Kuanhang" # Guanghan
+  ANI_VICTORY_POINTS_1376: "Ippen" # Ipoh
+  ANI_VICTORY_POINTS_1377: "Glücksburg" # Lucknow
+  ANI_VICTORY_POINTS_1384: "Schillerburg" # Stalinabad
+  ANI_VICTORY_POINTS_1403: "Mohlmain" # Moulmein
+  ANI_VICTORY_POINTS_1408: "Wenschel" # Vancouver
+  ANI_VICTORY_POINTS_1415: "Daugen" # Dagupan
+  ANI_VICTORY_POINTS_1421: "Sambonn" # Zamboanga
+  ANI_VICTORY_POINTS_1424: "Mongtau" # Moncton
+  ANI_VICTORY_POINTS_1440: "Sankt Johannesburg" # San Juan
+  ANI_VICTORY_POINTS_1449: "Paran" # Paraná
+  ANI_VICTORY_POINTS_1459: "Taschkent" # Tashkent
+  ANI_VICTORY_POINTS_1464: "Wientiane" # Vientiane
+  ANI_VICTORY_POINTS_1468: "Durban" # Durban
+  ANI_VICTORY_POINTS_1488: "Tschiang Mai" # Chiang Mai
+  ANI_VICTORY_POINTS_1492: "Mandalai" # Mandalay
+  ANI_VICTORY_POINTS_1493: "Taschaus" # Tashauz
+  ANI_VICTORY_POINTS_1512: "Nemurgau" # Nemuro
+  ANI_VICTORY_POINTS_1517: "Mangschtau" # Mangystau
+  ANI_VICTORY_POINTS_1549: "Kamischli" # Qamishli
+  ANI_VICTORY_POINTS_1553: "Impfal" # Imphal
+  ANI_VICTORY_POINTS_1554: "Nawoi" # Navoi
+  ANI_VICTORY_POINTS_1562: "Didakus-Stadt" # San Diego
+  ANI_VICTORY_POINTS_1563: "Pakse" # Pakse
+  ANI_VICTORY_POINTS_1573: "Buchen" # Bukhara
+  ANI_VICTORY_POINTS_1591: "Alm-Atten" # Alma-Ata
+  ANI_VICTORY_POINTS_1592: "Kampsacken" # Champasak
+  ANI_VICTORY_POINTS_1595: "Inderstadt" # Indianapolis
+  ANI_VICTORY_POINTS_1597: "Liutschou" # Liuzhou
+  ANI_VICTORY_POINTS_1599: "Tiflis" # Tbilisi
+  ANI_VICTORY_POINTS_1612: "Itschang" # Yichang
+  ANI_VICTORY_POINTS_1613: "Bonetei" # Rincón del Bonete
+  ANI_VICTORY_POINTS_1614: "Nukus" # Nukus
+  ANI_VICTORY_POINTS_1631: "Trebil" # Trebil
+  ANI_VICTORY_POINTS_1641: "Melo" # Melo
+  ANI_VICTORY_POINTS_1652: "Pert" # Perth
+  ANI_VICTORY_POINTS_1659: "Jomstadt" # Khanty-Mansysk
+  ANI_VICTORY_POINTS_1668: "Ajagus" # Ayaguz
+  ANI_VICTORY_POINTS_1684: "Salekard" # Salekhard
+  ANI_VICTORY_POINTS_1690: "Spoken" # Spokane
+  ANI_VICTORY_POINTS_1693: "Aihui" # Heihe
+  ANI_VICTORY_POINTS_1747: "Schnellstadt" # Rapid City
+  ANI_VICTORY_POINTS_1751: "Delgadenburg" # Ponta Delgada
+  ANI_VICTORY_POINTS_1770: "Demoin" # Des Moines
+  ANI_VICTORY_POINTS_1776: "Genhe" # Genhe
+  ANI_VICTORY_POINTS_1794: "Barnaul" # Barnaul
+  ANI_VICTORY_POINTS_1806: "Tulsa" # Tulsa
+  ANI_VICTORY_POINTS_1814: "Wellenstein" # Wellington
+  ANI_VICTORY_POINTS_1819: "Kolüm" # Srednekolymsk
+  ANI_VICTORY_POINTS_1820: "Schikuka" # Shikuka
+  ANI_VICTORY_POINTS_1821: "Schwertlau" # Sverdlovsk
+  ANI_VICTORY_POINTS_1822: "Mabaden" # Mahabad
+  ANI_VICTORY_POINTS_1827: "Denf" # Denver
+  ANI_VICTORY_POINTS_1836: "Bismarck" # Bismarck
+  ANI_VICTORY_POINTS_1843: "Maistadt" # Miami
+  ANI_VICTORY_POINTS_1866: "Wasserburg" # Minneapolis
+  ANI_VICTORY_POINTS_1891: "Sokoto" # Sokoto
+  ANI_VICTORY_POINTS_1892: "Ensenada" # Ensenada
+  ANI_VICTORY_POINTS_1896: "Täbris" # Tabriz
+  ANI_VICTORY_POINTS_1900: "Tuchsgut" # Tuxtla Gutiérrez
+  ANI_VICTORY_POINTS_1903: "Malabei" # Malabo
+  ANI_VICTORY_POINTS_1908: "Tschaipur" # Jaipur
+  ANI_VICTORY_POINTS_1909: "Konakrei" # Conakry
+  ANI_VICTORY_POINTS_1910: "Kotteln" # Kotli
+  ANI_VICTORY_POINTS_1929: "Kabinda" # Kabinda
+  ANI_VICTORY_POINTS_1939: "Nairobi" # Nairobi
+  ANI_VICTORY_POINTS_1944: "Marakaibo" # Maracaibo
+  ANI_VICTORY_POINTS_1950: "Stanleystadt" # Stanleyville
+  ANI_VICTORY_POINTS_1951: "Lomme" # Lomé
+  ANI_VICTORY_POINTS_1960: "Nial" # Nyala
+  ANI_VICTORY_POINTS_1965: "Mexiko-Stadt" # Mexico City
+  ANI_VICTORY_POINTS_1970: "Jehtscheng" # Yecheng
+  ANI_VICTORY_POINTS_1977: "Halajeb" # Halayeb
+  ANI_VICTORY_POINTS_1984: "Gondar" # Gondar
+  ANI_VICTORY_POINTS_2003: "Tokar" # Tokar
+  ANI_VICTORY_POINTS_2004: "Diwanien" # Al Diwaniyah
+  ANI_VICTORY_POINTS_2008: "Leon" # León
+  ANI_VICTORY_POINTS_2009: "Asosa" # Asosa
+  ANI_VICTORY_POINTS_2015: "Kaschgar" # Kashgar
+  ANI_VICTORY_POINTS_2017: "Farah" # Farah
+  ANI_VICTORY_POINTS_2021: "Hermosenstadt" # Villahermosa
+  ANI_VICTORY_POINTS_2022: "Lantschou" # Lanzhou
+  ANI_VICTORY_POINTS_2023: "Medellin" # Medellin
+  ANI_VICTORY_POINTS_2024: "Backwangen" # Bakwanga
+  ANI_VICTORY_POINTS_2026: "Isfahan" # Isfahan
+  ANI_VICTORY_POINTS_2029: "Mukallen" # Al Mukalla
+  ANI_VICTORY_POINTS_2034: "Faradei" # Faradje
+  ANI_VICTORY_POINTS_2038: "Fritauen" # Freetown
+  ANI_VICTORY_POINTS_2046: "Atbara" # Atbara
+  ANI_VICTORY_POINTS_2050: "Lagos" # Lagos
+  ANI_VICTORY_POINTS_2054: "Tschaipur" # Jaipur
+  ANI_VICTORY_POINTS_2056: "Niamei" # Niamey
+  ANI_VICTORY_POINTS_2060: "Neu-Lareden" # Nuevo Laredo
+  ANI_VICTORY_POINTS_2065: "Arak" # Arak
+  ANI_VICTORY_POINTS_2072: "Makalle" # Macalle
+  ANI_VICTORY_POINTS_2074: "Ruckang" # Ruoqiang
+  ANI_VICTORY_POINTS_2075: "Blaufeld" # Bluefields
+  ANI_VICTORY_POINTS_2076: "Darmsaal" # Dharamshala
+  ANI_VICTORY_POINTS_2077: "Belize-Stadt" # Belize City
+  ANI_VICTORY_POINTS_2080: "Jaunde" # Yaoundé
+  ANI_VICTORY_POINTS_2081: "Lamienburg" # N'Djamena
+  ANI_VICTORY_POINTS_2086: "Delli" # Delhi
+  ANI_VICTORY_POINTS_2087: "Wujüan" # Wuyuan
+  ANI_VICTORY_POINTS_2089: "Basra" # Basrah
+  ANI_VICTORY_POINTS_2096: "Juba" # Juba
+  ANI_VICTORY_POINTS_2097: "Bagdad" # Baghdad
+  ANI_VICTORY_POINTS_2103: "Salala" # Salalah
+  ANI_VICTORY_POINTS_2106: "Heimstadt" # Resistencia
+  ANI_VICTORY_POINTS_2111: "Kuiaba" # Cuiabá
+  ANI_VICTORY_POINTS_2115: "Kabinden" # Cabinda
+  ANI_VICTORY_POINTS_2136: "Sankt Johannesburg" # San Juan
+  ANI_VICTORY_POINTS_2152: "Asuntsion" # Asunción
+  ANI_VICTORY_POINTS_2156: "Piur" # Piura
+  ANI_VICTORY_POINTS_2160: "Amerika-Kreuzstadt" # Santa Cruz de la Sierra
+  ANI_VICTORY_POINTS_2161: "Koihaik" # Coyhaique
+  ANI_VICTORY_POINTS_2173: "Humatanen-Festung" # Fortress Humaitá
+  ANI_VICTORY_POINTS_2194: "Inkarnen-Stadt" # Encarnación
+  ANI_VICTORY_POINTS_2195: "Filadelfen" # Filadelfia
+  ANI_VICTORY_POINTS_2196: "Daressalamei" # Dar es Salaam
+  ANI_VICTORY_POINTS_2197: "Gottesburg" # Christchurch
+  ANI_VICTORY_POINTS_2203: "Waitak" # Waitaki
+  ANI_VICTORY_POINTS_2210: "Arkippa" # Arequipa
+  ANI_VICTORY_POINTS_2211: "Dundin" # Dunedin
+  ANI_VICTORY_POINTS_2220: "Bujumbura" # Bujumbura
+  ANI_VICTORY_POINTS_2223: "Alise-Quelle" # Alice Springs
+  ANI_VICTORY_POINTS_2224: "Tschutschui" # San Salvador de Jujuy
+  ANI_VICTORY_POINTS_2226: "Pukalpa" # Pucallpa
+  ANI_VICTORY_POINTS_2489: "Truk" # Truk
+  ANI_VICTORY_POINTS_2998: "Porjähren" # Porajärvi
+  ANI_VICTORY_POINTS_3010: "Edmin" # Edmonton
+  ANI_VICTORY_POINTS_3022: "Drontheim" # Trondheim
+  ANI_VICTORY_POINTS_3048: "Mo" # Mo i Rana
+  ANI_VICTORY_POINTS_3061: "Kotta" # Kotka
+  ANI_VICTORY_POINTS_3067: "Uchtua" # Uhtua
+  ANI_VICTORY_POINTS_3073: "Sumusalm" # Suomussalmi
+  ANI_VICTORY_POINTS_3083: "Abo" # Turku
+  ANI_VICTORY_POINTS_3095: "Kirun" # Kiruna
+  ANI_VICTORY_POINTS_3117: "Björneberg" # Pori
+  ANI_VICTORY_POINTS_3118: "Funchal" # Funchal
+  ANI_VICTORY_POINTS_3122: "Wasa" # Vaasa
+  ANI_VICTORY_POINTS_3125: "Kajana" # Kajaani
+  ANI_VICTORY_POINTS_3134: "Mürmanns" # Murmansk
+  ANI_VICTORY_POINTS_3136: "Elferum" # Elverum
+  ANI_VICTORY_POINTS_3137: "Tammerfors" # Tampere
+  ANI_VICTORY_POINTS_3140: "Tischwin" # Tikhvin
+  ANI_VICTORY_POINTS_3150: "Dundei" # Dundee
+  ANI_VICTORY_POINTS_3151: "Gutenberg" # Leningrad
+  ANI_VICTORY_POINTS_3152: "Reval" # Tallinn
+  ANI_VICTORY_POINTS_3174: "Pernau" # Pärnu
+  ANI_VICTORY_POINTS_3206: "Wiborg" # Viborg
+  ANI_VICTORY_POINTS_3211: "Grafenhaag" # The Hague
+  ANI_VICTORY_POINTS_3230: "Plock" # Płock
+  ANI_VICTORY_POINTS_3254: "Suwalken" # Suwałki
+  ANI_VICTORY_POINTS_3255: "Jakobstadt" # Jēkabpils
+  ANI_VICTORY_POINTS_3258: "Neustrelitz" # Neustrelitz
+  ANI_VICTORY_POINTS_3262: "Breda" # Breda
   ANI_VICTORY_POINTS_3273: "Glasgau" # Glasgow
-  ANI_VICTORY_POINTS_9392: "Edensburg" # Edinburgh
-  ANI_VICTORY_POINTS_6300: "Rositt" # Rosyth
-  ANI_VICTORY_POINTS_3150: "Dundeln" # Dundee
-  ANI_VICTORY_POINTS_200: "Abbern" # Aberdeen
-  ANI_VICTORY_POINTS_3373: "Obben" # Oban
-  ANI_VICTORY_POINTS_9075: "Inwern" # Inverness
-  ANI_VICTORY_POINTS_11064: "Skappenlau" # Scapa Flow
-  ANI_VICTORY_POINTS_6062: "Stornenweg" # Stornoway
-  ANI_VICTORY_POINTS_3311: "Dugeln" # Douglas
-  ANI_VICTORY_POINTS_3379: "Bellenburg" # Belfast
-  ANI_VICTORY_POINTS_385: "Derrer Kahldeich" # Londonderry
-  ANI_VICTORY_POINTS_11371: "Schliegen" # Sligo
-  ANI_VICTORY_POINTS_9303: "Gallen" # Galway
-  ANI_VICTORY_POINTS_11293: "Dublin" # Dublin
-  ANI_VICTORY_POINTS_303: "Tullen" # Tullamore
-  ANI_VICTORY_POINTS_285: "Wechselsfort" # Wexford
-  ANI_VICTORY_POINTS_6313: "Limmerick" # Limerick
+  ANI_VICTORY_POINTS_3277: "Kolding" # Kolding
+  ANI_VICTORY_POINTS_3284: "Spanienhafen" # Port of Spain
+  ANI_VICTORY_POINTS_3288: "Memel" # Memel
+  ANI_VICTORY_POINTS_3295: "Thorn" # Toruń
+  ANI_VICTORY_POINTS_3296: "Windau" # Ventspils
+  ANI_VICTORY_POINTS_3311: "Dungeln" # Douglas
+  ANI_VICTORY_POINTS_3320: "Wilnau" # Vilna
+  ANI_VICTORY_POINTS_3325: "Odense" # Odense
+  ANI_VICTORY_POINTS_3326: "Bremen" # Bremen
+  ANI_VICTORY_POINTS_3335: "Brüansk" # Bryansk
+  ANI_VICTORY_POINTS_3338: "Erzengel-Stadt" # Archangelsk
+  ANI_VICTORY_POINTS_3340: "Greifswald" # Greifswald
+  ANI_VICTORY_POINTS_3350: "Bobrust" # Bobruysk
+  ANI_VICTORY_POINTS_3359: "Drogeda" # Drogheda
+  ANI_VICTORY_POINTS_3368: "Heide" # Heide
+  ANI_VICTORY_POINTS_3369: "Bristen" # Bristol
+  ANI_VICTORY_POINTS_3374: "Swenburg" # Svendborg
+  ANI_VICTORY_POINTS_3375: "Schöwding" # Skövde
+  ANI_VICTORY_POINTS_3379: "Bellenberg" # Belfast
+  ANI_VICTORY_POINTS_3392: "Brest-Litowsk" # Brest-Litovsk
+  ANI_VICTORY_POINTS_3393: "Grodno" # Grodno
+  ANI_VICTORY_POINTS_3414: "Troppau" # Opava
+  ANI_VICTORY_POINTS_3423: "Koblenz" # Koblenz
+  ANI_VICTORY_POINTS_3427: "Ordus" # Ordos
+  ANI_VICTORY_POINTS_3444: "Düsseldorf" # Düsseldorf
+  ANI_VICTORY_POINTS_3456: "Karatschi" # Karachi
+  ANI_VICTORY_POINTS_3457: "Proskurau" # Proskuriv
+  ANI_VICTORY_POINTS_3458: "Radom" # Radom
+  ANI_VICTORY_POINTS_3473: "Küstrin" # Küstrin
+  ANI_VICTORY_POINTS_3483: "Tarnopol" # Tarnopol
+  ANI_VICTORY_POINTS_3488: "Eupen-Malmedy" # Eupen-Malmedy
+  ANI_VICTORY_POINTS_3499: "Potsdam" # Potsdam
+  ANI_VICTORY_POINTS_3501: "Dower" # Dover
+  ANI_VICTORY_POINTS_3513: "Portland" # Portland
+  ANI_VICTORY_POINTS_3516: "Namür" # Namur
+  ANI_VICTORY_POINTS_3520: "Sumi" # Sumy
+  ANI_VICTORY_POINTS_3522: "Magdeburg" # Magdeburg
+  ANI_VICTORY_POINTS_3529: "Beethoven" # Stalingrad
+  ANI_VICTORY_POINTS_3530: "Karlsruhe" # Karlsruhe
+  ANI_VICTORY_POINTS_3535: "Leipzig" # Leipzig
+  ANI_VICTORY_POINTS_3544: "Warschau" # Warsaw
+  ANI_VICTORY_POINTS_3545: "Waldenburg" # Waldenburg
+  ANI_VICTORY_POINTS_3547: "Bonn" # Bonn
+  ANI_VICTORY_POINTS_3548: "Munkatsch" # Mukachevo
+  ANI_VICTORY_POINTS_3552: "Breschd" # Brest
+  ANI_VICTORY_POINTS_3560: "Sedan" # Sedan
+  ANI_VICTORY_POINTS_3561: "Erfurt" # Erfurt
+  ANI_VICTORY_POINTS_3568: "Tschernigow" # Chernigov
+  ANI_VICTORY_POINTS_3569: "Brünn" # Brno
+  ANI_VICTORY_POINTS_3576: "Kortrick" # Kortrijk
+  ANI_VICTORY_POINTS_3578: "Saratow" # Saratov
+  ANI_VICTORY_POINTS_3580: "Kursk" # Kursk
+  ANI_VICTORY_POINTS_3581: "Eperies" # Prešov
+  ANI_VICTORY_POINTS_3583: "Mährisch-Ostrau" # Ostrava
+  ANI_VICTORY_POINTS_3585: "Karlsbad" # Carlsbad
+  ANI_VICTORY_POINTS_3594: "Widschy" # Vichy
+  ANI_VICTORY_POINTS_3604: "Padua" # Padova
+  ANI_VICTORY_POINTS_3609: "Schabatz" # Šabac
+  ANI_VICTORY_POINTS_3614: "Pantschowa" # Pančevo
+  ANI_VICTORY_POINTS_3618: "Gurjau" # Guryev
+  ANI_VICTORY_POINTS_3652: "Dischon" # Dijon
+  ANI_VICTORY_POINTS_3653: "Batumi" # Batumi
+  ANI_VICTORY_POINTS_3663: "Plojescht" # Ploiesti
+  ANI_VICTORY_POINTS_3671: "Tours" # Tours
+  ANI_VICTORY_POINTS_3672: "Grodsnei" # Grozny
+  ANI_VICTORY_POINTS_3673: "Klagenfurt" # Klagenfurt
+  ANI_VICTORY_POINTS_3679: "Konstanz" # Konstanz
+  ANI_VICTORY_POINTS_3686: "Sewastopol" # Sevastopol
+  ANI_VICTORY_POINTS_3696: "Großwardein" # Oradea
+  ANI_VICTORY_POINTS_3700: "Eisenstadt" # Eisenstadt
+  ANI_VICTORY_POINTS_3707: "Kischinau" # Chisinău
+  ANI_VICTORY_POINTS_3720: "Maikop" # Maykop
+  ANI_VICTORY_POINTS_3734: "Krasnodar" # Krasnodar
+  ANI_VICTORY_POINTS_3738: "Juschne" # Yuzhne
+  ANI_VICTORY_POINTS_3757: "Balta" # Balta
+  ANI_VICTORY_POINTS_3768: "Grenobel" # Grenoble
+  ANI_VICTORY_POINTS_3775: "Tronten" # Toronto
+  ANI_VICTORY_POINTS_3778: "Ottawa" # Ottawa
+  ANI_VICTORY_POINTS_3780: "Mailand" # Milan
+  ANI_VICTORY_POINTS_3790: "Mauhaven" # Portimão
+  ANI_VICTORY_POINTS_3795: "Tikrit" # Tikrit
+  ANI_VICTORY_POINTS_3796: "Plewen" # Pleven
+  ANI_VICTORY_POINTS_3798: "Kaimbra" # Coimbra
+  ANI_VICTORY_POINTS_3816: "Saragusa" # Zaragoza
+  ANI_VICTORY_POINTS_3838: "Ajatschio" # Ajáccio
+  ANI_VICTORY_POINTS_3844: "Katerin" # Kateríni
+  ANI_VICTORY_POINTS_3856: "Kütaja" # Kütahya
+  ANI_VICTORY_POINTS_3862: "Josgat" # Yozgat
+  ANI_VICTORY_POINTS_3864: "Wolos" # Volos
+  ANI_VICTORY_POINTS_3868: "Ragusa" # Dubrovnik
+  ANI_VICTORY_POINTS_3874: "Salamanka" # Salamanca
+  ANI_VICTORY_POINTS_3878: "Neu-München" # New York
+  ANI_VICTORY_POINTS_3882: "Skoppel" # Skopje
+  ANI_VICTORY_POINTS_3914: "Janina" # Ioannina
+  ANI_VICTORY_POINTS_3916: "Arbil" # Erbil
+  ANI_VICTORY_POINTS_3924: "Spalato" # Split
+  ANI_VICTORY_POINTS_3933: "Pamplon" # Pamplona
+  ANI_VICTORY_POINTS_3938: "Madrid" # Madrid
+  ANI_VICTORY_POINTS_3942: "Daiasor" # Deir az-Zur
+  ANI_VICTORY_POINTS_3943: "Zarra" # Zadar
+  ANI_VICTORY_POINTS_3945: "Kuendscha" # Cuenca
+  ANI_VICTORY_POINTS_3951: "Eskischedir" # Eskişehir
+  ANI_VICTORY_POINTS_3954: "Kaspe" # Caspe
+  ANI_VICTORY_POINTS_3957: "Goethe" # Washington
+  ANI_VICTORY_POINTS_3960: "Dallen" # Dallas
+  ANI_VICTORY_POINTS_3962: "Hakodate" # Hakodate
+  ANI_VICTORY_POINTS_3973: "Larissa" # Larissa
+  ANI_VICTORY_POINTS_3979: "Gemüschan" # Gümüşhane
+  ANI_VICTORY_POINTS_3988: "Korinth" # Kórinthos
+  ANI_VICTORY_POINTS_3992: "Nantschang" # Nanchang
+  ANI_VICTORY_POINTS_3995: "Saipan" # Saipan
+  ANI_VICTORY_POINTS_3996: "Giza" # Giza
+  ANI_VICTORY_POINTS_4001: "Jangtschau" # Yangzhou
+  ANI_VICTORY_POINTS_4014: "Katanien" # Catania
+  ANI_VICTORY_POINTS_4027: "Beppu" # Beppu
+  ANI_VICTORY_POINTS_4052: "Pjöngjang" # Pyongyang
+  ANI_VICTORY_POINTS_4054: "Ise" # Ise
+  ANI_VICTORY_POINTS_4056: "Fussen" # Busan
+  ANI_VICTORY_POINTS_4067: "Sakaten" # Sakata
+  ANI_VICTORY_POINTS_4069: "Öi-Talsperre" # Ōi Dam
+  ANI_VICTORY_POINTS_4073: "Sueß" # Suez
+  ANI_VICTORY_POINTS_4075: "Hanoi" # Hanoi
+  ANI_VICTORY_POINTS_4076: "Alexandrien" # Alexandria
+  ANI_VICTORY_POINTS_4091: "Nantong" # Nantong
+  ANI_VICTORY_POINTS_4094: "Takamatsu" # Takamatsu
+  ANI_VICTORY_POINTS_4098: "Alisante" # Alicante
+  ANI_VICTORY_POINTS_4100: "Hitaschi" # Hitachi
+  ANI_VICTORY_POINTS_4102: "Kagoschima" # Kagoshima
+  ANI_VICTORY_POINTS_4106: "Indore" # Indore
+  ANI_VICTORY_POINTS_4108: "Marrakesch" # Marrakech
+  ANI_VICTORY_POINTS_4109: "Athen" # Athens
+  ANI_VICTORY_POINTS_4111: "Damaskus" # Damascus
+  ANI_VICTORY_POINTS_4112: "Smyrna" # Izmir
+  ANI_VICTORY_POINTS_4115: "Akaba" # Aqaba
+  ANI_VICTORY_POINTS_4118: "Fukushima" # Fukushima
+  ANI_VICTORY_POINTS_4119: "Haiphong" # Haiphong
+  ANI_VICTORY_POINTS_4126: "Tschondschu" # Jeonju
+  ANI_VICTORY_POINTS_4128: "Port-Francqui" # Port-Francqui
+  ANI_VICTORY_POINTS_4130: "Mienjang" # Mienyang
+  ANI_VICTORY_POINTS_4135: "Gibraltar" # Gibraltar
+  ANI_VICTORY_POINTS_4142: "Suzuka" # Suzuka
+  ANI_VICTORY_POINTS_4159: "Messina" # Messina
+  ANI_VICTORY_POINTS_4161: "El-Arisch" # El-Arīsh
+  ANI_VICTORY_POINTS_4164: "Kurume" # Kurume
+  ANI_VICTORY_POINTS_4174: "Taiyüan" # Taiyuan
+  ANI_VICTORY_POINTS_4179: "Matsuyama" # Matsuyama
+  ANI_VICTORY_POINTS_4180: "Honolulu" # Honolulu
+  ANI_VICTORY_POINTS_4181: "Lini" # Linyi
+  ANI_VICTORY_POINTS_4188: "Tschiba" # Chiba
+  ANI_VICTORY_POINTS_4189: "Makao" # Macau
+  ANI_VICTORY_POINTS_4190: "Schimen" # Shimen
+  ANI_VICTORY_POINTS_4196: "Futschou" # Fuzhou
+  ANI_VICTORY_POINTS_4202: "Jänangjaung" # Yenangyaung
+  ANI_VICTORY_POINTS_4205: "Weihaiwei" # Weihaiwei
+  ANI_VICTORY_POINTS_4206: "Tel Aviv" # Tel Aviv
+  ANI_VICTORY_POINTS_4210: "Panlon" # Pan Lon
+  ANI_VICTORY_POINTS_4226: "Buin" # Buin
+  ANI_VICTORY_POINTS_4241: "Davao" # Davao
+  ANI_VICTORY_POINTS_4245: "Kalkutta" # Calcutta
+  ANI_VICTORY_POINTS_4251: "Battambang" # Battambang
+  ANI_VICTORY_POINTS_4268: "Nouméa" # Noumea
+  ANI_VICTORY_POINTS_4279: "Pontianak" # Pontianak
+  ANI_VICTORY_POINTS_4282: "Kudat" # Kudat
+  ANI_VICTORY_POINTS_4285: "Sankt Johann" # Saint John
+  ANI_VICTORY_POINTS_4286: "Suwa" # Suva
+  ANI_VICTORY_POINTS_4288: "Kalapan" # Calapan
+  ANI_VICTORY_POINTS_4301: "Ende" # Ende
+  ANI_VICTORY_POINTS_4302: "Siem Reap" # Siem Reap
+  ANI_VICTORY_POINTS_4311: "Belorezk" # Beloretsk
+  ANI_VICTORY_POINTS_4315: "Maisur" # Mysore City
+  ANI_VICTORY_POINTS_4329: "Port Moresby" # Port Moresby
+  ANI_VICTORY_POINTS_4333: "Akmolinsk" # Akmolinsk
+  ANI_VICTORY_POINTS_4345: "Montreal" # Montréal
+  ANI_VICTORY_POINTS_4354: "Sterlitamak" # Sterlitamak
+  ANI_VICTORY_POINTS_4357: "Ngaraard" # Ngaraard
+  ANI_VICTORY_POINTS_4361: "Tandjungkarang-Telukbetung" # Tanjung Karang Teluk Betung
+  ANI_VICTORY_POINTS_4371: "Songkhla" # Songkhla
+  ANI_VICTORY_POINTS_4379: "Hue" # Huế
+  ANI_VICTORY_POINTS_4396: "Bintulu" # Bintulu
+  ANI_VICTORY_POINTS_4401: "Saigon" # Saigon
+  ANI_VICTORY_POINTS_4412: "Seremban" # Seremban
+  ANI_VICTORY_POINTS_4425: "Myitkyina" # Myitkyina
+  ANI_VICTORY_POINTS_4434: "Tjilatjap" # Cilacap
+  ANI_VICTORY_POINTS_4435: "Gangtok" # Gangtok
+  ANI_VICTORY_POINTS_4440: "Ruwaished" # Ruwaished
+  ANI_VICTORY_POINTS_4464: "Biloxi" # Biloxi
+  ANI_VICTORY_POINTS_4468: "Sorong" # Sorong
+  ANI_VICTORY_POINTS_4473: "Astara" # Astara
+  ANI_VICTORY_POINTS_4486: "Suwaida" # Sweida
+  ANI_VICTORY_POINTS_4501: "Mengtse" # Mengzi
+  ANI_VICTORY_POINTS_4504: "Kweijang" # Guiyang
+  ANI_VICTORY_POINTS_4512: "Diarbekir" # Diyarbakır
+  ANI_VICTORY_POINTS_4515: "Jadotville" # Jadotville
+  ANI_VICTORY_POINTS_4516: "Patna" # Patna
+  ANI_VICTORY_POINTS_4543: "Auckland" # Auckland
+  ANI_VICTORY_POINTS_4548: "Florianopolis" # Florianópolis
+  ANI_VICTORY_POINTS_4564: "Kendari" # Kendari
+  ANI_VICTORY_POINTS_4569: "Sankt Ludwig" # Saint Louis
+  ANI_VICTORY_POINTS_4572: "Hsingking" # Hsinking
+  ANI_VICTORY_POINTS_4576: "Wakkanai" # Wakkanai
+  ANI_VICTORY_POINTS_4579: "Dobo" # Dobo
+  ANI_VICTORY_POINTS_4583: "Igdir" # Iğdır
+  ANI_VICTORY_POINTS_4598: "Sankt Jakob der Ritter" # Santiago de los Caballeros
+  ANI_VICTORY_POINTS_4611: "Sankt Josef von David" # San José de David
+  ANI_VICTORY_POINTS_4613: "Luang Prabang" # Luang Prabang
+  ANI_VICTORY_POINTS_4619: "Wuhan" # Wuhan
+  ANI_VICTORY_POINTS_4640: "Narwa" # Narva
+  ANI_VICTORY_POINTS_4641: "Port-au-Prince" # Port-au-Prince
+  ANI_VICTORY_POINTS_4652: "Medan" # Medan
+  ANI_VICTORY_POINTS_4682: "Aksu" # Aksu
+  ANI_VICTORY_POINTS_4696: "Port Elisabeth" # Port Elizabeth
+  ANI_VICTORY_POINTS_4704: "Hami" # Hami
+  ANI_VICTORY_POINTS_4705: "Tschita" # Chita
+  ANI_VICTORY_POINTS_4709: "Urumtschi" # Ürümqi
+  ANI_VICTORY_POINTS_4718: "Tauranga" # Tauranga
+  ANI_VICTORY_POINTS_4724: "Krasnojarsk" # Krasnoyarsk
+  ANI_VICTORY_POINTS_4739: "Saskatoon" # Saskatoon
+  ANI_VICTORY_POINTS_4740: "Wichita" # Wichita
+  ANI_VICTORY_POINTS_4783: "Edsin-Banner" # Ejin Banner
+  ANI_VICTORY_POINTS_4797: "Irkutsk" # Irkutsk
+  ANI_VICTORY_POINTS_4799: "Las Vegas" # Las Vegas
+  ANI_VICTORY_POINTS_4800: "Ojrot-Tura" # Oyrot-Tura
+  ANI_VICTORY_POINTS_4801: "Ulan-Bator" # Ulaanbaatar
+  ANI_VICTORY_POINTS_4804: "Mangahao" # Mangahao
+  ANI_VICTORY_POINTS_4823: "Altai" # Altay
+  ANI_VICTORY_POINTS_4824: "Tjumen" # Tyumen
+  ANI_VICTORY_POINTS_4859: "Dudinka" # Dudinka
+  ANI_VICTORY_POINTS_4860: "Große Fälle" # Great Falls
+  ANI_VICTORY_POINTS_4864: "Katarakt-Talsperre" # Cataract Dam
+  ANI_VICTORY_POINTS_4865: "Salzseestadt" # Salt Lake City
+  ANI_VICTORY_POINTS_4872: "Winnipeg" # Winnipeg
+  ANI_VICTORY_POINTS_4879: "Windhuk" # Windhoek
+  ANI_VICTORY_POINTS_4887: "Morelia" # Morelia
+  ANI_VICTORY_POINTS_4893: "Herat" # Herat
+  ANI_VICTORY_POINTS_4901: "Ardebil" # Ardabil
+  ANI_VICTORY_POINTS_4904: "Campeche" # Campeche
+  ANI_VICTORY_POINTS_4908: "Guaymas" # Guaymas
+  ANI_VICTORY_POINTS_4924: "Marib" # Marib
+  ANI_VICTORY_POINTS_4925: "Tschengtu" # Chengdu
+  ANI_VICTORY_POINTS_4927: "Bamako" # Bamako
+  ANI_VICTORY_POINTS_4928: "Jasudsch" # Yasuj
+  ANI_VICTORY_POINTS_4941: "Albertstadt" # Albertville
+  ANI_VICTORY_POINTS_4943: "Senandadsch" # Sanandaj
+  ANI_VICTORY_POINTS_4948: "Dakar" # Dakar
+  ANI_VICTORY_POINTS_4950: "Nagpur" # Nagpur
+  ANI_VICTORY_POINTS_4956: "San Luis Potosi" # San Luis Potosi
+  ANI_VICTORY_POINTS_4965: "Tschetumal" # Chetumal
+  ANI_VICTORY_POINTS_4967: "Male" # Malé
+  ANI_VICTORY_POINTS_4973: "Hotan" # Hotan
+  ANI_VICTORY_POINTS_4975: "Albuquerque" # Albuquerque
+  ANI_VICTORY_POINTS_4977: "Obregonstadt" # Ciudad Obregón
+  ANI_VICTORY_POINTS_4980: "Macapa" # Macapá
+  ANI_VICTORY_POINTS_4982: "Georgetown" # Georgetown
+  ANI_VICTORY_POINTS_4987: "Katmandu" # Kathmandu
+  ANI_VICTORY_POINTS_4989: "Bathurst" # Banjul
+  ANI_VICTORY_POINTS_4993: "Sohar" # Sohar
+  ANI_VICTORY_POINTS_4999: "Kangt'ing" # Kangding
+  ANI_VICTORY_POINTS_5010: "Addis Abeba" # Addis Ababa
+  ANI_VICTORY_POINTS_5015: "Matamoros" # Matamoros
+  ANI_VICTORY_POINTS_5023: "Puerto Ayora" # Puerto Ayora
+  ANI_VICTORY_POINTS_5025: "Guyüan" # Guyuan
+  ANI_VICTORY_POINTS_5029: "Meschhed" # Mashhad
+  ANI_VICTORY_POINTS_5031: "Alxa-Rechtsbanner" # Alxa Right Banner
+  ANI_VICTORY_POINTS_5033: "Lhasa" # Lhasa
+  ANI_VICTORY_POINTS_5034: "Nuakschott" # Nouakchott
+  ANI_VICTORY_POINTS_5037: "Mekka" # Mecca
+  ANI_VICTORY_POINTS_5049: "Nizwa" # Nizwa
+  ANI_VICTORY_POINTS_5064: "Kandahar" # Kandahar
+  ANI_VICTORY_POINTS_5068: "Hargeisa" # Hargeisa
+  ANI_VICTORY_POINTS_5069: "Berenike" # Berenice Troglodytica
+  ANI_VICTORY_POINTS_5071: "Agua Prieta" # Agua Prieta
+  ANI_VICTORY_POINTS_5072: "Tschenschung" # Zhenxiong
+  ANI_VICTORY_POINTS_5074: "Aden" # Aden
+  ANI_VICTORY_POINTS_5082: "Gardes" # Gardez
+  ANI_VICTORY_POINTS_5097: "Dessie" # Dessie
+  ANI_VICTORY_POINTS_5098: "Kermanschah" # Kermānshāhān
+  ANI_VICTORY_POINTS_5100: "Wuwei" # Wuwei
+  ANI_VICTORY_POINTS_5105: "Quetta" # Quetta
+  ANI_VICTORY_POINTS_5107: "Fortaleza" # Fortaleza
+  ANI_VICTORY_POINTS_5112: "Santos" # Santos
+  ANI_VICTORY_POINTS_5117: "Leopoldstadt" # Léopoldville
+  ANI_VICTORY_POINTS_5120: "Machala" # Machala
+  ANI_VICTORY_POINTS_5121: "Temuco" # Temuco
+  ANI_VICTORY_POINTS_5128: "Tananarive" # Antananarivo
+  ANI_VICTORY_POINTS_5131: "Arica" # Arica
+  ANI_VICTORY_POINTS_5139: "Libreville" # Libreville
+  ANI_VICTORY_POINTS_5151: "Palmas" # Palmas
+  ANI_VICTORY_POINTS_5152: "Minister-Pistarini-Stausee" # Minister Pistarini Reservoir
+  ANI_VICTORY_POINTS_5153: "Teresina" # Teresina
+  ANI_VICTORY_POINTS_5163: "Sankt Fe de la Vera Cruz" # Santa Fe de la Vera Cruz
+  ANI_VICTORY_POINTS_5165: "Major-Pablo-Lagerenza" # Mayor Pablo Lagerenza
+  ANI_VICTORY_POINTS_5166: "Cuzco" # Cusco
+  ANI_VICTORY_POINTS_5168: "Recife" # Recife
+  ANI_VICTORY_POINTS_5169: "Puerto Montt" # Puerto Montt
+  ANI_VICTORY_POINTS_5172: "Vassouras" # Vassouras
+  ANI_VICTORY_POINTS_5173: "Rio Gallegos" # Rio Gallegos
+  ANI_VICTORY_POINTS_5187: "Hobart" # Hobart
+  ANI_VICTORY_POINTS_5193: "Minsien" # Minsien
+  ANI_VICTORY_POINTS_5199: "Lusaka" # Lusaka
+  ANI_VICTORY_POINTS_5201: "Ponta Delgada" # Punta Delgada
+  ANI_VICTORY_POINTS_5210: "Mombasa" # Mombasa
+  ANI_VICTORY_POINTS_5214: "Boa Vista" # Boa Vista
+  ANI_VICTORY_POINTS_5215: "Punta Arenas" # Punta Arenas
+  ANI_VICTORY_POINTS_5221: "Tschipata" # Chipata
+  ANI_VICTORY_POINTS_5228: "Copiapo" # Copiapó
+  ANI_VICTORY_POINTS_5230: "Pat5sen" # La Paz
+  ANI_VICTORY_POINTS_6009: "Borga" # Porvoo
+  ANI_VICTORY_POINTS_6013: "Seinäjoki" # Seinäjoki
+  ANI_VICTORY_POINTS_6050: "Stockholm" # Stockholm
+  ANI_VICTORY_POINTS_6062: "Stornoway" # Stornoway
+  ANI_VICTORY_POINTS_6082: "Villmanstrand" # Lappeenranta
+  ANI_VICTORY_POINTS_6085: "Udatschny" # Udachny
+  ANI_VICTORY_POINTS_6087: "Rovaniemi" # Rovaniemi
+  ANI_VICTORY_POINTS_6098: "Repola" # Repola
+  ANI_VICTORY_POINTS_6103: "Lunden" # London
+  ANI_VICTORY_POINTS_6115: "Oslo" # Oslo
+  ANI_VICTORY_POINTS_6124: "Kirow" # Kirov
+  ANI_VICTORY_POINTS_6132: "Umea" # Umeå
+  ANI_VICTORY_POINTS_6141: "Jyväskylä" # Jyväskylä
+  ANI_VICTORY_POINTS_6142: "Inari" # Inari
+  ANI_VICTORY_POINTS_6151: "Skien" # Skien
+  ANI_VICTORY_POINTS_6181: "Kandalakscha" # Kandalaksha
+  ANI_VICTORY_POINTS_6196: "Lerwick" # Lerwick
+  ANI_VICTORY_POINTS_6222: "Mitau" # Jelgava
+  ANI_VICTORY_POINTS_6229: "Ponewjesch" # Panevėžys
+  ANI_VICTORY_POINTS_6232: "Mosyr" # Mozyr
+  ANI_VICTORY_POINTS_6235: "Aalborg" # Aalborg
+  ANI_VICTORY_POINTS_6237: "Nottingham" # Nottingham
+  ANI_VICTORY_POINTS_6241: "Utrecht" # Utrecht
+  ANI_VICTORY_POINTS_6245: "Kalinin" # Kalinin
+  ANI_VICTORY_POINTS_6262: "Tula" # Tula
+  ANI_VICTORY_POINTS_6269: "Iwanowo" # Ivanovo
+  ANI_VICTORY_POINTS_6278: "Ischewsk" # Izhevsk
+  ANI_VICTORY_POINTS_6282: "Stettin" # Stettin
+  ANI_VICTORY_POINTS_6287: "Kopenhagen" # Copenhagen
+  ANI_VICTORY_POINTS_6296: "Kauen" # Kaunas
+  ANI_VICTORY_POINTS_6298: "Lüneburg" # Lüneburg
+  ANI_VICTORY_POINTS_6300: "Rosyth" # Rosyth
+  ANI_VICTORY_POINTS_6310: "Uddevalla" # Uddevalla
+  ANI_VICTORY_POINTS_6313: "Limerick" # Limerick
+  ANI_VICTORY_POINTS_6314: "Polangen" # Palanga
+  ANI_VICTORY_POINTS_6318: "Manchester" # Manchester
+  ANI_VICTORY_POINTS_6325: "Buxtehude" # Buxtehude
+  ANI_VICTORY_POINTS_6332: "Königsberg" # Königsberg
+  ANI_VICTORY_POINTS_6336: "Leeuwarden" # Leeuwarden
+  ANI_VICTORY_POINTS_6338: "Kasan" # Kazan
+  ANI_VICTORY_POINTS_6345: "Hälsingborg" # Helsingborg
+  ANI_VICTORY_POINTS_6361: "Rönne" # Rønne
+  ANI_VICTORY_POINTS_6364: "Aarhus" # Aarhus
+  ANI_VICTORY_POINTS_6375: "Allenstein" # Allenstein
+  ANI_VICTORY_POINTS_6377: "Hannover" # Hannover
+  ANI_VICTORY_POINTS_6380: "Moskau" # Moscow
+  ANI_VICTORY_POINTS_6384: "Liverpool" # Liverpool
+  ANI_VICTORY_POINTS_6386: "Lokot" # Lokot
+  ANI_VICTORY_POINTS_6389: "Kiel" # Kiel
+  ANI_VICTORY_POINTS_6393: "Roskilde" # Roskilde
+  ANI_VICTORY_POINTS_6398: "Lipezk" # Lipetsk
+  ANI_VICTORY_POINTS_6418: "Pilsen" # Plzen
+  ANI_VICTORY_POINTS_6420: "Mariupol" # Mariupol
+  ANI_VICTORY_POINTS_6421: "Coburg" # Coburg
+  ANI_VICTORY_POINTS_6429: "Kamenez-Podolsk" # Kamenets-Podolsky
+  ANI_VICTORY_POINTS_6444: "Wiesbaden" # Wiesbaden
+  ANI_VICTORY_POINTS_6449: "Cherbourg" # Cherbourg
+  ANI_VICTORY_POINTS_6464: "Kattowitz" # Katowice
+  ANI_VICTORY_POINTS_6469: "Essen" # Essen
+  ANI_VICTORY_POINTS_6470: "Falkenau" # Falknov
+  ANI_VICTORY_POINTS_6474: "Hermann" # Stalino
+  ANI_VICTORY_POINTS_6483: "Drogobytsch" # Drohobych
+  ANI_VICTORY_POINTS_6488: "Frankfurt" # Frankfurt
+  ANI_VICTORY_POINTS_6496: "Eindhoven" # Eindhoven
+  ANI_VICTORY_POINTS_6502: "Balakowo" # Balakovo
+  ANI_VICTORY_POINTS_6519: "Sewerodonezk" # Severodonetsk
+  ANI_VICTORY_POINTS_6521: "Berlin" # Berlin
+  ANI_VICTORY_POINTS_6526: "Truro" # Truro
+  ANI_VICTORY_POINTS_6529: "Kolmar" # Colmar
+  ANI_VICTORY_POINTS_6536: "Lorient" # Lorient
+  ANI_VICTORY_POINTS_6542: "Baden-Baden" # Baden-Baden
+  ANI_VICTORY_POINTS_6550: "Samos" # Samos
+  ANI_VICTORY_POINTS_6557: "Rowno" # Równe
+  ANI_VICTORY_POINTS_6558: "Posen" # Poznań
+  ANI_VICTORY_POINTS_6560: "Gent" # Ghent
+  ANI_VICTORY_POINTS_6562: "Olmütz" # Olomouc
+  ANI_VICTORY_POINTS_6571: "Jasinja" # Yasinia
+  ANI_VICTORY_POINTS_6573: "Kaschau" # Kosice
+  ANI_VICTORY_POINTS_6582: "Halle" # Halle
+  ANI_VICTORY_POINTS_6583: "Luxemburg" # Luxembourg
+  ANI_VICTORY_POINTS_6593: "Schitomir" # Zhytomyr
+  ANI_VICTORY_POINTS_6598: "Antwerpen" # Antwerp
+  ANI_VICTORY_POINTS_6606: "Bologna" # Bologna
+  ANI_VICTORY_POINTS_6613: "Lyon" # Lyon
+  ANI_VICTORY_POINTS_6626: "Triest" # Trieste
+  ANI_VICTORY_POINTS_6642: "Goris" # Goris
+  ANI_VICTORY_POINTS_6652: "Krajowa" # Craiova
+  ANI_VICTORY_POINTS_6657: "La Rochelle" # La Rochelle
+  ANI_VICTORY_POINTS_6666: "Genf" # Genève
+  ANI_VICTORY_POINTS_6670: "Baja" # Baja
+  ANI_VICTORY_POINTS_6671: "Gori" # Gori
+  ANI_VICTORY_POINTS_6672: "Murska Sobota" # Murska Sobota
+  ANI_VICTORY_POINTS_6680: "Vaduz" # Vaduz
+  ANI_VICTORY_POINTS_6682: "Arad" # Arad
+  ANI_VICTORY_POINTS_6696: "Louisville" # Louisville
+  ANI_VICTORY_POINTS_6700: "Szegedin" # Szeged
+  ANI_VICTORY_POINTS_6701: "Machatschkala" # Makhachkala
+  ANI_VICTORY_POINTS_6704: "Jalta" # Yalta
+  ANI_VICTORY_POINTS_6706: "Galatz" # Galati
+  ANI_VICTORY_POINTS_6710: "Detroit" # Detroit
+  ANI_VICTORY_POINTS_6711: "Klausenburg" # Cluj
+  ANI_VICTORY_POINTS_6712: "Freiburg" # Freiburg
+  ANI_VICTORY_POINTS_6720: "Raab" # Győr
+  ANI_VICTORY_POINTS_6727: "Weißkirchen" # Cetatea Albă
+  ANI_VICTORY_POINTS_6732: "Boston" # Boston
+  ANI_VICTORY_POINTS_6734: "Vigo" # Vigo
+  ANI_VICTORY_POINTS_6763: "Sakatala" # Zaqatala
+  ANI_VICTORY_POINTS_6766: "Toulouse" # Toulouse
+  ANI_VICTORY_POINTS_6780: "Turin" # Torino
+  ANI_VICTORY_POINTS_6788: "Genua" # Genoa
+  ANI_VICTORY_POINTS_6793: "Ferrara" # Ferrara
+  ANI_VICTORY_POINTS_6807: "Karaman" # Karaman
+  ANI_VICTORY_POINTS_6813: "Marasch" # Kahramanmaraş
+  ANI_VICTORY_POINTS_6814: "Eski-Sagora" # Stara Zagora
+  ANI_VICTORY_POINTS_6826: "Suleimania" # Sulaymaniyah
+  ANI_VICTORY_POINTS_6832: "Ciudad Real" # Ciudad Real
+  ANI_VICTORY_POINTS_6845: "Philadelphia" # Philadelphia
+  ANI_VICTORY_POINTS_6851: "Tschuangho" # Zhuanghe
+  ANI_VICTORY_POINTS_6855: "Kolumbus" # Columbus
+  ANI_VICTORY_POINTS_6880: "Faro" # Faro
+  ANI_VICTORY_POINTS_6882: "Neuburg" # Newark
+  ANI_VICTORY_POINTS_6883: "Ain al-Arab" # Ayn al-Arab
+  ANI_VICTORY_POINTS_6889: "Ragusa" # Dubrovnik
+  ANI_VICTORY_POINTS_6890: "Klagenburg" # Cleveland
+  ANI_VICTORY_POINTS_6900: "Koritza" # Korçë
+  ANI_VICTORY_POINTS_6902: "Badajau" # Badajoz
+  ANI_VICTORY_POINTS_6904: "Kalgan" # Kalgan
+  ANI_VICTORY_POINTS_6906: "Valentsia" # Valencia
+  ANI_VICTORY_POINTS_6912: "Bandirma" # Bandırma
+  ANI_VICTORY_POINTS_6923: "Philippopel" # Plovdiv
+  ANI_VICTORY_POINTS_6927: "Gerona" # Gerona
+  ANI_VICTORY_POINTS_6928: "Hamhung" # Hamhung
+  ANI_VICTORY_POINTS_6933: "Beha" # Beja
+  ANI_VICTORY_POINTS_6935: "Wan" # Van
+  ANI_VICTORY_POINTS_6938: "Kastamuni" # Kastamonu
+  ANI_VICTORY_POINTS_6940: "Prischtina" # Prishtina
+  ANI_VICTORY_POINTS_6946: "Luka" # Lucca
+  ANI_VICTORY_POINTS_6966: "Tortosen" # Tortosa
+  ANI_VICTORY_POINTS_6967: "Sliwen" # Sliven
+  ANI_VICTORY_POINTS_6973: "Spetziem" # La Spezia
+  ANI_VICTORY_POINTS_6977: "Kaiseri" # Kayseri
+  ANI_VICTORY_POINTS_6983: "Warmwasser-Stadt" # Banja Luka
+  ANI_VICTORY_POINTS_6984: "Baltenheim" # Baltimore
+  ANI_VICTORY_POINTS_6994: "Omori" # Aomori
+  ANI_VICTORY_POINTS_6995: "Sinope" # Sinop
+  ANI_VICTORY_POINTS_6996: "Garda" # Guarda
+  ANI_VICTORY_POINTS_6997: "Nachitschewan" # Nakhchivan
+  ANI_VICTORY_POINTS_6999: "Tschungking" # Chongqing
+  ANI_VICTORY_POINTS_7005: "Gaben" # Gabès
+  ANI_VICTORY_POINTS_7011: "Kairo" # Cairo
+  ANI_VICTORY_POINTS_7014: "Schanghai" # Shanghai
+  ANI_VICTORY_POINTS_7016: "Iwaki" # Iwaki
+  ANI_VICTORY_POINTS_7025: "Suchau" # Xuzhou
+  ANI_VICTORY_POINTS_7069: "Kasablanca" # Casablanca
+  ANI_VICTORY_POINTS_7071: "Amoi" # Xiamen
+  ANI_VICTORY_POINTS_7072: "Osaka" # Osaka
+  ANI_VICTORY_POINTS_7081: "Bone" # Annaba
+  ANI_VICTORY_POINTS_7087: "Schidsoka" # Shizuoka
+  ANI_VICTORY_POINTS_7096: "Argos" # Argos
+  ANI_VICTORY_POINTS_7097: "Tschangschah" # Changsha
+  ANI_VICTORY_POINTS_7101: "Tschangte" # Changde
+  ANI_VICTORY_POINTS_7108: "Bauern" # Bao'an
+  ANI_VICTORY_POINTS_7110: "Fukoka" # Fukuoka
+  ANI_VICTORY_POINTS_7113: "Wakajama" # Wakayama
+  ANI_VICTORY_POINTS_7117: "Faium" # Faiyum
+  ANI_VICTORY_POINTS_7125: "Saul" # Seoul
+  ANI_VICTORY_POINTS_7127: "Tschalkis" # Chalcis
+  ANI_VICTORY_POINTS_7132: "Oran" # Oran
+  ANI_VICTORY_POINTS_7137: "Nanning" # Nanning
+  ANI_VICTORY_POINTS_7138: "Karlotte" # Charlotte
+  ANI_VICTORY_POINTS_7145: "Matsue" # Matsue
+  ANI_VICTORY_POINTS_7151: "Amman" # Amman
+  ANI_VICTORY_POINTS_7158: "Ulan-Tschab" # Ulanqab
+  ANI_VICTORY_POINTS_7169: "Sendai" # Sendai
+  ANI_VICTORY_POINTS_7170: "Irbid" # Irbid
+  ANI_VICTORY_POINTS_7174: "Kütschou" # Quzhou
+  ANI_VICTORY_POINTS_7175: "Kunsan" # Gunsan
+  ANI_VICTORY_POINTS_7183: "Sewilla" # Sevilla
+  ANI_VICTORY_POINTS_7186: "Taipeh" # Taipei
+  ANI_VICTORY_POINTS_7191: "Hangtschou" # Hangzhou
+  ANI_VICTORY_POINTS_7193: "Limasau" # Limassol
+  ANI_VICTORY_POINTS_7197: "Kichi" # Kochi
+  ANI_VICTORY_POINTS_7199: "Kantschou" # Ganzhou
+  ANI_VICTORY_POINTS_7202: "Kalstadt" # Charleston
+  ANI_VICTORY_POINTS_7211: "Patra" # Patras
+  ANI_VICTORY_POINTS_7212: "Okayama" # Okayama
+  ANI_VICTORY_POINTS_7213: "Teruel" # Teruel
+  ANI_VICTORY_POINTS_7222: "Hofei" # Hefei
+  ANI_VICTORY_POINTS_7225: "Tschonburei" # Chon Buri
+  ANI_VICTORY_POINTS_7236: "Hattau" # Hat Yai
+  ANI_VICTORY_POINTS_7244: "Mangalor" # Mangalore
+  ANI_VICTORY_POINTS_7251: "Rabaul" # Rabaul
+  ANI_VICTORY_POINTS_7254: "Bassein" # Bassein
+  ANI_VICTORY_POINTS_7259: "Viktoria" # Victoria
+  ANI_VICTORY_POINTS_7273: "Rinagar" # Srinagar
+  ANI_VICTORY_POINTS_7274: "Neu-Sibirien" # Novosibirsk
+  ANI_VICTORY_POINTS_7290: "Apia" # Apia
+  ANI_VICTORY_POINTS_7294: "Liangschan" # Liangshan
+  ANI_VICTORY_POINTS_7301: "Sian" # Xi'an
+  ANI_VICTORY_POINTS_7302: "Suwa" # Suva
+  ANI_VICTORY_POINTS_7305: "Gona" # Gona
+  ANI_VICTORY_POINTS_7312: "Massen" # Mae Sot
+  ANI_VICTORY_POINTS_7314: "Julien" # Yulin
+  ANI_VICTORY_POINTS_7315: "Satteln" # Seattle
+  ANI_VICTORY_POINTS_7329: "Kotabar" # Kota Bharu
+  ANI_VICTORY_POINTS_7341: "Aktoben" # Aktobe
+  ANI_VICTORY_POINTS_7350: "Kurtschatow" # Kurchatov
+  ANI_VICTORY_POINTS_7351: "Batan" # Bataan
+  ANI_VICTORY_POINTS_7361: "Halifax" # Halifax
+  ANI_VICTORY_POINTS_7371: "Bangar" # Bangar
+  ANI_VICTORY_POINTS_7375: "Perm" # Perm
+  ANI_VICTORY_POINTS_7376: "Pompeng" # Phnom Penh
+  ANI_VICTORY_POINTS_7377: "Wicklow" # Wicklow
+  ANI_VICTORY_POINTS_7381: "Batawien" # Batavia
+  ANI_VICTORY_POINTS_7384: "Pangel" # Pangkalpinang
+  ANI_VICTORY_POINTS_7387: "Brunei-Stadt" # Brunei Town
+  ANI_VICTORY_POINTS_7390: "Nendau" # Nendö
   ANI_VICTORY_POINTS_7394: "Kork" # Cork
+  ANI_VICTORY_POINTS_7399: "Kuntan" # Kuantan
+  ANI_VICTORY_POINTS_7408: "Bangkok" # Bangkok
+  ANI_VICTORY_POINTS_7413: "Ternat" # Ternate
+  ANI_VICTORY_POINTS_7415: "Tarakan" # Tarakan
+  ANI_VICTORY_POINTS_7421: "Bandung" # Bandung
+  ANI_VICTORY_POINTS_7432: "Kampau" # Kompong Saom
+  ANI_VICTORY_POINTS_7476: "Horizont" # Belo Horizonte
+  ANI_VICTORY_POINTS_7480: "Mobilei" # Mobile
+  ANI_VICTORY_POINTS_7492: "Lampun" # Lamphun
+  ANI_VICTORY_POINTS_7500: "Rosario" # Rosario
+  ANI_VICTORY_POINTS_7520: "Neuburg an der Tin" # Newcastle
+  ANI_VICTORY_POINTS_7530: "Kitzir" # Cizîr
+  ANI_VICTORY_POINTS_7531: "Lampang" # Lampang
+  ANI_VICTORY_POINTS_7552: "Neu-Berlin" # New Orleans
+  ANI_VICTORY_POINTS_7564: "Brisben" # Brisbane
+  ANI_VICTORY_POINTS_7566: "Tirpitzstadt" # Townsville
+  ANI_VICTORY_POINTS_7588: "Karl-der-Große-Stadt" # Charleston
+  ANI_VICTORY_POINTS_7590: "Gantanamo" # Guantánamo
+  ANI_VICTORY_POINTS_7597: "Kschil-Orden" # Kzyl-Orda
+  ANI_VICTORY_POINTS_7602: "Astrabad" # Esterabad
+  ANI_VICTORY_POINTS_7603: "Mongpan" # Mong Pan
+  ANI_VICTORY_POINTS_7604: "Urmi" # Orumiyeh
+  ANI_VICTORY_POINTS_7617: "Kolon" # Colón
+  ANI_VICTORY_POINTS_7620: "Malatien" # Malatya
+  ANI_VICTORY_POINTS_7621: "Silberbucht" # Mar del Plata
+  ANI_VICTORY_POINTS_7622: "Hawanna" # Havana
+  ANI_VICTORY_POINTS_7624: "Dirpent" # Derbent
+  ANI_VICTORY_POINTS_7630: "Panama" # Panamá
+  ANI_VICTORY_POINTS_7631: "Kwaisu" # Kweisui
+  ANI_VICTORY_POINTS_7656: "Kaifeng" # Kaifeng
+  ANI_VICTORY_POINTS_7660: "Sankt Dominik" # Santo Domingo
+  ANI_VICTORY_POINTS_7661: "Baku" # Baku
+  ANI_VICTORY_POINTS_7669: "Darwin" # Darwin
+  ANI_VICTORY_POINTS_7676: "Erdenet" # Erdenet
+  ANI_VICTORY_POINTS_7708: "Pawloden" # Pavlodar
+  ANI_VICTORY_POINTS_7716: "Luluaburg" # Luluabourg
+  ANI_VICTORY_POINTS_7717: "Darkan" # Darkhan
+  ANI_VICTORY_POINTS_7757: "Kemerowo" # Kemerovo
+  ANI_VICTORY_POINTS_7789: "Tomsk" # Tomsk
+  ANI_VICTORY_POINTS_7798: "Melbürn" # Melbourne
+  ANI_VICTORY_POINTS_7799: "Ullastein" # Uliastay
+  ANI_VICTORY_POINTS_7805: "Tura" # Tura
+  ANI_VICTORY_POINTS_7822: "Nowokuschei" # Novokuznetsk
+  ANI_VICTORY_POINTS_7834: "Topeka" # Topeka
+  ANI_VICTORY_POINTS_7835: "Ulan-Ude" # Ulan Ude
+  ANI_VICTORY_POINTS_7843: "Ullengom" # Ulaangom
+  ANI_VICTORY_POINTS_7848: "Mohe" # Mohe
+  ANI_VICTORY_POINTS_7851: "Albazin" # Albazino
+  ANI_VICTORY_POINTS_7859: "Kanberren" # Canberra
+  ANI_VICTORY_POINTS_7887: "Hammelstadt" # Hamilton
+  ANI_VICTORY_POINTS_7899: "Donnerbucht" # Thunder Bay
+  ANI_VICTORY_POINTS_7909: "Kengtung" # Kyaingtong
+  ANI_VICTORY_POINTS_7911: "Tianschui" # Tianshui
+  ANI_VICTORY_POINTS_7912: "Tschiren" # Jiren
+  ANI_VICTORY_POINTS_7921: "Duran" # Durango
+  ANI_VICTORY_POINTS_7940: "Golmut" # Golmud
+  ANI_VICTORY_POINTS_7953: "Ahwas" # Ahvaz
+  ANI_VICTORY_POINTS_7959: "Monrowien" # Monrovia
+  ANI_VICTORY_POINTS_7960: "Abu Dabi" # Abu Dhabi
+  ANI_VICTORY_POINTS_7965: "Tali" # Dali
+  ANI_VICTORY_POINTS_7969: "Karadsch" # Karaj
+  ANI_VICTORY_POINTS_7971: "Dschiukwan" # Jiuquan
+  ANI_VICTORY_POINTS_7977: "Kutt" # Kut
+  ANI_VICTORY_POINTS_7980: "Dirr-Daua" # Dire Dawa
+  ANI_VICTORY_POINTS_7982: "Bandar Abbas" # Bandar e'Abbas
+  ANI_VICTORY_POINTS_7990: "Bierand" # Birjand
+  ANI_VICTORY_POINTS_7994: "Kerbella" # Karbala
+  ANI_VICTORY_POINTS_8001: "Nadschaf" # Najaf
+  ANI_VICTORY_POINTS_8005: "Leh" # Leh
+  ANI_VICTORY_POINTS_8010: "Punka" # Punakha
+  ANI_VICTORY_POINTS_8011: "Bangalur" # Bangalore
+  ANI_VICTORY_POINTS_8018: "Jüschu" # Yushu
+  ANI_VICTORY_POINTS_8019: "Yabello" # Yabello
+  ANI_VICTORY_POINTS_8031: "Jeschd" # Yazd
+  ANI_VICTORY_POINTS_8032: "Manzanill" # Manzanillo
+  ANI_VICTORY_POINTS_8034: "Enugu" # Enugu
+  ANI_VICTORY_POINTS_8036: "Asellen" # Asella
+  ANI_VICTORY_POINTS_8038: "Al-Ujun" # Laayoune
+  ANI_VICTORY_POINTS_8040: "Hamadan" # Hamedan
+  ANI_VICTORY_POINTS_8049: "Yannan" # Yan'an
+  ANI_VICTORY_POINTS_8051: "Dauha" # Doha
+  ANI_VICTORY_POINTS_8057: "Kullikahn" # Culiacán
+  ANI_VICTORY_POINTS_8066: "Kusdar" # Khuzdar
+  ANI_VICTORY_POINTS_8085: "Kuwait" # Kuwait City
+  ANI_VICTORY_POINTS_8087: "Haiderbad" # Hyderabad City
+  ANI_VICTORY_POINTS_8089: "Puella" # Puebla
+  ANI_VICTORY_POINTS_8093: "Schahrud" # Shahroud
+  ANI_VICTORY_POINTS_8097: "Jahres" # Juárez
+  ANI_VICTORY_POINTS_8098: "Kalat" # Kalat
+  ANI_VICTORY_POINTS_8105: "Waden-Half" # Wadi Halfa
+  ANI_VICTORY_POINTS_8113: "Karrakass" # Caracas
+  ANI_VICTORY_POINTS_8117: "Schiras" # Shiraz
+  ANI_VICTORY_POINTS_8123: "Kirk" # Kirkuk
+  ANI_VICTORY_POINTS_8124: "Dschibuti" # Djibouti
+  ANI_VICTORY_POINTS_8127: "Yintschuan" # Yinchuan
+  ANI_VICTORY_POINTS_8161: "Trewelin" # Trevelin
+  ANI_VICTORY_POINTS_8181: "Kurtiba" # Curitiba
+  ANI_VICTORY_POINTS_8191: "Maldanhaven" # Puerto Maldonado
+  ANI_VICTORY_POINTS_8193: "Bradschawill" # Brazzaville
+  ANI_VICTORY_POINTS_8194: "Kokimbo" # Coquimbo
+  ANI_VICTORY_POINTS_8214: "Gaborone" # Gaborone
+  ANI_VICTORY_POINTS_8216: "Tuckuman" # Tucumán
+  ANI_VICTORY_POINTS_8217: "Iquik" # Iquique
+  ANI_VICTORY_POINTS_8222: "Wallpariso" # Valparaíso
+  ANI_VICTORY_POINTS_8241: "Inwerschargill" # Invercargill
+  ANI_VICTORY_POINTS_8245: "Lorenz-Stadt" # Lourenco Marques
+  ANI_VICTORY_POINTS_8248: "Luanda" # Luanda
+  ANI_VICTORY_POINTS_8251: "Tschillen" # Chillán
+  ANI_VICTORY_POINTS_8252: "Guajaquirl" # Guayaquil
+  ANI_VICTORY_POINTS_8435: "Mitellin" # Mitilini
+  ANI_VICTORY_POINTS_9061: "Jonschu" # Joensuu
+  ANI_VICTORY_POINTS_9075: "Inwern" # Inverness
+  ANI_VICTORY_POINTS_9098: "Luga" # Luga
+  ANI_VICTORY_POINTS_9108: "Lulea" # Luleå
+  ANI_VICTORY_POINTS_9116: "Kirkens" # Kirkenes
+  ANI_VICTORY_POINTS_9126: "Bodö" # Bodø
+  ANI_VICTORY_POINTS_9127: "Alesund" # Ålesund
+  ANI_VICTORY_POINTS_9131: "Wologda" # Vologda
+  ANI_VICTORY_POINTS_9140: "Petsamo" # Petsamo
+  ANI_VICTORY_POINTS_9147: "Haparanda" # Haparanda
+  ANI_VICTORY_POINTS_9149: "Uppsala" # Uppsala
+  ANI_VICTORY_POINTS_9167: "Tavastehus" # Hämeenlinna
+  ANI_VICTORY_POINTS_9183: "Kouwola" # Kouvola
+  ANI_VICTORY_POINTS_9186: "Boden" # Boden
+  ANI_VICTORY_POINTS_9197: "Woltschow" # Volkhov
+  ANI_VICTORY_POINTS_9206: "Wiborg" # Viipuri
+  ANI_VICTORY_POINTS_9221: "Dorpat" # Tartu
+  ANI_VICTORY_POINTS_9228: "Marienham" # Mariehamn
+  ANI_VICTORY_POINTS_9258: "Pensa" # Penza
+  ANI_VICTORY_POINTS_9259: "Tscheboksarie" # Cheboksary
+  ANI_VICTORY_POINTS_9262: "Libau" # Liepāja
+  ANI_VICTORY_POINTS_9263: "Gotenhafen" # Gdynia
+  ANI_VICTORY_POINTS_9279: "Malmö" # Malmö
+  ANI_VICTORY_POINTS_9288: "Homel" # Gomel
+  ANI_VICTORY_POINTS_9289: "Mogilew" # Mogilev
+  ANI_VICTORY_POINTS_9292: "Tscheljabinsk" # Chelyabinsk
+  ANI_VICTORY_POINTS_9296: "Kristiansand" # Kristiansand
+  ANI_VICTORY_POINTS_9297: "Beormingaham" # Birmingham
+  ANI_VICTORY_POINTS_9303: "Gaillimh" # Galway
+  ANI_VICTORY_POINTS_9304: "Baranowitschi" # Baranowicze
+  ANI_VICTORY_POINTS_9310: "Kilkenny" # Kilkenny
+  ANI_VICTORY_POINTS_9315: "Scaedfeld" # Sheffield
+  ANI_VICTORY_POINTS_9329: "Jönköping" # Jönköping
+  ANI_VICTORY_POINTS_9335: "Gröningen" # Groningen
+  ANI_VICTORY_POINTS_9340: "Riga" # Rīga
+  ANI_VICTORY_POINTS_9347: "Hamburg" # Hamburg
+  ANI_VICTORY_POINTS_9355: "Orjol" # Orel
+  ANI_VICTORY_POINTS_9357: "Wilkomir" # Ukmergė
+  ANI_VICTORY_POINTS_9363: "Arnheim" # Arnhem
+  ANI_VICTORY_POINTS_9377: "Peterspunkt" # Pointe-à-Pitre
+  ANI_VICTORY_POINTS_9379: "Loidis" # Leeds
+  ANI_VICTORY_POINTS_9388: "Stralsund" # Stralsund
+  ANI_VICTORY_POINTS_9392: "Edenburg" # Edinburgh
+  ANI_VICTORY_POINTS_9393: "Linköping" # Linköping
+  ANI_VICTORY_POINTS_9402: "Joschkar-Ola" # Yoshkar-Ola
+  ANI_VICTORY_POINTS_9417: "Rostow" # Rostov
+  ANI_VICTORY_POINTS_9418: "Arlon" # Arlon
+  ANI_VICTORY_POINTS_9427: "Krakau" # Kraków
+  ANI_VICTORY_POINTS_9430: "Tagarogg" # Taganrog
+  ANI_VICTORY_POINTS_9432: "Markstadt" # Marksshtadt
+  ANI_VICTORY_POINTS_9434: "Hawre" # Le Havre
+  ANI_VICTORY_POINTS_9449: "Belgord" # Belgorod
+  ANI_VICTORY_POINTS_9450: "Schikago" # Chicago
+  ANI_VICTORY_POINTS_9456: "Brandenburg" # Brandenburg
+  ANI_VICTORY_POINTS_9458: "Portenmünd" # Portsmouth
+  ANI_VICTORY_POINTS_9461: "Woroschilograd" # Voroshilovgrad
+  ANI_VICTORY_POINTS_9471: "Chemnitz" # Chemnitz
+  ANI_VICTORY_POINTS_9483: "Schaulen" # Šiauliai
+  ANI_VICTORY_POINTS_9490: "Troyes" # Troyes
+  ANI_VICTORY_POINTS_9494: "Zamoschk" # Zamość
+  ANI_VICTORY_POINTS_9495: "Rennes" # Rennes
+  ANI_VICTORY_POINTS_9496: "Seelow" # Seelow
+  ANI_VICTORY_POINTS_9498: "Rotterdam" # Rotterdam
+  ANI_VICTORY_POINTS_9503: "Straßburg" # Strasbourg
+  ANI_VICTORY_POINTS_9508: "Lodsch" # Łódź
+  ANI_VICTORY_POINTS_9509: "Hamm" # Hamm
+  ANI_VICTORY_POINTS_9511: "Oppeln" # Oppeln
+  ANI_VICTORY_POINTS_9515: "Regensburg" # Regensburg
+  ANI_VICTORY_POINTS_9517: "Stuttgart" # Stuttgart
+  ANI_VICTORY_POINTS_9522: "Aachen" # Aachen
+  ANI_VICTORY_POINTS_9536: "Karlerei" # Charleroi
+  ANI_VICTORY_POINTS_9541: "Budweis" # Budweis
+  ANI_VICTORY_POINTS_9544: "Weißpolackei" # Biała Podlaska
+  ANI_VICTORY_POINTS_9557: "Würzburg" # Würzburg
+  ANI_VICTORY_POINTS_9559: "Metz" # Metz
+  ANI_VICTORY_POINTS_9560: "Wittenberg" # Wittenberg
+  ANI_VICTORY_POINTS_9566: "Schostka" # Shostka
+  ANI_VICTORY_POINTS_9569: "Tabor" # Tábor
+  ANI_VICTORY_POINTS_9570: "Breslau" # Breslau
+  ANI_VICTORY_POINTS_9575: "Trier" # Trier
+  ANI_VICTORY_POINTS_9598: "Trient" # Trent
+  ANI_VICTORY_POINTS_9600: "Lugano" # Lugano
+  ANI_VICTORY_POINTS_9602: "Nisch" # Niš
+  ANI_VICTORY_POINTS_9606: "Temeschwar" # Timisoara
+  ANI_VICTORY_POINTS_9612: "Russe" # Ruse
+  ANI_VICTORY_POINTS_9616: "Boise" # Boise
+  ANI_VICTORY_POINTS_9617: "Bukarest" # Bucharest
+  ANI_VICTORY_POINTS_9620: "Bern" # Bern
+  ANI_VICTORY_POINTS_9627: "Laibach" # Ljubljana
+  ANI_VICTORY_POINTS_9628: "Ordschonikidse" # Ordzhonikidze
+  ANI_VICTORY_POINTS_9638: "Basel" # Basel
+  ANI_VICTORY_POINTS_9642: "Besankon" # Besancon
+  ANI_VICTORY_POINTS_9648: "Graz" # Graz
+  ANI_VICTORY_POINTS_9652: "Rosenheim" # Rosenheim
+  ANI_VICTORY_POINTS_9660: "Budapescht" # Budapest
+  ANI_VICTORY_POINTS_9663: "Sotschi" # Sochi
+  ANI_VICTORY_POINTS_9665: "Wels" # Wels
+  ANI_VICTORY_POINTS_9670: "Deda" # Déda
+  ANI_VICTORY_POINTS_9671: "Sankt Franzikus" # San Francisco
+  ANI_VICTORY_POINTS_9672: "Neumarkt am Mieresch" # Târgu Mures
+  ANI_VICTORY_POINTS_9677: "Theodosia" # Feodosia
+  ANI_VICTORY_POINTS_9680: "Kertsch" # Kerch
+  ANI_VICTORY_POINTS_9692: "Preßburg" # Bratislava
+  ANI_VICTORY_POINTS_9710: "Bajonne" # Bayonne
+  ANI_VICTORY_POINTS_9713: "Sakrament" # Sacramento
+  ANI_VICTORY_POINTS_9716: "Jassi" # Iasi
+  ANI_VICTORY_POINTS_9718: "Dschankoi" # Dzhankoi
+  ANI_VICTORY_POINTS_9729: "Melitopol" # Melitopol
+  ANI_VICTORY_POINTS_9737: "Bordo" # Bordeaux
+  ANI_VICTORY_POINTS_9752: "Parma" # Parma
+  ANI_VICTORY_POINTS_9753: "Astrakahn" # Astrakhan
+  ANI_VICTORY_POINTS_9764: "Barcelona" # Barcelona
+  ANI_VICTORY_POINTS_9769: "Schumen" # Shumen
+  ANI_VICTORY_POINTS_9771: "Widin" # Vidin
+  ANI_VICTORY_POINTS_9772: "Sassari" # Sassari
+  ANI_VICTORY_POINTS_9777: "Siwas" # Sivas
+  ANI_VICTORY_POINTS_9780: "Skutari" # Shkodër
+  ANI_VICTORY_POINTS_9783: "Warna" # Varna
+  ANI_VICTORY_POINTS_9784: "Bari" # Bari
+  ANI_VICTORY_POINTS_9787: "Viseu" # Viseu
+  ANI_VICTORY_POINTS_9793: "Palma" # Palma de Mallorca
+  ANI_VICTORY_POINTS_9799: "Balikesir" # Balıkesir
+  ANI_VICTORY_POINTS_9807: "Morioka" # Morioka
+  ANI_VICTORY_POINTS_9809: "Podgoritza" # Podgorica
+  ANI_VICTORY_POINTS_9814: "Engelstadt" # Los Angeles
+  ANI_VICTORY_POINTS_9817: "Porto" # Porto
+  ANI_VICTORY_POINTS_9821: "Kattaro" # Kotor
+  ANI_VICTORY_POINTS_9823: "Urfa" # Urfa
+  ANI_VICTORY_POINTS_9832: "Providentz" # Providence
+  ANI_VICTORY_POINTS_9833: "Konstantinopel" # Istanbul
+  ANI_VICTORY_POINTS_9840: "Hueska" # Huesca
+  ANI_VICTORY_POINTS_9843: "Peiping" # Beiping
+  ANI_VICTORY_POINTS_9849: "Prisren" # Prizren
+  ANI_VICTORY_POINTS_9859: "Mutsu" # Mutsu
+  ANI_VICTORY_POINTS_9860: "Tuntscheli" # Tunceli
+  ANI_VICTORY_POINTS_9861: "Konja" # Konya
+  ANI_VICTORY_POINTS_9862: "Tschaskowo" # Haskovo
+  ANI_VICTORY_POINTS_9868: "Erzingen" # Erzîngan
+  ANI_VICTORY_POINTS_9869: "Ewora" # Évora
+  ANI_VICTORY_POINTS_9875: "Elbasan" # Elbasan
+  ANI_VICTORY_POINTS_9878: "Afion" # Afyon
+  ANI_VICTORY_POINTS_9888: "Jambol" # Yambol
+  ANI_VICTORY_POINTS_9893: "Antep" # Gaziantep
+  ANI_VICTORY_POINTS_9894: "Mostar" # Mostar
+  ANI_VICTORY_POINTS_9898: "Monpellier" # Montpellier
+  ANI_VICTORY_POINTS_9902: "Burgas" # Burgas
+  ANI_VICTORY_POINTS_9904: "Rom" # Rome
+  ANI_VICTORY_POINTS_9907: "Florenz" # Florence
+  ANI_VICTORY_POINTS_9909: "Nizza" # Nice
+  ANI_VICTORY_POINTS_9914: "Tirana" # Tirana
+  ANI_VICTORY_POINTS_9932: "Trapezunt" # Trabzon
+  ANI_VICTORY_POINTS_9937: "Dschin-Dschia-Schai" # Jinjiazhai
+  ANI_VICTORY_POINTS_9938: "Swatau" # Shantou
+  ANI_VICTORY_POINTS_9940: "Iraklion" # Heraklion
+  ANI_VICTORY_POINTS_9945: "Keuta" # Ceuta
+  ANI_VICTORY_POINTS_9948: "Langson" # Lang Son
+  ANI_VICTORY_POINTS_9950: "Nagasaki" # Nagasaki
+  ANI_VICTORY_POINTS_9952: "Sado" # Sado
+  ANI_VICTORY_POINTS_9958: "Tschengtschou" # Zhengzhou
+  ANI_VICTORY_POINTS_9962: "Kigali" # Kigali
+  ANI_VICTORY_POINTS_9965: "Tokushima" # Tokushima
+  ANI_VICTORY_POINTS_9968: "Taishakugawa-Talsperre" # Taishakugawa Dam
+  ANI_VICTORY_POINTS_9970: "Kukong" # Kukong
+  ANI_VICTORY_POINTS_9974: "Ningpo" # Ningbo
+  ANI_VICTORY_POINTS_9975: "Bad Achmet" # Ahmadabad
+  ANI_VICTORY_POINTS_9979: "Malaga" # Málaga
+  ANI_VICTORY_POINTS_9989: "Süd Barranei" # Sidi Barrani
+  ANI_VICTORY_POINTS_9990: "Reggio Kalabrien" # Reggio Calabria
+  ANI_VICTORY_POINTS_9994: "Biserte" # Bizerte
+  ANI_VICTORY_POINTS_9998: "Jokohama" # Yokohama
+  ANI_VICTORY_POINTS_10000: "Tsingtau" # Qingdao
+  ANI_VICTORY_POINTS_10004: "Fangtschöng" # Fangcheng
+  ANI_VICTORY_POINTS_10007: "Rhodos" # Rhodes
+  ANI_VICTORY_POINTS_10011: "Tsuschima" # Tsushima
+  ANI_VICTORY_POINTS_10015: "Nagano" # Nagano
+  ANI_VICTORY_POINTS_10020: "Aso" # Aso
+  ANI_VICTORY_POINTS_10024: "Murschia" # Murcia
+  ANI_VICTORY_POINTS_10032: "Kanazawa" # Kanazawa
+  ANI_VICTORY_POINTS_10041: "Denmislien" # Denizli
+  ANI_VICTORY_POINTS_10052: "Jamagutschi" # Yamaguchi
+  ANI_VICTORY_POINTS_10055: "Tottori" # Tottori
+  ANI_VICTORY_POINTS_10056: "Mersin" # Mersin
+  ANI_VICTORY_POINTS_10061: "Merlinstadt" # Marsa Matruh
+  ANI_VICTORY_POINTS_10062: "Hongkong" # Hong Kong
+  ANI_VICTORY_POINTS_10068: "Tientsin" # Tianjin
+  ANI_VICTORY_POINTS_10070: "Rabat" # Rabat
+  ANI_VICTORY_POINTS_10073: "Mansura" # Mansoura
+  ANI_VICTORY_POINTS_10074: "Palermo" # Palermo
+  ANI_VICTORY_POINTS_10076: "Sutschou" # Suzhou
+  ANI_VICTORY_POINTS_10092: "Oita" # Oita
+  ANI_VICTORY_POINTS_10099: "Scharm esch-Scheich" # Sharm el-Sheikh
+  ANI_VICTORY_POINTS_10106: "Mosul" # Mosul
+  ANI_VICTORY_POINTS_10110: "Kwangdschu" # Gwangju
+  ANI_VICTORY_POINTS_10115: "Tschongdschu" # Cheongju
+  ANI_VICTORY_POINTS_10118: "Dschamnagar" # Jamnagar
+  ANI_VICTORY_POINTS_10125: "Nagoya" # Nagoya
+  ANI_VICTORY_POINTS_10128: "Toyama" # Toyama
+  ANI_VICTORY_POINTS_10149: "Kirschsee" # Pondicherry
+  ANI_VICTORY_POINTS_10153: "Manado" # Manado
+  ANI_VICTORY_POINTS_10169: "Gorontal" # Gorontalo
+  ANI_VICTORY_POINTS_10172: "Aquaskaliennen" # Aguascalientes
+  ANI_VICTORY_POINTS_10173: "Rawalpindi" # Rawalpindi
+  ANI_VICTORY_POINTS_10199: "Sandakan" # Sandakan
+  ANI_VICTORY_POINTS_10201: "Trinkomali" # Trincomalee
+  ANI_VICTORY_POINTS_10203: "Korfu" # Corfu
+  ANI_VICTORY_POINTS_10212: "Jesselton" # Jesselton
+  ANI_VICTORY_POINTS_10221: "Adjütaja" # Ayutthaya
+  ANI_VICTORY_POINTS_10230: "Schörbrock" # Sherbrooke
+  ANI_VICTORY_POINTS_10234: "Buka" # Buka
+  ANI_VICTORY_POINTS_10243: "Goldstadt" # Cagayan de Oro
+  ANI_VICTORY_POINTS_10246: "Madurei" # Madurai
+  ANI_VICTORY_POINTS_10254: "Nassau" # Nassau
+  ANI_VICTORY_POINTS_10256: "Magnitogorscht" # Magnitogorsk
+  ANI_VICTORY_POINTS_10260: "Alotau" # Alotau
+  ANI_VICTORY_POINTS_10263: "Makassar" # Makassar
+  ANI_VICTORY_POINTS_10265: "Manil" # Manila
+  ANI_VICTORY_POINTS_10278: "Madras" # Madras
+  ANI_VICTORY_POINTS_10285: "Miri" # Miri
+  ANI_VICTORY_POINTS_10297: "Kuala Lumpur" # Kuala Lumpur
+  ANI_VICTORY_POINTS_10309: "Turan" # Tourane
+  ANI_VICTORY_POINTS_10311: "Bad Aurangen" # Aurangabad
+  ANI_VICTORY_POINTS_10312: "Kostanai" # Kostanay
+  ANI_VICTORY_POINTS_10322: "Palembang" # Palembang
+  ANI_VICTORY_POINTS_10325: "Tandjung Selor" # Tanjung Selor
+  ANI_VICTORY_POINTS_10329: "Slatust" # Zlatoust
+  ANI_VICTORY_POINTS_10330: "Xajabuli" # Xayabuli
+  ANI_VICTORY_POINTS_10337: "Houston" # Houston (Named after a person, Sam Houston)
+  ANI_VICTORY_POINTS_10344: "Taungau" # Taungoo
+  ANI_VICTORY_POINTS_10362: "Montewido" # Montevideo
+  ANI_VICTORY_POINTS_10370: "Frühlingsfeld" # Springfield
+  ANI_VICTORY_POINTS_10372: "Silingol" # Xilinhot
+  ANI_VICTORY_POINTS_10382: "Padang" # Padang
+  ANI_VICTORY_POINTS_10397: "Tschangpei" # Zhangbei
+  ANI_VICTORY_POINTS_10398: "Petschabun" # Petchabun
+  ANI_VICTORY_POINTS_10400: "Pretoria" # Pretoria
+  ANI_VICTORY_POINTS_10403: "Ardann" # Ardahan
+  ANI_VICTORY_POINTS_10404: "Kweilin" # Guilin
+  ANI_VICTORY_POINTS_10405: "Johannisburg" # Joinville
+  ANI_VICTORY_POINTS_10412: "Scheon" # Richmond
+  ANI_VICTORY_POINTS_10425: "Khon-Kenn" # Khon Kaen
+  ANI_VICTORY_POINTS_10433: "Harbin" # Harbin
+  ANI_VICTORY_POINTS_10438: "Nakon-Ratschasima" # Nakhon Ratchasima
+  ANI_VICTORY_POINTS_10444: "Sapporo" # Sapporo
+  ANI_VICTORY_POINTS_10447: "Alegiershafen" # Porto Alegre
+  ANI_VICTORY_POINTS_10459: "Bose" # Bose
+  ANI_VICTORY_POINTS_10463: "Kiatsmusi" # Jiamusi
+  ANI_VICTORY_POINTS_10467: "Angkor" # Angkor
+  ANI_VICTORY_POINTS_10472: "Kars" # Kars
+  ANI_VICTORY_POINTS_10488: "Kokand" # Kokand
+  ANI_VICTORY_POINTS_10493: "Wolmar" # Valmiera
+  ANI_VICTORY_POINTS_10497: "Sirt" # Sêrt
+  ANI_VICTORY_POINTS_10502: "Paisand" # Paysandú
+  ANI_VICTORY_POINTS_10505: "Merauke" # Merauke
+  ANI_VICTORY_POINTS_10513: "Sankt-Paul-Stadt" # São Paulo
+  ANI_VICTORY_POINTS_10545: "Hetsching" # Hejing
+  ANI_VICTORY_POINTS_10580: "Abakan" # Abakan
+  ANI_VICTORY_POINTS_10609: "Waikar" # Waikaremoana
+  ANI_VICTORY_POINTS_10612: "Mandschuli" # Manzhouli
+  ANI_VICTORY_POINTS_10627: "Küsil" # Kyzyl
+  ANI_VICTORY_POINTS_10641: "Jakutschk" # Yakutsk
+  ANI_VICTORY_POINTS_10655: "Kantschasu" # Kanchazu
+  ANI_VICTORY_POINTS_10671: "Samarkand" # Samarkand
+  ANI_VICTORY_POINTS_10696: "Omsk" # Omsk
+  ANI_VICTORY_POINTS_10717: "Kaustadt" # Kansas City
+  ANI_VICTORY_POINTS_10729: "Amritsei" # Amritsar
+  ANI_VICTORY_POINTS_10730: "Ackerpulko" # Acapulco
+  ANI_VICTORY_POINTS_10737: "Kabul" # Kabul
+  ANI_VICTORY_POINTS_10739: "El-Faschir" # Al Fashir
+  ANI_VICTORY_POINTS_10747: "Bogoda" # Bogota
+  ANI_VICTORY_POINTS_10750: "Dulan" # Dulan
+  ANI_VICTORY_POINTS_10752: "Taitz" # Taizz
+  ANI_VICTORY_POINTS_10760: "Maskat" # Muscat
+  ANI_VICTORY_POINTS_10765: "Hermosillo" # Hermosillo
+  ANI_VICTORY_POINTS_10769: "Reinosa" # Reynosa
+  ANI_VICTORY_POINTS_10772: "Lahur" # Lahore
+  ANI_VICTORY_POINTS_10775: "Gaba" # Gaba
+  ANI_VICTORY_POINTS_10781: "Baglan" # Baghlan
+  ANI_VICTORY_POINTS_10782: "Iran-Schahr" # Iransahr
+  ANI_VICTORY_POINTS_10803: "Abidjahn" # Abidjan
+  ANI_VICTORY_POINTS_10811: "Duhok" # Duhok
+  ANI_VICTORY_POINTS_10830: "Tschihauha" # Chihuahua
+  ANI_VICTORY_POINTS_10833: "Berbera" # Berbera
+  ANI_VICTORY_POINTS_10836: "Wagadugu" # Ouagadougou
+  ANI_VICTORY_POINTS_10837: "Teheran" # Tehran
+  ANI_VICTORY_POINTS_10840: "Sanaa" # Sana'a
+  ANI_VICTORY_POINTS_10841: "Jahn" # Ya'an
+  ANI_VICTORY_POINTS_10854: "Wuhai" # Wuhai
+  ANI_VICTORY_POINTS_10856: "Tschamdo" # Chamdo
+  ANI_VICTORY_POINTS_10858: "Kindu" # Kindu
+  ANI_VICTORY_POINTS_10862: "Ackra" # Accra
+  ANI_VICTORY_POINTS_10863: "Heschun" # Heshun
+  ANI_VICTORY_POINTS_10879: "Sankt Felix" # San Félix
+  ANI_VICTORY_POINTS_10886: "Guatemala" # Guatemala
+  ANI_VICTORY_POINTS_10887: "Lahur" # Lahore
+  ANI_VICTORY_POINTS_10889: "Neu-Köslin" # Coatzacoalcos
+  ANI_VICTORY_POINTS_10895: "Masatlan" # Mazatlán
+  ANI_VICTORY_POINTS_10898: "Harappa" # Harappa
+  ANI_VICTORY_POINTS_10904: "Dubai" # Dubai
+  ANI_VICTORY_POINTS_10906: "Paramar" # Paramaribo
+  ANI_VICTORY_POINTS_10913: "Kerman" # Kerman
+  ANI_VICTORY_POINTS_10919: "Neuhafen" # Porto Novo
+  ANI_VICTORY_POINTS_10929: "Sallenburg" # Salisbury
+  ANI_VICTORY_POINTS_10933: "Natal" # Natal
+  ANI_VICTORY_POINTS_10934: "Manaus" # Manaus
+  ANI_VICTORY_POINTS_10946: "Salwador" # Salvador
+  ANI_VICTORY_POINTS_10953: "Rawson" # Rawson
+  ANI_VICTORY_POINTS_10964: "Mendoza" # Mendoza
+  ANI_VICTORY_POINTS_10966: "Neu-Lissabon" # Nova Lisboa
+  ANI_VICTORY_POINTS_10968: "Boma" # Boma
+  ANI_VICTORY_POINTS_10970: "Jurimagusa" # Yurimaguas
+  ANI_VICTORY_POINTS_10980: "Januarsfluss-Stadt" # Rio de Janeiro
+  ANI_VICTORY_POINTS_10999: "Vitoria" # Vitória
+  ANI_VICTORY_POINTS_11001: "Salta" # Salta
+  ANI_VICTORY_POINTS_11007: "Posadas" # Posadas
+  ANI_VICTORY_POINTS_11023: "Peter-Kaballero-Stadt" # Pedro Juan Caballero
+  ANI_VICTORY_POINTS_11050: "Tromsö" # Tromsø
+  ANI_VICTORY_POINTS_11061: "Kotlas" # Kotlas
+  ANI_VICTORY_POINTS_11064: "Strapa-Flut" # Scapa Flow
+  ANI_VICTORY_POINTS_11091: "Gäwle" # Gävle
+  ANI_VICTORY_POINTS_11105: "Helsingfors" # Helsinki
+  ANI_VICTORY_POINTS_11114: "Karlstadt" # Karlstad
+  ANI_VICTORY_POINTS_11125: "Tornea" # Tornio
+  ANI_VICTORY_POINTS_11127: "Wesenberg" # Rakvere
+  ANI_VICTORY_POINTS_11129: "Krangede" # Krångede
+  ANI_VICTORY_POINTS_11141: "Kuppio" # Kuopio
+  ANI_VICTORY_POINTS_11148: "Östersund" # Östersund
+  ANI_VICTORY_POINTS_11151: "Friedrichstadt" # Fredrikstad
+  ANI_VICTORY_POINTS_11153: "Unter-Swir-Wasserkraftwerk" # Lower Svir Hydroelectric Station
+  ANI_VICTORY_POINTS_11155: "Gälliware" # Gällivare
+  ANI_VICTORY_POINTS_11159: "Petrosawosk" # Petrozavodsk
+  ANI_VICTORY_POINTS_11160: "Christianstadt" # Kristianstad
+  ANI_VICTORY_POINTS_11164: "Kemi" # Kemi
+  ANI_VICTORY_POINTS_11202: "Pleskau" # Pskov
+  ANI_VICTORY_POINTS_11211: "Hanko" # Hanko
+  ANI_VICTORY_POINTS_11215: "Karlskrone" # Karlskrona
+  ANI_VICTORY_POINTS_11218: "Dunfress" # Dumfries
+  ANI_VICTORY_POINTS_11225: "Kuibischew" # Kuybyshev
+  ANI_VICTORY_POINTS_11234: "Welikei-Luki" # Velikiye Luki
+  ANI_VICTORY_POINTS_11237: "Wedrafjord" # Waterford
+  ANI_VICTORY_POINTS_11241: "Witebs" # Vitebsk
+  ANI_VICTORY_POINTS_11248: "Rjasan" # Ryazan
+  ANI_VICTORY_POINTS_11276: "Schwerin" # Schwerin
+  ANI_VICTORY_POINTS_11279: "Legerkaster" # Leicester
+  ANI_VICTORY_POINTS_11287: "Athlon" # Athlone
+  ANI_VICTORY_POINTS_11293: "Difflin" # Dublin
+  ANI_VICTORY_POINTS_11297: "Hul" # Hull
+  ANI_VICTORY_POINTS_11301: "Weißfluss" # Białystok
+  ANI_VICTORY_POINTS_11305: "Lübeck" # Lübeck
+  ANI_VICTORY_POINTS_11312: "Marienpol" # Marijampolė
+  ANI_VICTORY_POINTS_11313: "Salihorsk" # Salihorsk
+  ANI_VICTORY_POINTS_11332: "Kardol" # Carlisle
+  ANI_VICTORY_POINTS_11336: "Roslaul" # Roslavl
+  ANI_VICTORY_POINTS_11343: "Stolp" # Stolp
+  ANI_VICTORY_POINTS_11349: "Reschew" # Rzhev
+  ANI_VICTORY_POINTS_11350: "Brück" # Bridgetown
+  ANI_VICTORY_POINTS_11351: "Tambau" # Tambov
+  ANI_VICTORY_POINTS_11360: "Emden" # Emden
+  ANI_VICTORY_POINTS_11366: "Niebüll" # Niebüll
+  ANI_VICTORY_POINTS_11370: "Minsk" # Minsk
+  ANI_VICTORY_POINTS_11371: "Sligo" # Sligo
+  ANI_VICTORY_POINTS_11372: "Köslin" # Köslin
+  ANI_VICTORY_POINTS_11375: "Gorki" # Gorky
+  ANI_VICTORY_POINTS_11380: "Nordköpfing" # Norrköping
+  ANI_VICTORY_POINTS_11386: "Lück" # Lyck
+  ANI_VICTORY_POINTS_11388: "Münster" # Münster
+  ANI_VICTORY_POINTS_11399: "Lublin" # Lublin
+  ANI_VICTORY_POINTS_11401: "Reichenberg" # Liberec
+  ANI_VICTORY_POINTS_11405: "Saporoschje" # Zaporozhe
+  ANI_VICTORY_POINTS_11420: "Amien" # Amiens
+  ANI_VICTORY_POINTS_11430: "Kieltse" # Kielce
+  ANI_VICTORY_POINTS_11431: "Möhnestausee" # Möhne Reservoir
+  ANI_VICTORY_POINTS_11432: "Aussig" # Aussig
+  ANI_VICTORY_POINTS_11435: "Bitburg" # Bitburg
+  ANI_VICTORY_POINTS_11437: "Nieper-Petrowsk" # Dnipropetrovsk
+  ANI_VICTORY_POINTS_11448: "Labrang" # Labrang
+  ANI_VICTORY_POINTS_11465: "Nanten" # Nantes
+  ANI_VICTORY_POINTS_11467: "Gleiwitz" # Gleiwitz
+  ANI_VICTORY_POINTS_11476: "Millergau" # Millerovo
+  ANI_VICTORY_POINTS_11479: "Lemberg" # Lwów
+  ANI_VICTORY_POINTS_11483: "Lille" # Lille
+  ANI_VICTORY_POINTS_11499: "Ulm" # Ulm
+  ANI_VICTORY_POINTS_11504: "Poltawa" # Poltava
+  ANI_VICTORY_POINTS_11506: "Ost-Paris" # Paris-Est
+  ANI_VICTORY_POINTS_11516: "Nantsen" # Nancy
+  ANI_VICTORY_POINTS_11519: "Lüttich" # Liège
+  ANI_VICTORY_POINTS_11523: "Engels" # Engels
+  ANI_VICTORY_POINTS_11525: "wranau-Talsperre" # Vranov Dam
+  ANI_VICTORY_POINTS_11531: "Saarbrücken" # Saarbrücken
+  ANI_VICTORY_POINTS_11533: "Edertal-Dam" # Edersee Dam
+  ANI_VICTORY_POINTS_11537: "Uralsk" # Ural'sk
+  ANI_VICTORY_POINTS_11539: "Sillein" # Žilina
+  ANI_VICTORY_POINTS_11542: "Prag" # Prague
+  ANI_VICTORY_POINTS_11544: "Nürnberg" # Nuremberg
+  ANI_VICTORY_POINTS_11548: "Kalai" # Calais
+  ANI_VICTORY_POINTS_11560: "Mainz" # Mainz
+  ANI_VICTORY_POINTS_11561: "Kriwoi Rog" # Kryvyi Rih
+  ANI_VICTORY_POINTS_11562: "Maas-Tricht" # Maastricht
+  ANI_VICTORY_POINTS_11563: "Rauen" # Rouen
+  ANI_VICTORY_POINTS_11564: "Sankt Veit am Flaum" # Rijeka
+  ANI_VICTORY_POINTS_11581: "Agram" # Zagreb
+  ANI_VICTORY_POINTS_11584: "Venedig" # Venice
+  ANI_VICTORY_POINTS_11586: "Belgrad" # Belgrade
+  ANI_VICTORY_POINTS_11597: "Dobritsch" # Dobrich
+  ANI_VICTORY_POINTS_11598: "Bozen" # Bolzano
+  ANI_VICTORY_POINTS_11610: "Fünfkirchen" # Pécs
+  ANI_VICTORY_POINTS_11612: "Willach" # Villach
+  ANI_VICTORY_POINTS_11614: "Naltschik" # Nalchik
+  ANI_VICTORY_POINTS_11617: "Suchum" # Sukhumi
+  ANI_VICTORY_POINTS_11640: "Müllheim" # Müllheim
+  ANI_VICTORY_POINTS_11646: "Tschongrad" # Csongrád
+  ANI_VICTORY_POINTS_11654: "Büffelstadt" # Buffalo
+  ANI_VICTORY_POINTS_11659: "Debrezin" # Debrecen
+  ANI_VICTORY_POINTS_11666: "Wien" # Vienna
+  ANI_VICTORY_POINTS_11670: "Odessa" # Odessa
+  ANI_VICTORY_POINTS_11673: "Braga" # Braga
+  ANI_VICTORY_POINTS_11674: "Jelisawetpol" # Ganja
+  ANI_VICTORY_POINTS_11683: "Nikolajau" # Mykolaiv
+  ANI_VICTORY_POINTS_11691: "Ungwar" # Uzhhorod
+  ANI_VICTORY_POINTS_11696: "Stawopol" # Stavropol
+  ANI_VICTORY_POINTS_11707: "Owiedo" # Oviedo
+  ANI_VICTORY_POINTS_11724: "Elista" # Elista
+  ANI_VICTORY_POINTS_11746: "Adana" # Adana
+  ANI_VICTORY_POINTS_11747: "Angora" # Ankara
+  ANI_VICTORY_POINTS_11764: "Jinkau" # Yingkou
+  ANI_VICTORY_POINTS_11767: "Walona" # Vlorë
+  ANI_VICTORY_POINTS_11771: "Mukden" # Mukden
+  ANI_VICTORY_POINTS_11773: "Kagliar" # Cagliari
+  ANI_VICTORY_POINTS_11800: "Petersburg" # Pittsburgh
+  ANI_VICTORY_POINTS_11801: "Jehol" # Jehol
+  ANI_VICTORY_POINTS_11805: "Lissabon" # Lisbon
+  ANI_VICTORY_POINTS_11810: "Tarsus" # Tarsus
+  ANI_VICTORY_POINTS_11811: "Ismid" # İzmit
+  ANI_VICTORY_POINTS_11818: "Saloniki" # Thessaloniki
+  ANI_VICTORY_POINTS_11822: "Tungtschou" # Tongzhou
+  ANI_VICTORY_POINTS_11825: "Walladolid" # Valladolid
+  ANI_VICTORY_POINTS_11833: "Liworno" # Livorno
+  ANI_VICTORY_POINTS_11834: "Marsill" # Marseille
+  ANI_VICTORY_POINTS_11835: "Sinitschu" # Sinijiu
+  ANI_VICTORY_POINTS_11836: "Tunglau" # Tongliao
+  ANI_VICTORY_POINTS_11837: "Tarent" # Taranto
+  ANI_VICTORY_POINTS_11842: "Adrianopel" # Edirne
+  ANI_VICTORY_POINTS_11846: "Anzio" # Anzio
+  ANI_VICTORY_POINTS_11847: "Hachinohe" # Hachinohe
+  ANI_VICTORY_POINTS_11853: "Erserum" # Erzurum
+  ANI_VICTORY_POINTS_11857: "Leskowatz" # Leskovac
+  ANI_VICTORY_POINTS_11865: "Wanksien" # Wanxian
+  ANI_VICTORY_POINTS_11881: "Samsun" # Samsun
+  ANI_VICTORY_POINTS_11899: "Sarajewo" # Sarajevo
+  ANI_VICTORY_POINTS_11905: "Alexandropolis" # Alexandroupolis
+  ANI_VICTORY_POINTS_11908: "Takasaki" # Takasaki
+  ANI_VICTORY_POINTS_11913: "Nanking" # Nanjing
+  ANI_VICTORY_POINTS_11921: "Saffax" # Sfax
+  ANI_VICTORY_POINTS_11925: "Kumamoto" # Kumamoto
+  ANI_VICTORY_POINTS_11929: "Dacka" # Dacca
+  ANI_VICTORY_POINTS_11931: "Lojang" # Luoyang
+  ANI_VICTORY_POINTS_11932: "Naha" # Naha
+  ANI_VICTORY_POINTS_11934: "Bondo" # Bondo
+  ANI_VICTORY_POINTS_11946: "Fukujama" # Fukuyama
+  ANI_VICTORY_POINTS_11954: "Bengasi" # Bengasi
+  ANI_VICTORY_POINTS_11960: "Kioto" # Kyoto
+  ANI_VICTORY_POINTS_11964: "Damiette" # Damietta
+  ANI_VICTORY_POINTS_11965: "Kalamata" # Kalamáta
+  ANI_VICTORY_POINTS_11969: "Tunis" # Tunis
+  ANI_VICTORY_POINTS_11972: "Ipin" # Yibin
+  ANI_VICTORY_POINTS_11974: "Assiut" # Asyut
+  ANI_VICTORY_POINTS_11976: "Mahan" # Ma'an
+  ANI_VICTORY_POINTS_11977: "Taejon" # Daejeon
+  ANI_VICTORY_POINTS_11981: "Tschantschiang" # Zhanjiang
+  ANI_VICTORY_POINTS_11984: "Nikosia" # Nicosia
+  ANI_VICTORY_POINTS_11985: "Schimonoseki" # Shimonoseki
+  ANI_VICTORY_POINTS_11998: "Brindisi" # Brindisi
+  ANI_VICTORY_POINTS_11999: "Assuan" # Aswan
+  ANI_VICTORY_POINTS_12002: "Hurgada" # Hurghada
+  ANI_VICTORY_POINTS_12003: "Walletta" # Valletta
+  ANI_VICTORY_POINTS_12019: "Huidschou" # Huizhou
+  ANI_VICTORY_POINTS_12021: "Hilo" # Hilo
+  ANI_VICTORY_POINTS_12026: "Paoting" # Baoding
+  ANI_VICTORY_POINTS_12029: "Antiochia" # Antakya
+  ANI_VICTORY_POINTS_12031: "Himetschi" # Himeji
+  ANI_VICTORY_POINTS_12034: "Batna" # Batna
+  ANI_VICTORY_POINTS_12038: "Almeria" # Almería
+  ANI_VICTORY_POINTS_12044: "Sohag" # Sohag
+  ANI_VICTORY_POINTS_12046: "Falludscha" # Fallujah
+  ANI_VICTORY_POINTS_12049: "Saidhafen" # Port Said
+  ANI_VICTORY_POINTS_12051: "Konstantin" # Constantine
+  ANI_VICTORY_POINTS_12058: "Kania" # Chania
+  ANI_VICTORY_POINTS_12065: "Kaobang" # Cao Bang
+  ANI_VICTORY_POINTS_12068: "Takao" # Gaoxiong
+  ANI_VICTORY_POINTS_12071: "Luxor" # Luxor
+  ANI_VICTORY_POINTS_12077: "Maoming" # Maoming
+  ANI_VICTORY_POINTS_12087: "Tetuan" # Tétouan
+  ANI_VICTORY_POINTS_12089: "Taegu" # Daegu
+  ANI_VICTORY_POINTS_12090: "Achjab" # Akyab
+  ANI_VICTORY_POINTS_12097: "Hamamatsu" # Hamamatsu
+  ANI_VICTORY_POINTS_12100: "Melila" # Melilla
+  ANI_VICTORY_POINTS_12103: "Koror" # Koror
+  ANI_VICTORY_POINTS_12110: "Bandjermasin" # Banjarmasin
+  ANI_VICTORY_POINTS_12114: "Warangal" # Warangal
+  ANI_VICTORY_POINTS_12118: "Tschebu" # Cebu
+  ANI_VICTORY_POINTS_12120: "Willenhafen" # Port Vila
+  ANI_VICTORY_POINTS_12140: "Agana" # Hagatna
+  ANI_VICTORY_POINTS_12144: "Kangar" # Kangar
+  ANI_VICTORY_POINTS_12148: "Papett" # Pape'ete
+  ANI_VICTORY_POINTS_12149: "Kwebek" # Québec
+  ANI_VICTORY_POINTS_12154: "Madang" # Madang
+  ANI_VICTORY_POINTS_12189: "Kabarausk" # Khabarovsk
+  ANI_VICTORY_POINTS_12190: "Dili" # Dili
+  ANI_VICTORY_POINTS_12199: "Kuala Terengau" # Kuala Terengganu
+  ANI_VICTORY_POINTS_12204: "Phan Rang" # Pan Rang
+  ANI_VICTORY_POINTS_12206: "Pante Makassar" # Pante Macassar
+  ANI_VICTORY_POINTS_12212: "Djambi" # Jambi
+  ANI_VICTORY_POINTS_12213: "Aparri" # Aparri
+  ANI_VICTORY_POINTS_12215: "Dinding" # Dinding
+  ANI_VICTORY_POINTS_12223: "Sagunai" # Saguenay
+  ANI_VICTORY_POINTS_12224: "Tscha-Tschöngsau" # Chachoengsao
+  ANI_VICTORY_POINTS_12225: "Balikpapen" # Balikpapan
+  ANI_VICTORY_POINTS_12228: "Tawau" # Tawau
+  ANI_VICTORY_POINTS_12230: "Puket" # Phuket
+  ANI_VICTORY_POINTS_12234: "Waingpau" # Waingapu
+  ANI_VICTORY_POINTS_12237: "Lai" # Lae
+  ANI_VICTORY_POINTS_12240: "Wewak" # Wewak
+  ANI_VICTORY_POINTS_12248: "Kundus" # Kunduz
+  ANI_VICTORY_POINTS_12251: "Belarhafen" # Port Blair
+  ANI_VICTORY_POINTS_12262: "Puer" # Pu'er
+  ANI_VICTORY_POINTS_12283: "Sibu" # Sibu
+  ANI_VICTORY_POINTS_12295: "Kolapur" # Kolhapur
+  ANI_VICTORY_POINTS_12299: "Singapur" # Singapore
+  ANI_VICTORY_POINTS_12304: "Königsburg" # Kingston
+  ANI_VICTORY_POINTS_12306: "Neukwen" # Neuquén
+  ANI_VICTORY_POINTS_12319: "Lau-Kai" # Lào Cai
+  ANI_VICTORY_POINTS_12320: "Jerewan" # Yerevan
+  ANI_VICTORY_POINTS_12321: "Wiedma" # Viedma
+  ANI_VICTORY_POINTS_12331: "Pailingmiao" # Pailingmiao
+  ANI_VICTORY_POINTS_12333: "Aschkabad" # Ashkhabad
+  ANI_VICTORY_POINTS_12334: "Petropolis" # Petrópolis
+  ANI_VICTORY_POINTS_12338: "Darjeeling" # Darjeeling
+  ANI_VICTORY_POINTS_12350: "Hengjang" # Hengyang
+  ANI_VICTORY_POINTS_12356: "Wajaupu" # Wayaobu
+  ANI_VICTORY_POINTS_12357: "Milwauburg" # Milwaukee
+  ANI_VICTORY_POINTS_12360: "Utt-Tanni" # Udon Thani
+  ANI_VICTORY_POINTS_12364: "Gutenburg" # Buenos Aires
+  ANI_VICTORY_POINTS_12366: "Dispur" # Dispur
+  ANI_VICTORY_POINTS_12371: "Hollandia" # Hollandia
+  ANI_VICTORY_POINTS_12376: "Kereköse" # Qerekose
+  ANI_VICTORY_POINTS_12384: "Atlantika" # Atlanta
+  ANI_VICTORY_POINTS_12387: "Batmann" # Batman
+  ANI_VICTORY_POINTS_12406: "Sidnei" # Sydney
+  ANI_VICTORY_POINTS_12413: "Rumadia" # Rumadiyah
+  ANI_VICTORY_POINTS_12421: "Asaikawa" # Asahikawa
+  ANI_VICTORY_POINTS_12432: "Datong" # Datong
+  ANI_VICTORY_POINTS_12434: "Lankaran" # Lankaran
+  ANI_VICTORY_POINTS_12441: "Kumri" # Gyumri
+  ANI_VICTORY_POINTS_12446: "Tojohara" # Toyohara
+  ANI_VICTORY_POINTS_12448: "Erenhot" # Erenhot
+  ANI_VICTORY_POINTS_12459: "Bangor" # Bangor
+  ANI_VICTORY_POINTS_12461: "Tengau" # Tijuana
+  ANI_VICTORY_POINTS_12465: "Kiwa" # Khiva
+  ANI_VICTORY_POINTS_12467: "Hankau" # Hankow
+  ANI_VICTORY_POINTS_12468: "Salto" # Salto
+  ANI_VICTORY_POINTS_12473: "Aleppo" # Aleppo
+  ANI_VICTORY_POINTS_12476: "Hakkari" # Hakkâri
+  ANI_VICTORY_POINTS_12485: "Ulanhot" # Ulanhot
+  ANI_VICTORY_POINTS_12489: "Klein-Felsen" # Little Rock
+  ANI_VICTORY_POINTS_12501: "Nash-Stadt" # Nashville
+  ANI_VICTORY_POINTS_12505: "Sankt Johann" # St. John's
+  ANI_VICTORY_POINTS_12512: "Godthaab" # Nuuk
+  ANI_VICTORY_POINTS_12549: "Werkojansk" # Verkhoyansk
+  ANI_VICTORY_POINTS_12557: "Bajan-Tümen" # Bayan Tümen
+  ANI_VICTORY_POINTS_12583: "Frunse" # Frunze
+  ANI_VICTORY_POINTS_12586: "Omaha" # Omaha
+  ANI_VICTORY_POINTS_12589: "Kapstadt" # Cape Town
+  ANI_VICTORY_POINTS_12594: "Semipalatinsk" # Semipalatinsk
+  ANI_VICTORY_POINTS_12601: "Kuldja" # Yining
+  ANI_VICTORY_POINTS_12604: "Neu-Pleimünd" # New Plymouth
+  ANI_VICTORY_POINTS_12612: "Sainschand" # Sainshand
+  ANI_VICTORY_POINTS_12632: "Nelson" # Nelson
+  ANI_VICTORY_POINTS_12644: "Bargusin" # Barguzin
+  ANI_VICTORY_POINTS_12674: "Reykjarwik" # Reykjavik
+  ANI_VICTORY_POINTS_12683: "Magadan" # Magadan
+  ANI_VICTORY_POINTS_12690: "Tauran" # Tauran
+  ANI_VICTORY_POINTS_12702: "Dammheim" # Dammam
+  ANI_VICTORY_POINTS_12715: "Merida" # Mérida
+  ANI_VICTORY_POINTS_12723: "Bischia" # Biscia
+  ANI_VICTORY_POINTS_12724: "Bahan" # Ba'an
+  ANI_VICTORY_POINTS_12725: "Sudanhafen" # Port Sudan
+  ANI_VICTORY_POINTS_12726: "Nassirien" # Nasiriyah
+  ANI_VICTORY_POINTS_12727: "Riad" # Riyadh
+  ANI_VICTORY_POINTS_12732: "Sining" # Xining
+  ANI_VICTORY_POINTS_12735: "Beomingsheim" # Birmingham
+  ANI_VICTORY_POINTS_12736: "Patsen" # La Paz
+  ANI_VICTORY_POINTS_12738: "Managau" # Managua
+  ANI_VICTORY_POINTS_12746: "Wallartahafen" # Puerto Vallarta
+  ANI_VICTORY_POINTS_12754: "Dschammu" # Jammu
+  ANI_VICTORY_POINTS_12758: "Medina" # Medina
+  ANI_VICTORY_POINTS_12763: "Peschawar" # Peshawar
+  ANI_VICTORY_POINTS_12766: "Massaua" # Massaua
+  ANI_VICTORY_POINTS_12774: "Gwadar" # Gwadar
+  ANI_VICTORY_POINTS_12782: "Sankt Anton" # San Antonio
+  ANI_VICTORY_POINTS_12787: "Kumasi" # Kumasi
+  ANI_VICTORY_POINTS_12790: "Kartagen" # Cartagena
+  ANI_VICTORY_POINTS_12798: "Kwuito" # Quito
+  ANI_VICTORY_POINTS_12806: "Kartum" # Khartoum
+  ANI_VICTORY_POINTS_12810: "Werakrutz" # Veracruz
+  ANI_VICTORY_POINTS_12811: "Schwarzstein-Burg" # Piedras Negras
+  ANI_VICTORY_POINTS_12812: "Walwal" # Wal Wal
+  ANI_VICTORY_POINTS_12823: "Sankt Salvador" # San Salvador
+  ANI_VICTORY_POINTS_12824: "Gemena" # Gemena
+  ANI_VICTORY_POINTS_12830: "Bangui" # Bangui
+  ANI_VICTORY_POINTS_12831: "Dschalabad" # Jalalabad
+  ANI_VICTORY_POINTS_12832: "Buschehr" # Bushehr
+  ANI_VICTORY_POINTS_12835: "Monterei" # Monterrey
+  ANI_VICTORY_POINTS_12839: "Ramadi" # Ramadi
+  ANI_VICTORY_POINTS_12853: "Belehm" # Belém
+  ANI_VICTORY_POINTS_12857: "Sidifni" # Sidi Ifni
+  ANI_VICTORY_POINTS_12865: "Tegutschi-Galpa" # Tegucigalpa
+  ANI_VICTORY_POINTS_12879: "Samawa" # Samawah
+  ANI_VICTORY_POINTS_12883: "Dschidda" # Jeddah
+  ANI_VICTORY_POINTS_12885: "Kajenn" # Cayenne
+  ANI_VICTORY_POINTS_12891: "Bissau" # Bissau
+  ANI_VICTORY_POINTS_12901: "Ostburg" # Ciudad del Este
+  ANI_VICTORY_POINTS_12907: "Bauduin-Stadt" # Baudoinville
+  ANI_VICTORY_POINTS_12910: "Adelaid" # Adelaide
+  ANI_VICTORY_POINTS_12922: "Formosa" # Formosa
+  ANI_VICTORY_POINTS_12925: "Matadi" # Matadi
+  ANI_VICTORY_POINTS_12930: "Suchre" # Sucre
+  ANI_VICTORY_POINTS_12933: "Sankt Luis" # São Luís
+  ANI_VICTORY_POINTS_12939: "Welloshafen" # Porto Velho
+  ANI_VICTORY_POINTS_12941: "Kismaju" # Kismaayo
+  ANI_VICTORY_POINTS_12942: "Kordoba" # Córdoba
+  ANI_VICTORY_POINTS_12951: "Großlager-Stadt" # Campo Grande
+  ANI_VICTORY_POINTS_12960: "Stanlauhafen" # Port Stanley
+  ANI_VICTORY_POINTS_12964: "korrient" # Corrientes
+  ANI_VICTORY_POINTS_12975: "Longau" # Loango
+  ANI_VICTORY_POINTS_12978: "Ri-Oha" # La Rioja
+  ANI_VICTORY_POINTS_12984: "Konzeption" # Concepción
+  ANI_VICTORY_POINTS_12986: "Lilongau" # Lilongwe
+  ANI_VICTORY_POINTS_12987: "Gojana" # Goiânia
+  ANI_VICTORY_POINTS_12989: "Kampala" # Kampala
+  ANI_VICTORY_POINTS_12991: "Mogadischu" # Mogadiscio
+  ANI_VICTORY_POINTS_12997: "Lima" # Lima
+  ANI_VICTORY_POINTS_13003: "Torshafen" # Tórshavn
+  ANI_VICTORY_POINTS_13010: "Hammelheim" # Hamilton
+  ANI_VICTORY_POINTS_13011: "Reims" # Reims
+  ANI_VICTORY_POINTS_13014: "Praia" # Praia
+  ANI_VICTORY_POINTS_13021: "Tarawa" # Tarawa
+  ANI_VICTORY_POINTS_13025: "Iwojima" # Iwo Jima
+  ANI_VICTORY_POINTS_13028: "Japp" # Yap
+  ANI_VICTORY_POINTS_13038: "Nauru" # Nauru
+  ANI_VICTORY_POINTS_13041: "Kwajalein" # Kwajalein
+  ANI_VICTORY_POINTS_13046: "Einwetok" # Eniwetok
+  ANI_VICTORY_POINTS_13047: "Wachstadt" # Wake
+  ANI_VICTORY_POINTS_13052: "Mittenstadt" # Midway
+  ANI_VICTORY_POINTS_13063: "Anadir" # Anadyr
+  ANI_VICTORY_POINTS_13067: "Attu" # Attu
+  ANI_VICTORY_POINTS_13068: "Löwen" # Leuven
+  ANI_VICTORY_POINTS_13071: "Sankt Cruz von Teneriffa" # Santa Cruz de Tenerife
+  ANI_VICTORY_POINTS_13079: "El Gaida" # Al Ghaydah
+  ANI_VICTORY_POINTS_13080: "Pago Pago" # Pago Pago
+  ANI_VICTORY_POINTS_13086: "Takna" # Tacna
+  ANI_VICTORY_POINTS_13087: "Sankt Josef" # San Jose
+  ANI_VICTORY_POINTS_13089: "Garda-Lajara" # Guadalajara
+  ANI_VICTORY_POINTS_13090: "Unalaska" # Unalaska
+  ANI_VICTORY_POINTS_13091: "Ankerstadt" # Anchorage
+  ANI_VICTORY_POINTS_13150: "Hailar" # Hailar
+  ANI_VICTORY_POINTS_13204: "Laurenzien" # Lavrentiya
+  ANI_VICTORY_POINTS_13215: "Mexikali" # Mexicali
+  ANI_VICTORY_POINTS_13237: "Aksum" # Aksum
+  ANI_VICTORY_POINTS_13238: "Adwa" # Adwa
+  ANI_VICTORY_POINTS_13240: "Aussa" # Aussa
+  ANI_VICTORY_POINTS_13242: "Deber-Markus" # Debre Markos
+  ANI_VICTORY_POINTS_13243: "Saio" # Saio
+  ANI_VICTORY_POINTS_13244: "Gambella" # Gambella
+  ANI_VICTORY_POINTS_13246: "Irgalem" # Irgalem
+  ANI_VICTORY_POINTS_13247: "Mojale" # Moyale
+  ANI_VICTORY_POINTS_13249: "Hermannstadt" # Harar
+  ANI_VICTORY_POINTS_13250: "Asmara" # Asmara
+  ANI_VICTORY_POINTS_13255: "Durres" # Durrës
+  ANI_VICTORY_POINTS_13256: "Sirakuse" # Siracusa
+  ANI_VICTORY_POINTS_13257: "Rügen" # Rügen
+  ANI_VICTORY_POINTS_13258: "Sonderburg" # Sønderborg
+  ANI_VICTORY_POINTS_13278: "Brankenfluss" # Rio Branco
+  ANI_VICTORY_POINTS_13286: "Puno" # Puno
+  ANI_VICTORY_POINTS_13288: "Mollend" # Mollendo
+  ANI_VICTORY_POINTS_13289: "Ikwitos" # Iquitos
+  ANI_VICTORY_POINTS_13294: "Hangau" # Hanga Roa
+  ANI_VICTORY_POINTS_13300: "Uschei" # Ushuaia
+  ANI_VICTORY_POINTS_13307: "Madreinhafen" # Puerto Madryn
+  ANI_VICTORY_POINTS_13309: "Katamarka" # Catamarca
+  ANI_VICTORY_POINTS_13313: "Manama" # Manama
+  ANI_VICTORY_POINTS_13363: "Kitega" # Kitega
+  ANI_VICTORY_POINTS_13364: "Miautsa" # Nyanza
+  ANI_VICTORY_POINTS_13365: "Numba" # Nkamba
+  ANI_VICTORY_POINTS_13369: "Kasab" # Khasab
+  ANI_VICTORY_POINTS_13376: "Jobaru" # Johor Bahru
+  ANI_VICTORY_POINTS_13378: "Limbang" # Limbang
+  ANI_VICTORY_POINTS_13386: "Denpasar" # Denpasar
+  ANI_VICTORY_POINTS_13387: "Matarahm" # Mataram
+  ANI_VICTORY_POINTS_13391: "Biema" # Bima
+  ANI_VICTORY_POINTS_13398: "Banda-Atsch" # Banda Aceh
+  ANI_VICTORY_POINTS_13403: "Surabaja" # Surabaya
+  ANI_VICTORY_POINTS_13404: "Parkassenstadt" # Purwokerto
+  ANI_VICTORY_POINTS_13405: "Semarang" # Semarang
+  ANI_VICTORY_POINTS_13406: "Dschok-Jakarta" # Yogyakarta
+  ANI_VICTORY_POINTS_13407: "Surakarta" # Surakarta
+  ANI_VICTORY_POINTS_13408: "Seberang" # Seberang Perai
+  ANI_VICTORY_POINTS_13412: "Safotu-Lafai" # Safotulafai
+  ANI_VICTORY_POINTS_13413: "Ostia" # Ostia
 
-  ANI_VICTORY_POINTS_707: "Berchtesgaden"
-  ANI_VICTORY_POINTS_11829: "Chrysopolis"
-  ANI_VICTORY_POINTS_9523: "West-Paris"
+  ANI_VICTORY_POINTS_707: "Berchtesgaden" # Berchtesgaden
+  ANI_VICTORY_POINTS_11829: "Chrisopolis" # Chrysopolis
+  ANI_VICTORY_POINTS_9523: "West-Paris" # Paris-Ouest

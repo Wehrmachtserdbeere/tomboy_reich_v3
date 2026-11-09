@@ -11,9 +11,7 @@ state = {
 	} #Maganese
 
 	history = {
-
-		owner = ANI
-		add_core_of = ANI
+		owner = ENG
 
 		victory_points = {
 			10862 2 # Accra 

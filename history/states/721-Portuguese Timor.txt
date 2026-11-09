@@ -6,9 +6,8 @@ state = {
 	state_category = pastoral
 
 	history = {
-
-		owner = ANI
-		add_core_of = ANI
+		owner = POR
+		add_core_of = POR
 
 		victory_points = {
 			12190 2 # Dili

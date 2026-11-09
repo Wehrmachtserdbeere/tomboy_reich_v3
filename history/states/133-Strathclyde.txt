@@ -12,8 +12,9 @@ state={
 	}
 
 	history={
-		add_core_of = ANI
-		owner = ANI
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = OJO
 		victory_points = {
 			3273 15
 		}
@@ -30,13 +31,6 @@ state={
 				naval_base = 2
 			}
 
-		}
-		add_core_of = ANI
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
 		}
 	}
 

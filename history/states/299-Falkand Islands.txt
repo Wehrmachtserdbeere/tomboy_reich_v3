@@ -6,8 +6,7 @@ state = {
 	state_category = enclave
 	
 	history = {
-
-		owner = ANI
+		owner = ENG
 		add_claim_by = ARG
 
 		buildings = {
