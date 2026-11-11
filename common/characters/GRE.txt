@@ -1,0 +1,132 @@
+characters = {
+	
+	# Died on January 29th, 1941
+	GRE_LEADER_IOANNIS_METAXAS = {
+		name = GRE_LEADER_IOANNIS_METAXAS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_ultranationalism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_IOANNIS_METAXAS_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# Georgios Tsolakoglou
+	GRE_LEADER_GEORGIOS_TSOLAKOGLOU = {
+		name = GRE_LEADER_GEORGIOS_TSOLAKOGLOU_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_GEORGIOS_TSOLAKOGLOU_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	GRE_LEADER_NIKOS_ZACHARIADIS = {
+		name = GRE_LEADER_NIKOS_ZACHARIADIS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_NIKOS_ZACHARIADIS_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	GRE_LEADER_THEMISTOKLIS_SOFOULIS = {
+		name = GRE_LEADER_THEMISTOKLIS_SOFOULIS_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = free_conservatism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_THEMISTOKLIS_SOFOULIS_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	GRE_LEADER_GEORGE_II = {
+		name = GRE_LEADER_GEORGE_II_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_GEORGE_II_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# Varangian Guard Girl / Hrafnhildr (Ravenhild)
+	GRE_LEADER_HRAFNHILDR = {
+		name = GRE_LEADER_HRAFNHILDR_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_ultranationalism
+			traits = {
+				
+			}
+			desc = GRE_LEADER_HRAFNHILDR_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}

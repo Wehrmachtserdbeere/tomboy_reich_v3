@@ -11,7 +11,9 @@ state={
 	}
 
 	history={
-		owner = ANI
+		owner = GRE
+		add_core_of = GRE
+		add_claim_by = TUR
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
@@ -28,7 +30,6 @@ state={
 		victory_points = {
 			8435 1
 		}
-		add_core_of = ANI
 	}
 
 	provinces={

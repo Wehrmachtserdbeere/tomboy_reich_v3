@@ -10,7 +10,9 @@ state= {
 	state_category = town
 
 	history= {
-		owner = ANI
+		owner = GRE
+		add_core_of = GRE
+		add_claim_by = TUR
 		victory_points = {
 			11842 5
 		}
@@ -22,7 +24,6 @@ state= {
 				coastal_bunker = 2
 			}
 		}
-		add_core_of = ANI
 	}
 	provinces=
 	{

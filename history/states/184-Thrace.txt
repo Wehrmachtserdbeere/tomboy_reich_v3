@@ -11,8 +11,9 @@ state={
 	}
 
 	history={
-		owner = ANI
-		add_core_of = ANI
+		owner = GRE
+		add_core_of = GRE
+		add_claim_by = TUR
 		add_claim_by = BUL
 		victory_points = {
 			11905 1 

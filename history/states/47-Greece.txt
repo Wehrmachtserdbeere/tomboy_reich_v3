@@ -13,7 +13,9 @@ state={
 	state_category = city
 
 	history={
-		owner = ANI
+		owner = GRE
+		add_core_of = GRE
+		add_claim_by = TUR
 		victory_points = {
 			4109 20 
 		}
@@ -46,7 +48,6 @@ state={
 			}
 
 		}
-		add_core_of = ANI
 
 	}
 

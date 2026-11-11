@@ -13,10 +13,10 @@ state={
 	state_category = pastoral
 
 	history= {
-		owner = ANI
-		add_core_of = ANI
-		add_core_of = ALB
+		owner = GRE
 		add_core_of = GRE
+		add_claim_by = TUR
+		add_core_of = ALB
 		victory_points = {
 			914 1
 		}

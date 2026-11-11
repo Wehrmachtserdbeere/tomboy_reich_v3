@@ -2,7 +2,7 @@
   democratic: "Democratic"
   democratic_desc: "Democratic State"
   free_conservatism: "Free Conservatism"
-  free_conservatism_desc: "Aiming for a stable society, the Free Conservatives favor reasonably modern values and quasi-conservative policies."
+  free_conservatism_desc: "Aiming for a stable society, free conservatism favors reasonably modern values and quasi-conservative policies."
   traditionalism: "Traditionalism"
   traditionalism_desc: "Traditionalism is a political ideology that emphasizes returning to past cultural traditions and values under the belief that they are superior to modern ones. It often supports conservative social norms and opposes change."
   liberalism: "Liberalism"
@@ -11,7 +11,7 @@
   democratic_socialism_desc: "Democratic Socialism combines elements of socialism with a commitment to liberal values such as individual freedom and democracy. It aims for a society where both private enterprise and public ownership play important roles, with an emphasis on social justice and equality."
 
   communism: "Communism"
-  communism_desc: "Totalitarian Regime"
+  communism_desc: "Communist Regime"
   third_worldism: "Third Worldism"
   third_worldism_desc: "Refusing to align with either pro or anti-anime reactionism, Third Worldism is a general term for numerous non-aligned Communist regimes all around the world."
   marxism: "Marxism"
@@ -22,7 +22,7 @@
   anarcho_communism_desc: "Anarcho-Communism is an ideology that emphasizes the abolition of private property, the state, and social hierarchy. It advocates for a society where people live in self-managed communities and work together in local, often self-sufficient cooperatives."
 
   pro_anime_reactionism: "Pro-Anime Reactionism"
-  pro_anime_reactionism_desc: "Pro-Anime Regime"
+  pro_anime_reactionism_desc: "Anime Regime"
   pa_nazism: "Pro-Anime National Socialism"
   pa_nazism_desc: "Pro-Anime National Socialism is an ideology that emphasizes the importance of anime people and their role in shaping national identity. It advocates for a society where anime people are valued and respected, and where anime culture plays a central role in national life. In comparison to the fictional \"Hitlerian\" National Socialism, Pro-Anime National Socialism is more focused on the cultural aspects of anime and the sub-race of the anime peoples rather than a subset of the White race."
   pa_fascism: "Pro-Anime Fascism"
@@ -36,7 +36,7 @@
   pa_accelerationism_desc: "Aiming for the radical transformation of society through violent or even terroristic means, Pro-Anime Accelerationism is a pro-Anime ideology that seeks to brutally accelerate society to its end, in order to shape a new world from its ashes."
 
   anti_anime_reactionism: "Anti-Anime Reactionism"
-  anti_anime_reactionism_desc: "Anti-Anime Regime"
+  anti_anime_reactionism_desc: "Human Supremacist Regime"
   aa_nazism: "Anti-Anime National Socialism"
   aa_nazism_desc: "Anti-Anime National Socialism is an ideology that emphasizes the importance of national identity and cultural heritage, while also rejecting or outright fighting the influence and existence of anime people in society."
   aa_fascism: "Anti-Anime Fascism"

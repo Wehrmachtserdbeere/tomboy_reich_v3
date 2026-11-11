@@ -10,7 +10,9 @@ state={
 	state_category = town
 
 	history={
-		owner = ANI
+		owner = GRE
+		add_core_of = GRE
+		add_core_of = TUR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -23,7 +25,6 @@ state={
 		victory_points = {
 			9799 5
 		}
-		add_core_of = ANI
 	}
 
 	provinces={

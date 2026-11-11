@@ -15,3 +15,77 @@ DEBUG_DECISION_CATEGORIES_ukraine = {
 	}
 
 }
+
+DEBUG_DECISIONS_CATEGORIES_generic = {
+
+	DEBUG_DECISION_CATEGORIES_set_ruling_party_democratic = {
+		icon = generic_political_actions
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			set_politics = {
+				ruling_party = democratic
+			}
+		}
+	}
+	
+	DEBUG_DECISION_CATEGORIES_set_ruling_party_communism = {
+		icon = generic_political_actions
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			set_politics = {
+				ruling_party = communism
+			}
+		}
+	}
+	
+	DEBUG_DECISION_CATEGORIES_set_ruling_party_neutrality = {
+		icon = generic_political_actions
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			set_politics = {
+				ruling_party = neutrality
+			}
+		}
+	}
+	
+	DEBUG_DECISION_CATEGORIES_set_ruling_party_pro_anime_reactionism = {
+		icon = generic_political_actions
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			set_politics = {
+				ruling_party = pro_anime_reactionism
+			}
+		}
+	}
+	
+	DEBUG_DECISION_CATEGORIES_set_ruling_party_anti_anime_reactionism = {
+		icon = generic_political_actions
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			set_politics = {
+				ruling_party = anti_anime_reactionism
+			}
+		}
+	}
+
+}

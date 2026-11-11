@@ -12,3 +12,8 @@ UKR_GOT = {
 	color = rgb { 255  255  95 }
 	color_ui = rgb { 255  255  95 }
 }
+
+GRE_BYZ = {
+	color = rgb { 255 0 240 }
+	color_ui = rgb { 255 0 240 }
+}
