@@ -88,4 +88,16 @@ DEBUG_DECISIONS_CATEGORIES_generic = {
 		}
 	}
 
+	DEBUG_DECISION_CATEGORIES_ceu_victoria = {
+		icon = generate_wargoal_tension
+
+		allowed = {
+			always = yes
+		}
+
+		complete_effect = {
+			promote_character = CEU_LEADER_VIKTORIA
+		}
+	}
+
 }

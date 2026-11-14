@@ -1,10 +1,10 @@
 ﻿l_english:
   TBR_IDEA_COUNTRY_anime_people: "Anime Population"
-  TBR_IDEA_COUNTRY_anime_people_desc: "§CHomo Nihonensis§!\n[THIS.GetNameDefCap] has a majority Anime population."
+  TBR_IDEA_COUNTRY_anime_people_desc: "§CHomo Nihonensis§!\nThis nation has a majority Anime population."
   TBR_IDEA_COUNTRY_human_people: "Human Population"
-  TBR_IDEA_COUNTRY_human_people_desc: "§CHomo Sapiens§!\n[THIS.GetNameDefCap] has a majority Human population."
+  TBR_IDEA_COUNTRY_human_people_desc: "§CHomo Sapiens§!\nThis nation has a majority Human population."
   TBR_IDEA_COUNTRY_mixed_people: "Mixed Anime-Human Population"
-  TBR_IDEA_COUNTRY_mixed_people_desc: "§CHomo Sapiens§! and §CHomo Nihonensis§! share their country with each other, mostly peacefully."
+  TBR_IDEA_COUNTRY_mixed_people_desc: "§CHomo Sapiens§! and §CHomo Nihonensis§! share this nation with each other, mostly peacefully."
   TBR_IDEA_COUNTRY_fought_in_anime_war: "Anime War Participant"
   TBR_IDEA_COUNTRY_fought_in_anime_war_desc: "The Anime War was bloody and our people are tired and exhausted. They don't want any more wars. This weary disposition weighs heavy on us all."
 

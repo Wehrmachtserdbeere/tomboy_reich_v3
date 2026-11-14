@@ -1,0 +1,65 @@
+#
+# Strategies placed here are checked continuously throughout the game.
+#
+
+# Strategy name.
+CEU_befriend_pro_anime_reactionism = {
+
+	# "reversed = yes" flips who is who.
+	#   Normal strategy:   the country that RECEIVES the strategy is the one
+	#                      checked by "enable", and "id" is the target.
+	#   Reversed strategy: the country in "id" (here CEU) is the one that
+	#                      gets the behaviour, and "enable" is checked on
+	#                      every OTHER country to decide who the targets are.
+	# This is what lets one block cover every matching country without
+	# writing one block per target.
+	reversed = yes
+
+	# GATE FOR THE HOLDER (gets the ai_strategy).
+	# If this is false, the whole strategy does nothing.
+	# Here: CEU only does this while its leader has the tomboy kaiserin trait.
+	# This CANNOT be left empty. Because this is always active.
+	#   Add the various requirements in the enable_reverse.
+	enable_reverse = {
+		CEU = {
+			has_country_leader_with_trait = CEU_TRAITS_tomboy_kaiserin
+		}
+	}
+
+	# GATE FOR THE TARGETS.
+	# The game runs this once per country in the world. Inside this block,
+	# the scope is the CANDIDATE country, not the ai_strategy getter.
+	# Every country that passes becomes someone the ai_strategy getter wants to befriend.
+	enable = {
+		# Don't target the ai_strategy getter itself.
+		# original_tag keeps working even if the ai_strategy getter's tag was changed
+		# (e.g. by a civil war or release).
+		NOT = {
+			original_tag = CEU
+		}
+		# The actual condition: the candidate must have this ideology.
+		# Replace with any country trigger to change who gets targeted.
+		has_government = pro_anime_reactionism
+	}
+
+	# STOP CONDITION, checked on each target.
+	# If it becomes true, the ai_strategy getter stops befriending that country.
+	# This handles a country changing ideology mid-game.
+	abort = {
+		NOT = {
+			has_government = pro_anime_reactionism
+		}
+	}
+
+	# THE ACTUAL BEHAVIOUR.
+	#   type  = what the AI tries to do (befriend, alliance, support,
+	#           protect, antagonize, ...).
+	#   id    = in a reversed strategy, the HOLDER's tag (the ai_strategy getter),
+	#           not the target.
+	#   value = weight. Higher means a stronger desire, negative means avoid.
+	ai_strategy = {
+		type = befriend
+		id = CEU
+		value = 50
+	}
+}

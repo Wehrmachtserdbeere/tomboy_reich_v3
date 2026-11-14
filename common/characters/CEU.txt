@@ -128,7 +128,7 @@ characters = {
 		country_leader = {
 			ideology = pa_anime_supremacy
 			traits = {
-				TBR_TRAITS_tomboy_kaiserin
+				CEU_TRAITS_tomboy_kaiserin
 			}
 			desc = CEU_LEADER_VIKTORIA_DESC
 		}

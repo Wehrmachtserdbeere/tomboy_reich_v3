@@ -7,23 +7,18 @@ state = {
 	state_category = rural
 
 	history = {
+		owner = BLR
+		add_core_of = BLR
+		add_core_of = RUS
+		add_core_of = SOV
 
 		victory_points = {
 			3350 3
 		}
 
-		#victory_points = {
-		#	11313 1 # Salihorsk was not founded until 1958 earliest
-		#}
-
-		owner = ANI
-
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
-
-		add_core_of = ANI
-		add_core_of = ANI
 	}
 
 	provinces = {

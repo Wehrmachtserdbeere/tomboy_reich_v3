@@ -1,0 +1,196 @@
+characters = {
+	
+	BLR_LEADER_FABIAN_AKINCYC = {
+		name = BLR_LEADER_FABIAN_AKINCYC_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_nazism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_FABIAN_AKINCYC_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# If Fabian gets killed, this guy goes next. Depends on how we develop BLR.
+	BLR_LEADERS_KONSTANTY_YUSHNEVICH = {
+		name = BLR_LEADERS_KONSTANTY_YUSHNEVICH_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = aa_accelerationism
+			traits = {
+				
+			}
+			desc = BLR_LEADERS_KONSTANTY_YUSHNEVICH_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	BLR_LEADER_NIKOLAI_GIKALO = {
+		name = BLR_LEADER_NIKOLAI_GIKALO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_NIKOLAI_GIKALO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# OC Monarchist guy
+	BLR_LEADER_MAKAR_LYSENKO = {
+		name = BLR_LEADER_MAKAR_LYSENKO_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = despotism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_MAKAR_LYSENKO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	# Died 12 October 1938
+	BLR_LEADER_KIRILL_VLADIMIROVICH = {
+		name = BLR_LEADER_KIRILL_VLADIMIROVICH_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			expire = 1938.10.12
+			desc = BLR_LEADER_KIRILL_VLADIMIROVICH_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	BLR_LEADER_VLADIMIR_KIRILLOVICH = {
+		name = BLR_LEADER_VLADIMIR_KIRILLOVICH_NAME
+		gender = male
+		
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = monarchism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_VLADIMIR_KIRILLOVICH_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	BLR_LEADER_JANKA_PAZNIAK = {
+		name = BLR_LEADER_JANKA_PAZNIAK_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_JANKA_PAZNIAK_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	BLR_LEADER_ADAM_STANKIEWICZ = {
+		name = BLR_LEADER_ADAM_STANKIEWICZ_NAME
+		gender = male
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = traditionalism
+			traits = {
+				
+			}
+			desc = BLR_LEADER_ADAM_STANKIEWICZ_DESC
+		}
+
+		can_be_captured = no
+	}
+
+	BLR_LEADER_HOLO = {
+		name = BLR_LEADER_HOLO_NAME
+		gender = female
+
+		portraits = {
+			civilian = {
+				large = "tbd"
+			}
+		}
+
+		country_leader = {
+			ideology = pa_anime_supremacy
+			traits = {
+				BLR_TRAIT_wise_wolf
+			}
+			desc = BLR_LEADER_HOLO_DESC
+		}
+
+		can_be_captured = no
+	}
+
+}
